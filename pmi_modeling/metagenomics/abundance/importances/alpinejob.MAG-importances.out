@@ -1,0 +1,243 @@
+slurmstepd: error: Unable to create TMPDIR [/scratch/summit/zburcham@colostate.edu/tmp]: No such file or directory
+slurmstepd: error: Setting TMPDIR to /tmp
+/projects/zburcham@colostate.edu/miniconda3/envs/ml_pmi/lib/python3.6/site-packages/sklearn/utils/validation.py:72: FutureWarning: Pass n_repeats=1, random_state=None as keyword args. From version 1.0 (renaming of 0.25) passing these as positional arguments will result in an error
+  "will result in an error", FutureWarning)
+/projects/zburcham@colostate.edu/miniconda3/envs/ml_pmi/lib/python3.6/site-packages/sklearn/utils/validation.py:72: FutureWarning: Pass n_splits=3, n_repeats=1 as keyword args. From version 1.0 (renaming of 0.25) passing these as positional arguments will result in an error
+  "will result in an error", FutureWarning)
+2023-01-19 11:45:36 WARNING These have metadata but do not have data - dropped: {'BLANK_2C_S2228_L006', 'BLANK_4H_S2249_L006', 'BLANK_3E_S2238_L006', 'BLANK_6E_S2262_L006', 'BLANK_12E_S2214_L006', 'BLANK_7C_S2268_L006', 'BLANK_8F_S2279_L006', 'BLANK_2F_S2231_L006', 'BLANK_4G_S2248_L006', 'BLANK_10B_S2195_L006', 'BLANK_12G_S2216_L006', 'BLANK_5C_S2252_L006', 'BLANK_1F_S2223_L006', 'BLANK_11F_S2207_L006', 'BLANK1_24N_11489_S1626_L003', 'BLANK_2B_S2227_L006', 'BLANK_5E_S2254_L006', 'BLANK_10A_S2194_L006', 'BLANK_11E_S2206_L006', 'BLANK_11H_S2209_L006', 'BLANK_9F_S2287_L006', 'BLANK_10E_S2198_L006', 'BLANK_7H_S2273_L006', 'BLANK_10C_S2196_L006', 'BLANK_12F_S2215_L006', 'BLANK_7A_S2266_L006', '45741_S2109_L003', 'BLANK_9H_S2289_L006', 'NTC_5_55_S2203_L003', '25678_S1349_L003', 'BLANK_2E_S2230_L006', 'BLANK_6G_S2264_L006', '25929_S1315_L003', '43750_S1406_L003', 'NTC_5_56_S2299_L003', 'BLANK_9A_S2282_L006', 'BLANK_11B_S2203_L006', 'BLANK_4A_S2242_L006', 'BLANK_6D_S2261_L006', 'NTC_1_56_S2255_L003', '#q2:types', 'BLANK_8B_S2275_L006', 'BLANK_7B_S2267_L006', 'BLANK_4C_S2244_L006', 'NTC_2_55_S2294_L006', 'BLANK_11G_S2208_L006', 'BLANK_2D_S2229_L006', 'BLANK_3G_S2240_L006', 'BLANK_5D_S2253_L006', 'NTC_4_55_S2195_L003', 'BLANK_5F_S2255_L006', 'BLANK_3D_S2237_L006', 'BLANK_3F_S2239_L006', 'BLANK_12C_S2212_L006', 'NTC_5_54_S2107_L003', 'BLANK_4B_S2243_L006', 'NTC_2_54_S2022_L003', 'BLANK_8E_S2278_L006', 'BLANK_11C_S2204_L006', 'BLANK_8D_S2277_L006', 'BLANK_11D_S2205_L006', 'BLANK_12D_S2213_L006', 'BLANK_12H_S2217_L006', 'BLANK_9C_S2284_L006', 'NTC_4_56_S2291_L003', 'BLANK_9E_S2286_L006', 'BLANK_5H_S2257_L006', 'BLANK_8G_S2280_L006', 'BLANK_6A_S2258_L006', 'BLANK_1D_S2221_L006', 'BLANK_6B_S2259_L006', 'BLANK_1B_S2219_L006', 'NTC_1_55_S2291_L006', 'BLANK_4F_S2247_L006', 'BLANK_7E_S2270_L006', 'BLANK_1H_S2225_L006', 'NTC_4_54_S2099_L003', 'BLANK_2G_S2232_L006', '25858_S1345_L003', 'BLANK_7F_S2271_L006', 'NTC_1_54_S2290_L006', 'BLANK_5A_S2250_L006', 'BLANK_9B_S2283_L006', 'BLANK1_24P_11489_S1627_L003', 'BLANK_7D_S2269_L006', 'BLANK1_24F_11489_S1622_L003', 'BLANK_4E_S2246_L006', 'BLANK1_24L_11489_S1625_L003', 'BLANK_10G_S2200_L006', 'BLANK_8C_S2276_L006', 'BLANK_5G_S2256_L006', 'BLANK_6F_S2263_L006', 'BLANK_10H_S2201_L006', 'BLANK_8H_S2281_L006', 'BLANK_7G_S2272_L006', 'NTC_3_54_S2106_L003', 'NTC_3_55_S2202_L003', 'BLANK_2A_S2226_L006', 'BLANK_12A_S2210_L006', 'BLANK_6C_S2260_L006', 'BLANK_3B_S2235_L006', 'BLANK_1G_S2224_L006', 'NTC_2_56_S2248_L003', 'BLANK1_24J_11489_S1624_L003', 'BLANK_3C_S2236_L006', 'BLANK_12B_S2211_L006', 'BLANK_8A_S2274_L006', 'BLANK_1A_S2218_L006', 'BLANK_4D_S2245_L006', 'BLANK_3A_S2234_L006', 'BLANK1_24H_11489_S1623_L003', 'BLANK_1C_S2220_L006', 'BLANK_10F_S2199_L006', 'BLANK_10D_S2197_L006', 'BLANK_3H_S2241_L006', 'BLANK_9G_S2288_L006', '25391_S1312_L003', 'BLANK_9D_S2285_L006', 'BLANK_1E_S2222_L006', 'BLANK_6H_S2265_L006', 'NTC_3_56_S2298_L003', 'BLANK_2H_S2233_L006', 'BLANK_5B_S2251_L006', 'BLANK_11A_S2202_L006'}
+Number of samples:  569
+Number of bodies:  36
+Number of features:  260
+Number of outer folds to perform:  36
+Outer fold: 1
+Number of inner folds: 35
+Best params: {'bootstrap': False, 'max_depth': None, 'max_features': 0.2}
+Best CV score (MAE): 57.56893175708015
+Prediction score (MAE): 52.690652778397606
+*****
+Outer fold: 2
+Number of inner folds: 35
+Best params: {'bootstrap': False, 'max_depth': None, 'max_features': 0.2}
+Best CV score (MAE): 58.070528899631164
+Prediction score (MAE): 42.795326667402044
+*****
+Outer fold: 3
+Number of inner folds: 35
+Best params: {'bootstrap': False, 'max_depth': None, 'max_features': 0.2}
+Best CV score (MAE): 57.35481995292597
+Prediction score (MAE): 91.56817516296606
+*****
+Outer fold: 4
+Number of inner folds: 35
+Best params: {'bootstrap': True, 'max_depth': None, 'max_features': 'auto'}
+Best CV score (MAE): 55.90267445446581
+Prediction score (MAE): 82.39901196558611
+*****
+Outer fold: 5
+Number of inner folds: 35
+Best params: {'bootstrap': True, 'max_depth': None, 'max_features': 'auto'}
+Best CV score (MAE): 57.48138028499189
+Prediction score (MAE): 116.5113619743084
+*****
+Outer fold: 6
+Number of inner folds: 35
+Best params: {'bootstrap': False, 'max_depth': None, 'max_features': 0.2}
+Best CV score (MAE): 58.103148405920734
+Prediction score (MAE): 60.546650426004376
+*****
+Outer fold: 7
+Number of inner folds: 35
+Best params: {'bootstrap': False, 'max_depth': None, 'max_features': 0.2}
+Best CV score (MAE): 57.99365222032454
+Prediction score (MAE): 41.68517350378144
+*****
+Outer fold: 8
+Number of inner folds: 35
+Best params: {'bootstrap': False, 'max_depth': None, 'max_features': 0.2}
+Best CV score (MAE): 57.32990595196357
+Prediction score (MAE): 70.21618758060933
+*****
+Outer fold: 9
+Number of inner folds: 35
+Best params: {'bootstrap': False, 'max_depth': None, 'max_features': 0.2}
+Best CV score (MAE): 55.85273129497246
+Prediction score (MAE): 90.78880694254761
+*****
+Outer fold: 10
+Number of inner folds: 35
+Best params: {'bootstrap': False, 'max_depth': None, 'max_features': 0.2}
+Best CV score (MAE): 56.05389838203359
+Prediction score (MAE): 114.56416878579337
+*****
+Outer fold: 11
+Number of inner folds: 35
+Best params: {'bootstrap': False, 'max_depth': None, 'max_features': 0.2}
+Best CV score (MAE): 57.62665862175788
+Prediction score (MAE): 43.74330588231062
+*****
+Outer fold: 12
+Number of inner folds: 35
+Best params: {'bootstrap': False, 'max_depth': None, 'max_features': 0.2}
+Best CV score (MAE): 57.967698871575536
+Prediction score (MAE): 29.24069532084216
+*****
+Outer fold: 13
+Number of inner folds: 35
+Best params: {'bootstrap': False, 'max_depth': None, 'max_features': 0.2}
+Best CV score (MAE): 57.44522170384768
+Prediction score (MAE): 51.141764584096315
+*****
+Outer fold: 14
+Number of inner folds: 35
+Best params: {'bootstrap': False, 'max_depth': None, 'max_features': 0.2}
+Best CV score (MAE): 57.300134835365306
+Prediction score (MAE): 62.804671103671964
+*****
+Outer fold: 15
+Number of inner folds: 35
+Best params: {'bootstrap': False, 'max_depth': None, 'max_features': 0.2}
+Best CV score (MAE): 59.0498474156895
+Prediction score (MAE): 28.141315019706994
+*****
+Outer fold: 16
+Number of inner folds: 35
+Best params: {'bootstrap': True, 'max_depth': None, 'max_features': 'auto'}
+Best CV score (MAE): 58.44398982462709
+Prediction score (MAE): 30.572429628467958
+*****
+Outer fold: 17
+Number of inner folds: 35
+Best params: {'bootstrap': False, 'max_depth': None, 'max_features': 0.2}
+Best CV score (MAE): 58.51236163776726
+Prediction score (MAE): 26.030814583030054
+*****
+Outer fold: 18
+Number of inner folds: 35
+Best params: {'bootstrap': True, 'max_depth': None, 'max_features': 'auto'}
+Best CV score (MAE): 57.97607063916377
+Prediction score (MAE): 44.17179814822223
+*****
+Outer fold: 19
+Number of inner folds: 35
+Best params: {'bootstrap': True, 'max_depth': None, 'max_features': 'auto'}
+Best CV score (MAE): 57.812496324238396
+Prediction score (MAE): 54.472393333
+*****
+Outer fold: 20
+Number of inner folds: 35
+Best params: {'bootstrap': False, 'max_depth': None, 'max_features': 0.2}
+Best CV score (MAE): 57.534751422657756
+Prediction score (MAE): 45.95822026076122
+*****
+Outer fold: 21
+Number of inner folds: 35
+Best params: {'bootstrap': True, 'max_depth': None, 'max_features': 'auto'}
+Best CV score (MAE): 57.99906458339137
+Prediction score (MAE): 44.21734388987007
+*****
+Outer fold: 22
+Number of inner folds: 35
+Best params: {'bootstrap': False, 'max_depth': None, 'max_features': 0.2}
+Best CV score (MAE): 56.3803488215855
+Prediction score (MAE): 103.91436868658924
+*****
+Outer fold: 23
+Number of inner folds: 35
+Best params: {'bootstrap': False, 'max_depth': None, 'max_features': 0.2}
+Best CV score (MAE): 57.45905410648429
+Prediction score (MAE): 97.67501333321994
+*****
+Outer fold: 24
+Number of inner folds: 35
+Best params: {'bootstrap': False, 'max_depth': None, 'max_features': 0.2}
+Best CV score (MAE): 59.08676094298154
+Prediction score (MAE): 17.883759028142528
+*****
+Outer fold: 25
+Number of inner folds: 35
+Best params: {'bootstrap': False, 'max_depth': None, 'max_features': 0.2}
+Best CV score (MAE): 57.38204085731602
+Prediction score (MAE): 47.64479764539674
+*****
+Outer fold: 26
+Number of inner folds: 35
+Best params: {'bootstrap': False, 'max_depth': None, 'max_features': 0.2}
+Best CV score (MAE): 57.81353955472885
+Prediction score (MAE): 45.28382777383691
+*****
+Outer fold: 27
+Number of inner folds: 35
+Best params: {'bootstrap': False, 'max_depth': None, 'max_features': 0.2}
+Best CV score (MAE): 57.204779153595474
+Prediction score (MAE): 50.81554092997065
+*****
+Outer fold: 28
+Number of inner folds: 35
+Best params: {'bootstrap': False, 'max_depth': None, 'max_features': 0.2}
+Best CV score (MAE): 57.04852637857273
+Prediction score (MAE): 66.70444592659608
+*****
+Outer fold: 29
+Number of inner folds: 35
+Best params: {'bootstrap': False, 'max_depth': None, 'max_features': 0.2}
+Best CV score (MAE): 57.87106857496381
+Prediction score (MAE): 44.29791307251644
+*****
+Outer fold: 30
+Number of inner folds: 35
+Best params: {'bootstrap': False, 'max_depth': None, 'max_features': 0.2}
+Best CV score (MAE): 55.583247218878746
+Prediction score (MAE): 113.08602592723352
+*****
+Outer fold: 31
+Number of inner folds: 35
+Best params: {'bootstrap': False, 'max_depth': None, 'max_features': 0.2}
+Best CV score (MAE): 58.01956042972849
+Prediction score (MAE): 37.816382350849274
+*****
+Outer fold: 32
+Number of inner folds: 35
+Best params: {'bootstrap': False, 'max_depth': None, 'max_features': 0.2}
+Best CV score (MAE): 58.661099929486575
+Prediction score (MAE): 40.396929628111906
+*****
+Outer fold: 33
+Number of inner folds: 35
+Best params: {'bootstrap': False, 'max_depth': None, 'max_features': 0.2}
+Best CV score (MAE): 58.44758864441895
+Prediction score (MAE): 37.37551296334996
+*****
+Outer fold: 34
+Number of inner folds: 35
+Best params: {'bootstrap': True, 'max_depth': None, 'max_features': 'auto'}
+Best CV score (MAE): 58.858522711934995
+Prediction score (MAE): 41.34836208883854
+*****
+Outer fold: 35
+Number of inner folds: 35
+Best params: {'bootstrap': True, 'max_depth': None, 'max_features': 'auto'}
+Best CV score (MAE): 59.02111317143617
+Prediction score (MAE): 41.866142108215485
+*****
+Outer fold: 36
+Number of inner folds: 35
+Best params: {'bootstrap': True, 'max_depth': None, 'max_features': 'auto'}
+Best CV score (MAE): 57.55435711693361
+Prediction score (MAE): 58.53833801220198
+*****
+
+Nested CV score (generalization error): 57.46965630601236
+All parameters and scores
+defaultdict(<class 'list'>, {'bootstrap=False,max_depth=None,max_features=0.2': [52.690652778397606, 42.795326667402044, 91.56817516296606, 60.546650426004376, 41.68517350378144, 70.21618758060933, 90.78880694254761, 114.56416878579337, 43.74330588231062, 29.24069532084216, 51.141764584096315, 62.804671103671964, 28.141315019706994, 26.030814583030054, 45.95822026076122, 103.91436868658924, 97.67501333321994, 17.883759028142528, 47.64479764539674, 45.28382777383691, 50.81554092997065, 66.70444592659608, 44.29791307251644, 113.08602592723352, 37.816382350849274, 40.396929628111906, 37.37551296334996], 'bootstrap=True,max_depth=None,max_features=auto': [82.39901196558611, 116.5113619743084, 30.572429628467958, 44.17179814822223, 54.472393333, 44.21734388987007, 41.34836208883854, 41.866142108215485, 58.53833801220198]})
+All parameters with avg scores
+{'bootstrap=False,max_depth=None,max_features=0.2': 57.58557206917535, 'bootstrap=True,max_depth=None,max_features=auto': 57.12190901652342}
+Best params: bootstrap=True,max_depth=None,max_features=auto
+Best mean score: 57.12190901652342
+Feature:				Importance:
+1. UTK.bins.50	0.07044249064932909
+2. CMU_advanced.final.23	0.05981034980008542
+3. SHSU.bins.42	0.049449256213289244
+4. CMU.bins.261	0.030994783753109767
+5. UTK_active.final.26	0.030703515248728844
+Number of features present: 260
+curl: symbol lookup error: /lib64/libssh.so.4: undefined symbol: EVP_KDF_ctrl, version OPENSSL_1_1_1b

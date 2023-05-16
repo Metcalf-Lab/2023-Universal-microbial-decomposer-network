@@ -1,0 +1,106 @@
+sampleID	swab_barcode	swab_name	body_id	facility	weather_station	sampling_day	date	tempF	tempC	add_0c	rand_add_0c	pred_add_0c	error	sample_type	model_type	scavenging_yn	scavenging_notes	maggots	notes
+102516	102516	B1.D4.soil.CAN.2021	1	quebec	quebec-jean lesage intl station	4	6/26/21	63.8	17.66666667	50.76	352	55.92561111	5.165611112	soil	soil	n	n	n	no purge  17h raining
+102515	102515	B1.D4.skin.CAN.2021	1	quebec	quebec-jean lesage intl station	4	6/26/21	63.8	17.66666667	50.76	338	45.22850556	5.531494444	skin	skin	n	n	n	no purge  17h raining
+102517	102517	B1.D4.purge.CAN.2021	1	quebec	quebec-jean lesage intl station	4	6/26/21	63.8	17.66666667	50.76	384	44.84596111	5.914038889	purge	soil	n	n	n	no purge  17h raining
+102519	102519	B2.D4.soil.CAN.2021	2	quebec	quebec-jean lesage intl station	4	7/13/21	69.3	20.72222222	55.56	46	48.32706111	7.232938889	soil	soil	y	insects	y	scavenging on face only
+102528	102528	B1.D12.soil.CAN.2021	1	quebec	quebec-jean lesage intl station	12	7/4/21	60.8	16	82.76	155	75.36017222	7.399827777	soil	soil	y	insects	y	no purge  18h sunny
+102533	102533	B3.D12.skin.CAN.2021	3	quebec	quebec-jean lesage intl station	12	8/12/21	74.8	23.77777778	217.99	287	227.3956	9.405600002	skin	skin	y	insects	y	very small purge  bloated  high diversity insects
+102521	102521	B3.D4.skin.CAN.2021	3	quebec	quebec-jean lesage intl station	4	8/4/21	67	19.44444444	46.55	409	58.27142778	11.72142778	skin	skin	n	eggs	n	no purge
+102522	102522	B3.D4.soil.CAN.2021	3	quebec	quebec-jean lesage intl station	4	8/4/21	67	19.44444444	46.55	331	59.37683333	12.82683333	soil	soil	n	eggs	n	no purge
+102539	102539	B1.D18.skin.CAN.2021	1	quebec	quebec-jean lesage intl station	18	7/10/21	63.7	17.61111111	311.04	13	326.9581333	15.91813334	skin	skin	y	insects	y	very small purge
+102520	102520	B2.D4.purge.CAN.2021	2	quebec	quebec-jean lesage intl station	4	7/13/21	69.3	20.72222222	55.56	28	75.78761667	20.22761667	purge	soil	y	insects	y	scavenging on face only
+102542	102542	B2.D18.skin.CAN.2021	2	quebec	quebec-jean lesage intl station	18	7/27/21	63.2	17.33333333	329.62	148	353.18165	23.56165	skin	skin	y	insects	y	purge present
+102535	102535	B3.D12.purge.CAN.2021	3	quebec	quebec-jean lesage intl station	12	8/12/21	74.8	23.77777778	217.99	218	242.7501667	24.76016667	purge	soil	y	insects	y	very small purge  bloated  high diversity insects
+102544	102544	B2.D18.purge.CAN.2021	2	quebec	quebec-jean lesage intl station	18	7/27/21	63.2	17.33333333	329.62	435	354.5299056	24.90990556	purge	soil	y	insects	y	purge present
+102547	102547	B3.D18.purge.CAN.2021	3	quebec	quebec-jean lesage intl station	18	8/18/21	71.7	22.05555556	343.44	224	316.9844389	26.4555611	purge	soil	y	insects	y	purge mostly on leaves  not ground
+102523	102523	B3.D4.purge.CAN.2021	3	quebec	quebec-jean lesage intl station	4	8/4/21	67	19.44444444	46.55	12	80.91676111	34.36676111	purge	soil	n	eggs	n	no purge
+102531	102531	B2.D12.soil.CAN.2021	2	quebec	quebec-jean lesage intl station	12	7/21/21	63.2	17.33333333	220.28	204	171.4278222	48.85217778	soil	soil	y	insects	y	purge present
+102529	102529	B1.D12.purge.CAN.2021	1	quebec	quebec-jean lesage intl station	12	7/4/21	60.8	16	98.76	238	163.7929667	65.03296667	purge	soil	y	insects	y	no purge  18h sunny
+102530	102530	B2.D12.skin.CAN.2021	2	quebec	quebec-jean lesage intl station	12	7/21/21	63.2	17.33333333	220.28	453	308.5123778	88.23237778	skin	skin	y	insects	y	purge present
+102540	102540	B1.D18.soil.CAN.2021	1	quebec	quebec-jean lesage intl station	18	7/10/21	63.7	17.61111111	311.04	304	214.1433444	96.89665555	soil	soil	y	insects	y	very small purge
+102534	102534	B3.D12.soil.CAN.2021	3	quebec	quebec-jean lesage intl station	12	8/12/21	74.8	23.77777778	217.99	40	102.89425	115.09575	soil	soil	y	insects	y	very small purge  bloated  high diversity insects
+102527	102527	B1.D12.skin.CAN.2021	1	quebec	quebec-jean lesage intl station	12	7/4/21	60.8	16	66.76	212	200.2652944	133.5052944	skin	skin	y	insects	y	no purge  18h sunny
+102541	102541	B1.D18.purge.CAN.2021	1	quebec	quebec-jean lesage intl station	18	7/10/21	63.7	17.61111111	311.04	211	174.84085	136.19915	purge	soil	y	insects	y	very small purge
+102518	102518	B2.D4.skin.CAN.2021	2	quebec	quebec-jean lesage intl station	4	7/13/21	69.3	20.72222222	55.56	268	194.2749889	138.7149889	skin	skin	y	insects	y	scavenging on face only
+102543	102543	B2.D18.soil.CAN.2021	2	quebec	quebec-jean lesage intl station	18	7/27/21	63.2	17.33333333	329.62	317	147.3368	182.2832	soil	soil	y	insects	y	purge present
+102546	102546	B3.D18.soil.CAN.2021	3	quebec	quebec-jean lesage intl station	18	8/18/21	71.7	22.05555556	343.44	354	135.8195222	207.6204778	soil	soil	y	insects	y	purge mostly on leaves  not ground
+102545	102545	B3.D18.skin.CAN.2021	3	quebec	quebec-jean lesage intl station	18	8/18/21	71.7	22.05555556	343.44	201	#N/A	#N/A	skin	skin	y	insects	y	purge mostly on leaves  not ground
+102532	102532	B2.D12.purge.CAN.2021	2	quebec	quebec-jean lesage intl station	12	7/21/21	63.2	17.33333333	220.28	209	#N/A	#N/A	purge	soil	y	insects	y	purge present
+101036	CTTGCTCATAAT	SOH.SHED.D11.2020.T12	D11	shsu	easterwood airport	12	12/14/20			138	72	134.33165	3.668349998	soil	soil	NA	NA	NA	NA
+100928	TCTACATACATA	SOH.SHED.D11.2020.T4	D11	shsu	easterwood airport	4	12/6/20			33.8	456	43.24237778	9.442377779	soil	soil	NA	NA	NA	NA
+102106	AGAGACGCGTAG	SOH.SHED.D15.2021.T12	D15	shsu	easterwood airport	12	4/10/21			228.3	340	250.1658667	21.86586667	soil	soil	NA	NA	NA	NA
+102263	ACGACAACGGGC	SOH.SHED.D17.2021.T12	D17	shsu	easterwood airport	12	4/17/21			249.4	102	222.8282833	26.57171666	soil	soil	NA	NA	NA	NA
+101035	ACCGAACAATCC	SKH.SHED.D11.2020.T12	D11	shsu	easterwood airport	12	12/14/20			138	167	106.3987	31.6013	skin	skin	NA	NA	NA	NA
+102262	ACAAGTGCTGCT	SKH.SHED.D17.2021.T12	D17	shsu	easterwood airport	12	4/17/21			249.4	165	214.2354111	35.16458889	skin	skin	NA	NA	NA	NA
+101116	CTCCTGTCCGGA	SOH.SHED.D10.2020.T18	D10	shsu	easterwood airport	18	12/13/20			225.1	449	188.5435444	36.55645555	soil	soil	NA	NA	NA	NA
+100429	GCTATATCCAGG	SOH.SHED.D4.2020.T4	D4	shsu	easterwood airport	4	11/22/20			79.9	72	124.9523444	45.05234445	soil	soil	NA	NA	NA	NA
+100428	TCTTATAACGCT	SKH.SHED.D4.2020.T4	D4	shsu	easterwood airport	4	11/22/20			79.9	341	130.8003056	50.90030556	skin	skin	NA	NA	NA	NA
+100797	GTTTGGCCACAC	SOH.SHED.D6.2020.T18	D6	shsu	easterwood airport	18	12/21/20			199.9	79	143.7031056	56.19689444	soil	soil	NA	NA	NA	NA
+102105	ACGGCGTTATGT	SKH.SHED.D15.2021.T12	D15	shsu	easterwood airport	12	4/10/21			228.3	134	296.3234222	68.02342222	skin	skin	NA	NA	NA	NA
+100927	GCTGCGTATACC	SKH.SHED.D11.2020.T4	D11	shsu	easterwood airport	4	12/6/20			33.8	253	103.1393222	69.33932222	skin	skin	NA	NA	NA	NA
+102071	TCATACAGCCAG	SKH.SHED.D15.2021.T4	D15	shsu	easterwood airport	4	4/2/21			69.8	389	151.4825333	81.68253334	skin	skin	NA	NA	NA	NA
+100796	TAGACTTCAGAG	SKH.SHED.D6.2020.T18	D6	shsu	easterwood airport	18	12/21/20			199.9	345	115.6742056	84.22579444	skin	skin	NA	NA	NA	NA
+102072	ATAGTTAGGGCT	SOH.SHED.D15.2021.T4	D15	shsu	easterwood airport	4	4/2/21			69.8	65	154.6922722	84.89227222	soil	soil	NA	NA	NA	NA
+101115	TCTACATACATA	SKH.SHED.D10.2020.T18	D10	shsu	easterwood airport	18	12/13/20			225.1	405	132.4310722	92.66892778	skin	skin	NA	NA	NA	NA
+101974	TGTGCTTGTAGG	SKH.SHED.D13.2021.T18	D13	shsu	easterwood airport	18	4/9/21			338.6	478	218.6339944	119.9660056	skin	skin	NA	NA	NA	NA
+101975	AGGAAGTAACTT	SOH.SHED.D13.2021.T18	D13	shsu	easterwood airport	18	4/9/21			338.6	64	120.896	217.704	soil	soil	NA	NA	NA	NA
+102492	102492	B5.D12.soil.TSU.2021	2021.04	texas state	austin-bergstrom international airport	12	8/21/21	82.1	27.83333333	296.03	409	293.7393056	2.290694441	soil	soil	n	caged	y	
+102495	102495	B6.D12.soil.TSU.2021	2021.039	texas state	austin-bergstrom international airport	12	8/17/21	80.5	26.94444444	297.58	163	305.7902833	8.210283338	soil	soil	n	caged	y	
+102470	102470	B4.D4.skin.TSU.2021	2021.044	texas state	austin-bergstrom international airport	4	8/21/21	82.1	27.83333333	84.12	411	95.79327778	11.67327778	skin	skin	n	caged	y	no purge fluid
+102496	102496	B6.D12.purge.TSU.2021	2021.039	texas state	austin-bergstrom international airport	12	8/17/21	80.5	26.94444444	297.58	1	311.3658056	13.78580556	purge	soil	n	caged	y	
+102493	102493	B5.D12.purge.TSU.2021	2021.04	texas state	austin-bergstrom international airport	12	8/21/21	82.1	27.83333333	296.03	200	316.9691944	20.93919445	purge	soil	n	caged	y	
+102488	102488	B4.D12.skin.TSU.2021	2021.044	texas state	austin-bergstrom international airport	12	8/29/21	80.7	27.05555556	304.73	252	267.5356667	37.19433333	skin	skin	n	caged	y	
+102467	102467	B3.D4.skin.TSU.2021	2021.045	texas state	austin-bergstrom international airport	4	8/23/21	80.1	26.72222222	81.63	413	121.44415	39.81415	skin	skin	y	vultures	n	very active vulture scavenging
+102477	102477	B6.D4.soil.TSU.2021	2021.039	texas state	austin-bergstrom international airport	4	8/9/21	82.8	28.22222222	83.03	248	149.5974222	66.56742222	soil	soil	n	caged	y	No purge fluid  upper limbs more advanced than lower
+102473	102473	B5.D4.skin.TSU.2021	2021.04	texas state	austin-bergstrom international airport	4	8/13/21	81.2	27.33333333	81.14	127	163.9731944	82.83319445	skin	skin	n	caged	y	
+102476	102476	B6.D4.skin.TSU.2021	2021.039	texas state	austin-bergstrom international airport	4	8/9/21	82.8	28.22222222	83.03	140	167.2397222	84.20972222	skin	skin	n	caged	y	No purge fluid  upper limbs more advanced than lower
+102474	102474	B5.D4.soil.TSU.2021	2021.04	texas state	austin-bergstrom international airport	4	8/13/21	81.2	27.33333333	81.14	278	166.7033722	85.56337222	soil	soil	n	caged	y	
+102468	102468	B3.D4.soil.TSU.2021	2021.045	texas state	austin-bergstrom international airport	4	8/23/21	80.1	26.72222222	81.63	372	184.5192778	102.8892778	soil	soil	y	vultures	n	very active vulture scavenging
+102485	102485	B3.D12.skin.TSU.2021	2021.045	texas state	austin-bergstrom international airport	12	8/31/21	84.5	29.16666667	305.46	40	191.4320889	114.0279111	skin	skin	y	vultures	n	not really any purge fluid
+102512	102512	B6.D18.skin.TSU.2021	2021.039	texas state	austin-bergstrom international airport	18	8/23/21	80.1	26.72222222	462.75	347	330.9866889	131.7633111	skin	skin	n	caged	n	Probably maggots underneath body
+102508	102508	B4.D18.purge.TSU.2021	2021.044	texas state	austin-bergstrom international airport	18	9/4/21	84.6	29.22222222	475.62	9	322.24165	153.37835	purge	soil	n	caged	y	
+102509	102509	B5.D18.skin.TSU.2021	2021.04	texas state	austin-bergstrom international airport	18	8/27/21	78.9	26.05555556	462.36	117	308.8109444	153.5490556	skin	skin	n	caged	y	
+102510	102510	B5.D18.soil.TSU.2021	2021.04	texas state	austin-bergstrom international airport	18	8/27/21	78.9	26.05555556	462.36	96	301.0286833	161.3313167	soil	soil	n	caged	y	
+102507	102507	B4.D18.soil.TSU.2021	2021.044	texas state	austin-bergstrom international airport	18	9/4/21	84.6	29.22222222	475.62	159	311.7390056	163.8809944	soil	soil	n	caged	y	
+102511	102511	B5.D18.purge.TSU.2021	2021.04	texas state	austin-bergstrom international airport	18	8/27/21	78.9	26.05555556	462.36	43	293.8640167	168.4959833	purge	soil	n	caged	y	
+102469	102469	B3.D4.purge.TSU.2021	2021.045	texas state	austin-bergstrom international airport	4	8/23/21	80.1	26.72222222	81.63	188	251.3548944	169.7248944	purge	soil	y	vultures	n	very active vulture scavenging
+102505	102505	B3.D18.purge.TSU.2021	2021.045	texas state	austin-bergstrom international airport	18	9/6/21	81	27.22222222	475.24	276	291.3607889	183.8792111	purge	soil	y	vultures	n	
+102486	102486	B3.D12.soil.TSU.2021	2021.045	texas state	austin-bergstrom international airport	12	8/31/21	84.5	29.16666667	305.46	25	111.8501278	193.6098722	soil	soil	y	vultures	n	not really any purge fluid
+102504	102504	B3.D18.soil.TSU.2021	2021.045	texas state	austin-bergstrom international airport	18	9/6/21	81	27.22222222	475.24	130	196.2623333	278.9776667	soil	soil	y	vultures	n	
+102491	102491	B5.D12.skin.TSU.2021	2021.04	texas state	austin-bergstrom international airport	12	8/21/21	82.1	27.83333333	296.03	234	#N/A	#N/A	skin	skin	n	caged	y	
+102494	102494	B6.D12.skin.TSU.2021	2021.039	texas state	austin-bergstrom international airport	12	8/17/21	80.5	26.94444444	297.58	131	#N/A	#N/A	skin	skin	n	caged	y	
+102503	102503	B3.D18.skin.TSU.2021	2021.045	texas state	austin-bergstrom international airport	18	9/6/21	81	27.22222222	475.24	302	#N/A	#N/A	skin	skin	y	vultures	n	
+102506	102506	B4.D18.skin.TSU.2021	2021.044	texas state	austin-bergstrom international airport	18	9/4/21	84.6	29.22222222	475.62	308	#N/A	#N/A	skin	skin	n	caged	y	
+102471	102471	B4.D4.soil.TSU.2021	2021.044	texas state	austin-bergstrom international airport	4	8/21/21	82.1	27.83333333	84.12	141	#N/A	#N/A	soil	soil	n	caged	y	no purge fluid
+102475	102475	B5.D4.purge.TSU.2021	2021.04	texas state	austin-bergstrom international airport	4	8/13/21	81.2	27.33333333	81.14	49	#N/A	#N/A	purge	soil	n	caged	y	
+102487	102487	B3.D12.purge.TSU.2021	2021.045	texas state	austin-bergstrom international airport	12	8/31/21	84.5	29.16666667	305.46	266	#N/A	#N/A	purge	soil	y	vultures	n	not really any purge fluid
+102489	102489	B4.D12.soil.TSU.2021	2021.044	texas state	austin-bergstrom international airport	12	8/29/21	80.7	27.05555556	304.73	195	#N/A	#N/A	soil	soil	n	caged	y	
+102490	102490	B4.D12.purge.TSU.2021	2021.044	texas state	austin-bergstrom international airport	12	8/29/21	80.7	27.05555556	304.73	47	#N/A	#N/A	purge	soil	n	caged	y	
+102513	102513	B6.D18.soil.TSU.2021	2021.039	texas state	austin-bergstrom international airport	18	8/23/21	80.1	26.72222222	462.75	472	#N/A	#N/A	soil	soil	n	caged	n	Probably maggots underneath body
+102514	102514	B6.D18.purge.TSU.2021	2021.039	texas state	austin-bergstrom international airport	18	8/23/21	80.1	26.72222222	462.75	170	#N/A	#N/A	purge	soil	n	caged	n	Probably maggots underneath body
+102575	102575	B3.D18.skin.UTK.2021	3	utk	mcghee tyson airport	18	9/16/21	73.9	23.27777778	381.63	369	368.1426389	13.48736111	skin	skin	y	l r arms  l leg	y	
+102556	102556	B2.D4.purge.UTK.2021	2	utk	mcghee tyson airport	4	8/13/21	82.6	28.11111111	81.88	157	106.9601722	25.08017222	purge	soil	y	r arm	y	no purge sampled under body
+102555	102555	B2.D4.soil.UTK.2021	2	utk	mcghee tyson airport	4	8/13/21	82.6	28.11111111	81.88	111	56.37640556	25.50359444	soil	soil	y	r arm	y	
+102577	102577	B3.D18.purge.UTK.2021	3	utk	mcghee tyson airport	18	9/16/21	73.9	23.27777778	381.63	167	352.7360444	28.89395555	purge	soil	y	l r arms  l leg	y	
+102576	102576	B3.D18.soil.UTK.2021	3	utk	mcghee tyson airport	18	9/16/21	73.9	23.27777778	381.63	393	342.3076278	39.32237222	soil	soil	y	l r arms  l leg	y	
+102564	102564	B2.D12.soil.UTK.2021	2	utk	mcghee tyson airport	12	8/21/21	74.9	23.83333333	276.99	384	319.2544445	42.26444445	soil	soil	y	l r arms  r leg	y	
+102557	102557	B3.D4.skin.UTK.2021	3	utk	mcghee tyson airport	4	9/2/21	71.6	22	66.63	204	110.6726167	44.04261667	skin	skin	y	l arm  l leg	y	
+102554	102554	B2.D4.skin.UTK.2021	2	utk	mcghee tyson airport	4	8/13/21	82.6	28.11111111	81.88	54	130.7093111	48.82931111	skin	skin	y	r arm	y	
+102565	102565	B2.D12.purge.UTK.2021	2	utk	mcghee tyson airport	12	8/21/21	74.9	23.83333333	276.99	346	328.6076722	51.61767223	purge	soil	y	l r arms  r leg	y	
+102551	102551	B1.D4.skin.UTK.2021	1	utk	mcghee tyson airport	4	8/13/21	82.6	28.11111111	81.88	164	148.2679833	66.38798334	skin	skin	n	n	y	
+102567	102567	B3.D12.soil.UTK.2021	3	utk	mcghee tyson airport	12	9/10/21	67.4	19.66666667	246.13	249	316.4227945	70.29279445	soil	soil	y	l r arms  l leg	y	
+102574	102574	B2.D18.purge.UTK.2021	2	utk	mcghee tyson airport	18	8/27/21	80.1	26.72222222	437.27	95	366.2905	70.9795	purge	soil	y	l r arms and legs	y	
+102562	102562	B1.D12.purge.UTK.2021	1	utk	mcghee tyson airport	12	8/21/21	74.9	23.83333333	276.99	123	348.6701556	71.68015556	purge	soil	y	r arm  r leg	y	
+102561	102561	B1.D12.soil.UTK.2021	1	utk	mcghee tyson airport	12	8/21/21	74.9	23.83333333	276.99	188	203.8820833	73.10791666	soil	soil	y	r arm  r leg	y	
+102553	102553	B1.D4.purge.UTK.2021	1	utk	mcghee tyson airport	4	8/13/21	82.6	28.11111111	81.88	296	162.9315333	81.05153333	purge	soil	n	n	y	no purge sampled under body
+102570	102570	B1.D18.soil.UTK.2021	1	utk	mcghee tyson airport	18	8/27/21	80.1	26.72222222	437.27	359	351.6219611	85.64803889	soil	soil	y	r arm  r leg	n	dead maggots
+102573	102573	B2.D18.soil.UTK.2021	2	utk	mcghee tyson airport	18	8/27/21	80.1	26.72222222	437.27	114	342.9946445	94.27535555	soil	soil	y	l r arms and legs	y	
+102571	102571	B1.D18.purge.UTK.2021	1	utk	mcghee tyson airport	18	8/27/21	80.1	26.72222222	437.27	459	333.8539944	103.4160056	purge	soil	y	r arm  r leg	n	dead maggots
+102572	102572	B2.D18.skin.UTK.2021	2	utk	mcghee tyson airport	18	8/27/21	80.1	26.72222222	437.27	157	322.2314722	115.0385278	skin	skin	y	l r arms and legs	y	
+102558	102558	B3.D4.soil.UTK.2021	3	utk	mcghee tyson airport	4	9/2/21	71.6	22	66.63	53	213.4869111	146.8569111	soil	soil	y	l arm  l leg	y	
+102552	102552	B1.D4.soil.UTK.2021	1	utk	mcghee tyson airport	4	8/13/21	82.6	28.11111111	81.88	473	261.4462167	179.5662167	soil	soil	n	n	y	
+102560	102560	B1.D12.skin.UTK.2021	1	utk	mcghee tyson airport	12	8/21/21	74.9	23.83333333	276.99	455	#N/A	#N/A	skin	skin	y	r arm  r leg	y	
+102563	102563	B2.D12.skin.UTK.2021	2	utk	mcghee tyson airport	12	8/21/21	74.9	23.83333333	276.99	232	#N/A	#N/A	skin	skin	y	l r arms  r leg	y	
+102566	102566	B3.D12.skin.UTK.2021	3	utk	mcghee tyson airport	12	9/10/21	67.4	19.66666667	246.13	176	#N/A	#N/A	skin	skin	y	l r arms  l leg	y	
+102569	102569	B1.D18.skin.UTK.2021	1	utk	mcghee tyson airport	18	8/27/21	80.1	26.72222222	437.27	68	#N/A	#N/A	skin	skin	y	r arm  r leg	n	dead maggots
+102568	102568	B3.D12.purge.UTK.2021	3	utk	mcghee tyson airport	12	9/10/21	67.4	19.66666667	246.13	360	#N/A	#N/A	purge	soil	y	l r arms  l leg	y	
