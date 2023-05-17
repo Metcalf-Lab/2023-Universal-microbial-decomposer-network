@@ -1,0 +1,518 @@
+Jul-21 09:44:24.058 [main] DEBUG nextflow.cli.Launcher - $> nextflow run nf-core/mag -r 2.0.0 --input './*L1_{1,2}*' -profile singularity --busco_reference bacteria_odb10.2020-03-06.tar.gz --gtdb gtdbtk_r202_data.tar.gz --email parsa96@colostate.edu --outdir test_results --max_memory 110.GB --max_time 24.h -resume
+Jul-21 09:44:24.915 [main] INFO  nextflow.cli.CmdRun - N E X T F L O W  ~  version 21.04.1
+Jul-21 09:44:33.251 [main] DEBUG nextflow.scm.AssetManager - Git config: /scratch/summit/parsa96@colostate.edu/assets/nf-core/mag/.git/config; branch: master; remote: origin; url: https://github.com/nf-core/mag.git
+Jul-21 09:44:33.339 [main] DEBUG nextflow.scm.AssetManager - Git config: /scratch/summit/parsa96@colostate.edu/assets/nf-core/mag/.git/config; branch: master; remote: origin; url: https://github.com/nf-core/mag.git
+Jul-21 09:44:33.844 [main] WARN  org.eclipse.jgit.util.FS - Exception caught during execution of command '[git, config, --system, --edit]' in '/curc/sw/git/2.31.0/bin', return code '128', error message 'fatal: Invalid path '/curc/sw/git/2.31.0/etc': No such file or directory
+'
+Jul-21 09:44:34.383 [main] INFO  nextflow.cli.CmdRun - Launching `nf-core/mag` [cheeky_stone] - revision: 0b4f0ef116 [2.0.0]
+Jul-21 09:44:35.773 [main] DEBUG nextflow.config.ConfigBuilder - Found config base: /scratch/summit/parsa96@colostate.edu/assets/nf-core/mag/nextflow.config
+Jul-21 09:44:35.774 [main] DEBUG nextflow.config.ConfigBuilder - Parsing config file: /scratch/summit/parsa96@colostate.edu/assets/nf-core/mag/nextflow.config
+Jul-21 09:44:35.833 [main] DEBUG nextflow.config.ConfigBuilder - Applying config profile: `singularity`
+Jul-21 09:44:39.964 [main] INFO  org.pf4j.DefaultPluginStatusProvider - Enabled plugins: []
+Jul-21 09:44:39.985 [main] INFO  org.pf4j.DefaultPluginStatusProvider - Disabled plugins: []
+Jul-21 09:44:40.009 [main] INFO  org.pf4j.DefaultPluginManager - PF4J version 3.4.1 in 'deployment' mode
+Jul-21 09:44:43.747 [main] DEBUG nextflow.config.ConfigBuilder - Available config profiles: [cfc_dev, ifb_core, denbi_qbic, genotoul, uppmax, abims, imperial_mb, oist, mpcdf, podman, czbiohub_aws, jax, ccga_med, test, google, seg_globe, shh, sanger, pasteur, test_full, eddie, test_host_rm, bi, bigpurple, docker, gis, eva, utd_ganymede, charliecloud, conda, singularity, icr_davros, munin, prince, hebbe, cfc, utd_sysbio, uzh, test_hybrid_host_rm, debug, test_busco_auto, genouest, cbe, ebc, ccga_dx, test_hybrid, crick, phoenix, biohpc_gen, shifter, awsbatch, uct_hpc, imperial, aws_tower, binac]
+Jul-21 09:44:43.937 [main] DEBUG nextflow.plugin.PluginsFacade - Setting up plugin manager > mode=prod; plugins-dir=/scratch/summit/parsa96@colostate.edu/plugins
+Jul-21 09:44:43.939 [main] DEBUG nextflow.plugin.PluginsFacade - Plugins default=[]
+Jul-21 09:44:43.939 [main] DEBUG nextflow.plugin.PluginsFacade - Plugins local root: .nextflow/plr/empty
+Jul-21 09:44:43.953 [main] INFO  org.pf4j.DefaultPluginStatusProvider - Enabled plugins: []
+Jul-21 09:44:43.966 [main] INFO  org.pf4j.DefaultPluginStatusProvider - Disabled plugins: []
+Jul-21 09:44:43.991 [main] INFO  org.pf4j.DefaultPluginManager - PF4J version 3.4.1 in 'deployment' mode
+Jul-21 09:44:44.026 [main] INFO  org.pf4j.AbstractPluginManager - No plugins
+Jul-21 09:44:44.458 [main] DEBUG nextflow.Session - Session uuid: 57a7eaf0-471f-4fc7-ac20-d633993928f8
+Jul-21 09:44:44.458 [main] DEBUG nextflow.Session - Run name: cheeky_stone
+Jul-21 09:44:44.459 [main] DEBUG nextflow.Session - Executor pool size: 24
+Jul-21 09:44:44.659 [main] DEBUG nextflow.cli.CmdRun - 
+  Version: 21.04.1 build 5556
+  Created: 14-05-2021 15:20 UTC (09:20 MDT)
+  System: Linux 3.10.0-957.21.3.el7.x86_64
+  Runtime: Groovy 3.0.7 on Java HotSpot(TM) 64-Bit Server VM 1.8.0_91-b14
+  Encoding: UTF-8 (ANSI_X3.4-1968)
+  Process: 166363@shas0426.rc.int.colorado.edu [10.225.6.141]
+  CPUs: 24 - Mem: 125.8 GB (59.4 GB) - Swap: 1024 MB (1021.5 MB)
+Jul-21 09:44:45.302 [main] DEBUG nextflow.Session - Work-dir: /gpfs/summit/scratch/parsa96@colostate.edu/nf-core/work [gpfs]
+Jul-21 09:44:45.418 [main] DEBUG nextflow.executor.ExecutorFactory - Extension executors providers=[]
+Jul-21 09:44:45.521 [main] DEBUG nextflow.Session - Observer factory: DefaultObserverFactory
+Jul-21 09:44:47.433 [main] DEBUG nextflow.Session - Session start invoked
+Jul-21 09:44:47.454 [main] DEBUG nextflow.trace.TraceFileObserver - Flow starting -- trace file: /gpfs/summit/scratch/parsa96@colostate.edu/nf-core/test_results/pipeline_info/execution_trace_2021-07-21_09-44-43.txt
+Jul-21 09:44:47.522 [main] DEBUG nextflow.Session - Using default localLib path: /scratch/summit/parsa96@colostate.edu/assets/nf-core/mag/lib
+Jul-21 09:44:47.563 [main] DEBUG nextflow.Session - Adding to the classpath library: /scratch/summit/parsa96@colostate.edu/assets/nf-core/mag/lib
+Jul-21 09:44:47.579 [main] DEBUG nextflow.Session - Adding to the classpath library: /scratch/summit/parsa96@colostate.edu/assets/nf-core/mag/lib/nfcore_external_java_deps.jar
+Jul-21 09:44:54.881 [main] DEBUG nextflow.script.ScriptRunner - > Launching execution
+Jul-21 09:44:55.109 [main] INFO  nextflow.Nextflow - 
+
+-[2m----------------------------------------------------[0m-
+                                        [0;32m,--.[0;30m/[0;32m,-.[0m
+[0;34m        ___     __   __   __   ___     [0;32m/,-._.--~'[0m
+[0;34m  |\ | |__  __ /  ` /  \ |__) |__         [0;33m}  {[0m
+[0;34m  | \| |       \__, \__/ |  \ |___     [0;32m\`-._,-`-,[0m
+                                        [0;32m`._,._,'[0m
+[0;35m  nf-core/mag v2.0.0[0m
+-[2m----------------------------------------------------[0m-
+
+Jul-21 09:44:55.528 [main] INFO  nextflow.Nextflow - [1mCore Nextflow options[0m
+  [0;34mrevision        : [0;32m2.0.0[0m
+  [0;34mrunName         : [0;32mcheeky_stone[0m
+  [0;34mcontainerEngine : [0;32msingularity[0m
+  [0;34mlaunchDir       : [0;32m/gpfs/summit/scratch/parsa96@colostate.edu/nf-core[0m
+  [0;34mworkDir         : [0;32m/gpfs/summit/scratch/parsa96@colostate.edu/nf-core/work[0m
+  [0;34mprojectDir      : [0;32m/scratch/summit/parsa96@colostate.edu/assets/nf-core/mag[0m
+  [0;34muserName        : [0;32mparsa96@colostate.edu[0m
+  [0;34mprofile         : [0;32msingularity[0m
+  [0;34mconfigFiles     : [0;32m/scratch/summit/parsa96@colostate.edu/assets/nf-core/mag/nextflow.config[0m
+
+[1mInput/output options[0m
+  [0;34minput           : [0;32m./*L1_{1,2}*[0m
+  [0;34moutdir          : [0;32mtest_results[0m
+  [0;34memail           : [0;32mparsa96@colostate.edu[0m
+
+[1mMax job request options[0m
+  [0;34mmax_memory      : [0;32m110.GB[0m
+  [0;34mmax_time        : [0;32m24.h[0m
+
+[1mQuality control for short reads options[0m
+  [0;34mphix_reference  : [0;32m/scratch/summit/parsa96@colostate.edu/assets/nf-core/mag/assets/data/GCA_002596845.1_ASM259684v1_genomic.fna.gz[0m
+
+[1mQuality control for long reads options[0m
+  [0;34mlambda_reference: [0;32m/scratch/summit/parsa96@colostate.edu/assets/nf-core/mag/assets/data/GCA_000840245.1_ViralProj14204_genomic.fna.gz[0m
+
+[1mTaxonomic profiling options[0m
+  [0;34mgtdb            : [0;32mgtdbtk_r202_data.tar.gz[0m
+
+[1mBin quality check options[0m
+  [0;34mbusco_reference : [0;32mbacteria_odb10.2020-03-06.tar.gz[0m
+
+!! Only displaying parameters that differ from the pipeline defaults !!
+-[2m----------------------------------------------------[0m-
+Jul-21 09:44:55.573 [main] INFO  nextflow.Nextflow - If you use nf-core/mag for your analysis please cite:
+
+* The pipeline
+  https://doi.org/10.5281/zenodo.3589527
+
+* The nf-core framework
+  https://doi.org/10.1038/s41587-020-0439-x
+
+* Software dependencies
+  https://github.com/nf-core/mag/blob/master/CITATIONS.md
+Jul-21 09:44:55.575 [main] INFO  nextflow.Nextflow - -[2m----------------------------------------------------[0m-
+Jul-21 09:44:57.862 [main] DEBUG nextflow.Session - Workflow process names [dsl2]: 
+Jul-21 09:44:57.879 [main] WARN  nextflow.Session - There's no process matching config selector: BOWTIE2_HOST_REMOVAL_BUILD
+Jul-21 09:44:57.892 [main] WARN  nextflow.Session - There's no process matching config selector: BOWTIE2_HOST_REMOVAL_ALIGN
+Jul-21 09:44:57.901 [main] WARN  nextflow.Session - There's no process matching config selector: BOWTIE2_PHIX_REMOVAL_ALIGN
+Jul-21 09:44:57.901 [main] WARN  nextflow.Session - There's no process matching config selector: PORECHOP
+Jul-21 09:44:57.901 [main] WARN  nextflow.Session - There's no process matching config selector: NANOLYSE
+Jul-21 09:44:57.901 [main] WARN  nextflow.Session - There's no process matching config selector: FILTLONG
+Jul-21 09:44:57.901 [main] WARN  nextflow.Session - There's no process matching config selector: CENTRIFUGE
+Jul-21 09:44:57.902 [main] WARN  nextflow.Session - There's no process matching config selector: KRAKEN2
+Jul-21 09:44:57.902 [main] WARN  nextflow.Session - There's no process matching config selector: KRONA
+Jul-21 09:44:57.902 [main] WARN  nextflow.Session - There's no process matching config selector: CAT_DB_GENERATE
+Jul-21 09:44:57.902 [main] WARN  nextflow.Session - There's no process matching config selector: CAT
+Jul-21 09:44:57.902 [main] WARN  nextflow.Session - There's no process matching config selector: GTDBTK_CLASSIFY
+Jul-21 09:44:57.902 [main] WARN  nextflow.Session - There's no process matching config selector: MEGAHIT
+Jul-21 09:44:57.902 [main] WARN  nextflow.Session - There's no process matching config selector: SPADES
+Jul-21 09:44:57.902 [main] WARN  nextflow.Session - There's no process matching config selector: SPADESHYBRID
+Jul-21 09:44:57.902 [main] WARN  nextflow.Session - There's no process matching config selector: BOWTIE2_ASSEMBLY_ALIGN
+Jul-21 09:44:57.902 [main] WARN  nextflow.Session - There's no process matching config selector: METABAT2
+Jul-21 09:44:57.903 [main] WARN  nextflow.Session - There's no process matching config selector: BUSCO
+Jul-21 09:45:28.383 [main] DEBUG nextflow.script.ProcessConfig - Config settings `withLabel:process_medium` matches label `process_medium` for process with name MAG:FASTQC_RAW
+Jul-21 09:45:28.457 [main] DEBUG nextflow.executor.ExecutorFactory - << taskConfig executor: null
+Jul-21 09:45:28.457 [main] DEBUG nextflow.executor.ExecutorFactory - >> processorType: 'local'
+Jul-21 09:45:28.488 [main] DEBUG nextflow.executor.Executor - [warm up] executor > local
+Jul-21 09:45:28.543 [main] DEBUG n.processor.LocalPollingMonitor - Creating local task monitor for executor 'local' > cpus=24; memory=125.8 GB; capacity=24; pollInterval=100ms; dumpInterval=5m
+Jul-21 09:45:29.230 [main] DEBUG nextflow.script.ProcessConfig - Config settings `withLabel:process_medium` matches label `process_medium` for process with name MAG:FASTP
+Jul-21 09:45:29.260 [main] DEBUG nextflow.executor.ExecutorFactory - << taskConfig executor: null
+Jul-21 09:45:29.260 [main] DEBUG nextflow.executor.ExecutorFactory - >> processorType: 'local'
+Jul-21 09:45:29.357 [main] DEBUG nextflow.executor.ExecutorFactory - << taskConfig executor: null
+Jul-21 09:45:29.357 [main] DEBUG nextflow.executor.ExecutorFactory - >> processorType: 'local'
+Jul-21 09:45:29.471 [main] DEBUG nextflow.script.ProcessConfig - Config settings `withName:BOWTIE2_PHIX_REMOVAL_ALIGN` matches process MAG:BOWTIE2_PHIX_REMOVAL_ALIGN
+Jul-21 09:45:29.472 [main] DEBUG nextflow.executor.ExecutorFactory - << taskConfig executor: null
+Jul-21 09:45:29.472 [main] DEBUG nextflow.executor.ExecutorFactory - >> processorType: 'local'
+Jul-21 09:45:29.576 [main] DEBUG nextflow.script.ProcessConfig - Config settings `withLabel:process_medium` matches label `process_medium` for process with name MAG:FASTQC_TRIMMED
+Jul-21 09:45:29.607 [main] DEBUG nextflow.executor.ExecutorFactory - << taskConfig executor: null
+Jul-21 09:45:29.607 [main] DEBUG nextflow.executor.ExecutorFactory - >> processorType: 'local'
+Jul-21 09:45:29.688 [main] DEBUG nextflow.executor.ExecutorFactory - << taskConfig executor: null
+Jul-21 09:45:29.688 [main] DEBUG nextflow.executor.ExecutorFactory - >> processorType: 'local'
+Jul-21 09:45:29.790 [main] DEBUG nextflow.script.ProcessConfig - Config settings `withName:PORECHOP` matches process MAG:PORECHOP
+Jul-21 09:45:29.827 [main] DEBUG nextflow.executor.ExecutorFactory - << taskConfig executor: null
+Jul-21 09:45:29.827 [main] DEBUG nextflow.executor.ExecutorFactory - >> processorType: 'local'
+Jul-21 09:45:29.938 [main] DEBUG nextflow.script.ProcessConfig - Config settings `withName:NANOLYSE` matches process MAG:NANOLYSE
+Jul-21 09:45:29.941 [main] DEBUG nextflow.executor.ExecutorFactory - << taskConfig executor: null
+Jul-21 09:45:29.941 [main] DEBUG nextflow.executor.ExecutorFactory - >> processorType: 'local'
+Jul-21 09:45:30.153 [main] DEBUG nextflow.script.ProcessConfig - Config settings `withName:FILTLONG` matches process MAG:FILTLONG
+Jul-21 09:45:30.179 [main] DEBUG nextflow.executor.ExecutorFactory - << taskConfig executor: null
+Jul-21 09:45:30.180 [main] DEBUG nextflow.executor.ExecutorFactory - >> processorType: 'local'
+Jul-21 09:45:30.240 [main] DEBUG nextflow.executor.ExecutorFactory - << taskConfig executor: null
+Jul-21 09:45:30.241 [main] DEBUG nextflow.executor.ExecutorFactory - >> processorType: 'local'
+Jul-21 09:45:30.341 [main] DEBUG nextflow.executor.ExecutorFactory - << taskConfig executor: null
+Jul-21 09:45:30.344 [main] DEBUG nextflow.executor.ExecutorFactory - >> processorType: 'local'
+Jul-21 09:45:30.416 [main] DEBUG nextflow.script.ProcessConfig - Config settings `withName:CENTRIFUGE` matches process MAG:CENTRIFUGE
+Jul-21 09:45:30.417 [main] DEBUG nextflow.executor.ExecutorFactory - << taskConfig executor: null
+Jul-21 09:45:30.417 [main] DEBUG nextflow.executor.ExecutorFactory - >> processorType: 'local'
+Jul-21 09:45:30.478 [main] DEBUG nextflow.executor.ExecutorFactory - << taskConfig executor: null
+Jul-21 09:45:30.479 [main] DEBUG nextflow.executor.ExecutorFactory - >> processorType: 'local'
+Jul-21 09:45:30.583 [main] DEBUG nextflow.script.ProcessConfig - Config settings `withName:KRAKEN2` matches process MAG:KRAKEN2
+Jul-21 09:45:30.585 [main] DEBUG nextflow.executor.ExecutorFactory - << taskConfig executor: null
+Jul-21 09:45:30.585 [main] DEBUG nextflow.executor.ExecutorFactory - >> processorType: 'local'
+Jul-21 09:45:30.702 [main] DEBUG nextflow.script.ProcessConfig - Config settings `withName:MEGAHIT` matches process MAG:MEGAHIT
+Jul-21 09:45:30.704 [main] DEBUG nextflow.executor.ExecutorFactory - << taskConfig executor: null
+Jul-21 09:45:30.704 [main] DEBUG nextflow.executor.ExecutorFactory - >> processorType: 'local'
+Jul-21 09:45:30.944 [main] DEBUG nextflow.script.ProcessConfig - Config settings `withName:SPADES` matches process MAG:SPADES
+Jul-21 09:45:30.948 [main] DEBUG nextflow.executor.ExecutorFactory - << taskConfig executor: null
+Jul-21 09:45:30.949 [main] DEBUG nextflow.executor.ExecutorFactory - >> processorType: 'local'
+Jul-21 09:45:31.257 [main] DEBUG nextflow.script.ProcessConfig - Config settings `withName:SPADESHYBRID` matches process MAG:SPADESHYBRID
+Jul-21 09:45:31.258 [main] DEBUG nextflow.executor.ExecutorFactory - << taskConfig executor: null
+Jul-21 09:45:31.258 [main] DEBUG nextflow.executor.ExecutorFactory - >> processorType: 'local'
+Jul-21 09:45:31.398 [main] DEBUG nextflow.executor.ExecutorFactory - << taskConfig executor: null
+Jul-21 09:45:31.399 [main] DEBUG nextflow.executor.ExecutorFactory - >> processorType: 'local'
+Jul-21 09:45:31.471 [main] DEBUG nextflow.executor.ExecutorFactory - << taskConfig executor: null
+Jul-21 09:45:31.472 [main] DEBUG nextflow.executor.ExecutorFactory - >> processorType: 'local'
+Jul-21 09:45:31.602 [main] DEBUG nextflow.script.ProcessConfig - Config settings `withName:BOWTIE2_ASSEMBLY_ALIGN` matches process MAG:METABAT2_BINNING:BOWTIE2_ASSEMBLY_ALIGN
+Jul-21 09:45:31.603 [main] DEBUG nextflow.executor.ExecutorFactory - << taskConfig executor: null
+Jul-21 09:45:31.604 [main] DEBUG nextflow.executor.ExecutorFactory - >> processorType: 'local'
+Jul-21 09:45:31.722 [main] DEBUG nextflow.script.ProcessConfig - Config settings `withName:METABAT2` matches process MAG:METABAT2_BINNING:METABAT2
+Jul-21 09:45:31.723 [main] DEBUG nextflow.executor.ExecutorFactory - << taskConfig executor: null
+Jul-21 09:45:31.724 [main] DEBUG nextflow.executor.ExecutorFactory - >> processorType: 'local'
+Jul-21 09:45:31.905 [main] DEBUG nextflow.executor.ExecutorFactory - << taskConfig executor: null
+Jul-21 09:45:31.905 [main] DEBUG nextflow.executor.ExecutorFactory - >> processorType: 'local'
+Jul-21 09:45:32.096 [main] DEBUG nextflow.script.ProcessConfig - Config settings `withName:BUSCO` matches process MAG:BUSCO_QC:BUSCO
+Jul-21 09:45:32.097 [main] DEBUG nextflow.executor.ExecutorFactory - << taskConfig executor: null
+Jul-21 09:45:32.097 [main] DEBUG nextflow.executor.ExecutorFactory - >> processorType: 'local'
+Jul-21 09:45:32.221 [main] DEBUG nextflow.executor.ExecutorFactory - << taskConfig executor: null
+Jul-21 09:45:32.221 [main] DEBUG nextflow.executor.ExecutorFactory - >> processorType: 'local'
+Jul-21 09:45:32.350 [main] DEBUG nextflow.executor.ExecutorFactory - << taskConfig executor: null
+Jul-21 09:45:32.351 [main] DEBUG nextflow.executor.ExecutorFactory - >> processorType: 'local'
+Jul-21 09:45:32.657 [main] DEBUG nextflow.executor.ExecutorFactory - << taskConfig executor: null
+Jul-21 09:45:32.658 [main] DEBUG nextflow.executor.ExecutorFactory - >> processorType: 'local'
+Jul-21 09:45:32.694 [main] DEBUG nextflow.executor.ExecutorFactory - << taskConfig executor: null
+Jul-21 09:45:32.694 [main] DEBUG nextflow.executor.ExecutorFactory - >> processorType: 'local'
+Jul-21 09:45:32.789 [main] DEBUG nextflow.script.ProcessConfig - Config settings `withName:CAT` matches process MAG:CAT
+Jul-21 09:45:32.792 [main] DEBUG nextflow.executor.ExecutorFactory - << taskConfig executor: null
+Jul-21 09:45:32.792 [main] DEBUG nextflow.executor.ExecutorFactory - >> processorType: 'local'
+Jul-21 09:45:33.067 [main] DEBUG nextflow.executor.ExecutorFactory - << taskConfig executor: null
+Jul-21 09:45:33.067 [main] DEBUG nextflow.executor.ExecutorFactory - >> processorType: 'local'
+Jul-21 09:45:33.147 [main] DEBUG nextflow.script.ProcessConfig - Config settings `withName:GTDBTK_CLASSIFY` matches process MAG:GTDBTK:GTDBTK_CLASSIFY
+Jul-21 09:45:33.221 [main] DEBUG nextflow.executor.ExecutorFactory - << taskConfig executor: null
+Jul-21 09:45:33.222 [main] DEBUG nextflow.executor.ExecutorFactory - >> processorType: 'local'
+Jul-21 09:45:33.363 [main] DEBUG nextflow.executor.ExecutorFactory - << taskConfig executor: null
+Jul-21 09:45:33.363 [main] DEBUG nextflow.executor.ExecutorFactory - >> processorType: 'local'
+Jul-21 09:45:33.435 [main] DEBUG nextflow.executor.ExecutorFactory - << taskConfig executor: null
+Jul-21 09:45:33.435 [main] DEBUG nextflow.executor.ExecutorFactory - >> processorType: 'local'
+Jul-21 09:45:33.497 [main] DEBUG nextflow.executor.ExecutorFactory - << taskConfig executor: null
+Jul-21 09:45:33.497 [main] DEBUG nextflow.executor.ExecutorFactory - >> processorType: 'local'
+Jul-21 09:45:33.872 [main] DEBUG nextflow.script.ProcessConfig - Config settings `withLabel:process_medium` matches label `process_medium` for process with name MAG:MULTIQC
+Jul-21 09:45:33.888 [main] DEBUG nextflow.executor.ExecutorFactory - << taskConfig executor: null
+Jul-21 09:45:33.888 [main] DEBUG nextflow.executor.ExecutorFactory - >> processorType: 'local'
+Jul-21 09:45:33.945 [main] DEBUG nextflow.extension.CH - Bridging dataflow queue=DataflowQueue(queue=[])
+Jul-21 09:45:33.954 [main] DEBUG nextflow.extension.CH - Bridging dataflow queue=DataflowQueue(queue=[])
+Jul-21 09:45:33.979 [main] DEBUG nextflow.extension.CH - Bridging dataflow queue=DataflowQueue(queue=[])
+Jul-21 09:45:33.979 [main] DEBUG nextflow.extension.CH - Bridging dataflow queue=DataflowQueue(queue=[])
+Jul-21 09:45:33.979 [main] DEBUG nextflow.extension.CH - Bridging dataflow queue=DataflowQueue(queue=[])
+Jul-21 09:45:33.979 [main] DEBUG nextflow.extension.CH - Bridging dataflow queue=DataflowQueue(queue=[])
+Jul-21 09:45:33.980 [main] DEBUG nextflow.extension.CH - Bridging dataflow queue=DataflowQueue(queue=[])
+Jul-21 09:45:33.980 [main] DEBUG nextflow.extension.CH - Bridging dataflow queue=DataflowQueue(queue=[])
+Jul-21 09:45:33.980 [main] DEBUG nextflow.extension.CH - Bridging dataflow queue=DataflowQueue(queue=[])
+Jul-21 09:45:33.980 [main] DEBUG nextflow.extension.CH - Bridging dataflow queue=DataflowQueue(queue=[])
+Jul-21 09:45:33.980 [main] DEBUG nextflow.extension.CH - Bridging dataflow queue=DataflowQueue(queue=[])
+Jul-21 09:45:33.980 [main] DEBUG nextflow.Session - Ignite dataflow network (60)
+Jul-21 09:45:34.090 [main] DEBUG nextflow.processor.TaskProcessor - Starting process > MAG:FASTQC_RAW
+Jul-21 09:45:34.091 [main] DEBUG nextflow.processor.TaskProcessor - Starting process > MAG:FASTP
+Jul-21 09:45:34.105 [main] DEBUG nextflow.processor.TaskProcessor - Starting process > MAG:BOWTIE2_PHIX_REMOVAL_BUILD
+Jul-21 09:45:34.106 [main] DEBUG nextflow.processor.TaskProcessor - Starting process > MAG:BOWTIE2_PHIX_REMOVAL_ALIGN
+Jul-21 09:45:34.106 [main] DEBUG nextflow.processor.TaskProcessor - Starting process > MAG:FASTQC_TRIMMED
+Jul-21 09:45:34.117 [main] DEBUG nextflow.processor.TaskProcessor - Starting process > MAG:NANOPLOT_RAW
+Jul-21 09:45:34.119 [main] DEBUG nextflow.processor.TaskProcessor - Starting process > MAG:PORECHOP
+Jul-21 09:45:34.120 [main] DEBUG nextflow.processor.TaskProcessor - Starting process > MAG:NANOLYSE
+Jul-21 09:45:34.120 [main] DEBUG nextflow.processor.TaskProcessor - Starting process > MAG:FILTLONG
+Jul-21 09:45:34.122 [main] DEBUG nextflow.processor.TaskProcessor - Starting process > MAG:NANOPLOT_FILTERED
+Jul-21 09:45:34.123 [main] DEBUG nextflow.processor.TaskProcessor - Starting process > MAG:CENTRIFUGE_DB_PREPARATION
+Jul-21 09:45:34.123 [main] DEBUG nextflow.processor.TaskProcessor - Starting process > MAG:CENTRIFUGE
+Jul-21 09:45:34.123 [main] DEBUG nextflow.processor.TaskProcessor - Starting process > MAG:KRAKEN2_DB_PREPARATION
+Jul-21 09:45:34.124 [main] DEBUG nextflow.processor.TaskProcessor - Starting process > MAG:KRAKEN2
+Jul-21 09:45:34.124 [main] DEBUG nextflow.processor.TaskProcessor - Starting process > MAG:MEGAHIT
+Jul-21 09:45:34.125 [main] DEBUG nextflow.processor.TaskProcessor - Starting process > MAG:SPADES
+Jul-21 09:45:34.127 [main] DEBUG nextflow.processor.TaskProcessor - Starting process > MAG:SPADESHYBRID
+Jul-21 09:45:34.128 [main] DEBUG nextflow.processor.TaskProcessor - Starting process > MAG:QUAST
+Jul-21 09:45:34.100 [PathVisitor-1] DEBUG nextflow.file.PathVisitor - files for syntax: glob; folder: ./; pattern: *L1_{1,2}*; options: [:]
+Jul-21 09:45:34.151 [main] DEBUG nextflow.processor.TaskProcessor - Starting process > MAG:METABAT2_BINNING:BOWTIE2_ASSEMBLY_BUILD
+Jul-21 09:45:34.184 [main] DEBUG nextflow.processor.TaskProcessor - Starting process > MAG:METABAT2_BINNING:BOWTIE2_ASSEMBLY_ALIGN
+Jul-21 09:45:34.184 [main] DEBUG nextflow.processor.TaskProcessor - Starting process > MAG:METABAT2_BINNING:METABAT2
+Jul-21 09:45:34.184 [main] DEBUG nextflow.processor.TaskProcessor - Starting process > MAG:BUSCO_QC:BUSCO_DB_PREPARATION
+Jul-21 09:45:34.185 [main] DEBUG nextflow.processor.TaskProcessor - Starting process > MAG:BUSCO_QC:BUSCO
+Jul-21 09:45:34.185 [main] DEBUG nextflow.processor.TaskProcessor - Starting process > MAG:BUSCO_QC:BUSCO_PLOT
+Jul-21 09:45:34.189 [main] DEBUG nextflow.processor.TaskProcessor - Starting process > MAG:BUSCO_QC:BUSCO_SUMMARY
+Jul-21 09:45:34.192 [main] DEBUG nextflow.processor.TaskProcessor - Starting process > MAG:QUAST_BINS
+Jul-21 09:45:34.205 [main] DEBUG nextflow.processor.TaskProcessor - Starting process > MAG:QUAST_BINS_SUMMARY
+Jul-21 09:45:34.206 [main] DEBUG nextflow.processor.TaskProcessor - Starting process > MAG:CAT
+Jul-21 09:45:34.221 [main] DEBUG nextflow.processor.TaskProcessor - Starting process > MAG:GTDBTK:GTDBTK_DB_PREPARATION
+Jul-21 09:45:34.223 [main] DEBUG nextflow.processor.TaskProcessor - Starting process > MAG:GTDBTK:GTDBTK_CLASSIFY
+Jul-21 09:45:34.224 [main] DEBUG nextflow.processor.TaskProcessor - Starting process > MAG:GTDBTK:GTDBTK_SUMMARY
+Jul-21 09:45:34.240 [main] DEBUG nextflow.processor.TaskProcessor - Starting process > MAG:MERGE_QUAST_BUSCO_GTDBTK
+Jul-21 09:45:34.240 [main] DEBUG nextflow.processor.TaskProcessor - Starting process > MAG:GET_SOFTWARE_VERSIONS
+Jul-21 09:45:34.255 [main] DEBUG nextflow.processor.TaskProcessor - Starting process > MAG:MULTIQC
+Jul-21 09:45:34.269 [main] DEBUG nextflow.script.ScriptRunner - > Await termination 
+Jul-21 09:45:34.269 [main] DEBUG nextflow.Session - Session await
+Jul-21 09:45:34.920 [Actor Thread 29] DEBUG nextflow.container.SingularityCache - Singularity found local store for image=https://depot.galaxyproject.org/singularity/fastp:0.20.1--h8b12597_0; path=/scratch/summit/parsa96@colostate.edu/.singularity/cache/depot.galaxyproject.org-singularity-fastp-0.20.1--h8b12597_0.img
+Jul-21 09:45:34.933 [Actor Thread 15] DEBUG nextflow.container.SingularityCache - Singularity found local store for image=https://depot.galaxyproject.org/singularity/bowtie2:2.4.2--py38h1c8e9b9_1; path=/scratch/summit/parsa96@colostate.edu/.singularity/cache/depot.galaxyproject.org-singularity-bowtie2-2.4.2--py38h1c8e9b9_1.img
+Jul-21 09:45:34.944 [Actor Thread 34] DEBUG nextflow.container.SingularityCache - Singularity found local store for image=https://depot.galaxyproject.org/singularity/fastqc:0.11.9--0; path=/scratch/summit/parsa96@colostate.edu/.singularity/cache/depot.galaxyproject.org-singularity-fastqc-0.11.9--0.img
+Jul-21 09:45:34.944 [Actor Thread 17] DEBUG nextflow.container.SingularityCache - Singularity found local store for image=https://containers.biocontainers.pro/s3/SingImgsRepo/biocontainers/v1.2.0_cv1/biocontainers_v1.2.0_cv1.img; path=/scratch/summit/parsa96@colostate.edu/.singularity/cache/containers.biocontainers.pro-s3-SingImgsRepo-biocontainers-v1.2.0_cv1-biocontainers_v1.2.0_cv1.img.img
+Jul-21 09:45:35.123 [Actor Thread 40] DEBUG nextflow.util.CacheHelper - Hash asset file sha-256: /scratch/summit/parsa96@colostate.edu/assets/nf-core/mag/assets/data/GCA_002596845.1_ASM259684v1_genomic.fna.gz
+Jul-21 09:45:35.766 [Task submitter] DEBUG nextflow.executor.LocalTaskHandler - Launch cmd line: /bin/bash -ue .command.run
+Jul-21 09:45:35.830 [Task submitter] INFO  nextflow.Session - [c4/c9c06d] Submitted process > MAG:BUSCO_QC:BUSCO_DB_PREPARATION (bacteria_odb10.2020-03-06.tar)
+Jul-21 09:45:35.871 [Actor Thread 37] DEBUG nextflow.sort.BigSort - Sort completed -- entries: 1; slices: 1; internal sort time: 0.036 s; external sort time: 0.184 s; total time: 0.22 s
+Jul-21 09:45:35.872 [Actor Thread 37] DEBUG nextflow.file.FileCollector - >> temp file exists? false
+Jul-21 09:45:35.898 [Actor Thread 37] DEBUG nextflow.file.FileCollector - Missed collect-file cache -- cause: java.nio.file.NoSuchFileException: /tmp/5d8e9b8bf83ae3a8f8266d87b80d6c66.collect-file
+Jul-21 09:45:36.003 [Actor Thread 37] DEBUG nextflow.file.FileCollector - Saved collect-files list to: /tmp/5d8e9b8bf83ae3a8f8266d87b80d6c66.collect-file
+Jul-21 09:45:36.038 [Task submitter] DEBUG nextflow.executor.LocalTaskHandler - Launch cmd line: /bin/bash -ue .command.run
+Jul-21 09:45:36.068 [Actor Thread 37] DEBUG nextflow.file.FileCollector - Deleting file collector temp dir: /tmp/nxf-2992669416590955040
+Jul-21 09:45:36.069 [Task submitter] INFO  nextflow.Session - [78/b43e34] Submitted process > MAG:FASTQC_RAW (C114FAW_FDSW202364744-1r_H37NKDSXY)
+Jul-21 09:45:36.089 [Task submitter] DEBUG nextflow.executor.LocalTaskHandler - Launch cmd line: /bin/bash -ue .command.run
+Jul-21 09:45:36.124 [Task submitter] INFO  nextflow.Session - [44/745aa4] Submitted process > MAG:GTDBTK:GTDBTK_DB_PREPARATION (gtdbtk_r202_data.tar.gz)
+Jul-21 09:45:36.198 [Task submitter] DEBUG nextflow.executor.LocalTaskHandler - Launch cmd line: /bin/bash -ue .command.run
+Jul-21 09:45:36.237 [Task submitter] INFO  nextflow.Session - [69/ee7be6] Submitted process > MAG:FASTP (C114FAW_FDSW202364744-1r_H37NKDSXY)
+Jul-21 09:45:36.300 [Task submitter] DEBUG nextflow.executor.LocalTaskHandler - Launch cmd line: /bin/bash -ue .command.run
+Jul-21 09:45:36.351 [Task submitter] INFO  nextflow.Session - [90/beb5b1] Submitted process > MAG:BOWTIE2_PHIX_REMOVAL_BUILD (GCA_002596845.1_ASM259684v1_genomic.fna.gz)
+Jul-21 09:45:40.769 [Task monitor] DEBUG n.processor.TaskPollingMonitor - Task completed > TaskHandler[id: 3; name: MAG:BUSCO_QC:BUSCO_DB_PREPARATION (bacteria_odb10.2020-03-06.tar); status: COMPLETED; exit: 0; error: -; workDir: /gpfs/summit/scratch/parsa96@colostate.edu/nf-core/work/c4/c9c06dabe4dc9a2a9f56cb3b49ad34]
+Jul-21 09:45:44.695 [Task monitor] DEBUG n.processor.TaskPollingMonitor - Task completed > TaskHandler[id: 1; name: MAG:BOWTIE2_PHIX_REMOVAL_BUILD (GCA_002596845.1_ASM259684v1_genomic.fna.gz); status: COMPLETED; exit: 0; error: -; workDir: /gpfs/summit/scratch/parsa96@colostate.edu/nf-core/work/90/beb5b1dcaa17959e2e14ae77a1114d]
+Jul-21 09:50:28.745 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 3 -- submitted tasks are shown below
+~> TaskHandler[id: 4; name: MAG:FASTQC_RAW (C114FAW_FDSW202364744-1r_H37NKDSXY); status: RUNNING; exit: -; error: -; workDir: /gpfs/summit/scratch/parsa96@colostate.edu/nf-core/work/78/b43e340549de34e5d3ef4eede24f7c]
+~> TaskHandler[id: 2; name: MAG:GTDBTK:GTDBTK_DB_PREPARATION (gtdbtk_r202_data.tar.gz); status: RUNNING; exit: -; error: -; workDir: /gpfs/summit/scratch/parsa96@colostate.edu/nf-core/work/44/745aa4d991dd406237cf1f8c4d7172]
+~> TaskHandler[id: 5; name: MAG:FASTP (C114FAW_FDSW202364744-1r_H37NKDSXY); status: RUNNING; exit: -; error: -; workDir: /gpfs/summit/scratch/parsa96@colostate.edu/nf-core/work/69/ee7be615dff773d385d788c3f436d0]
+Jul-21 09:55:28.764 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 3 -- submitted tasks are shown below
+~> TaskHandler[id: 4; name: MAG:FASTQC_RAW (C114FAW_FDSW202364744-1r_H37NKDSXY); status: RUNNING; exit: -; error: -; workDir: /gpfs/summit/scratch/parsa96@colostate.edu/nf-core/work/78/b43e340549de34e5d3ef4eede24f7c]
+~> TaskHandler[id: 2; name: MAG:GTDBTK:GTDBTK_DB_PREPARATION (gtdbtk_r202_data.tar.gz); status: RUNNING; exit: -; error: -; workDir: /gpfs/summit/scratch/parsa96@colostate.edu/nf-core/work/44/745aa4d991dd406237cf1f8c4d7172]
+~> TaskHandler[id: 5; name: MAG:FASTP (C114FAW_FDSW202364744-1r_H37NKDSXY); status: RUNNING; exit: -; error: -; workDir: /gpfs/summit/scratch/parsa96@colostate.edu/nf-core/work/69/ee7be615dff773d385d788c3f436d0]
+Jul-21 10:00:28.821 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 3 -- submitted tasks are shown below
+~> TaskHandler[id: 4; name: MAG:FASTQC_RAW (C114FAW_FDSW202364744-1r_H37NKDSXY); status: RUNNING; exit: -; error: -; workDir: /gpfs/summit/scratch/parsa96@colostate.edu/nf-core/work/78/b43e340549de34e5d3ef4eede24f7c]
+~> TaskHandler[id: 2; name: MAG:GTDBTK:GTDBTK_DB_PREPARATION (gtdbtk_r202_data.tar.gz); status: RUNNING; exit: -; error: -; workDir: /gpfs/summit/scratch/parsa96@colostate.edu/nf-core/work/44/745aa4d991dd406237cf1f8c4d7172]
+~> TaskHandler[id: 5; name: MAG:FASTP (C114FAW_FDSW202364744-1r_H37NKDSXY); status: RUNNING; exit: -; error: -; workDir: /gpfs/summit/scratch/parsa96@colostate.edu/nf-core/work/69/ee7be615dff773d385d788c3f436d0]
+Jul-21 10:05:28.823 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 3 -- submitted tasks are shown below
+~> TaskHandler[id: 4; name: MAG:FASTQC_RAW (C114FAW_FDSW202364744-1r_H37NKDSXY); status: RUNNING; exit: -; error: -; workDir: /gpfs/summit/scratch/parsa96@colostate.edu/nf-core/work/78/b43e340549de34e5d3ef4eede24f7c]
+~> TaskHandler[id: 2; name: MAG:GTDBTK:GTDBTK_DB_PREPARATION (gtdbtk_r202_data.tar.gz); status: RUNNING; exit: -; error: -; workDir: /gpfs/summit/scratch/parsa96@colostate.edu/nf-core/work/44/745aa4d991dd406237cf1f8c4d7172]
+~> TaskHandler[id: 5; name: MAG:FASTP (C114FAW_FDSW202364744-1r_H37NKDSXY); status: RUNNING; exit: -; error: -; workDir: /gpfs/summit/scratch/parsa96@colostate.edu/nf-core/work/69/ee7be615dff773d385d788c3f436d0]
+Jul-21 10:10:28.861 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 3 -- submitted tasks are shown below
+~> TaskHandler[id: 4; name: MAG:FASTQC_RAW (C114FAW_FDSW202364744-1r_H37NKDSXY); status: RUNNING; exit: -; error: -; workDir: /gpfs/summit/scratch/parsa96@colostate.edu/nf-core/work/78/b43e340549de34e5d3ef4eede24f7c]
+~> TaskHandler[id: 2; name: MAG:GTDBTK:GTDBTK_DB_PREPARATION (gtdbtk_r202_data.tar.gz); status: RUNNING; exit: -; error: -; workDir: /gpfs/summit/scratch/parsa96@colostate.edu/nf-core/work/44/745aa4d991dd406237cf1f8c4d7172]
+~> TaskHandler[id: 5; name: MAG:FASTP (C114FAW_FDSW202364744-1r_H37NKDSXY); status: RUNNING; exit: -; error: -; workDir: /gpfs/summit/scratch/parsa96@colostate.edu/nf-core/work/69/ee7be615dff773d385d788c3f436d0]
+Jul-21 10:15:01.885 [Task monitor] DEBUG n.processor.TaskPollingMonitor - Task completed > TaskHandler[id: 5; name: MAG:FASTP (C114FAW_FDSW202364744-1r_H37NKDSXY); status: COMPLETED; exit: 0; error: -; workDir: /gpfs/summit/scratch/parsa96@colostate.edu/nf-core/work/69/ee7be615dff773d385d788c3f436d0]
+Jul-21 10:15:02.565 [Task monitor] DEBUG nextflow.processor.TaskProcessor - Process MAG:FASTP > Skipping output binding because one or more optional files are missing: fileoutparam<5:1>
+Jul-21 10:15:02.603 [Task monitor] DEBUG n.util.BlockingThreadExecutorFactory - Thread pool name=FileTransfer; maxThreads=72; maxQueueSize=216; keepAlive=1m
+Jul-21 10:15:03.073 [Task submitter] DEBUG nextflow.executor.LocalTaskHandler - Launch cmd line: /bin/bash -ue .command.run
+Jul-21 10:15:03.113 [Task submitter] INFO  nextflow.Session - [31/8ee377] Submitted process > MAG:BOWTIE2_PHIX_REMOVAL_ALIGN (C114FAW_FDSW202364744-1r_H37NKDSXY-phix_removed)
+Jul-21 10:15:28.885 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 3 -- submitted tasks are shown below
+~> TaskHandler[id: 4; name: MAG:FASTQC_RAW (C114FAW_FDSW202364744-1r_H37NKDSXY); status: RUNNING; exit: -; error: -; workDir: /gpfs/summit/scratch/parsa96@colostate.edu/nf-core/work/78/b43e340549de34e5d3ef4eede24f7c]
+~> TaskHandler[id: 2; name: MAG:GTDBTK:GTDBTK_DB_PREPARATION (gtdbtk_r202_data.tar.gz); status: RUNNING; exit: -; error: -; workDir: /gpfs/summit/scratch/parsa96@colostate.edu/nf-core/work/44/745aa4d991dd406237cf1f8c4d7172]
+~> TaskHandler[id: 6; name: MAG:BOWTIE2_PHIX_REMOVAL_ALIGN (C114FAW_FDSW202364744-1r_H37NKDSXY-phix_removed); status: RUNNING; exit: -; error: -; workDir: /gpfs/summit/scratch/parsa96@colostate.edu/nf-core/work/31/8ee377123cf6e64376080178f01b94]
+Jul-21 10:20:28.955 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 3 -- submitted tasks are shown below
+~> TaskHandler[id: 4; name: MAG:FASTQC_RAW (C114FAW_FDSW202364744-1r_H37NKDSXY); status: RUNNING; exit: -; error: -; workDir: /gpfs/summit/scratch/parsa96@colostate.edu/nf-core/work/78/b43e340549de34e5d3ef4eede24f7c]
+~> TaskHandler[id: 2; name: MAG:GTDBTK:GTDBTK_DB_PREPARATION (gtdbtk_r202_data.tar.gz); status: RUNNING; exit: -; error: -; workDir: /gpfs/summit/scratch/parsa96@colostate.edu/nf-core/work/44/745aa4d991dd406237cf1f8c4d7172]
+~> TaskHandler[id: 6; name: MAG:BOWTIE2_PHIX_REMOVAL_ALIGN (C114FAW_FDSW202364744-1r_H37NKDSXY-phix_removed); status: RUNNING; exit: -; error: -; workDir: /gpfs/summit/scratch/parsa96@colostate.edu/nf-core/work/31/8ee377123cf6e64376080178f01b94]
+Jul-21 10:20:46.884 [Task monitor] DEBUG n.processor.TaskPollingMonitor - Task completed > TaskHandler[id: 4; name: MAG:FASTQC_RAW (C114FAW_FDSW202364744-1r_H37NKDSXY); status: COMPLETED; exit: 0; error: -; workDir: /gpfs/summit/scratch/parsa96@colostate.edu/nf-core/work/78/b43e340549de34e5d3ef4eede24f7c]
+Jul-21 10:25:28.980 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 2 -- submitted tasks are shown below
+~> TaskHandler[id: 2; name: MAG:GTDBTK:GTDBTK_DB_PREPARATION (gtdbtk_r202_data.tar.gz); status: RUNNING; exit: -; error: -; workDir: /gpfs/summit/scratch/parsa96@colostate.edu/nf-core/work/44/745aa4d991dd406237cf1f8c4d7172]
+~> TaskHandler[id: 6; name: MAG:BOWTIE2_PHIX_REMOVAL_ALIGN (C114FAW_FDSW202364744-1r_H37NKDSXY-phix_removed); status: RUNNING; exit: -; error: -; workDir: /gpfs/summit/scratch/parsa96@colostate.edu/nf-core/work/31/8ee377123cf6e64376080178f01b94]
+Jul-21 10:29:05.647 [Task monitor] DEBUG n.processor.TaskPollingMonitor - Task completed > TaskHandler[id: 2; name: MAG:GTDBTK:GTDBTK_DB_PREPARATION (gtdbtk_r202_data.tar.gz); status: COMPLETED; exit: 0; error: -; workDir: /gpfs/summit/scratch/parsa96@colostate.edu/nf-core/work/44/745aa4d991dd406237cf1f8c4d7172]
+Jul-21 10:30:28.984 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 6; name: MAG:BOWTIE2_PHIX_REMOVAL_ALIGN (C114FAW_FDSW202364744-1r_H37NKDSXY-phix_removed); status: RUNNING; exit: -; error: -; workDir: /gpfs/summit/scratch/parsa96@colostate.edu/nf-core/work/31/8ee377123cf6e64376080178f01b94]
+Jul-21 10:35:29.011 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 6; name: MAG:BOWTIE2_PHIX_REMOVAL_ALIGN (C114FAW_FDSW202364744-1r_H37NKDSXY-phix_removed); status: RUNNING; exit: -; error: -; workDir: /gpfs/summit/scratch/parsa96@colostate.edu/nf-core/work/31/8ee377123cf6e64376080178f01b94]
+Jul-21 10:40:29.092 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 6; name: MAG:BOWTIE2_PHIX_REMOVAL_ALIGN (C114FAW_FDSW202364744-1r_H37NKDSXY-phix_removed); status: RUNNING; exit: -; error: -; workDir: /gpfs/summit/scratch/parsa96@colostate.edu/nf-core/work/31/8ee377123cf6e64376080178f01b94]
+Jul-21 10:45:29.114 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 6; name: MAG:BOWTIE2_PHIX_REMOVAL_ALIGN (C114FAW_FDSW202364744-1r_H37NKDSXY-phix_removed); status: RUNNING; exit: -; error: -; workDir: /gpfs/summit/scratch/parsa96@colostate.edu/nf-core/work/31/8ee377123cf6e64376080178f01b94]
+Jul-21 10:50:29.187 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 6; name: MAG:BOWTIE2_PHIX_REMOVAL_ALIGN (C114FAW_FDSW202364744-1r_H37NKDSXY-phix_removed); status: RUNNING; exit: -; error: -; workDir: /gpfs/summit/scratch/parsa96@colostate.edu/nf-core/work/31/8ee377123cf6e64376080178f01b94]
+Jul-21 10:55:29.197 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 6; name: MAG:BOWTIE2_PHIX_REMOVAL_ALIGN (C114FAW_FDSW202364744-1r_H37NKDSXY-phix_removed); status: RUNNING; exit: -; error: -; workDir: /gpfs/summit/scratch/parsa96@colostate.edu/nf-core/work/31/8ee377123cf6e64376080178f01b94]
+Jul-21 11:00:29.290 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 6; name: MAG:BOWTIE2_PHIX_REMOVAL_ALIGN (C114FAW_FDSW202364744-1r_H37NKDSXY-phix_removed); status: RUNNING; exit: -; error: -; workDir: /gpfs/summit/scratch/parsa96@colostate.edu/nf-core/work/31/8ee377123cf6e64376080178f01b94]
+Jul-21 11:05:29.352 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 6; name: MAG:BOWTIE2_PHIX_REMOVAL_ALIGN (C114FAW_FDSW202364744-1r_H37NKDSXY-phix_removed); status: RUNNING; exit: -; error: -; workDir: /gpfs/summit/scratch/parsa96@colostate.edu/nf-core/work/31/8ee377123cf6e64376080178f01b94]
+Jul-21 11:10:29.355 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 6; name: MAG:BOWTIE2_PHIX_REMOVAL_ALIGN (C114FAW_FDSW202364744-1r_H37NKDSXY-phix_removed); status: RUNNING; exit: -; error: -; workDir: /gpfs/summit/scratch/parsa96@colostate.edu/nf-core/work/31/8ee377123cf6e64376080178f01b94]
+Jul-21 11:15:29.360 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 6; name: MAG:BOWTIE2_PHIX_REMOVAL_ALIGN (C114FAW_FDSW202364744-1r_H37NKDSXY-phix_removed); status: RUNNING; exit: -; error: -; workDir: /gpfs/summit/scratch/parsa96@colostate.edu/nf-core/work/31/8ee377123cf6e64376080178f01b94]
+Jul-21 11:20:29.375 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 6; name: MAG:BOWTIE2_PHIX_REMOVAL_ALIGN (C114FAW_FDSW202364744-1r_H37NKDSXY-phix_removed); status: RUNNING; exit: -; error: -; workDir: /gpfs/summit/scratch/parsa96@colostate.edu/nf-core/work/31/8ee377123cf6e64376080178f01b94]
+Jul-21 11:25:29.460 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 6; name: MAG:BOWTIE2_PHIX_REMOVAL_ALIGN (C114FAW_FDSW202364744-1r_H37NKDSXY-phix_removed); status: RUNNING; exit: -; error: -; workDir: /gpfs/summit/scratch/parsa96@colostate.edu/nf-core/work/31/8ee377123cf6e64376080178f01b94]
+Jul-21 11:30:29.528 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 6; name: MAG:BOWTIE2_PHIX_REMOVAL_ALIGN (C114FAW_FDSW202364744-1r_H37NKDSXY-phix_removed); status: RUNNING; exit: -; error: -; workDir: /gpfs/summit/scratch/parsa96@colostate.edu/nf-core/work/31/8ee377123cf6e64376080178f01b94]
+Jul-21 11:35:29.552 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 6; name: MAG:BOWTIE2_PHIX_REMOVAL_ALIGN (C114FAW_FDSW202364744-1r_H37NKDSXY-phix_removed); status: RUNNING; exit: -; error: -; workDir: /gpfs/summit/scratch/parsa96@colostate.edu/nf-core/work/31/8ee377123cf6e64376080178f01b94]
+Jul-21 11:40:29.638 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 6; name: MAG:BOWTIE2_PHIX_REMOVAL_ALIGN (C114FAW_FDSW202364744-1r_H37NKDSXY-phix_removed); status: RUNNING; exit: -; error: -; workDir: /gpfs/summit/scratch/parsa96@colostate.edu/nf-core/work/31/8ee377123cf6e64376080178f01b94]
+Jul-21 11:45:29.646 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 6; name: MAG:BOWTIE2_PHIX_REMOVAL_ALIGN (C114FAW_FDSW202364744-1r_H37NKDSXY-phix_removed); status: RUNNING; exit: -; error: -; workDir: /gpfs/summit/scratch/parsa96@colostate.edu/nf-core/work/31/8ee377123cf6e64376080178f01b94]
+Jul-21 11:50:29.716 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 6; name: MAG:BOWTIE2_PHIX_REMOVAL_ALIGN (C114FAW_FDSW202364744-1r_H37NKDSXY-phix_removed); status: RUNNING; exit: -; error: -; workDir: /gpfs/summit/scratch/parsa96@colostate.edu/nf-core/work/31/8ee377123cf6e64376080178f01b94]
+Jul-21 11:55:29.785 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 6; name: MAG:BOWTIE2_PHIX_REMOVAL_ALIGN (C114FAW_FDSW202364744-1r_H37NKDSXY-phix_removed); status: RUNNING; exit: -; error: -; workDir: /gpfs/summit/scratch/parsa96@colostate.edu/nf-core/work/31/8ee377123cf6e64376080178f01b94]
+Jul-21 12:00:29.803 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 6; name: MAG:BOWTIE2_PHIX_REMOVAL_ALIGN (C114FAW_FDSW202364744-1r_H37NKDSXY-phix_removed); status: RUNNING; exit: -; error: -; workDir: /gpfs/summit/scratch/parsa96@colostate.edu/nf-core/work/31/8ee377123cf6e64376080178f01b94]
+Jul-21 12:05:29.889 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 6; name: MAG:BOWTIE2_PHIX_REMOVAL_ALIGN (C114FAW_FDSW202364744-1r_H37NKDSXY-phix_removed); status: RUNNING; exit: -; error: -; workDir: /gpfs/summit/scratch/parsa96@colostate.edu/nf-core/work/31/8ee377123cf6e64376080178f01b94]
+Jul-21 12:10:29.963 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 6; name: MAG:BOWTIE2_PHIX_REMOVAL_ALIGN (C114FAW_FDSW202364744-1r_H37NKDSXY-phix_removed); status: RUNNING; exit: -; error: -; workDir: /gpfs/summit/scratch/parsa96@colostate.edu/nf-core/work/31/8ee377123cf6e64376080178f01b94]
+Jul-21 12:15:30.008 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 6; name: MAG:BOWTIE2_PHIX_REMOVAL_ALIGN (C114FAW_FDSW202364744-1r_H37NKDSXY-phix_removed); status: RUNNING; exit: -; error: -; workDir: /gpfs/summit/scratch/parsa96@colostate.edu/nf-core/work/31/8ee377123cf6e64376080178f01b94]
+Jul-21 12:20:30.009 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 6; name: MAG:BOWTIE2_PHIX_REMOVAL_ALIGN (C114FAW_FDSW202364744-1r_H37NKDSXY-phix_removed); status: RUNNING; exit: -; error: -; workDir: /gpfs/summit/scratch/parsa96@colostate.edu/nf-core/work/31/8ee377123cf6e64376080178f01b94]
+Jul-21 12:25:30.102 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 6; name: MAG:BOWTIE2_PHIX_REMOVAL_ALIGN (C114FAW_FDSW202364744-1r_H37NKDSXY-phix_removed); status: RUNNING; exit: -; error: -; workDir: /gpfs/summit/scratch/parsa96@colostate.edu/nf-core/work/31/8ee377123cf6e64376080178f01b94]
+Jul-21 12:30:30.196 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 6; name: MAG:BOWTIE2_PHIX_REMOVAL_ALIGN (C114FAW_FDSW202364744-1r_H37NKDSXY-phix_removed); status: RUNNING; exit: -; error: -; workDir: /gpfs/summit/scratch/parsa96@colostate.edu/nf-core/work/31/8ee377123cf6e64376080178f01b94]
+Jul-21 12:35:30.204 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 6; name: MAG:BOWTIE2_PHIX_REMOVAL_ALIGN (C114FAW_FDSW202364744-1r_H37NKDSXY-phix_removed); status: RUNNING; exit: -; error: -; workDir: /gpfs/summit/scratch/parsa96@colostate.edu/nf-core/work/31/8ee377123cf6e64376080178f01b94]
+Jul-21 12:40:30.256 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 6; name: MAG:BOWTIE2_PHIX_REMOVAL_ALIGN (C114FAW_FDSW202364744-1r_H37NKDSXY-phix_removed); status: RUNNING; exit: -; error: -; workDir: /gpfs/summit/scratch/parsa96@colostate.edu/nf-core/work/31/8ee377123cf6e64376080178f01b94]
+Jul-21 12:45:30.296 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 6; name: MAG:BOWTIE2_PHIX_REMOVAL_ALIGN (C114FAW_FDSW202364744-1r_H37NKDSXY-phix_removed); status: RUNNING; exit: -; error: -; workDir: /gpfs/summit/scratch/parsa96@colostate.edu/nf-core/work/31/8ee377123cf6e64376080178f01b94]
+Jul-21 12:50:30.350 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 6; name: MAG:BOWTIE2_PHIX_REMOVAL_ALIGN (C114FAW_FDSW202364744-1r_H37NKDSXY-phix_removed); status: RUNNING; exit: -; error: -; workDir: /gpfs/summit/scratch/parsa96@colostate.edu/nf-core/work/31/8ee377123cf6e64376080178f01b94]
+Jul-21 12:55:30.447 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 6; name: MAG:BOWTIE2_PHIX_REMOVAL_ALIGN (C114FAW_FDSW202364744-1r_H37NKDSXY-phix_removed); status: RUNNING; exit: -; error: -; workDir: /gpfs/summit/scratch/parsa96@colostate.edu/nf-core/work/31/8ee377123cf6e64376080178f01b94]
+Jul-21 13:00:30.525 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 6; name: MAG:BOWTIE2_PHIX_REMOVAL_ALIGN (C114FAW_FDSW202364744-1r_H37NKDSXY-phix_removed); status: RUNNING; exit: -; error: -; workDir: /gpfs/summit/scratch/parsa96@colostate.edu/nf-core/work/31/8ee377123cf6e64376080178f01b94]
+Jul-21 13:05:30.534 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 6; name: MAG:BOWTIE2_PHIX_REMOVAL_ALIGN (C114FAW_FDSW202364744-1r_H37NKDSXY-phix_removed); status: RUNNING; exit: -; error: -; workDir: /gpfs/summit/scratch/parsa96@colostate.edu/nf-core/work/31/8ee377123cf6e64376080178f01b94]
+Jul-21 13:10:30.572 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 6; name: MAG:BOWTIE2_PHIX_REMOVAL_ALIGN (C114FAW_FDSW202364744-1r_H37NKDSXY-phix_removed); status: RUNNING; exit: -; error: -; workDir: /gpfs/summit/scratch/parsa96@colostate.edu/nf-core/work/31/8ee377123cf6e64376080178f01b94]
+Jul-21 13:15:30.622 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 6; name: MAG:BOWTIE2_PHIX_REMOVAL_ALIGN (C114FAW_FDSW202364744-1r_H37NKDSXY-phix_removed); status: RUNNING; exit: -; error: -; workDir: /gpfs/summit/scratch/parsa96@colostate.edu/nf-core/work/31/8ee377123cf6e64376080178f01b94]
+Jul-21 13:20:30.696 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 6; name: MAG:BOWTIE2_PHIX_REMOVAL_ALIGN (C114FAW_FDSW202364744-1r_H37NKDSXY-phix_removed); status: RUNNING; exit: -; error: -; workDir: /gpfs/summit/scratch/parsa96@colostate.edu/nf-core/work/31/8ee377123cf6e64376080178f01b94]
+Jul-21 13:25:30.727 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 6; name: MAG:BOWTIE2_PHIX_REMOVAL_ALIGN (C114FAW_FDSW202364744-1r_H37NKDSXY-phix_removed); status: RUNNING; exit: -; error: -; workDir: /gpfs/summit/scratch/parsa96@colostate.edu/nf-core/work/31/8ee377123cf6e64376080178f01b94]
+Jul-21 13:30:30.810 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 6; name: MAG:BOWTIE2_PHIX_REMOVAL_ALIGN (C114FAW_FDSW202364744-1r_H37NKDSXY-phix_removed); status: RUNNING; exit: -; error: -; workDir: /gpfs/summit/scratch/parsa96@colostate.edu/nf-core/work/31/8ee377123cf6e64376080178f01b94]
+Jul-21 13:35:30.825 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 6; name: MAG:BOWTIE2_PHIX_REMOVAL_ALIGN (C114FAW_FDSW202364744-1r_H37NKDSXY-phix_removed); status: RUNNING; exit: -; error: -; workDir: /gpfs/summit/scratch/parsa96@colostate.edu/nf-core/work/31/8ee377123cf6e64376080178f01b94]
+Jul-21 13:40:30.911 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 6; name: MAG:BOWTIE2_PHIX_REMOVAL_ALIGN (C114FAW_FDSW202364744-1r_H37NKDSXY-phix_removed); status: RUNNING; exit: -; error: -; workDir: /gpfs/summit/scratch/parsa96@colostate.edu/nf-core/work/31/8ee377123cf6e64376080178f01b94]
+Jul-21 13:45:30.986 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 6; name: MAG:BOWTIE2_PHIX_REMOVAL_ALIGN (C114FAW_FDSW202364744-1r_H37NKDSXY-phix_removed); status: RUNNING; exit: -; error: -; workDir: /gpfs/summit/scratch/parsa96@colostate.edu/nf-core/work/31/8ee377123cf6e64376080178f01b94]
+Jul-21 13:50:31.030 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 6; name: MAG:BOWTIE2_PHIX_REMOVAL_ALIGN (C114FAW_FDSW202364744-1r_H37NKDSXY-phix_removed); status: RUNNING; exit: -; error: -; workDir: /gpfs/summit/scratch/parsa96@colostate.edu/nf-core/work/31/8ee377123cf6e64376080178f01b94]
+Jul-21 13:55:31.068 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 6; name: MAG:BOWTIE2_PHIX_REMOVAL_ALIGN (C114FAW_FDSW202364744-1r_H37NKDSXY-phix_removed); status: RUNNING; exit: -; error: -; workDir: /gpfs/summit/scratch/parsa96@colostate.edu/nf-core/work/31/8ee377123cf6e64376080178f01b94]
+Jul-21 14:00:31.107 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 6; name: MAG:BOWTIE2_PHIX_REMOVAL_ALIGN (C114FAW_FDSW202364744-1r_H37NKDSXY-phix_removed); status: RUNNING; exit: -; error: -; workDir: /gpfs/summit/scratch/parsa96@colostate.edu/nf-core/work/31/8ee377123cf6e64376080178f01b94]
+Jul-21 14:05:31.202 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 6; name: MAG:BOWTIE2_PHIX_REMOVAL_ALIGN (C114FAW_FDSW202364744-1r_H37NKDSXY-phix_removed); status: RUNNING; exit: -; error: -; workDir: /gpfs/summit/scratch/parsa96@colostate.edu/nf-core/work/31/8ee377123cf6e64376080178f01b94]
+Jul-21 14:10:31.275 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 6; name: MAG:BOWTIE2_PHIX_REMOVAL_ALIGN (C114FAW_FDSW202364744-1r_H37NKDSXY-phix_removed); status: RUNNING; exit: -; error: -; workDir: /gpfs/summit/scratch/parsa96@colostate.edu/nf-core/work/31/8ee377123cf6e64376080178f01b94]
+Jul-21 14:15:31.293 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 6; name: MAG:BOWTIE2_PHIX_REMOVAL_ALIGN (C114FAW_FDSW202364744-1r_H37NKDSXY-phix_removed); status: RUNNING; exit: -; error: -; workDir: /gpfs/summit/scratch/parsa96@colostate.edu/nf-core/work/31/8ee377123cf6e64376080178f01b94]
+Jul-21 14:20:31.306 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 6; name: MAG:BOWTIE2_PHIX_REMOVAL_ALIGN (C114FAW_FDSW202364744-1r_H37NKDSXY-phix_removed); status: RUNNING; exit: -; error: -; workDir: /gpfs/summit/scratch/parsa96@colostate.edu/nf-core/work/31/8ee377123cf6e64376080178f01b94]
+Jul-21 14:25:31.330 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 6; name: MAG:BOWTIE2_PHIX_REMOVAL_ALIGN (C114FAW_FDSW202364744-1r_H37NKDSXY-phix_removed); status: RUNNING; exit: -; error: -; workDir: /gpfs/summit/scratch/parsa96@colostate.edu/nf-core/work/31/8ee377123cf6e64376080178f01b94]
+Jul-21 14:30:31.393 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 6; name: MAG:BOWTIE2_PHIX_REMOVAL_ALIGN (C114FAW_FDSW202364744-1r_H37NKDSXY-phix_removed); status: RUNNING; exit: -; error: -; workDir: /gpfs/summit/scratch/parsa96@colostate.edu/nf-core/work/31/8ee377123cf6e64376080178f01b94]
+Jul-21 14:35:31.402 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 6; name: MAG:BOWTIE2_PHIX_REMOVAL_ALIGN (C114FAW_FDSW202364744-1r_H37NKDSXY-phix_removed); status: RUNNING; exit: -; error: -; workDir: /gpfs/summit/scratch/parsa96@colostate.edu/nf-core/work/31/8ee377123cf6e64376080178f01b94]
+Jul-21 14:40:31.409 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 6; name: MAG:BOWTIE2_PHIX_REMOVAL_ALIGN (C114FAW_FDSW202364744-1r_H37NKDSXY-phix_removed); status: RUNNING; exit: -; error: -; workDir: /gpfs/summit/scratch/parsa96@colostate.edu/nf-core/work/31/8ee377123cf6e64376080178f01b94]
+Jul-21 14:45:31.434 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 6; name: MAG:BOWTIE2_PHIX_REMOVAL_ALIGN (C114FAW_FDSW202364744-1r_H37NKDSXY-phix_removed); status: RUNNING; exit: -; error: -; workDir: /gpfs/summit/scratch/parsa96@colostate.edu/nf-core/work/31/8ee377123cf6e64376080178f01b94]
+Jul-21 14:50:31.516 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 6; name: MAG:BOWTIE2_PHIX_REMOVAL_ALIGN (C114FAW_FDSW202364744-1r_H37NKDSXY-phix_removed); status: RUNNING; exit: -; error: -; workDir: /gpfs/summit/scratch/parsa96@colostate.edu/nf-core/work/31/8ee377123cf6e64376080178f01b94]
+Jul-21 14:55:31.572 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 6; name: MAG:BOWTIE2_PHIX_REMOVAL_ALIGN (C114FAW_FDSW202364744-1r_H37NKDSXY-phix_removed); status: RUNNING; exit: -; error: -; workDir: /gpfs/summit/scratch/parsa96@colostate.edu/nf-core/work/31/8ee377123cf6e64376080178f01b94]
+Jul-21 15:00:31.669 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 6; name: MAG:BOWTIE2_PHIX_REMOVAL_ALIGN (C114FAW_FDSW202364744-1r_H37NKDSXY-phix_removed); status: RUNNING; exit: -; error: -; workDir: /gpfs/summit/scratch/parsa96@colostate.edu/nf-core/work/31/8ee377123cf6e64376080178f01b94]
+Jul-21 15:05:31.763 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 6; name: MAG:BOWTIE2_PHIX_REMOVAL_ALIGN (C114FAW_FDSW202364744-1r_H37NKDSXY-phix_removed); status: RUNNING; exit: -; error: -; workDir: /gpfs/summit/scratch/parsa96@colostate.edu/nf-core/work/31/8ee377123cf6e64376080178f01b94]
+Jul-21 15:10:31.852 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 6; name: MAG:BOWTIE2_PHIX_REMOVAL_ALIGN (C114FAW_FDSW202364744-1r_H37NKDSXY-phix_removed); status: RUNNING; exit: -; error: -; workDir: /gpfs/summit/scratch/parsa96@colostate.edu/nf-core/work/31/8ee377123cf6e64376080178f01b94]
+Jul-21 15:15:31.932 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 6; name: MAG:BOWTIE2_PHIX_REMOVAL_ALIGN (C114FAW_FDSW202364744-1r_H37NKDSXY-phix_removed); status: RUNNING; exit: -; error: -; workDir: /gpfs/summit/scratch/parsa96@colostate.edu/nf-core/work/31/8ee377123cf6e64376080178f01b94]
+Jul-21 15:20:31.937 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 6; name: MAG:BOWTIE2_PHIX_REMOVAL_ALIGN (C114FAW_FDSW202364744-1r_H37NKDSXY-phix_removed); status: RUNNING; exit: -; error: -; workDir: /gpfs/summit/scratch/parsa96@colostate.edu/nf-core/work/31/8ee377123cf6e64376080178f01b94]
+Jul-21 15:25:32.037 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 6; name: MAG:BOWTIE2_PHIX_REMOVAL_ALIGN (C114FAW_FDSW202364744-1r_H37NKDSXY-phix_removed); status: RUNNING; exit: -; error: -; workDir: /gpfs/summit/scratch/parsa96@colostate.edu/nf-core/work/31/8ee377123cf6e64376080178f01b94]
+Jul-21 15:30:32.133 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 6; name: MAG:BOWTIE2_PHIX_REMOVAL_ALIGN (C114FAW_FDSW202364744-1r_H37NKDSXY-phix_removed); status: RUNNING; exit: -; error: -; workDir: /gpfs/summit/scratch/parsa96@colostate.edu/nf-core/work/31/8ee377123cf6e64376080178f01b94]
+Jul-21 15:35:32.203 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 6; name: MAG:BOWTIE2_PHIX_REMOVAL_ALIGN (C114FAW_FDSW202364744-1r_H37NKDSXY-phix_removed); status: RUNNING; exit: -; error: -; workDir: /gpfs/summit/scratch/parsa96@colostate.edu/nf-core/work/31/8ee377123cf6e64376080178f01b94]
+Jul-21 15:40:32.228 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 6; name: MAG:BOWTIE2_PHIX_REMOVAL_ALIGN (C114FAW_FDSW202364744-1r_H37NKDSXY-phix_removed); status: RUNNING; exit: -; error: -; workDir: /gpfs/summit/scratch/parsa96@colostate.edu/nf-core/work/31/8ee377123cf6e64376080178f01b94]
+Jul-21 15:45:32.325 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 6; name: MAG:BOWTIE2_PHIX_REMOVAL_ALIGN (C114FAW_FDSW202364744-1r_H37NKDSXY-phix_removed); status: RUNNING; exit: -; error: -; workDir: /gpfs/summit/scratch/parsa96@colostate.edu/nf-core/work/31/8ee377123cf6e64376080178f01b94]
+Jul-21 15:48:20.164 [Task monitor] DEBUG n.processor.TaskPollingMonitor - Task completed > TaskHandler[id: 6; name: MAG:BOWTIE2_PHIX_REMOVAL_ALIGN (C114FAW_FDSW202364744-1r_H37NKDSXY-phix_removed); status: COMPLETED; exit: 0; error: -; workDir: /gpfs/summit/scratch/parsa96@colostate.edu/nf-core/work/31/8ee377123cf6e64376080178f01b94]
+Jul-21 15:48:20.252 [Task monitor] DEBUG nextflow.processor.TaskProcessor - Process MAG:BOWTIE2_PHIX_REMOVAL_ALIGN > Skipping output binding because one or more optional files are missing: fileoutparam<1>
+Jul-21 15:48:20.270 [Task submitter] DEBUG nextflow.executor.LocalTaskHandler - Launch cmd line: /bin/bash -ue .command.run
+Jul-21 15:48:20.308 [Task submitter] INFO  nextflow.Session - [55/9abc56] Submitted process > MAG:FASTQC_TRIMMED (C114FAW_FDSW202364744-1r_H37NKDSXY)
+Jul-21 15:48:22.755 [Actor Thread 71] DEBUG nextflow.container.SingularityCache - Singularity found local store for image=https://depot.galaxyproject.org/singularity/megahit:1.2.7--h8b12597_0; path=/scratch/summit/parsa96@colostate.edu/.singularity/cache/depot.galaxyproject.org-singularity-megahit-1.2.7--h8b12597_0.img
+Jul-21 15:48:22.877 [Actor Thread 67] DEBUG nextflow.container.SingularityCache - Singularity found local store for image=https://depot.galaxyproject.org/singularity/spades:3.13.1--h2d02072_2; path=/scratch/summit/parsa96@colostate.edu/.singularity/cache/depot.galaxyproject.org-singularity-spades-3.13.1--h2d02072_2.img
+Jul-21 15:48:22.950 [Task submitter] DEBUG nextflow.executor.LocalTaskHandler - Launch cmd line: /bin/bash -ue .command.run
+Jul-21 15:48:22.981 [Task submitter] INFO  nextflow.Session - [f5/30b071] Submitted process > MAG:MEGAHIT (C114FAW_FDSW202364744-1r_H37NKDSXY)
+Jul-21 15:50:32.405 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 2 -- submitted tasks are shown below
+~> TaskHandler[id: 7; name: MAG:FASTQC_TRIMMED (C114FAW_FDSW202364744-1r_H37NKDSXY); status: RUNNING; exit: -; error: -; workDir: /gpfs/summit/scratch/parsa96@colostate.edu/nf-core/work/55/9abc56083291d23a46794263bc6e7a]
+~> TaskHandler[id: 9; name: MAG:MEGAHIT (C114FAW_FDSW202364744-1r_H37NKDSXY); status: RUNNING; exit: -; error: -; workDir: /gpfs/summit/scratch/parsa96@colostate.edu/nf-core/work/f5/30b071cf0b4e9e24ed2a40bf5a9f6d]
+Jul-21 15:53:23.089 [Task submitter] DEBUG n.processor.TaskPollingMonitor - %% executor local > tasks in the submission queue: 1 -- tasks to be submitted are shown below
+~> TaskHandler[id: 8; name: MAG:SPADES (C114FAW_FDSW202364744-1r_H37NKDSXY); status: NEW; exit: -; error: -; workDir: /gpfs/summit/scratch/parsa96@colostate.edu/nf-core/work/80/13d2b827aa598c363253010dbea43c]
+Jul-21 15:53:56.819 [Task monitor] DEBUG n.processor.TaskPollingMonitor - Task completed > TaskHandler[id: 9; name: MAG:MEGAHIT (C114FAW_FDSW202364744-1r_H37NKDSXY); status: COMPLETED; exit: 247; error: -; workDir: /gpfs/summit/scratch/parsa96@colostate.edu/nf-core/work/f5/30b071cf0b4e9e24ed2a40bf5a9f6d]
+Jul-21 15:53:56.872 [Task monitor] ERROR nextflow.processor.TaskProcessor - Error executing process > 'MAG:MEGAHIT (C114FAW_FDSW202364744-1r_H37NKDSXY)'
+
+Caused by:
+  Process `MAG:MEGAHIT (C114FAW_FDSW202364744-1r_H37NKDSXY)` terminated with an error exit status (247)
+
+Command executed:
+
+  megahit  -t "8" -m 42949672960 -1 "C114FAW_FDSW202364744-1r_H37NKDSXY.phix_removed.unmapped_1.fastq.gz" -2 "C114FAW_FDSW202364744-1r_H37NKDSXY.phix_removed.unmapped_2.fastq.gz" -o MEGAHIT --out-prefix "C114FAW_FDSW202364744-1r_H37NKDSXY"
+  gzip -c "MEGAHIT/C114FAW_FDSW202364744-1r_H37NKDSXY.contigs.fa" > "MEGAHIT/C114FAW_FDSW202364744-1r_H37NKDSXY.contigs.fa.gz"
+  
+  megahit --version | sed "s/MEGAHIT v//" > megahit.version.txt
+
+Command exit status:
+  247
+
+Command output:
+  (empty)
+
+Command error:
+  WARNING: Skipping mount /curc/sw/singularity/3.6.4/var/singularity/mnt/session/etc/resolv.conf [files]: /etc/resolv.conf doesn't exist in container
+  2021-07-21 21:48:26 - MEGAHIT v1.2.7
+  2021-07-21 21:48:26 - Using megahit_core with POPCNT and BMI2 support
+  2021-07-21 21:48:26 - Convert reads to binary library
+  2021-07-21 21:53:37 - b'INFO  sequence/io/sequence_lib.cpp  :   77 - Lib 0 (C114FAW_FDSW202364744-1r_H37NKDSXY.phix_removed.unmapped_1.fastq.gz,C114FAW_FDSW202364744-1r_H37NKDSXY.phix_removed.unmapped_2.fastq.gz): pe, 48852002 reads, 150 max length'
+  2021-07-21 21:53:37 - b'INFO  utils/utils.h                 :  152 - Real: 311.3314\tuser: 45.1431\tsys: 5.6382\tmaxrss: 249812'
+  2021-07-21 21:53:37 - k-max reset to: 141 
+  2021-07-21 21:53:37 - Start assembly. Number of CPU threads 8 
+  2021-07-21 21:53:37 - k list: 21,29,39,59,79,99,119,141 
+  2021-07-21 21:53:37 - Memory used: 42949672960
+  2021-07-21 21:53:37 - Extract solid (k+1)-mers for k = 21 
+  2021-07-21 21:53:56 - Error occurs, please refer to MEGAHIT/C114FAW_FDSW202364744-1r_H37NKDSXY.log for detail
+  2021-07-21 21:53:56 - Command: /usr/local/bin/megahit_core count -k 21 -m 2 --host_mem 42949672960 --mem_flag 1 --output_prefix MEGAHIT/tmp/k21/21 --num_cpu_threads 8 --read_lib_file MEGAHIT/tmp/reads.lib; Exit code -9
+
+Work dir:
+  /gpfs/summit/scratch/parsa96@colostate.edu/nf-core/work/f5/30b071cf0b4e9e24ed2a40bf5a9f6d
+
+Tip: you can try to figure out what's wrong by changing to the process work dir and showing the script file named `.command.sh`
+Jul-21 15:53:56.926 [Task monitor] INFO  nextflow.Session - Execution cancelled -- Finishing pending tasks before exit
+Jul-21 15:53:57.224 [main] DEBUG nextflow.Session - Session await > all process finished
+Jul-21 15:53:57.399 [Actor Thread 89] DEBUG nextflow.container.SingularityCache - Singularity found local store for image=https://depot.galaxyproject.org/singularity/python:3.8.3; path=/scratch/summit/parsa96@colostate.edu/.singularity/cache/depot.galaxyproject.org-singularity-python-3.8.3.img
+Jul-21 15:53:57.401 [Actor Thread 97] DEBUG nextflow.container.SingularityCache - Singularity found local store for image=https://depot.galaxyproject.org/singularity/pandas:1.1.5; path=/scratch/summit/parsa96@colostate.edu/.singularity/cache/depot.galaxyproject.org-singularity-pandas-1.1.5.img
+Jul-21 15:53:57.419 [Actor Thread 85] DEBUG nextflow.util.CacheHelper - Hash asset file sha-256: /scratch/summit/parsa96@colostate.edu/assets/nf-core/mag/bin/summary_gtdbtk.py
+Jul-21 15:53:57.448 [Actor Thread 87] DEBUG nextflow.util.CacheHelper - Hash asset file sha-256: /scratch/summit/parsa96@colostate.edu/assets/nf-core/mag/bin/combine_tables.py
+Jul-21 15:53:57.468 [Actor Thread 92] DEBUG nextflow.util.CacheHelper - Hash asset file sha-256: /scratch/summit/parsa96@colostate.edu/assets/nf-core/mag/bin/scrape_software_versions.py
+Jul-21 15:55:32.503 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 7; name: MAG:FASTQC_TRIMMED (C114FAW_FDSW202364744-1r_H37NKDSXY); status: RUNNING; exit: -; error: -; workDir: /gpfs/summit/scratch/parsa96@colostate.edu/nf-core/work/55/9abc56083291d23a46794263bc6e7a]
+Jul-21 15:58:23.363 [Task submitter] DEBUG n.processor.TaskPollingMonitor - %% executor local > tasks in the submission queue: 4 -- tasks to be submitted are shown below
+~> TaskHandler[id: 8; name: MAG:SPADES (C114FAW_FDSW202364744-1r_H37NKDSXY); status: NEW; exit: -; error: -; workDir: /gpfs/summit/scratch/parsa96@colostate.edu/nf-core/work/80/13d2b827aa598c363253010dbea43c]
+~> TaskHandler[id: 12; name: MAG:MERGE_QUAST_BUSCO_GTDBTK; status: NEW; exit: -; error: -; workDir: /gpfs/summit/scratch/parsa96@colostate.edu/nf-core/work/cd/0cb8bda4e05a81fbe9a62f6cd9ebbf]
+~> TaskHandler[id: 11; name: MAG:GTDBTK:GTDBTK_SUMMARY; status: NEW; exit: -; error: -; workDir: /gpfs/summit/scratch/parsa96@colostate.edu/nf-core/work/81/8cba39984a2d6038ad59b1f82db055]
+~> TaskHandler[id: 10; name: MAG:GET_SOFTWARE_VERSIONS; status: NEW; exit: -; error: -; workDir: /gpfs/summit/scratch/parsa96@colostate.edu/nf-core/work/b1/ce56338b09b261b233e936511974a7]
+Jul-21 15:58:53.077 [Task monitor] DEBUG n.processor.TaskPollingMonitor - Task completed > TaskHandler[id: 7; name: MAG:FASTQC_TRIMMED (C114FAW_FDSW202364744-1r_H37NKDSXY); status: COMPLETED; exit: 0; error: -; workDir: /gpfs/summit/scratch/parsa96@colostate.edu/nf-core/work/55/9abc56083291d23a46794263bc6e7a]
+Jul-21 15:58:53.123 [main] DEBUG nextflow.Session - Session await > all barriers passed
+Jul-21 15:58:53.508 [main] INFO  nextflow.Nextflow - -[0;35m[nf-core/mag][0;32m Sent summary e-mail to parsa96@colostate.edu (sendmail)-
+Jul-21 15:58:53.542 [main] INFO  nextflow.Nextflow - -[0;35m[nf-core/mag][0;31m Pipeline completed with errors[0m-
+Jul-21 15:58:53.547 [main] DEBUG nextflow.trace.WorkflowStatsObserver - Workflow completed > WorkflowStats[succeededCount=7; failedCount=1; ignoredCount=0; cachedCount=0; pendingCount=4; submittedCount=0; runningCount=0; retriesCount=0; abortedCount=0; succeedDuration=1d 6h 26m 13s; failedDuration=44m 30s; cachedDuration=0ms;loadCpus=0; loadMemory=0; peakRunning=5; peakCpus=15; peakMemory=93 GB; ]
+Jul-21 15:58:53.547 [main] DEBUG nextflow.trace.TraceFileObserver - Flow completing -- flushing trace file
+Jul-21 15:58:53.567 [main] DEBUG nextflow.trace.ReportObserver - Flow completing -- rendering html report
+Jul-21 15:58:53.805 [main] DEBUG nextflow.trace.ReportObserver - Execution report summary data:
+  [{"cpuUsage":{"mean":13.9,"min":13.9,"q1":13.9,"q2":13.9,"q3":13.9,"max":13.9,"minLabel":"MAG:BUSCO_QC:BUSCO_DB_PREPARATION (bacteria_odb10.2020-03-06.tar)","maxLabel":"MAG:BUSCO_QC:BUSCO_DB_PREPARATION (bacteria_odb10.2020-03-06.tar)","q1Label":"MAG:BUSCO_QC:BUSCO_DB_PREPARATION (bacteria_odb10.2020-03-06.tar)","q2Label":"MAG:BUSCO_QC:BUSCO_DB_PREPARATION (bacteria_odb10.2020-03-06.tar)","q3Label":"MAG:BUSCO_QC:BUSCO_DB_PREPARATION (bacteria_odb10.2020-03-06.tar)"},"process":"BUSCO_DB_PREPARATION","mem":{"mean":3428352,"min":3428352,"q1":3428352,"q2":3428352,"q3":3428352,"max":3428352,"minLabel":"MAG:BUSCO_QC:BUSCO_DB_PREPARATION (bacteria_odb10.2020-03-06.tar)","maxLabel":"MAG:BUSCO_QC:BUSCO_DB_PREPARATION (bacteria_odb10.2020-03-06.tar)","q1Label":"MAG:BUSCO_QC:BUSCO_DB_PREPARATION (bacteria_odb10.2020-03-06.tar)","q2Label":"MAG:BUSCO_QC:BUSCO_DB_PREPARATION (bacteria_odb10.2020-03-06.tar)","q3Label":"MAG:BUSCO_QC:BUSCO_DB_PREPARATION (bacteria_odb10.2020-03-06.tar)"},"memUsage":{"mean":0.05,"min":0.05,"q1":0.05,"q2":0.05,"q3":0.05,"max":0.05,"minLabel":"MAG:BUSCO_QC:BUSCO_DB_PREPARATION (bacteria_odb10.2020-03-06.tar)","maxLabel":"MAG:BUSCO_QC:BUSCO_DB_PREPARATION (bacteria_odb10.2020-03-06.tar)","q1Label":"MAG:BUSCO_QC:BUSCO_DB_PREPARATION (bacteria_odb10.2020-03-06.tar)","q2Label":"MAG:BUSCO_QC:BUSCO_DB_PREPARATION (bacteria_odb10.2020-03-06.tar)","q3Label":"MAG:BUSCO_QC:BUSCO_DB_PREPARATION (bacteria_odb10.2020-03-06.tar)"},"timeUsage":{"mean":0.01,"min":0.01,"q1":0.01,"q2":0.01,"q3":0.01,"max":0.01,"minLabel":"MAG:BUSCO_QC:BUSCO_DB_PREPARATION (bacteria_odb10.2020-03-06.tar)","maxLabel":"MAG:BUSCO_QC:BUSCO_DB_PREPARATION (bacteria_odb10.2020-03-06.tar)","q1Label":"MAG:BUSCO_QC:BUSCO_DB_PREPARATION (bacteria_odb10.2020-03-06.tar)","q2Label":"MAG:BUSCO_QC:BUSCO_DB_PREPARATION (bacteria_odb10.2020-03-06.tar)","q3Label":"MAG:BUSCO_QC:BUSCO_DB_PREPARATION (bacteria_odb10.2020-03-06.tar)"},"vmem":{"mean":11603968,"min":11603968,"q1":11603968,"q2":11603968,"q3":11603968,"max":11603968,"minLabel":"MAG:BUSCO_QC:BUSCO_DB_PREPARATION (bacteria_odb10.2020-03-06.tar)","maxLabel":"MAG:BUSCO_QC:BUSCO_DB_PREPARATION (bacteria_odb10.2020-03-06.tar)","q1Label":"MAG:BUSCO_QC:BUSCO_DB_PREPARATION (bacteria_odb10.2020-03-06.tar)","q2Label":"MAG:BUSCO_QC:BUSCO_DB_PREPARATION (bacteria_odb10.2020-03-06.tar)","q3Label":"MAG:BUSCO_QC:BUSCO_DB_PREPARATION (bacteria_odb10.2020-03-06.tar)"},"reads":{"mean":33200085,"min":33200085,"q1":33200085,"q2":33200085,"q3":33200085,"max":33200085,"minLabel":"MAG:BUSCO_QC:BUSCO_DB_PREPARATION (bacteria_odb10.2020-03-06.tar)","maxLabel":"MAG:BUSCO_QC:BUSCO_DB_PREPARATION (bacteria_odb10.2020-03-06.tar)","q1Label":"MAG:BUSCO_QC:BUSCO_DB_PREPARATION (bacteria_odb10.2020-03-06.tar)","q2Label":"MAG:BUSCO_QC:BUSCO_DB_PREPARATION (bacteria_odb10.2020-03-06.tar)","q3Label":"MAG:BUSCO_QC:BUSCO_DB_PREPARATION (bacteria_odb10.2020-03-06.tar)"},"cpu":{"mean":13.9,"min":13.9,"q1":13.9,"q2":13.9,"q3":13.9,"max":13.9,"minLabel":"MAG:BUSCO_QC:BUSCO_DB_PREPARATION (bacteria_odb10.2020-03-06.tar)","maxLabel":"MAG:BUSCO_QC:BUSCO_DB_PREPARATION (bacteria_odb10.2020-03-06.tar)","q1Label":"MAG:BUSCO_QC:BUSCO_DB_PREPARATION (bacteria_odb10.2020-03-06.tar)","q2Label":"MAG:BUSCO_QC:BUSCO_DB_PREPARATION (bacteria_odb10.2020-03-06.tar)","q3Label":"MAG:BUSCO_QC:BUSCO_DB_PREPARATION (bacteria_odb10.2020-03-06.tar)"},"time":{"mean":1648,"min":1648,"q1":1648,"q2":1648,"q3":1648,"max":1648,"minLabel":"MAG:BUSCO_QC:BUSCO_DB_PREPARATION (bacteria_odb10.2020-03-06.tar)","maxLabel":"MAG:BUSCO_QC:BUSCO_DB_PREPARATION (bacteria_odb10.2020-03-06.tar)","q1Label":"MAG:BUSCO_QC:BUSCO_DB_PREPARATION (bacteria_odb10.2020-03-06.tar)","q2Label":"MAG:BUSCO_QC:BUSCO_DB_PREPARATION (bacteria_odb10.2020-03-06.tar)","q3Label":"MAG:BUSCO_QC:BUSCO_DB_PREPARATION (bacteria_odb10.2020-03-06.tar)"},"writes":{"mean":53915042,"min":53915042,"q1":53915042,"q2":53915042,"q3":53915042,"max":53915042,"minLabel":"MAG:BUSCO_QC:BUSCO_DB_PREPARATION (bacteria_odb10.2020-03-06.tar)","maxLabel":"MAG:BUSCO_QC:BUSCO_DB_PREPARATION (bacteria_odb10.2020-03-06.tar)","q1Label":"MAG:BUSCO_QC:BUSCO_DB_PREPARATION (bacteria_odb10.2020-03-06.tar)","q2Label":"MAG:BUSCO_QC:BUSCO_DB_PREPARATION (bacteria_odb10.2020-03-06.tar)","q3Label":"MAG:BUSCO_QC:BUSCO_DB_PREPARATION (bacteria_odb10.2020-03-06.tar)"}},{"cpuUsage":{"mean":13.6,"min":13.6,"q1":13.6,"q2":13.6,"q3":13.6,"max":13.6,"minLabel":"MAG:BOWTIE2_PHIX_REMOVAL_BUILD (GCA_002596845.1_ASM259684v1_genomic.fna.gz)","maxLabel":"MAG:BOWTIE2_PHIX_REMOVAL_BUILD (GCA_002596845.1_ASM259684v1_genomic.fna.gz)","q1Label":"MAG:BOWTIE2_PHIX_REMOVAL_BUILD (GCA_002596845.1_ASM259684v1_genomic.fna.gz)","q2Label":"MAG:BOWTIE2_PHIX_REMOVAL_BUILD (GCA_002596845.1_ASM259684v1_genomic.fna.gz)","q3Label":"MAG:BOWTIE2_PHIX_REMOVAL_BUILD (GCA_002596845.1_ASM259684v1_genomic.fna.gz)"},"process":"BOWTIE2_PHIX_REMOVAL_BUILD","mem":{"mean":1286144,"min":1286144,"q1":1286144,"q2":1286144,"q3":1286144,"max":1286144,"minLabel":"MAG:BOWTIE2_PHIX_REMOVAL_BUILD (GCA_002596845.1_ASM259684v1_genomic.fna.gz)","maxLabel":"MAG:BOWTIE2_PHIX_REMOVAL_BUILD (GCA_002596845.1_ASM259684v1_genomic.fna.gz)","q1Label":"MAG:BOWTIE2_PHIX_REMOVAL_BUILD (GCA_002596845.1_ASM259684v1_genomic.fna.gz)","q2Label":"MAG:BOWTIE2_PHIX_REMOVAL_BUILD (GCA_002596845.1_ASM259684v1_genomic.fna.gz)","q3Label":"MAG:BOWTIE2_PHIX_REMOVAL_BUILD (GCA_002596845.1_ASM259684v1_genomic.fna.gz)"},"memUsage":{"mean":0.02,"min":0.02,"q1":0.02,"q2":0.02,"q3":0.02,"max":0.02,"minLabel":"MAG:BOWTIE2_PHIX_REMOVAL_BUILD (GCA_002596845.1_ASM259684v1_genomic.fna.gz)","maxLabel":"MAG:BOWTIE2_PHIX_REMOVAL_BUILD (GCA_002596845.1_ASM259684v1_genomic.fna.gz)","q1Label":"MAG:BOWTIE2_PHIX_REMOVAL_BUILD (GCA_002596845.1_ASM259684v1_genomic.fna.gz)","q2Label":"MAG:BOWTIE2_PHIX_REMOVAL_BUILD (GCA_002596845.1_ASM259684v1_genomic.fna.gz)","q3Label":"MAG:BOWTIE2_PHIX_REMOVAL_BUILD (GCA_002596845.1_ASM259684v1_genomic.fna.gz)"},"timeUsage":{"mean":0.03,"min":0.03,"q1":0.03,"q2":0.03,"q3":0.03,"max":0.03,"minLabel":"MAG:BOWTIE2_PHIX_REMOVAL_BUILD (GCA_002596845.1_ASM259684v1_genomic.fna.gz)","maxLabel":"MAG:BOWTIE2_PHIX_REMOVAL_BUILD (GCA_002596845.1_ASM259684v1_genomic.fna.gz)","q1Label":"MAG:BOWTIE2_PHIX_REMOVAL_BUILD (GCA_002596845.1_ASM259684v1_genomic.fna.gz)","q2Label":"MAG:BOWTIE2_PHIX_REMOVAL_BUILD (GCA_002596845.1_ASM259684v1_genomic.fna.gz)","q3Label":"MAG:BOWTIE2_PHIX_REMOVAL_BUILD (GCA_002596845.1_ASM259684v1_genomic.fna.gz)"},"vmem":{"mean":11563008,"min":11563008,"q1":11563008,"q2":11563008,"q3":11563008,"max":11563008,"minLabel":"MAG:BOWTIE2_PHIX_REMOVAL_BUILD (GCA_002596845.1_ASM259684v1_genomic.fna.gz)","maxLabel":"MAG:BOWTIE2_PHIX_REMOVAL_BUILD (GCA_002596845.1_ASM259684v1_genomic.fna.gz)","q1Label":"MAG:BOWTIE2_PHIX_REMOVAL_BUILD (GCA_002596845.1_ASM259684v1_genomic.fna.gz)","q2Label":"MAG:BOWTIE2_PHIX_REMOVAL_BUILD (GCA_002596845.1_ASM259684v1_genomic.fna.gz)","q3Label":"MAG:BOWTIE2_PHIX_REMOVAL_BUILD (GCA_002596845.1_ASM259684v1_genomic.fna.gz)"},"reads":{"mean":2676337,"min":2676337,"q1":2676337,"q2":2676337,"q3":2676337,"max":2676337,"minLabel":"MAG:BOWTIE2_PHIX_REMOVAL_BUILD (GCA_002596845.1_ASM259684v1_genomic.fna.gz)","maxLabel":"MAG:BOWTIE2_PHIX_REMOVAL_BUILD (GCA_002596845.1_ASM259684v1_genomic.fna.gz)","q1Label":"MAG:BOWTIE2_PHIX_REMOVAL_BUILD (GCA_002596845.1_ASM259684v1_genomic.fna.gz)","q2Label":"MAG:BOWTIE2_PHIX_REMOVAL_BUILD (GCA_002596845.1_ASM259684v1_genomic.fna.gz)","q3Label":"MAG:BOWTIE2_PHIX_REMOVAL_BUILD (GCA_002596845.1_ASM259684v1_genomic.fna.gz)"},"cpu":{"mean":13.6,"min":13.6,"q1":13.6,"q2":13.6,"q3":13.6,"max":13.6,"minLabel":"MAG:BOWTIE2_PHIX_REMOVAL_BUILD (GCA_002596845.1_ASM259684v1_genomic.fna.gz)","maxLabel":"MAG:BOWTIE2_PHIX_REMOVAL_BUILD (GCA_002596845.1_ASM259684v1_genomic.fna.gz)","q1Label":"MAG:BOWTIE2_PHIX_REMOVAL_BUILD (GCA_002596845.1_ASM259684v1_genomic.fna.gz)","q2Label":"MAG:BOWTIE2_PHIX_REMOVAL_BUILD (GCA_002596845.1_ASM259684v1_genomic.fna.gz)","q3Label":"MAG:BOWTIE2_PHIX_REMOVAL_BUILD (GCA_002596845.1_ASM259684v1_genomic.fna.gz)"},"time":{"mean":5000,"min":5000,"q1":5000,"q2":5000,"q3":5000,"max":5000,"minLabel":"MAG:BOWTIE2_PHIX_REMOVAL_BUILD (GCA_002596845.1_ASM259684v1_genomic.fna.gz)","maxLabel":"MAG:BOWTIE2_PHIX_REMOVAL_BUILD (GCA_002596845.1_ASM259684v1_genomic.fna.gz)","q1Label":"MAG:BOWTIE2_PHIX_REMOVAL_BUILD (GCA_002596845.1_ASM259684v1_genomic.fna.gz)","q2Label":"MAG:BOWTIE2_PHIX_REMOVAL_BUILD (GCA_002596845.1_ASM259684v1_genomic.fna.gz)","q3Label":"MAG:BOWTIE2_PHIX_REMOVAL_BUILD (GCA_002596845.1_ASM259684v1_genomic.fna.gz)"},"writes":{"mean":8405836,"min":8405836,"q1":8405836,"q2":8405836,"q3":8405836,"max":8405836,"minLabel":"MAG:BOWTIE2_PHIX_REMOVAL_BUILD (GCA_002596845.1_ASM259684v1_genomic.fna.gz)","maxLabel":"MAG:BOWTIE2_PHIX_REMOVAL_BUILD (GCA_002596845.1_ASM259684v1_genomic.fna.gz)","q1Label":"MAG:BOWTIE2_PHIX_REMOVAL_BUILD (GCA_002596845.1_ASM259684v1_genomic.fna.gz)","q2Label":"MAG:BOWTIE2_PHIX_REMOVAL_BUILD (GCA_002596845.1_ASM259684v1_genomic.fna.gz)","q3Label":"MAG:BOWTIE2_PHIX_REMOVAL_BUILD (GCA_002596845.1_ASM259684v1_genomic.fna.gz)"}},{"cpuUsage":{"mean":9.67,"min":9.67,"q1":9.67,"q2":9.67,"q3":9.67,"max":9.67,"minLabel":"MAG:FASTP (C114FAW_FDSW202364744-1r_H37NKDSXY)","maxLabel":"MAG:FASTP (C114FAW_FDSW202364744-1r_H37NKDSXY)","q1Label":"MAG:FASTP (C114FAW_FDSW202364744-1r_H37NKDSXY)","q2Label":"MAG:FASTP (C114FAW_FDSW202364744-1r_H37NKDSXY)","q3Label":"MAG:FASTP (C114FAW_FDSW202364744-1r_H37NKDSXY)"},"process":"FASTP","mem":{"mean":1298432,"min":1298432,"q1":1298432,"q2":1298432,"q3":1298432,"max":1298432,"minLabel":"MAG:FASTP (C114FAW_FDSW202364744-1r_H37NKDSXY)","maxLabel":"MAG:FASTP (C114FAW_FDSW202364744-1r_H37NKDSXY)","q1Label":"MAG:FASTP (C114FAW_FDSW202364744-1r_H37NKDSXY)","q2Label":"MAG:FASTP (C114FAW_FDSW202364744-1r_H37NKDSXY)","q3Label":"MAG:FASTP (C114FAW_FDSW202364744-1r_H37NKDSXY)"},"memUsage":null,"timeUsage":{"mean":6.12,"min":6.12,"q1":6.12,"q2":6.12,"q3":6.12,"max":6.12,"minLabel":"MAG:FASTP (C114FAW_FDSW202364744-1r_H37NKDSXY)","maxLabel":"MAG:FASTP (C114FAW_FDSW202364744-1r_H37NKDSXY)","q1Label":"MAG:FASTP (C114FAW_FDSW202364744-1r_H37NKDSXY)","q2Label":"MAG:FASTP (C114FAW_FDSW202364744-1r_H37NKDSXY)","q3Label":"MAG:FASTP (C114FAW_FDSW202364744-1r_H37NKDSXY)"},"vmem":{"mean":11563008,"min":11563008,"q1":11563008,"q2":11563008,"q3":11563008,"max":11563008,"minLabel":"MAG:FASTP (C114FAW_FDSW202364744-1r_H37NKDSXY)","maxLabel":"MAG:FASTP (C114FAW_FDSW202364744-1r_H37NKDSXY)","q1Label":"MAG:FASTP (C114FAW_FDSW202364744-1r_H37NKDSXY)","q2Label":"MAG:FASTP (C114FAW_FDSW202364744-1r_H37NKDSXY)","q3Label":"MAG:FASTP (C114FAW_FDSW202364744-1r_H37NKDSXY)"},"reads":{"mean":3714530110,"min":3714530110,"q1":3714530110,"q2":3714530110,"q3":3714530110,"max":3714530110,"minLabel":"MAG:FASTP (C114FAW_FDSW202364744-1r_H37NKDSXY)","maxLabel":"MAG:FASTP (C114FAW_FDSW202364744-1r_H37NKDSXY)","q1Label":"MAG:FASTP (C114FAW_FDSW202364744-1r_H37NKDSXY)","q2Label":"MAG:FASTP (C114FAW_FDSW202364744-1r_H37NKDSXY)","q3Label":"MAG:FASTP (C114FAW_FDSW202364744-1r_H37NKDSXY)"},"cpu":{"mean":58,"min":58,"q1":58,"q2":58,"q3":58,"max":58,"minLabel":"MAG:FASTP (C114FAW_FDSW202364744-1r_H37NKDSXY)","maxLabel":"MAG:FASTP (C114FAW_FDSW202364744-1r_H37NKDSXY)","q1Label":"MAG:FASTP (C114FAW_FDSW202364744-1r_H37NKDSXY)","q2Label":"MAG:FASTP (C114FAW_FDSW202364744-1r_H37NKDSXY)","q3Label":"MAG:FASTP (C114FAW_FDSW202364744-1r_H37NKDSXY)"},"time":{"mean":1762000,"min":1762000,"q1":1762000,"q2":1762000,"q3":1762000,"max":1762000,"minLabel":"MAG:FASTP (C114FAW_FDSW202364744-1r_H37NKDSXY)","maxLabel":"MAG:FASTP (C114FAW_FDSW202364744-1r_H37NKDSXY)","q1Label":"MAG:FASTP (C114FAW_FDSW202364744-1r_H37NKDSXY)","q2Label":"MAG:FASTP (C114FAW_FDSW202364744-1r_H37NKDSXY)","q3Label":"MAG:FASTP (C114FAW_FDSW202364744-1r_H37NKDSXY)"},"writes":{"mean":3609342505,"min":3609342505,"q1":3609342505,"q2":3609342505,"q3":3609342505,"max":3609342505,"minLabel":"MAG:FASTP (C114FAW_FDSW202364744-1r_H37NKDSXY)","maxLabel":"MAG:FASTP (C114FAW_FDSW202364744-1r_H37NKDSXY)","q1Label":"MAG:FASTP (C114FAW_FDSW202364744-1r_H37NKDSXY)","q2Label":"MAG:FASTP (C114FAW_FDSW202364744-1r_H37NKDSXY)","q3Label":"MAG:FASTP (C114FAW_FDSW202364744-1r_H37NKDSXY)"}},{"cpuUsage":{"mean":3.98,"min":3.98,"q1":3.98,"q2":3.98,"q3":3.98,"max":3.98,"minLabel":"MAG:FASTQC_RAW (C114FAW_FDSW202364744-1r_H37NKDSXY)","maxLabel":"MAG:FASTQC_RAW (C114FAW_FDSW202364744-1r_H37NKDSXY)","q1Label":"MAG:FASTQC_RAW (C114FAW_FDSW202364744-1r_H37NKDSXY)","q2Label":"MAG:FASTQC_RAW (C114FAW_FDSW202364744-1r_H37NKDSXY)","q3Label":"MAG:FASTQC_RAW (C114FAW_FDSW202364744-1r_H37NKDSXY)"},"process":"FASTQC_RAW","mem":{"mean":1302528,"min":1302528,"q1":1302528,"q2":1302528,"q3":1302528,"max":1302528,"minLabel":"MAG:FASTQC_RAW (C114FAW_FDSW202364744-1r_H37NKDSXY)","maxLabel":"MAG:FASTQC_RAW (C114FAW_FDSW202364744-1r_H37NKDSXY)","q1Label":"MAG:FASTQC_RAW (C114FAW_FDSW202364744-1r_H37NKDSXY)","q2Label":"MAG:FASTQC_RAW (C114FAW_FDSW202364744-1r_H37NKDSXY)","q3Label":"MAG:FASTQC_RAW (C114FAW_FDSW202364744-1r_H37NKDSXY)"},"memUsage":null,"timeUsage":{"mean":7.32,"min":7.32,"q1":7.32,"q2":7.32,"q3":7.32,"max":7.32,"minLabel":"MAG:FASTQC_RAW (C114FAW_FDSW202364744-1r_H37NKDSXY)","maxLabel":"MAG:FASTQC_RAW (C114FAW_FDSW202364744-1r_H37NKDSXY)","q1Label":"MAG:FASTQC_RAW (C114FAW_FDSW202364744-1r_H37NKDSXY)","q2Label":"MAG:FASTQC_RAW (C114FAW_FDSW202364744-1r_H37NKDSXY)","q3Label":"MAG:FASTQC_RAW (C114FAW_FDSW202364744-1r_H37NKDSXY)"},"vmem":{"mean":11563008,"min":11563008,"q1":11563008,"q2":11563008,"q3":11563008,"max":11563008,"minLabel":"MAG:FASTQC_RAW (C114FAW_FDSW202364744-1r_H37NKDSXY)","maxLabel":"MAG:FASTQC_RAW (C114FAW_FDSW202364744-1r_H37NKDSXY)","q1Label":"MAG:FASTQC_RAW (C114FAW_FDSW202364744-1r_H37NKDSXY)","q2Label":"MAG:FASTQC_RAW (C114FAW_FDSW202364744-1r_H37NKDSXY)","q3Label":"MAG:FASTQC_RAW (C114FAW_FDSW202364744-1r_H37NKDSXY)"},"reads":{"mean":3695421868,"min":3695421868,"q1":3695421868,"q2":3695421868,"q3":3695421868,"max":3695421868,"minLabel":"MAG:FASTQC_RAW (C114FAW_FDSW202364744-1r_H37NKDSXY)","maxLabel":"MAG:FASTQC_RAW (C114FAW_FDSW202364744-1r_H37NKDSXY)","q1Label":"MAG:FASTQC_RAW (C114FAW_FDSW202364744-1r_H37NKDSXY)","q2Label":"MAG:FASTQC_RAW (C114FAW_FDSW202364744-1r_H37NKDSXY)","q3Label":"MAG:FASTQC_RAW (C114FAW_FDSW202364744-1r_H37NKDSXY)"},"cpu":{"mean":23.9,"min":23.9,"q1":23.9,"q2":23.9,"q3":23.9,"max":23.9,"minLabel":"MAG:FASTQC_RAW (C114FAW_FDSW202364744-1r_H37NKDSXY)","maxLabel":"MAG:FASTQC_RAW (C114FAW_FDSW202364744-1r_H37NKDSXY)","q1Label":"MAG:FASTQC_RAW (C114FAW_FDSW202364744-1r_H37NKDSXY)","q2Label":"MAG:FASTQC_RAW (C114FAW_FDSW202364744-1r_H37NKDSXY)","q3Label":"MAG:FASTQC_RAW (C114FAW_FDSW202364744-1r_H37NKDSXY)"},"time":{"mean":2107000,"min":2107000,"q1":2107000,"q2":2107000,"q3":2107000,"max":2107000,"minLabel":"MAG:FASTQC_RAW (C114FAW_FDSW202364744-1r_H37NKDSXY)","maxLabel":"MAG:FASTQC_RAW (C114FAW_FDSW202364744-1r_H37NKDSXY)","q1Label":"MAG:FASTQC_RAW (C114FAW_FDSW202364744-1r_H37NKDSXY)","q2Label":"MAG:FASTQC_RAW (C114FAW_FDSW202364744-1r_H37NKDSXY)","q3Label":"MAG:FASTQC_RAW (C114FAW_FDSW202364744-1r_H37NKDSXY)"},"writes":{"mean":4535386,"min":4535386,"q1":4535386,"q2":4535386,"q3":4535386,"max":4535386,"minLabel":"MAG:FASTQC_RAW (C114FAW_FDSW202364744-1r_H37NKDSXY)","maxLabel":"MAG:FASTQC_RAW (C114FAW_FDSW202364744-1r_H37NKDSXY)","q1Label":"MAG:FASTQC_RAW (C114FAW_FDSW202364744-1r_H37NKDSXY)","q2Label":"MAG:FASTQC_RAW (C114FAW_FDSW202364744-1r_H37NKDSXY)","q3Label":"MAG:FASTQC_RAW (C114FAW_FDSW202364744-1r_H37NKDSXY)"}},{"cpuUsage":{"mean":14.5,"min":14.5,"q1":14.5,"q2":14.5,"q3":14.5,"max":14.5,"minLabel":"MAG:GTDBTK:GTDBTK_DB_PREPARATION (gtdbtk_r202_data.tar.gz)","maxLabel":"MAG:GTDBTK:GTDBTK_DB_PREPARATION (gtdbtk_r202_data.tar.gz)","q1Label":"MAG:GTDBTK:GTDBTK_DB_PREPARATION (gtdbtk_r202_data.tar.gz)","q2Label":"MAG:GTDBTK:GTDBTK_DB_PREPARATION (gtdbtk_r202_data.tar.gz)","q3Label":"MAG:GTDBTK:GTDBTK_DB_PREPARATION (gtdbtk_r202_data.tar.gz)"},"process":"GTDBTK_DB_PREPARATION","mem":{"mean":3760128,"min":3760128,"q1":3760128,"q2":3760128,"q3":3760128,"max":3760128,"minLabel":"MAG:GTDBTK:GTDBTK_DB_PREPARATION (gtdbtk_r202_data.tar.gz)","maxLabel":"MAG:GTDBTK:GTDBTK_DB_PREPARATION (gtdbtk_r202_data.tar.gz)","q1Label":"MAG:GTDBTK:GTDBTK_DB_PREPARATION (gtdbtk_r202_data.tar.gz)","q2Label":"MAG:GTDBTK:GTDBTK_DB_PREPARATION (gtdbtk_r202_data.tar.gz)","q3Label":"MAG:GTDBTK:GTDBTK_DB_PREPARATION (gtdbtk_r202_data.tar.gz)"},"memUsage":{"mean":0.05,"min":0.05,"q1":0.05,"q2":0.05,"q3":0.05,"max":0.05,"minLabel":"MAG:GTDBTK:GTDBTK_DB_PREPARATION (gtdbtk_r202_data.tar.gz)","maxLabel":"MAG:GTDBTK:GTDBTK_DB_PREPARATION (gtdbtk_r202_data.tar.gz)","q1Label":"MAG:GTDBTK:GTDBTK_DB_PREPARATION (gtdbtk_r202_data.tar.gz)","q2Label":"MAG:GTDBTK:GTDBTK_DB_PREPARATION (gtdbtk_r202_data.tar.gz)","q3Label":"MAG:GTDBTK:GTDBTK_DB_PREPARATION (gtdbtk_r202_data.tar.gz)"},"timeUsage":{"mean":18.1,"min":18.1,"q1":18.1,"q2":18.1,"q3":18.1,"max":18.1,"minLabel":"MAG:GTDBTK:GTDBTK_DB_PREPARATION (gtdbtk_r202_data.tar.gz)","maxLabel":"MAG:GTDBTK:GTDBTK_DB_PREPARATION (gtdbtk_r202_data.tar.gz)","q1Label":"MAG:GTDBTK:GTDBTK_DB_PREPARATION (gtdbtk_r202_data.tar.gz)","q2Label":"MAG:GTDBTK:GTDBTK_DB_PREPARATION (gtdbtk_r202_data.tar.gz)","q3Label":"MAG:GTDBTK:GTDBTK_DB_PREPARATION (gtdbtk_r202_data.tar.gz)"},"vmem":{"mean":11603968,"min":11603968,"q1":11603968,"q2":11603968,"q3":11603968,"max":11603968,"minLabel":"MAG:GTDBTK:GTDBTK_DB_PREPARATION (gtdbtk_r202_data.tar.gz)","maxLabel":"MAG:GTDBTK:GTDBTK_DB_PREPARATION (gtdbtk_r202_data.tar.gz)","q1Label":"MAG:GTDBTK:GTDBTK_DB_PREPARATION (gtdbtk_r202_data.tar.gz)","q2Label":"MAG:GTDBTK:GTDBTK_DB_PREPARATION (gtdbtk_r202_data.tar.gz)","q3Label":"MAG:GTDBTK:GTDBTK_DB_PREPARATION (gtdbtk_r202_data.tar.gz)"},"reads":{"mean":102926089961,"min":102926089961,"q1":102926089961,"q2":102926089961,"q3":102926089961,"max":102926089961,"minLabel":"MAG:GTDBTK:GTDBTK_DB_PREPARATION (gtdbtk_r202_data.tar.gz)","maxLabel":"MAG:GTDBTK:GTDBTK_DB_PREPARATION (gtdbtk_r202_data.tar.gz)","q1Label":"MAG:GTDBTK:GTDBTK_DB_PREPARATION (gtdbtk_r202_data.tar.gz)","q2Label":"MAG:GTDBTK:GTDBTK_DB_PREPARATION (gtdbtk_r202_data.tar.gz)","q3Label":"MAG:GTDBTK:GTDBTK_DB_PREPARATION (gtdbtk_r202_data.tar.gz)"},"cpu":{"mean":14.5,"min":14.5,"q1":14.5,"q2":14.5,"q3":14.5,"max":14.5,"minLabel":"MAG:GTDBTK:GTDBTK_DB_PREPARATION (gtdbtk_r202_data.tar.gz)","maxLabel":"MAG:GTDBTK:GTDBTK_DB_PREPARATION (gtdbtk_r202_data.tar.gz)","q1Label":"MAG:GTDBTK:GTDBTK_DB_PREPARATION (gtdbtk_r202_data.tar.gz)","q2Label":"MAG:GTDBTK:GTDBTK_DB_PREPARATION (gtdbtk_r202_data.tar.gz)","q3Label":"MAG:GTDBTK:GTDBTK_DB_PREPARATION (gtdbtk_r202_data.tar.gz)"},"time":{"mean":2606565,"min":2606565,"q1":2606565,"q2":2606565,"q3":2606565,"max":2606565,"minLabel":"MAG:GTDBTK:GTDBTK_DB_PREPARATION (gtdbtk_r202_data.tar.gz)","maxLabel":"MAG:GTDBTK:GTDBTK_DB_PREPARATION (gtdbtk_r202_data.tar.gz)","q1Label":"MAG:GTDBTK:GTDBTK_DB_PREPARATION (gtdbtk_r202_data.tar.gz)","q2Label":"MAG:GTDBTK:GTDBTK_DB_PREPARATION (gtdbtk_r202_data.tar.gz)","q3Label":"MAG:GTDBTK:GTDBTK_DB_PREPARATION (gtdbtk_r202_data.tar.gz)"},"writes":{"mean":104106801827,"min":104106801827,"q1":104106801827,"q2":104106801827,"q3":104106801827,"max":104106801827,"minLabel":"MAG:GTDBTK:GTDBTK_DB_PREPARATION (gtdbtk_r202_data.tar.gz)","maxLabel":"MAG:GTDBTK:GTDBTK_DB_PREPARATION (gtdbtk_r202_data.tar.gz)","q1Label":"MAG:GTDBTK:GTDBTK_DB_PREPARATION (gtdbtk_r202_data.tar.gz)","q2Label":"MAG:GTDBTK:GTDBTK_DB_PREPARATION (gtdbtk_r202_data.tar.gz)","q3Label":"MAG:GTDBTK:GTDBTK_DB_PREPARATION (gtdbtk_r202_data.tar.gz)"}},{"cpuUsage":{"mean":24.5,"min":24.5,"q1":24.5,"q2":24.5,"q3":24.5,"max":24.5,"minLabel":"MAG:BOWTIE2_PHIX_REMOVAL_ALIGN (C114FAW_FDSW202364744-1r_H37NKDSXY-phix_removed)","maxLabel":"MAG:BOWTIE2_PHIX_REMOVAL_ALIGN (C114FAW_FDSW202364744-1r_H37NKDSXY-phix_removed)","q1Label":"MAG:BOWTIE2_PHIX_REMOVAL_ALIGN (C114FAW_FDSW202364744-1r_H37NKDSXY-phix_removed)","q2Label":"MAG:BOWTIE2_PHIX_REMOVAL_ALIGN (C114FAW_FDSW202364744-1r_H37NKDSXY-phix_removed)","q3Label":"MAG:BOWTIE2_PHIX_REMOVAL_ALIGN (C114FAW_FDSW202364744-1r_H37NKDSXY-phix_removed)"},"process":"BOWTIE2_PHIX_REMOVAL_ALIGN","mem":{"mean":72417280,"min":72417280,"q1":72417280,"q2":72417280,"q3":72417280,"max":72417280,"minLabel":"MAG:BOWTIE2_PHIX_REMOVAL_ALIGN (C114FAW_FDSW202364744-1r_H37NKDSXY-phix_removed)","maxLabel":"MAG:BOWTIE2_PHIX_REMOVAL_ALIGN (C114FAW_FDSW202364744-1r_H37NKDSXY-phix_removed)","q1Label":"MAG:BOWTIE2_PHIX_REMOVAL_ALIGN (C114FAW_FDSW202364744-1r_H37NKDSXY-phix_removed)","q2Label":"MAG:BOWTIE2_PHIX_REMOVAL_ALIGN (C114FAW_FDSW202364744-1r_H37NKDSXY-phix_removed)","q3Label":"MAG:BOWTIE2_PHIX_REMOVAL_ALIGN (C114FAW_FDSW202364744-1r_H37NKDSXY-phix_removed)"},"memUsage":{"mean":0.84,"min":0.84,"q1":0.84,"q2":0.84,"q3":0.84,"max":0.84,"minLabel":"MAG:BOWTIE2_PHIX_REMOVAL_ALIGN (C114FAW_FDSW202364744-1r_H37NKDSXY-phix_removed)","maxLabel":"MAG:BOWTIE2_PHIX_REMOVAL_ALIGN (C114FAW_FDSW202364744-1r_H37NKDSXY-phix_removed)","q1Label":"MAG:BOWTIE2_PHIX_REMOVAL_ALIGN (C114FAW_FDSW202364744-1r_H37NKDSXY-phix_removed)","q2Label":"MAG:BOWTIE2_PHIX_REMOVAL_ALIGN (C114FAW_FDSW202364744-1r_H37NKDSXY-phix_removed)","q3Label":"MAG:BOWTIE2_PHIX_REMOVAL_ALIGN (C114FAW_FDSW202364744-1r_H37NKDSXY-phix_removed)"},"timeUsage":{"mean":92.56,"min":92.56,"q1":92.56,"q2":92.56,"q3":92.56,"max":92.56,"minLabel":"MAG:BOWTIE2_PHIX_REMOVAL_ALIGN (C114FAW_FDSW202364744-1r_H37NKDSXY-phix_removed)","maxLabel":"MAG:BOWTIE2_PHIX_REMOVAL_ALIGN (C114FAW_FDSW202364744-1r_H37NKDSXY-phix_removed)","q1Label":"MAG:BOWTIE2_PHIX_REMOVAL_ALIGN (C114FAW_FDSW202364744-1r_H37NKDSXY-phix_removed)","q2Label":"MAG:BOWTIE2_PHIX_REMOVAL_ALIGN (C114FAW_FDSW202364744-1r_H37NKDSXY-phix_removed)","q3Label":"MAG:BOWTIE2_PHIX_REMOVAL_ALIGN (C114FAW_FDSW202364744-1r_H37NKDSXY-phix_removed)"},"vmem":{"mean":676569088,"min":676569088,"q1":676569088,"q2":676569088,"q3":676569088,"max":676569088,"minLabel":"MAG:BOWTIE2_PHIX_REMOVAL_ALIGN (C114FAW_FDSW202364744-1r_H37NKDSXY-phix_removed)","maxLabel":"MAG:BOWTIE2_PHIX_REMOVAL_ALIGN (C114FAW_FDSW202364744-1r_H37NKDSXY-phix_removed)","q1Label":"MAG:BOWTIE2_PHIX_REMOVAL_ALIGN (C114FAW_FDSW202364744-1r_H37NKDSXY-phix_removed)","q2Label":"MAG:BOWTIE2_PHIX_REMOVAL_ALIGN (C114FAW_FDSW202364744-1r_H37NKDSXY-phix_removed)","q3Label":"MAG:BOWTIE2_PHIX_REMOVAL_ALIGN (C114FAW_FDSW202364744-1r_H37NKDSXY-phix_removed)"},"reads":{"mean":57980435984,"min":57980435984,"q1":57980435984,"q2":57980435984,"q3":57980435984,"max":57980435984,"minLabel":"MAG:BOWTIE2_PHIX_REMOVAL_ALIGN (C114FAW_FDSW202364744-1r_H37NKDSXY-phix_removed)","maxLabel":"MAG:BOWTIE2_PHIX_REMOVAL_ALIGN (C114FAW_FDSW202364744-1r_H37NKDSXY-phix_removed)","q1Label":"MAG:BOWTIE2_PHIX_REMOVAL_ALIGN (C114FAW_FDSW202364744-1r_H37NKDSXY-phix_removed)","q2Label":"MAG:BOWTIE2_PHIX_REMOVAL_ALIGN (C114FAW_FDSW202364744-1r_H37NKDSXY-phix_removed)","q3Label":"MAG:BOWTIE2_PHIX_REMOVAL_ALIGN (C114FAW_FDSW202364744-1r_H37NKDSXY-phix_removed)"},"cpu":{"mean":98,"min":98,"q1":98,"q2":98,"q3":98,"max":98,"minLabel":"MAG:BOWTIE2_PHIX_REMOVAL_ALIGN (C114FAW_FDSW202364744-1r_H37NKDSXY-phix_removed)","maxLabel":"MAG:BOWTIE2_PHIX_REMOVAL_ALIGN (C114FAW_FDSW202364744-1r_H37NKDSXY-phix_removed)","q1Label":"MAG:BOWTIE2_PHIX_REMOVAL_ALIGN (C114FAW_FDSW202364744-1r_H37NKDSXY-phix_removed)","q2Label":"MAG:BOWTIE2_PHIX_REMOVAL_ALIGN (C114FAW_FDSW202364744-1r_H37NKDSXY-phix_removed)","q3Label":"MAG:BOWTIE2_PHIX_REMOVAL_ALIGN (C114FAW_FDSW202364744-1r_H37NKDSXY-phix_removed)"},"time":{"mean":19993000,"min":19993000,"q1":19993000,"q2":19993000,"q3":19993000,"max":19993000,"minLabel":"MAG:BOWTIE2_PHIX_REMOVAL_ALIGN (C114FAW_FDSW202364744-1r_H37NKDSXY-phix_removed)","maxLabel":"MAG:BOWTIE2_PHIX_REMOVAL_ALIGN (C114FAW_FDSW202364744-1r_H37NKDSXY-phix_removed)","q1Label":"MAG:BOWTIE2_PHIX_REMOVAL_ALIGN (C114FAW_FDSW202364744-1r_H37NKDSXY-phix_removed)","q2Label":"MAG:BOWTIE2_PHIX_REMOVAL_ALIGN (C114FAW_FDSW202364744-1r_H37NKDSXY-phix_removed)","q3Label":"MAG:BOWTIE2_PHIX_REMOVAL_ALIGN (C114FAW_FDSW202364744-1r_H37NKDSXY-phix_removed)"},"writes":{"mean":75403500381,"min":75403500381,"q1":75403500381,"q2":75403500381,"q3":75403500381,"max":75403500381,"minLabel":"MAG:BOWTIE2_PHIX_REMOVAL_ALIGN (C114FAW_FDSW202364744-1r_H37NKDSXY-phix_removed)","maxLabel":"MAG:BOWTIE2_PHIX_REMOVAL_ALIGN (C114FAW_FDSW202364744-1r_H37NKDSXY-phix_removed)","q1Label":"MAG:BOWTIE2_PHIX_REMOVAL_ALIGN (C114FAW_FDSW202364744-1r_H37NKDSXY-phix_removed)","q2Label":"MAG:BOWTIE2_PHIX_REMOVAL_ALIGN (C114FAW_FDSW202364744-1r_H37NKDSXY-phix_removed)","q3Label":"MAG:BOWTIE2_PHIX_REMOVAL_ALIGN (C114FAW_FDSW202364744-1r_H37NKDSXY-phix_removed)"}},{"cpuUsage":null,"process":"MEGAHIT","mem":null,"memUsage":null,"timeUsage":{"mean":0.58,"min":0.58,"q1":0.58,"q2":0.58,"q3":0.58,"max":0.58,"minLabel":"MAG:MEGAHIT (C114FAW_FDSW202364744-1r_H37NKDSXY)","maxLabel":"MAG:MEGAHIT (C114FAW_FDSW202364744-1r_H37NKDSXY)","q1Label":"MAG:MEGAHIT (C114FAW_FDSW202364744-1r_H37NKDSXY)","q2Label":"MAG:MEGAHIT (C114FAW_FDSW202364744-1r_H37NKDSXY)","q3Label":"MAG:MEGAHIT (C114FAW_FDSW202364744-1r_H37NKDSXY)"},"vmem":null,"reads":null,"cpu":null,"time":{"mean":333772,"min":333772,"q1":333772,"q2":333772,"q3":333772,"max":333772,"minLabel":"MAG:MEGAHIT (C114FAW_FDSW202364744-1r_H37NKDSXY)","maxLabel":"MAG:MEGAHIT (C114FAW_FDSW202364744-1r_H37NKDSXY)","q1Label":"MAG:MEGAHIT (C114FAW_FDSW202364744-1r_H37NKDSXY)","q2Label":"MAG:MEGAHIT (C114FAW_FDSW202364744-1r_H37NKDSXY)","q3Label":"MAG:MEGAHIT (C114FAW_FDSW202364744-1r_H37NKDSXY)"},"writes":null},{"cpuUsage":{"mean":11.55,"min":11.55,"q1":11.55,"q2":11.55,"q3":11.55,"max":11.55,"minLabel":"MAG:FASTQC_TRIMMED (C114FAW_FDSW202364744-1r_H37NKDSXY)","maxLabel":"MAG:FASTQC_TRIMMED (C114FAW_FDSW202364744-1r_H37NKDSXY)","q1Label":"MAG:FASTQC_TRIMMED (C114FAW_FDSW202364744-1r_H37NKDSXY)","q2Label":"MAG:FASTQC_TRIMMED (C114FAW_FDSW202364744-1r_H37NKDSXY)","q3Label":"MAG:FASTQC_TRIMMED (C114FAW_FDSW202364744-1r_H37NKDSXY)"},"process":"FASTQC_TRIMMED","mem":{"mean":1298432,"min":1298432,"q1":1298432,"q2":1298432,"q3":1298432,"max":1298432,"minLabel":"MAG:FASTQC_TRIMMED (C114FAW_FDSW202364744-1r_H37NKDSXY)","maxLabel":"MAG:FASTQC_TRIMMED (C114FAW_FDSW202364744-1r_H37NKDSXY)","q1Label":"MAG:FASTQC_TRIMMED (C114FAW_FDSW202364744-1r_H37NKDSXY)","q2Label":"MAG:FASTQC_TRIMMED (C114FAW_FDSW202364744-1r_H37NKDSXY)","q3Label":"MAG:FASTQC_TRIMMED (C114FAW_FDSW202364744-1r_H37NKDSXY)"},"memUsage":null,"timeUsage":{"mean":2.18,"min":2.18,"q1":2.18,"q2":2.18,"q3":2.18,"max":2.18,"minLabel":"MAG:FASTQC_TRIMMED (C114FAW_FDSW202364744-1r_H37NKDSXY)","maxLabel":"MAG:FASTQC_TRIMMED (C114FAW_FDSW202364744-1r_H37NKDSXY)","q1Label":"MAG:FASTQC_TRIMMED (C114FAW_FDSW202364744-1r_H37NKDSXY)","q2Label":"MAG:FASTQC_TRIMMED (C114FAW_FDSW202364744-1r_H37NKDSXY)","q3Label":"MAG:FASTQC_TRIMMED (C114FAW_FDSW202364744-1r_H37NKDSXY)"},"vmem":{"mean":11563008,"min":11563008,"q1":11563008,"q2":11563008,"q3":11563008,"max":11563008,"minLabel":"MAG:FASTQC_TRIMMED (C114FAW_FDSW202364744-1r_H37NKDSXY)","maxLabel":"MAG:FASTQC_TRIMMED (C114FAW_FDSW202364744-1r_H37NKDSXY)","q1Label":"MAG:FASTQC_TRIMMED (C114FAW_FDSW202364744-1r_H37NKDSXY)","q2Label":"MAG:FASTQC_TRIMMED (C114FAW_FDSW202364744-1r_H37NKDSXY)","q3Label":"MAG:FASTQC_TRIMMED (C114FAW_FDSW202364744-1r_H37NKDSXY)"},"reads":{"mean":3165019136,"min":3165019136,"q1":3165019136,"q2":3165019136,"q3":3165019136,"max":3165019136,"minLabel":"MAG:FASTQC_TRIMMED (C114FAW_FDSW202364744-1r_H37NKDSXY)","maxLabel":"MAG:FASTQC_TRIMMED (C114FAW_FDSW202364744-1r_H37NKDSXY)","q1Label":"MAG:FASTQC_TRIMMED (C114FAW_FDSW202364744-1r_H37NKDSXY)","q2Label":"MAG:FASTQC_TRIMMED (C114FAW_FDSW202364744-1r_H37NKDSXY)","q3Label":"MAG:FASTQC_TRIMMED (C114FAW_FDSW202364744-1r_H37NKDSXY)"},"cpu":{"mean":69.3,"min":69.3,"q1":69.3,"q2":69.3,"q3":69.3,"max":69.3,"minLabel":"MAG:FASTQC_TRIMMED (C114FAW_FDSW202364744-1r_H37NKDSXY)","maxLabel":"MAG:FASTQC_TRIMMED (C114FAW_FDSW202364744-1r_H37NKDSXY)","q1Label":"MAG:FASTQC_TRIMMED (C114FAW_FDSW202364744-1r_H37NKDSXY)","q2Label":"MAG:FASTQC_TRIMMED (C114FAW_FDSW202364744-1r_H37NKDSXY)","q3Label":"MAG:FASTQC_TRIMMED (C114FAW_FDSW202364744-1r_H37NKDSXY)"},"time":{"mean":629000,"min":629000,"q1":629000,"q2":629000,"q3":629000,"max":629000,"minLabel":"MAG:FASTQC_TRIMMED (C114FAW_FDSW202364744-1r_H37NKDSXY)","maxLabel":"MAG:FASTQC_TRIMMED (C114FAW_FDSW202364744-1r_H37NKDSXY)","q1Label":"MAG:FASTQC_TRIMMED (C114FAW_FDSW202364744-1r_H37NKDSXY)","q2Label":"MAG:FASTQC_TRIMMED (C114FAW_FDSW202364744-1r_H37NKDSXY)","q3Label":"MAG:FASTQC_TRIMMED (C114FAW_FDSW202364744-1r_H37NKDSXY)"},"writes":{"mean":4567769,"min":4567769,"q1":4567769,"q2":4567769,"q3":4567769,"max":4567769,"minLabel":"MAG:FASTQC_TRIMMED (C114FAW_FDSW202364744-1r_H37NKDSXY)","maxLabel":"MAG:FASTQC_TRIMMED (C114FAW_FDSW202364744-1r_H37NKDSXY)","q1Label":"MAG:FASTQC_TRIMMED (C114FAW_FDSW202364744-1r_H37NKDSXY)","q2Label":"MAG:FASTQC_TRIMMED (C114FAW_FDSW202364744-1r_H37NKDSXY)","q3Label":"MAG:FASTQC_TRIMMED (C114FAW_FDSW202364744-1r_H37NKDSXY)"}}]
+Jul-21 15:58:54.993 [main] DEBUG nextflow.trace.TimelineObserver - Flow completing -- rendering html timeline
+Jul-21 15:58:56.533 [main] DEBUG nextflow.CacheDB - Closing CacheDB done
+Jul-21 15:58:56.883 [main] DEBUG nextflow.script.ScriptRunner - > Execution complete -- Goodbye

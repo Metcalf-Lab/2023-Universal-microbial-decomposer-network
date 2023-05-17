@@ -1,0 +1,1802 @@
+filename	ATTRIBUTE_PlateNumber	ATTRIBUTE_Gender	ATTRIBUTE_SampleType	ATTRIBUTE_Season	ATTRIBUTE_SubjectID	ATTRIBUTE_Facility	ATTRIBUTE_ADDGroup	ATTRIBUTE_ADD	ATTRIBUTE_DaysSincePlacement
+Plate1_25220_Skin_GG5_01_26291.mzXML	Plate1	female_Skin	Skin	spring	CMU_Mrs._16_03_Skin	CMU	Day0	0	0
+Plate1_43448_Skin_GA6_01_26119.mzXML	Plate1	male_Skin	Skin	spring	UTK.K016.03_Skin	UTK	Day0	0	0
+Plate1_43648_Skin_GC5_01_26141.mzXML	Plate1	male_Skin	Skin	spring	shsu.2016.007_Skin	SHSU	Day0	0	0
+Plate1_43810_Skin_GC2_01_26137.mzXML	Plate1	female_Skin	Skin	spring	shsu.2016.011_Skin	SHSU	Day0	0	0
+Plate2_25808_Skin_GB10_01_26356.mzXML	Plate2	female_Skin	Skin	spring	UTK.K016.01_Skin	UTK	Day0	0	0
+Plate2_43268_Skin_GA8_01_26339.mzXML	Plate2	female_Skin	Skin	spring	UTK.K016.02_Skin	UTK	Day0	0	0
+Plate2_44010_Skin_GD6_01_26378.mzXML	Plate2	male_Skin	Skin	spring	shsu.2016.024_Skin	SHSU	Day0	0	0
+Plate2_55546_Skin_GF2_01_26402.mzXML	Plate2	male_Skin	Skin	fall	16-14_Skin	CMU	Day0	0	0
+Plate2_61954_Skin_GF11_01_26412.mzXML	Plate2	female_Skin	Skin	winter	Mrs. 17-01_Skin	CMU	Day0	0	0
+Plate2_64726_Skin_GG3_01_26418.mzXML	Plate2	male_Skin	Skin	winter	K016.09_Skin	UTK	Day0	0	0
+Plate3_61810_Skin_GC5_01_26477.mzXML	Plate3	male_Skin	Skin	winter	Mr. 16-15_Skin	CMU	Day0	0	0
+Plate3_62060_Skin_GD8_01_26492.mzXML	Plate3	male_Skin	Skin	fall	16-12_Skin	CMU	Day0	0	0
+Plate3_64364_Skin_GG1_01_26526.mzXML	Plate3	male_Skin	Skin	winter	K016.08_Skin	UTK	Day0	0	0
+Plate3_64564_Skin_Rerun_GH5_01_26551.mzXML	Plate3	male_Skin	Skin	winter	K016.07_Skin	UTK	Day0	0	0
+Plate4_60692_Skin_GE3_01_27261.mzXML	Plate4	female_Skin	Skin	fall	2016.073_Skin	SHSU	Day0	0	0
+Plate4_64926_Skin_GD1_01_27245.mzXML	Plate4	male_Skin	Skin	winter	2017.043_Skin	SHSU	Day0	0	0
+Plate5_41486_Skin_GH7_01_26673.mzXML	Plate5	female_Skin	Skin	fall	17-12_Skin	CMU	Day0	0	0
+Plate5_45162_Skin_GB3_01_26577.mzXML	Plate5	male_Skin	Skin	summer	UTK.K016.10_Skin	UTK	Day0	0	0
+Plate5_45392_Skin_GG10_01_26662.mzXML	Plate5	male_Skin	Skin	summer	UTK.K016.11_Skin	UTK	Day0	0	0
+Plate5_60892_Skin_GD9_01_26614.mzXML	Plate5	female_Skin	Skin	fall	2016.072_Skin	SHSU	Day0	0	0
+Plate5_61090_Skin_GB4_01_26578.mzXML	Plate5	male_Skin	Skin	fall	2016.076_Skin	SHSU	Day0	0	0
+Plate5_65120_Skin_GF4_01_26640.mzXML	Plate5	male_Skin	Skin	winter	2017.045_Skin	SHSU	Day0	0	0
+Plate6_45520_Skin_GA11_01_26713.mzXML	Plate6	female_Skin	Skin	summer	Mrs. 16-10_Skin	CMU	Day0	0	0
+Plate6_45824_Skin_GB9_01_26725.mzXML	Plate6	female_Skin	Skin	summer	Mrs. 16-09_Skin	CMU	Day0	0	0
+Plate6_54790_Skin_GE5_01_26766.mzXML	Plate6	male_Skin	Skin	summer	2016.065_Skin	SHSU	Day0	0	0
+Plate6_55184_Skin_GC9_01_26740.mzXML	Plate6	female_Skin	Skin	summer	2016.067_Skin	SHSU	Day0	0	0
+Plate6_63664_Skin_GG5_01_26870.mzXML	Plate6	female_Skin	Skin	winter	2017.046_Skin	SHSU	Day0	0	0
+Plate7_54628_Skin_GA3_01_27016.mzXML	Plate7	male_Skin	Skin	summer	UTK.K016.12_Skin	UTK	Day0	0	0
+Plate7_54990_Skin_GD1_01_27056.mzXML	Plate7	female_Skin	Skin	summer	2016.064_Skin	SHSU	Day0	0	0
+Plate7_60498_Skin_GA4_01_27017.mzXML	Plate7	male_Skin	Skin	summer	17-10_Skin	CMU	Day0	0	0
+Plate7_64170_Skin_GC7_01_27049.mzXML	Plate7	male_Skin	Skin	winter	Mr 17-04_Skin	CMU	Day0	0	0
+Plate8_25720_Skin_GE3_01_27381.mzXML	Plate8	female_Skin	Skin	spring	CMU_Mrs._16_05_Skin	CMU	Day0	0	0
+Plate8_61254_Skin_GG7_01_27414.mzXML	Plate8	female_Skin	Skin	fall	UTK.K016.04_Skin	UTK	Day0	0	0
+Plate8_61448_Skin_GG10_01_27418.mzXML	Plate8	female_Skin	Skin	fall	UTK.K016.05_Skin	UTK	Day0	0	0
+Plate8_61648_Skin_GE2_01_27380.mzXML	Plate8	male_Skin	Skin	fall	UTK.K016.06_Skin	UTK	Day0	0	0
+Plate9_25412_Skin_GA5_01_26941.mzXML	Plate9	male_Skin	Skin	spring	CMU_Mr._16_04_Skin	CMU	Day0	0	0
+Plate10_25416_Soil_BA6_01_27713.mzXML	Plate10	male_Soil	Soil	spring	CMU_Mr._16_04_Soil	CMU	Day0	0	0
+Plate10_25724_Soil_BB3_01_27724.mzXML	Plate10	female_Soil	Soil	spring	CMU_Mrs._16_05_Soil	CMU	Day0	0	0
+Plate10_25812_Soil_BC8_01_27744.mzXML	Plate10	female_Soil	Soil	spring	UTK.K016.01_Soil	UTK	Day0	0	0
+Plate10_61452_Soil_BH7_01_27818.mzXML	Plate10	female_Soil	Soil	fall	UTK.K016.05_Soil	UTK	Day0	0	0
+Plate10_64568_Soil_BF3_01_27781.mzXML	Plate10	male_Soil	Soil	winter	K016.07_Soil	UTK	Day0	0	0
+Plate10_64730_Soil_BF5_01_27783.mzXML	Plate10	male_Soil	Soil	winter	K016.09_Soil	UTK	Day0	0	0
+Plate11_43272_Soil_GC7_01_27626.mzXML	Plate11	female_Soil	Soil	spring	UTK.K016.02_Soil	UTK	Day0	0	0
+Plate11_43452_Soil_GF9_01_27671.mzXML	Plate11	male_Soil	Soil	spring	UTK.K016.03_Soil	UTK	Day0	0	0
+Plate11_45828_Soil_Rerun_GE10_01_27667.mzXML	Plate11	female_Soil	Soil	summer	Mrs. 16-09_Soil	CMU	Day0	0	0
+Plate12_25222_Soil_Rerun_GH3_01_28085.mzXML	Plate12	female_Soil	Soil	spring	CMU_Mrs._16_03_Soil	CMU	Day0	0	0
+Plate12_55550_Soil_GG2_01_28041.mzXML	Plate12	male_Soil	Soil	fall	16-14_Soil	CMU	Day0	0	0
+Plate12_61814_Soil_GB5_01_27976.mzXML	Plate12	male_Soil	Soil	winter	Mr. 16-15_Soil	CMU	Day0	0	0
+Plate12_64368_Soil_GD9_01_28081.mzXML	Plate12	male_Soil	Soil	winter	K016.08_Soil	UTK	Day0	0	0
+Plate13_43652_Soil_GE9_01_27535.mzXML	Plate13	male_Soil	Soil	spring	shsu.2016.007_Soil	SHSU	Day0	0	0
+Plate13_43814_Soil_GE5_01_27530.mzXML	Plate13	female_Soil	Soil	spring	shsu.2016.011_Soil	SHSU	Day0	0	0
+Plate13_44014_Soil_GB6_01_27490.mzXML	Plate13	male_Soil	Soil	spring	shsu.2016.024_Soil	SHSU	Day0	0	0
+Plate13_45524_Soil_GC10_01_27509.mzXML	Plate13	female_Soil	Soil	summer	Mrs. 16-10_Soil	CMU	Day0	0	0
+Plate13_54994_Soil_GF4_01_27543.mzXML	Plate13	female_Soil	Soil	summer	2016.064_Soil	SHSU	Day0	0	0
+Plate13_55188_Soil_GE3_01_27528.mzXML	Plate13	female_Soil	Soil	summer	2016.067_Soil	SHSU	Day0	0	0
+Plate13_60502_Soil_GD4_01_27515.mzXML	Plate13	male_Soil	Soil	summer	17-10_Soil	CMU	Day0	0	0
+Plate14_45686_Soil_BB3_01_27853.mzXML	Plate14	female_Soil	Soil	fall	17-12_Soil	CMU	Day0	0	0
+Plate14_60696_Soil_BE4_01_27895.mzXML	Plate14	female_Soil	Soil	fall	2016.073_Soil	SHSU	Day0	0	0
+Plate14_60896_Soil_BC6_01_27869.mzXML	Plate14	female_Soil	Soil	fall	2016.072_Soil	SHSU	Day0	0	0
+Plate14_64930_Soil_BH10_01_27945.mzXML	Plate14	male_Soil	Soil	winter	2017.043_Soil	SHSU	Day0	0	0
+Plate14_65124_Soil_BD7_01_27885.mzXML	Plate14	male_Soil	Soil	winter	2017.045_Soil	SHSU	Day0	0	0
+Plate15_61094_Soil_BF11_01_28172.mzXML	Plate15	male_Soil	Soil	fall	2016.076_Soil	SHSU	Day0	0	0
+Plate15_61258_Soil_BG6_01_28180.mzXML	Plate15	female_Soil	Soil	fall	UTK.K016.04_Soil	UTK	Day0	0	0
+Plate15_63668_Soil_BG1_01_28175.mzXML	Plate15	female_Soil	Soil	winter	2017.046_Soil	SHSU	Day0	0	0
+Plate16_61652_Soil_GB6_01_28232.mzXML	Plate16	male_Soil	Soil	fall	UTK.K016.06_Soil	UTK	Day0	0	0
+Plate16_64174_Soil_GB11_01_28238.mzXML	Plate16	male_Soil	Soil	winter	Mr 17-04_Soil	CMU	Day0	0	0
+Plate17_45400_Soil_BD6_01_28394.mzXML	Plate17	male_Soil	Soil	summer	UTK.K016.11_Soil	UTK	Day0	0	0
+Plate17_54636_Soil_BE4_01_28407.mzXML	Plate17	male_Soil	Soil	summer	UTK.K016.12_Soil	UTK	Day0	0	0
+Plate17_54794_Soil_BA10_01_28356.mzXML	Plate17	male_Soil	Soil	summer	2016.065_Soil	SHSU	Day0	0	0
+Plate18_45170_Soil_GA10_01_28510.mzXML	Plate18	male_Soil	Soil	summer	UTK.K016.10_Soil	UTK	Day0	0	0
+Plate18_61958_Soil_GB6_01_28519.mzXML	Plate18	female_Soil	Soil	winter	Mrs. 17-01_Soil	CMU	Day0	0	0
+Plate18_62064_Soil_GE9_01_28565.mzXML	Plate18	male_Soil	Soil	fall	16-12_Soil	CMU	Day0	0	0
+Plate1_25232_Skin_GB11_01_26134.mzXML	Plate1	female_Skin	Skin	spring	CMU_Mrs._16_03_Skin	CMU	early	13.05555556	1
+Plate1_43288_Skin_GA11_01_26123.mzXML	Plate1	female_Skin	Skin	spring	UTK.K016.02_Skin	UTK	early	18.61111111	1
+Plate1_43468_Skin_GF2_01_26274.mzXML	Plate1	male_Skin	Skin	spring	UTK.K016.03_Skin	UTK	early	18.61111111	1
+Plate1_43630_Skin_GE1_01_26324.mzXML	Plate1	male_Skin	Skin	spring	shsu.2016.007_Skin	SHSU	early	23.33333333	1
+Plate1_43830_Skin_GB5_01_26129.mzXML	Plate1	female_Skin	Skin	spring	shsu.2016.011_Skin	SHSU	early	23.33333333	1
+Plate1_44024_Skin_GC6_01_26142.mzXML	Plate1	male_Skin	Skin	spring	shsu.2016.024_Skin	SHSU	early	23.33333333	1
+Plate2_25432_Skin_GA5_01_26336.mzXML	Plate2	male_Skin	Skin	spring	CMU_Mr._16_04_Skin	CMU	early	7.777777778	1
+Plate2_25828_Skin_GC5_01_26363.mzXML	Plate2	female_Skin	Skin	spring	UTK.K016.01_Skin	UTK	early	10.55555556	1
+Plate2_55366_Skin_GF1_01_26401.mzXML	Plate2	male_Skin	Skin	fall	16-12_Skin	CMU	early	5.55	1
+Plate2_61974_Skin_GG4_01_26419.mzXML	Plate2	female_Skin	Skin	winter	Mrs. 17-01_Skin	CMU	early	0	1
+Plate3_55566_Skin_GD2_01_26486.mzXML	Plate3	male_Skin	Skin	fall	16-14_Skin	CMU	early	0	1
+Plate3_61830_Skin_GD7_01_26491.mzXML	Plate3	male_Skin	Skin	winter	Mr. 16-15_Skin	CMU	early	0	1
+Plate4_45702_Skin_Rerun2_GG6_01_27318.mzXML	Plate4	female_Skin	Skin	fall	17-12_Skin	CMU	early	12.8	1
+Plate4_60712_Skin_GD8_01_27253.mzXML	Plate4	female_Skin	Skin	fall	2016.073_Skin	SHSU	early	19.45	1
+Plate4_60874_Skin_GB2_01_27217.mzXML	Plate4	female_Skin	Skin	fall	2016.072_Skin	SHSU	early	19.45	1
+Plate4_63646_Skin_GC8_01_27239.mzXML	Plate4	female_Skin	Skin	winter	2017.046_Skin	SHSU	early	17.2	1
+Plate4_64940_Skin_GA2_01_27203.mzXML	Plate4	male_Skin	Skin	winter	2017.043_Skin	SHSU	early	14.75	1
+Plate4_65140_Skin_GB6_01_27221.mzXML	Plate4	male_Skin	Skin	winter	2017.045_Skin	SHSU	early	7.2	1
+Plate5_45176_Skin_GH2_01_26667.mzXML	Plate5	male_Skin	Skin	summer	UTK.K016.10_Skin	UTK	early	18.3	1
+Plate5_54610_Skin_GA2_01_26561.mzXML	Plate5	male_Skin	Skin	summer	UTK.K016.12_Skin	UTK	early	18.3	1
+Plate5_61110_Skin_GD7_01_26612.mzXML	Plate5	male_Skin	Skin	fall	2016.076_Skin	SHSU	early	15.55	1
+Plate5_64184_Skin_GE10_01_26632.mzXML	Plate5	male_Skin	Skin	winter	Mr 17-04_Skin	CMU	early	12.5	1
+Plate6_45502_Skin_GE1_01_26762.mzXML	Plate6	female_Skin	Skin	summer	Mrs. 16-10_Skin	CMU	early	24.45	1
+Plate6_45844_Skin_GC5_01_26735.mzXML	Plate6	female_Skin	Skin	summer	Mrs. 16-09_Skin	CMU	early	28.3	1
+Plate6_61630_Skin_GD7_01_26754.mzXML	Plate6	male_Skin	Skin	fall	UTK.K016.06_Skin	UTK	early	20.4	1
+Plate7_54810_Skin_GB1_01_27028.mzXML	Plate7	male_Skin	Skin	summer	2016.065_Skin	SHSU	early	27.5	1
+Plate7_55204_Skin_GG2_01_27100.mzXML	Plate7	female_Skin	Skin	summer	2016.067_Skin	SHSU	early	29.2	1
+Plate7_60512_Skin_GF10_01_27094.mzXML	Plate7	male_Skin	Skin	summer	17-10_Skin	CMU	early	25.55	1
+Plate8_25702_Skin_GF4_01_27396.mzXML	Plate8	female_Skin	Skin	spring	CMU_Mrs._16_05_Skin	CMU	early	7.5	1
+Plate8_61468_Skin_GF7_01_27400.mzXML	Plate8	female_Skin	Skin	fall	UTK.K016.05_Skin	UTK	early	21.3	1
+Plate9_55004_Skin_Rerun_GB9_01_27007.mzXML	Plate9	female_Skin	Skin	summer	2016.064_Skin	SHSU	early	27.5	1
+Plate9_61268_Skin_GB11_01_26963.mzXML	Plate9	female_Skin	Skin	fall	UTK.K016.04_Skin	UTK	early	21.3	1
+Plate10_25236_Soil_Rerun_BG8_01_27817.mzXML	Plate10	female_Soil	Soil	spring	CMU_Mrs._16_03_Soil	CMU	early	13.05555556	1
+Plate10_43472_Soil_BA2_01_27709.mzXML	Plate10	male_Soil	Soil	spring	UTK.K016.03_Soil	UTK	early	18.61111111	1
+Plate10_43634_Soil_BF4_01_27782.mzXML	Plate10	male_Soil	Soil	spring	shsu.2016.007_Soil	SHSU	early	23.33333333	1
+Plate11_25706_Soil_GA10_01_27601.mzXML	Plate11	female_Soil	Soil	spring	CMU_Mrs._16_05_Soil	CMU	early	7.5	1
+Plate11_25832_Soil_GH9_01_27700.mzXML	Plate11	female_Soil	Soil	spring	UTK.K016.01_Soil	UTK	early	10.55555556	1
+Plate11_43292_Soil_GB4_01_27608.mzXML	Plate11	female_Soil	Soil	spring	UTK.K016.02_Soil	UTK	early	18.61111111	1
+Plate11_43834_Soil_GH2_01_27691.mzXML	Plate11	female_Soil	Soil	spring	shsu.2016.011_Soil	SHSU	early	23.33333333	1
+Plate11_44028_Soil_GF10_01_27672.mzXML	Plate11	male_Soil	Soil	spring	shsu.2016.024_Soil	SHSU	early	23.33333333	1
+Plate12_25436_Soil_GB4_01_27975.mzXML	Plate12	male_Soil	Soil	spring	CMU_Mr._16_04_Soil	CMU	early	7.777777778	1
+Plate12_54814_Soil_GF5_01_28030.mzXML	Plate12	male_Soil	Soil	summer	2016.065_Soil	SHSU	early	27.5	1
+Plate12_55570_Soil_GB9_01_27981.mzXML	Plate12	male_Soil	Soil	fall	16-14_Soil	CMU	early	0	1
+Plate12_60516_Soil_GA1_01_27959.mzXML	Plate12	male_Soil	Soil	summer	17-10_Soil	CMU	early	25.55	1
+Plate12_61834_Soil_GE8_01_28021.mzXML	Plate12	male_Soil	Soil	winter	Mr. 16-15_Soil	CMU	early	0	1
+Plate13_45506_Soil_GH8_01_27577.mzXML	Plate13	female_Soil	Soil	summer	Mrs. 16-10_Soil	CMU	early	24.45	1
+Plate13_45848_Soil_GA7_01_27478.mzXML	Plate13	female_Soil	Soil	summer	Mrs. 16-09_Soil	CMU	early	28.3	1
+Plate14_60716_Soil_BC3_01_27866.mzXML	Plate14	female_Soil	Soil	fall	2016.073_Soil	SHSU	early	19.45	1
+Plate14_60878_Soil_BA2_01_27838.mzXML	Plate14	female_Soil	Soil	fall	2016.072_Soil	SHSU	early	19.45	1
+Plate14_61114_Soil_BG2_01_27921.mzXML	Plate14	male_Soil	Soil	fall	2016.076_Soil	SHSU	early	15.55	1
+Plate14_63650_Soil_BE1_01_27892.mzXML	Plate14	female_Soil	Soil	winter	2017.046_Soil	SHSU	early	17.2	1
+Plate14_64188_Soil_BC10_01_27874.mzXML	Plate14	male_Soil	Soil	winter	Mr 17-04_Soil	CMU	early	12.5	1
+Plate14_65144_Soil_BE9_01_27901.mzXML	Plate14	male_Soil	Soil	winter	2017.045_Soil	SHSU	early	7.2	1
+Plate15_45706_Soil_BG4_01_28178.mzXML	Plate15	female_Soil	Soil	fall	17-12_Soil	CMU	early	12.8	1
+Plate15_61272_Soil_BH8_01_28198.mzXML	Plate15	female_Soil	Soil	fall	UTK.K016.04_Soil	UTK	early	21.3	1
+Plate15_61472_Soil_BC2_01_28120.mzXML	Plate15	female_Soil	Soil	fall	UTK.K016.05_Soil	UTK	early	21.3	1
+Plate15_64944_Soil_BC11_01_28130.mzXML	Plate15	male_Soil	Soil	winter	2017.043_Soil	SHSU	early	14.75	1
+Plate16_55008_Soil_GH3_01_28315.mzXML	Plate16	female_Soil	Soil	summer	2016.064_Soil	SHSU	early	27.5	1
+Plate16_61634_Soil_GD7_01_28263.mzXML	Plate16	male_Soil	Soil	fall	UTK.K016.06_Soil	UTK	early	20.4	1
+Plate17_45184_Soil_BF10_01_28429.mzXML	Plate17	male_Soil	Soil	summer	UTK.K016.10_Soil	UTK	early	18.3	1
+Plate17_55208_Soil_BB1_01_28360.mzXML	Plate17	female_Soil	Soil	summer	2016.067_Soil	SHSU	early	29.2	1
+Plate17_55370_Soil_BD1_01_28389.mzXML	Plate17	male_Soil	Soil	fall	16-12_Soil	CMU	early	5.55	1
+Plate18_45420_Soil_GC7_01_28535.mzXML	Plate18	male_Soil	Soil	summer	UTK.K016.11_Soil	UTK	early	18.3	1
+Plate18_54618_Soil_GE1_01_28556.mzXML	Plate18	male_Soil	Soil	summer	UTK.K016.12_Soil	UTK	early	18.3	1
+Plate18_61978_Soil_GD7_01_28549.mzXML	Plate18	female_Soil	Soil	winter	Mrs. 17-01_Soil	CMU	early	0	1
+Plate1_25252_Skin_GG1_01_26287.mzXML	Plate1	female_Skin	Skin	spring	CMU_Mrs._16_03_Skin	CMU	early	25.83333334	2
+Plate1_25810_Skin_GB1_01_26125.mzXML	Plate1	female_Skin	Skin	spring	UTK.K016.01_Skin	UTK	early	23.05555556	2
+Plate1_43270_Skin_GB6_01_26130.mzXML	Plate1	female_Skin	Skin	spring	UTK.K016.02_Skin	UTK	early	36.38888889	2
+Plate1_43450_Skin_GA8_01_26107.mzXML	Plate1	male_Skin	Skin	spring	UTK.K016.03_Skin	UTK	early	41.38888889	2
+Plate1_43650_Skin_GF4_01_26276.mzXML	Plate1	male_Skin	Skin	spring	shsu.2016.007_Skin	SHSU	early	45.83333333	2
+Plate1_43844_Skin_GD8_01_26254.mzXML	Plate1	female_Skin	Skin	spring	shsu.2016.011_Skin	SHSU	early	45.83333333	2
+Plate1_44044_Skin_GG9_01_26296.mzXML	Plate1	male_Skin	Skin	spring	shsu.2016.024_Skin	SHSU	early	45.83333333	2
+Plate3_54504_Skin_GF4_01_26515.mzXML	Plate3	male_Skin	Skin	fall	16-14_Skin	CMU	early	0	2
+Plate3_55386_Skin_GF3_01_26514.mzXML	Plate3	male_Skin	Skin	fall	16-12_Skin	CMU	early	11.1	2
+Plate3_61988_Skin_GH8_01_26546.mzXML	Plate3	female_Skin	Skin	winter	Mrs. 17-01_Skin	CMU	early	0	2
+Plate3_64384_Skin_GB5_01_26465.mzXML	Plate3	male_Skin	Skin	winter	K016.08_Skin	UTK	early	0	2
+Plate3_64546_Skin_GB6_01_26466.mzXML	Plate3	male_Skin	Skin	winter	K016.07_Skin	UTK	early	0	2
+Plate3_64746_Skin_GH11_01_26549.mzXML	Plate3	male_Skin	Skin	winter	K016.09_Skin	UTK	early	0	2
+Plate4_45394_Skin_GE2_01_27260.mzXML	Plate4	male_Skin	Skin	summer	UTK.K016.11_Skin	UTK	early	41.5	2
+Plate4_54630_Skin_GA8_01_27210.mzXML	Plate4	male_Skin	Skin	summer	UTK.K016.12_Skin	UTK	early	41.5	2
+Plate4_60894_Skin_GF5_01_27277.mzXML	Plate4	female_Skin	Skin	fall	2016.072_Skin	SHSU	early	40.6	2
+Plate4_61052_Skin_GF9_01_27282.mzXML	Plate4	male_Skin	Skin	fall	2016.076_Skin	SHSU	early	30.55	2
+Plate4_63666_Skin_GA9_01_27211.mzXML	Plate4	female_Skin	Skin	winter	2017.046_Skin	SHSU	early	34.7	2
+Plate4_64204_Skin_GF2_01_27274.mzXML	Plate4	male_Skin	Skin	winter	Mr 17-04_Skin	CMU	early	24.15	2
+Plate5_45716_Skin_GH8_01_26674.mzXML	Plate5	female_Skin	Skin	fall	17-12_Skin	CMU	early	28.65	2
+Plate5_60694_Skin_GD3_01_26607.mzXML	Plate5	female_Skin	Skin	fall	2016.073_Skin	SHSU	early	40.6	2
+Plate5_65122_Skin_GD10_01_26615.mzXML	Plate5	male_Skin	Skin	winter	2017.045_Skin	SHSU	early	18.9	2
+Plate6_25414_Skin_GH10_01_26890.mzXML	Plate6	male_Skin	Skin	spring	CMU_Mr._16_04_Skin	CMU	early	16.66666667	2
+Plate6_45196_Skin_GG8_01_26873.mzXML	Plate6	male_Skin	Skin	summer	UTK.K016.10_Skin	UTK	early	41.5	2
+Plate6_45522_Skin_GF9_01_26788.mzXML	Plate6	female_Skin	Skin	summer	Mrs. 16-10_Skin	CMU	active	50	2
+Plate6_45826_Skin_GB8_01_26724.mzXML	Plate6	female_Skin	Skin	summer	Mrs. 16-09_Skin	CMU	active	57.45	2
+Plate6_60376_Skin_GB6_01_26721.mzXML	Plate6	male_Skin	Skin	winter	Mr. 16-15_Skin	CMU	early	1.1	2
+Plate6_64960_Skin_GA9_01_26711.mzXML	Plate6	male_Skin	Skin	winter	2017.043_Skin	SHSU	early	31.95	2
+Plate7_54824_Skin_GH2_01_27114.mzXML	Plate7	male_Skin	Skin	summer	2016.065_Skin	SHSU	active	55.27777778	2
+Plate7_61650_Skin_GE6_01_27075.mzXML	Plate7	male_Skin	Skin	fall	UTK.K016.06_Skin	UTK	early	40.8	2
+Plate8_25722_Skin_GH2_01_27423.mzXML	Plate8	female_Skin	Skin	spring	CMU_Mrs._16_05_Skin	CMU	early	11.38888889	2
+Plate8_55024_Skin_GA5_01_27326.mzXML	Plate8	female_Skin	Skin	summer	2016.064_Skin	SHSU	active	55.27777778	2
+Plate8_55186_Skin_Rerun_GC3_01_27437.mzXML	Plate8	female_Skin	Skin	summer	2016.067_Skin	SHSU	active	58.9	2
+Plate8_60532_Skin_GB10_01_27347.mzXML	Plate8	male_Skin	Skin	summer	17-10_Skin	CMU	early	49.75	2
+Plate8_61288_Skin_GD11_01_27376.mzXML	Plate8	female_Skin	Skin	fall	UTK.K016.04_Skin	UTK	early	41.7	2
+Plate8_61450_Skin_GE4_01_27382.mzXML	Plate8	female_Skin	Skin	fall	UTK.K016.05_Skin	UTK	early	41.7	2
+Plate10_25256_Soil_BG1_01_27793.mzXML	Plate10	female_Soil	Soil	spring	CMU_Mrs._16_03_Soil	CMU	early	25.83333334	2
+Plate10_25726_Soil_BB4_01_27725.mzXML	Plate10	female_Soil	Soil	spring	CMU_Mrs._16_05_Soil	CMU	early	11.38888889	2
+Plate10_25814_Soil_BH3_01_27809.mzXML	Plate10	female_Soil	Soil	spring	UTK.K016.01_Soil	UTK	early	23.05555556	2
+Plate10_43654_Soil_BD7_01_27757.mzXML	Plate10	male_Soil	Soil	spring	shsu.2016.007_Soil	SHSU	early	45.83333333	2
+Plate10_44048_Soil_BH5_01_27811.mzXML	Plate10	male_Soil	Soil	spring	shsu.2016.024_Soil	SHSU	early	45.83333333	2
+Plate10_64388_Soil_Rerun_BE5_01_27770.mzXML	Plate10	male_Soil	Soil	winter	K016.08_Soil	UTK	early	0	2
+Plate10_64550_Soil_Rerun_BG5_01_27815.mzXML	Plate10	male_Soil	Soil	winter	K016.07_Soil	UTK	early	0	2
+Plate11_43274_Soil_GH5_01_27694.mzXML	Plate11	female_Soil	Soil	spring	UTK.K016.02_Soil	UTK	early	36.38888889	2
+Plate11_61454_Soil_GG4_01_27679.mzXML	Plate11	female_Soil	Soil	fall	UTK.K016.05_Soil	UTK	early	41.7	2
+Plate12_43454_Soil_Rerun_GH11_01_28086.mzXML	Plate12	male_Soil	Soil	spring	UTK.K016.03_Soil	UTK	early	41.38888889	2
+Plate12_43848_Soil_GB2_01_27973.mzXML	Plate12	female_Soil	Soil	spring	shsu.2016.011_Soil	SHSU	early	45.83333333	2
+Plate12_55390_Soil_GF3_01_28069.mzXML	Plate12	male_Soil	Soil	fall	16-12_Soil	CMU	early	11.1	2
+Plate12_60380_Soil_GF4_01_28029.mzXML	Plate12	male_Soil	Soil	winter	Mr. 16-15_Soil	CMU	early	1.1	2
+Plate12_60536_Soil_GB11_01_27983.mzXML	Plate12	male_Soil	Soil	summer	17-10_Soil	CMU	early	49.75	2
+Plate12_64750_Soil_GE10_01_28023.mzXML	Plate12	male_Soil	Soil	winter	K016.09_Soil	UTK	early	0	2
+Plate13_25418_Soil_GF9_01_27549.mzXML	Plate13	male_Soil	Soil	spring	CMU_Mr._16_04_Soil	CMU	early	16.66666667	2
+Plate13_45526_Soil_GF5_01_27544.mzXML	Plate13	female_Soil	Soil	summer	Mrs. 16-10_Soil	CMU	active	50	2
+Plate13_45830_Soil_GH3_01_27571.mzXML	Plate13	female_Soil	Soil	summer	Mrs. 16-09_Soil	CMU	active	57.45	2
+Plate13_54508_Soil_GF8_01_27548.mzXML	Plate13	male_Soil	Soil	fall	16-14_Soil	CMU	early	0	2
+Plate14_60698_Soil_BF10_01_27916.mzXML	Plate14	female_Soil	Soil	fall	2016.073_Soil	SHSU	early	40.6	2
+Plate14_60898_Soil_BC2_01_27865.mzXML	Plate14	female_Soil	Soil	fall	2016.072_Soil	SHSU	early	40.6	2
+Plate14_63670_Soil_BG3_01_27922.mzXML	Plate14	female_Soil	Soil	winter	2017.046_Soil	SHSU	early	34.7	2
+Plate14_64964_Soil_BD4_01_27881.mzXML	Plate14	male_Soil	Soil	winter	2017.043_Soil	SHSU	early	31.95	2
+Plate15_45720_Soil_BA4_01_28094.mzXML	Plate15	female_Soil	Soil	fall	17-12_Soil	CMU	early	28.65	2
+Plate15_54828_Soil_BD11_01_28144.mzXML	Plate15	male_Soil	Soil	summer	2016.065_Soil	SHSU	active	55.27777778	2
+Plate15_55028_Soil_BF5_01_28165.mzXML	Plate15	female_Soil	Soil	summer	2016.064_Soil	SHSU	active	55.27777778	2
+Plate15_55190_Soil_BC1_01_28119.mzXML	Plate15	female_Soil	Soil	summer	2016.067_Soil	SHSU	active	58.9	2
+Plate15_61292_Soil_BA10_01_28101.mzXML	Plate15	female_Soil	Soil	fall	UTK.K016.04_Soil	UTK	early	41.7	2
+Plate15_61654_Soil_BD3_01_28135.mzXML	Plate15	male_Soil	Soil	fall	UTK.K016.06_Soil	UTK	early	40.8	2
+Plate16_64208_Soil_GD2_01_28257.mzXML	Plate16	male_Soil	Soil	winter	Mr 17-04_Soil	CMU	early	24.15	2
+Plate16_65126_Soil_GB10_01_28237.mzXML	Plate16	male_Soil	Soil	winter	2017.045_Soil	SHSU	early	18.9	2
+Plate17_54638_Soil_BF6_01_28424.mzXML	Plate17	male_Soil	Soil	summer	UTK.K016.12_Soil	UTK	early	41.5	2
+Plate17_61992_Soil_BH9_01_28459.mzXML	Plate17	female_Soil	Soil	winter	Mrs. 17-01_Soil	CMU	early	0	2
+Plate18_45204_Soil_GD11_01_28553.mzXML	Plate18	male_Soil	Soil	summer	UTK.K016.10_Soil	UTK	early	41.5	2
+Plate18_45402_Soil_GE5_01_28560.mzXML	Plate18	male_Soil	Soil	summer	UTK.K016.11_Soil	UTK	early	41.5	2
+Plate1_43290_Skin_GG11_01_26298.mzXML	Plate1	female_Skin	Skin	spring	UTK.K016.02_Skin	UTK	active	51.38888889	3
+Plate1_43664_Skin_GG7_01_26294.mzXML	Plate1	male_Skin	Skin	spring	shsu.2016.007_Skin	SHSU	active	67.5	3
+Plate1_43864_Skin_GH3_01_26303.mzXML	Plate1	female_Skin	Skin	spring	shsu.2016.011_Skin	SHSU	active	67.5	3
+Plate1_44026_Skin_GE11_01_26270.mzXML	Plate1	male_Skin	Skin	spring	shsu.2016.024_Skin	SHSU	active	67.5	3
+Plate2_25434_Skin_GD9_01_26382.mzXML	Plate2	male_Skin	Skin	spring	CMU_Mr._16_04_Skin	CMU	early	29.72222223	3
+Plate2_25830_Skin_GB3_01_26346.mzXML	Plate2	female_Skin	Skin	spring	UTK.K016.01_Skin	UTK	early	33.05555556	3
+Plate2_43470_Skin_GD10_01_26383.mzXML	Plate2	male_Skin	Skin	spring	UTK.K016.03_Skin	UTK	active	63.33333333	3
+Plate2_55400_Skin_GH5_01_26435.mzXML	Plate2	male_Skin	Skin	fall	16-12_Skin	CMU	early	14.4	3
+Plate2_62008_Skin_GG6_01_26421.mzXML	Plate2	female_Skin	Skin	winter	Mrs. 17-01_Skin	CMU	early	0	3
+Plate2_64366_Skin_GH6_01_26436.mzXML	Plate2	male_Skin	Skin	winter	K016.08_Skin	UTK	early	0	3
+Plate2_64566_Skin_GF8_01_26409.mzXML	Plate2	male_Skin	Skin	winter	K016.07_Skin	UTK	early	0	3
+Plate3_54524_Skin_GE5_01_26501.mzXML	Plate3	male_Skin	Skin	fall	16-14_Skin	CMU	early	0	3
+Plate3_60396_Skin_GA4_01_26451.mzXML	Plate3	male_Skin	Skin	winter	Mr. 16-15_Skin	CMU	early	5.8	3
+Plate3_64760_Skin_GD11_01_26495.mzXML	Plate3	male_Skin	Skin	winter	K016.09_Skin	UTK	early	0	3
+Plate4_45178_Skin_GH9_01_27310.mzXML	Plate4	male_Skin	Skin	summer	UTK.K016.10_Skin	UTK	active	62.3	3
+Plate4_45414_Skin_GH3_01_27303.mzXML	Plate4	male_Skin	Skin	summer	UTK.K016.11_Skin	UTK	active	62.3	3
+Plate4_45736_Skin_GH10_01_27311.mzXML	Plate4	female_Skin	Skin	fall	17-12_Skin	CMU	early	41.7	3
+Plate4_54644_Skin_GC1_01_27230.mzXML	Plate4	male_Skin	Skin	summer	UTK.K016.12_Skin	UTK	active	62.3	3
+Plate4_60908_Skin_GE8_01_27267.mzXML	Plate4	female_Skin	Skin	fall	2016.072_Skin	SHSU	active	62.55	3
+Plate4_61072_Skin_GE4_01_27262.mzXML	Plate4	male_Skin	Skin	fall	2016.076_Skin	SHSU	early	47.5	3
+Plate4_64186_Skin_GF11_01_27284.mzXML	Plate4	male_Skin	Skin	winter	Mr 17-04_Skin	CMU	early	34.15	3
+Plate4_64942_Skin_GC5_01_27234.mzXML	Plate4	male_Skin	Skin	winter	2017.043_Skin	SHSU	early	49.45	3
+Plate5_63680_Skin_GG8_01_26660.mzXML	Plate5	female_Skin	Skin	winter	2017.046_Skin	SHSU	early	49.7	3
+Plate5_65142_Skin_GG6_01_26657.mzXML	Plate5	male_Skin	Skin	winter	2017.045_Skin	SHSU	early	29.15	3
+Plate6_45536_Skin_GE3_01_26764.mzXML	Plate6	female_Skin	Skin	summer	Mrs. 16-10_Skin	CMU	active	78.05	3
+Plate7_45846_Skin_GB3_01_27030.mzXML	Plate7	female_Skin	Skin	summer	Mrs. 16-09_Skin	CMU	active	86.6	3
+Plate7_55206_Skin_GE11_01_27081.mzXML	Plate7	female_Skin	Skin	summer	2016.067_Skin	SHSU	active	89.75	3
+Plate7_60714_Skin_GA5_01_27018.mzXML	Plate7	female_Skin	Skin	fall	2016.073_Skin	SHSU	active	62.55	3
+Plate7_61664_Skin_GH3_01_27115.mzXML	Plate7	male_Skin	Skin	fall	UTK.K016.06_Skin	UTK	active	62.5	3
+Plate8_25736_Skin_GH9_01_27432.mzXML	Plate8	female_Skin	Skin	spring	CMU_Mrs._16_05_Skin	CMU	early	15.83333333	3
+Plate8_54844_Skin_GC6_01_27356.mzXML	Plate8	male_Skin	Skin	summer	2016.065_Skin	SHSU	active	82.22222222	3
+Plate8_55006_Skin_GC10_01_27361.mzXML	Plate8	female_Skin	Skin	summer	2016.064_Skin	SHSU	active	82.22222222	3
+Plate8_60514_Skin_GB8_01_27345.mzXML	Plate8	male_Skin	Skin	summer	17-10_Skin	CMU	active	72	3
+Plate8_61470_Skin_GD6_01_27370.mzXML	Plate8	female_Skin	Skin	fall	UTK.K016.05_Skin	UTK	active	60.4	3
+Plate9_25234_Skin_Rerun_GA1_01_26937.mzXML	Plate9	female_Skin	Skin	spring	CMU_Mrs._16_03_Skin	CMU	early	35.83333334	3
+Plate9_61270_Skin_GB8_01_26960.mzXML	Plate9	female_Skin	Skin	fall	UTK.K016.04_Skin	UTK	active	60.4	3
+Plate10_25438_Soil_BD1_01_27750.mzXML	Plate10	male_Soil	Soil	spring	CMU_Mr._16_04_Soil	CMU	early	29.72222223	3
+Plate10_25740_Soil_BC11_01_27747.mzXML	Plate10	female_Soil	Soil	spring	CMU_Mrs._16_05_Soil	CMU	early	15.83333333	3
+Plate10_43294_Soil_BC5_01_27740.mzXML	Plate10	female_Soil	Soil	spring	UTK.K016.02_Soil	UTK	active	51.38888889	3
+Plate10_43474_Soil_BD8_01_27758.mzXML	Plate10	male_Soil	Soil	spring	UTK.K016.03_Soil	UTK	active	63.33333333	3
+Plate10_64570_Soil_BA10_01_27718.mzXML	Plate10	male_Soil	Soil	winter	K016.07_Soil	UTK	early	0	3
+Plate11_45540_Soil_GD8_01_27641.mzXML	Plate11	female_Soil	Soil	summer	Mrs. 16-10_Soil	CMU	active	78.05	3
+Plate11_55010_Soil_GB1_01_27605.mzXML	Plate11	female_Soil	Soil	summer	2016.064_Soil	SHSU	active	82.22222222	3
+Plate12_25238_Soil_GC11_01_27996.mzXML	Plate12	female_Soil	Soil	spring	CMU_Mrs._16_03_Soil	CMU	early	35.83333334	3
+Plate12_25834_Soil_Rerun_GH2_01_28084.mzXML	Plate12	female_Soil	Soil	spring	UTK.K016.01_Soil	UTK	early	33.05555556	3
+Plate12_60518_Soil_GH4_01_28056.mzXML	Plate12	male_Soil	Soil	summer	17-10_Soil	CMU	active	72	3
+Plate12_64370_Soil_GF8_01_28034.mzXML	Plate12	male_Soil	Soil	winter	K016.08_Soil	UTK	early	0	3
+Plate12_64764_Soil_GC7_01_27992.mzXML	Plate12	male_Soil	Soil	winter	K016.09_Soil	UTK	early	0	3
+Plate13_43668_Soil_GB3_01_27487.mzXML	Plate13	male_Soil	Soil	spring	shsu.2016.007_Soil	SHSU	active	67.5	3
+Plate13_43868_Soil_GB5_01_27489.mzXML	Plate13	female_Soil	Soil	spring	shsu.2016.011_Soil	SHSU	active	67.5	3
+Plate13_44030_Soil_GA4_01_27474.mzXML	Plate13	male_Soil	Soil	spring	shsu.2016.024_Soil	SHSU	active	67.5	3
+Plate13_45850_Soil_GF2_01_27541.mzXML	Plate13	female_Soil	Soil	summer	Mrs. 16-09_Soil	CMU	active	86.6	3
+Plate13_62012_Soil_GH5_01_27573.mzXML	Plate13	female_Soil	Soil	winter	Mrs. 17-01_Soil	CMU	early	0	3
+Plate13_64946_Soil_GH11_01_27580.mzXML	Plate13	male_Soil	Soil	winter	2017.043_Soil	SHSU	early	49.45	3
+Plate14_60718_Soil_BA4_01_27840.mzXML	Plate14	female_Soil	Soil	fall	2016.073_Soil	SHSU	active	62.55	3
+Plate14_60912_Soil_BD8_01_27886.mzXML	Plate14	female_Soil	Soil	fall	2016.072_Soil	SHSU	active	62.55	3
+Plate14_61076_Soil_BE11_01_27903.mzXML	Plate14	male_Soil	Soil	fall	2016.076_Soil	SHSU	early	47.5	3
+Plate14_65146_Soil_BG8_01_27929.mzXML	Plate14	male_Soil	Soil	winter	2017.045_Soil	SHSU	early	29.15	3
+Plate15_45740_Soil_BG3_01_28177.mzXML	Plate15	female_Soil	Soil	fall	17-12_Soil	CMU	early	41.7	3
+Plate15_54848_Soil_BC10_01_28129.mzXML	Plate15	male_Soil	Soil	summer	2016.065_Soil	SHSU	active	82.22222222	3
+Plate15_55210_Soil_BC9_01_28128.mzXML	Plate15	female_Soil	Soil	summer	2016.067_Soil	SHSU	active	89.75	3
+Plate15_61274_Soil_BF2_01_28162.mzXML	Plate15	female_Soil	Soil	fall	UTK.K016.04_Soil	UTK	active	60.4	3
+Plate15_61474_Soil_BC8_01_28127.mzXML	Plate15	female_Soil	Soil	fall	UTK.K016.05_Soil	UTK	active	60.4	3
+Plate15_61668_Soil_BH2_01_28191.mzXML	Plate15	male_Soil	Soil	fall	UTK.K016.06_Soil	UTK	active	62.5	3
+Plate15_63684_Soil_BE1_01_28147.mzXML	Plate15	female_Soil	Soil	winter	2017.046_Soil	SHSU	early	49.7	3
+Plate16_64190_Soil_GD11_01_28267.mzXML	Plate16	male_Soil	Soil	winter	Mr 17-04_Soil	CMU	early	34.15	3
+Plate17_45186_Soil_BE3_01_28406.mzXML	Plate17	male_Soil	Soil	summer	UTK.K016.10_Soil	UTK	active	62.3	3
+Plate17_54528_Soil_BC3_01_28377.mzXML	Plate17	male_Soil	Soil	fall	16-14_Soil	CMU	early	0	3
+Plate17_54652_Soil_BE11_01_28416.mzXML	Plate17	male_Soil	Soil	summer	UTK.K016.12_Soil	UTK	active	62.3	3
+Plate17_60370_Soil_BC7_01_28382.mzXML	Plate17	male_Soil	Soil	winter	Mr. 16-15_Soil	CMU	early	5.8	3
+Plate18_45422_Soil_GE7_01_28563.mzXML	Plate18	male_Soil	Soil	summer	UTK.K016.11_Soil	UTK	active	62.3	3
+Plate18_55404_Soil_GB2_01_28515.mzXML	Plate18	male_Soil	Soil	fall	16-12_Soil	CMU	early	14.4	3
+Plate1_25756_Skin_GH2_01_26302.mzXML	Plate1	female_Skin	Skin	spring	CMU_Mrs._16_05_Skin	CMU	early	22.5	4
+Plate1_25844_Skin_GE7_01_26266.mzXML	Plate1	female_Skin	Skin	spring	UTK.K016.01_Skin	UTK	early	40.55555556	4
+Plate1_43304_Skin_GF8_01_26281.mzXML	Plate1	female_Skin	Skin	spring	UTK.K016.02_Skin	UTK	active	67.5	4
+Plate1_43846_Skin_GA5_01_26118.mzXML	Plate1	female_Skin	Skin	spring	shsu.2016.011_Skin	SHSU	active	90.55555556	4
+Plate2_43484_Skin_GD7_01_26380.mzXML	Plate2	male_Skin	Skin	spring	UTK.K016.03_Skin	UTK	active	86.11111111	4
+Plate2_43684_Skin_GA10_01_26341.mzXML	Plate2	male_Skin	Skin	spring	shsu.2016.007_Skin	SHSU	active	90.55555556	4
+Plate2_44046_Skin_GA11_01_26342.mzXML	Plate2	male_Skin	Skin	spring	shsu.2016.024_Skin	SHSU	active	90.55555556	4
+Plate2_64580_Skin_GH11_01_26442.mzXML	Plate2	male_Skin	Skin	winter	K016.07_Skin	UTK	early	3.9	4
+Plate3_54511_Skin_GH1_01_26539.mzXML	Plate3	male_Skin	Skin	fall	16-14_Skin	CMU	early	0	4
+Plate3_55420_Skin_GF5_01_26517.mzXML	Plate3	male_Skin	Skin	fall	16-12_Skin	CMU	early	16.9	4
+Plate3_60382_Skin_GC4_01_26476.mzXML	Plate3	male_Skin	Skin	winter	Mr. 16-15_Skin	CMU	early	12.45	4
+Plate3_61990_Skin_GE8_01_26504.mzXML	Plate3	female_Skin	Skin	winter	Mrs. 17-01_Skin	CMU	early	0	4
+Plate3_64386_Skin_GC10_01_26482.mzXML	Plate3	male_Skin	Skin	winter	K016.08_Skin	UTK	early	3.9	4
+Plate3_64780_Skin_GH6_01_26544.mzXML	Plate3	male_Skin	Skin	winter	K016.09_Skin	UTK	early	3.9	4
+Plate4_45198_Skin_GA6_01_27207.mzXML	Plate4	male_Skin	Skin	summer	UTK.K016.10_Skin	UTK	active	84.2	4
+Plate4_45356_Skin_GB1_01_27216.mzXML	Plate4	male_Skin	Skin	summer	UTK.K016.11_Skin	UTK	active	84.2	4
+Plate4_54664_Skin_GG7_01_27294.mzXML	Plate4	male_Skin	Skin	summer	UTK.K016.12_Skin	UTK	active	84.2	4
+Plate4_60728_Skin_GC6_01_27235.mzXML	Plate4	female_Skin	Skin	fall	2016.073_Skin	SHSU	active	82	4
+Plate4_60928_Skin_GC2_01_27231.mzXML	Plate4	female_Skin	Skin	fall	2016.072_Skin	SHSU	active	82	4
+Plate4_61054_Skin_GD5_01_27249.mzXML	Plate4	male_Skin	Skin	fall	2016.076_Skin	SHSU	active	63.6	4
+Plate4_63700_Skin_GA4_01_27205.mzXML	Plate4	female_Skin	Skin	winter	2017.046_Skin	SHSU	active	57.45	4
+Plate4_64962_Skin_GC3_01_27232.mzXML	Plate4	male_Skin	Skin	winter	2017.043_Skin	SHSU	active	72.5	4
+Plate4_65156_Skin_GA5_01_27206.mzXML	Plate4	male_Skin	Skin	winter	2017.045_Skin	SHSU	early	36.9	4
+Plate5_45718_Skin_GF6_01_26642.mzXML	Plate5	female_Skin	Skin	fall	17-12_Skin	CMU	active	50.05	4
+Plate5_64206_Skin_Rerun_GF1_01_26637.mzXML	Plate5	male_Skin	Skin	winter	Mr 17-04_Skin	CMU	early	46.95	4
+Plate6_55220_Skin_GA3_01_26703.mzXML	Plate6	female_Skin	Skin	summer	2016.067_Skin	SHSU	active	118.95	4
+Plate7_45556_Skin_GC2_01_27043.mzXML	Plate7	female_Skin	Skin	summer	Mrs. 16-10_Skin	CMU	active	104.45	4
+Plate7_45860_Skin_GD4_01_27059.mzXML	Plate7	female_Skin	Skin	summer	Mrs. 16-09_Skin	CMU	active	114.7	4
+Plate7_60534_Skin_GC11_01_27053.mzXML	Plate7	male_Skin	Skin	summer	17-10_Skin	CMU	active	97	4
+Plate8_25254_Skin_GF11_01_27404.mzXML	Plate8	female_Skin	Skin	spring	CMU_Mrs._16_03_Skin	CMU	early	47.22222223	4
+Plate8_54826_Skin_GD1_01_27365.mzXML	Plate8	male_Skin	Skin	summer	2016.065_Skin	SHSU	active	109.4444444	4
+Plate8_55026_Skin_GA7_01_27329.mzXML	Plate8	female_Skin	Skin	summer	2016.064_Skin	SHSU	active	109.4444444	4
+Plate8_61290_Skin_GE11_01_27390.mzXML	Plate8	female_Skin	Skin	fall	UTK.K016.04_Skin	UTK	active	76.2	4
+Plate8_61484_Skin_GD8_01_27373.mzXML	Plate8	female_Skin	Skin	fall	UTK.K016.05_Skin	UTK	active	76.2	4
+Plate9_25448_Skin_GA11_01_26949.mzXML	Plate9	male_Skin	Skin	spring	CMU_Mr._16_04_Skin	CMU	early	40.00000001	4
+Plate10_25258_Soil_BC10_01_27746.mzXML	Plate10	female_Soil	Soil	spring	CMU_Mrs._16_03_Soil	CMU	early	47.22222223	4
+Plate10_25452_Soil_BD5_01_27754.mzXML	Plate10	male_Soil	Soil	spring	CMU_Mr._16_04_Soil	CMU	early	40.00000001	4
+Plate10_25760_Soil_BE3_01_27766.mzXML	Plate10	female_Soil	Soil	spring	CMU_Mrs._16_05_Soil	CMU	early	22.5	4
+Plate10_64584_Soil_BC9_01_27745.mzXML	Plate10	male_Soil	Soil	winter	K016.07_Soil	UTK	early	3.9	4
+Plate11_43488_Soil_GG1_01_27676.mzXML	Plate11	male_Soil	Soil	spring	UTK.K016.03_Soil	UTK	active	86.11111111	4
+Plate11_43688_Soil_GG2_01_27677.mzXML	Plate11	male_Soil	Soil	spring	shsu.2016.007_Soil	SHSU	active	90.55555556	4
+Plate11_45560_Soil_GB8_01_27613.mzXML	Plate11	female_Soil	Soil	summer	Mrs. 16-10_Soil	CMU	active	104.45	4
+Plate11_60538_Soil_GH8_01_27699.mzXML	Plate11	male_Soil	Soil	summer	17-10_Soil	CMU	active	97	4
+Plate11_64784_Soil_GB7_01_27612.mzXML	Plate11	male_Soil	Soil	winter	K016.09_Soil	UTK	early	3.9	4
+Plate12_43308_Soil_GE4_01_28016.mzXML	Plate12	female_Soil	Soil	spring	UTK.K016.02_Soil	UTK	active	67.5	4
+Plate12_64390_Soil_GC1_01_27986.mzXML	Plate12	male_Soil	Soil	winter	K016.08_Soil	UTK	early	3.9	4
+Plate13_25848_Soil_GD6_01_27517.mzXML	Plate13	female_Soil	Soil	spring	UTK.K016.01_Soil	UTK	early	40.55555556	4
+Plate13_45864_Soil_GB11_01_27496.mzXML	Plate13	female_Soil	Soil	summer	Mrs. 16-09_Soil	CMU	active	114.7	4
+Plate13_55030_Soil_GD9_01_27521.mzXML	Plate13	female_Soil	Soil	summer	2016.064_Soil	SHSU	active	109.4444444	4
+Plate14_45722_Soil_BH2_01_27936.mzXML	Plate14	female_Soil	Soil	fall	17-12_Soil	CMU	active	50.05	4
+Plate14_60732_Soil_BF5_01_27910.mzXML	Plate14	female_Soil	Soil	fall	2016.073_Soil	SHSU	active	82	4
+Plate14_60932_Soil_BG7_01_27927.mzXML	Plate14	female_Soil	Soil	fall	2016.072_Soil	SHSU	active	82	4
+Plate14_64210_Soil_BD10_01_27888.mzXML	Plate14	male_Soil	Soil	winter	Mr 17-04_Soil	CMU	early	46.95	4
+Plate15_61058_Soil_BD2_01_28134.mzXML	Plate15	male_Soil	Soil	fall	2016.076_Soil	SHSU	active	63.6	4
+Plate15_61688_Soil_BH5_01_28194.mzXML	Plate15	male_Soil	Soil	fall	UTK.K016.06_Soil	UTK	active	79.4	4
+Plate15_63704_Soil_BE9_01_28156.mzXML	Plate15	female_Soil	Soil	winter	2017.046_Soil	SHSU	active	57.45	4
+Plate15_64966_Soil_BB9_01_28114.mzXML	Plate15	male_Soil	Soil	winter	2017.043_Soil	SHSU	active	72.5	4
+Plate16_43850_Soil_GE8_01_28278.mzXML	Plate16	female_Soil	Soil	spring	shsu.2016.011_Soil	SHSU	active	90.55555556	4
+Plate16_44050_Soil_GF7_01_28292.mzXML	Plate16	male_Soil	Soil	spring	shsu.2016.024_Soil	SHSU	active	90.55555556	4
+Plate16_55224_Soil_GF4_01_28288.mzXML	Plate16	female_Soil	Soil	summer	2016.067_Soil	SHSU	active	118.95	4
+Plate16_61294_Soil_GA1_01_28213.mzXML	Plate16	female_Soil	Soil	fall	UTK.K016.04_Soil	UTK	active	76.2	4
+Plate16_61488_Soil_GD4_01_28259.mzXML	Plate16	female_Soil	Soil	fall	UTK.K016.05_Soil	UTK	active	76.2	4
+Plate16_65160_Soil_GA4_01_28216.mzXML	Plate16	male_Soil	Soil	winter	2017.045_Soil	SHSU	early	36.9	4
+Plate17_45364_Soil_BD5_01_28393.mzXML	Plate17	male_Soil	Soil	summer	UTK.K016.11_Soil	UTK	active	84.2	4
+Plate17_54515_Soil_BD11_01_28401.mzXML	Plate17	male_Soil	Soil	fall	16-14_Soil	CMU	early	0	4
+Plate17_54672_Soil_BH10_01_28460.mzXML	Plate17	male_Soil	Soil	summer	UTK.K016.12_Soil	UTK	active	84.2	4
+Plate17_54830_Soil_BA1_01_28346.mzXML	Plate17	male_Soil	Soil	summer	2016.065_Soil	SHSU	active	109.4444444	4
+Plate17_55424_Soil_BG9_01_28443.mzXML	Plate17	male_Soil	Soil	fall	16-12_Soil	CMU	early	16.9	4
+Plate18_45206_Soil_GC1_01_28528.mzXML	Plate18	male_Soil	Soil	summer	UTK.K016.10_Soil	UTK	active	84.2	4
+Plate18_60386_Soil_GD5_01_28546.mzXML	Plate18	male_Soil	Soil	winter	Mr. 16-15_Soil	CMU	early	12.45	4
+Plate18_61994_Soil_GC11_01_28539.mzXML	Plate18	female_Soil	Soil	winter	Mrs. 17-01_Soil	CMU	early	0	4
+Plate1_25468_Skin_GF3_01_26275.mzXML	Plate1	male_Skin	Skin	spring	CMU_Mr._16_04_Skin	CMU	early	44.72222223	5
+Plate1_25738_Skin_GH10_01_26310.mzXML	Plate1	female_Skin	Skin	spring	CMU_Mrs._16_05_Skin	CMU	early	31.11111111	5
+Plate1_25864_Skin_GG10_01_26297.mzXML	Plate1	female_Skin	Skin	spring	UTK.K016.01_Skin	UTK	early	48.33333334	5
+Plate1_43324_Skin_GH5_01_26305.mzXML	Plate1	female_Skin	Skin	spring	UTK.K016.02_Skin	UTK	active	86.66666667	5
+Plate1_43504_Skin_GC7_01_26316.mzXML	Plate1	male_Skin	Skin	spring	UTK.K016.03_Skin	UTK	active	109.7222222	5
+Plate1_43666_Skin_GE9_01_26268.mzXML	Plate1	male_Skin	Skin	spring	shsu.2016.007_Skin	SHSU	active	111.6666667	5
+Plate1_43866_Skin_GD7_01_26253.mzXML	Plate1	female_Skin	Skin	spring	shsu.2016.011_Skin	SHSU	active	111.6666667	5
+Plate1_44060_Skin_GC8_01_26317.mzXML	Plate1	male_Skin	Skin	spring	shsu.2016.024_Skin	SHSU	active	111.6666667	5
+Plate2_64600_Skin_GE4_01_26390.mzXML	Plate2	male_Skin	Skin	winter	K016.07_Skin	UTK	early	15.8	5
+Plate3_54530_Skin_GA1_01_26448.mzXML	Plate3	male_Skin	Skin	fall	16-14_Skin	CMU	early	0	5
+Plate3_55402_Skin_GH7_01_26545.mzXML	Plate3	male_Skin	Skin	fall	16-12_Skin	CMU	early	20.8	5
+Plate3_62010_Skin_GH12_01_26553.mzXML	Plate3	female_Skin	Skin	winter	Mrs. 17-01_Skin	CMU	early	0	5
+Plate3_62059_Skin_GE10_01_26506.mzXML	Plate3	male_Skin	Skin	winter	Mr. 16-15_Skin	CMU	early	12.45	5
+Plate3_64400_Skin_GG9_01_26535.mzXML	Plate3	male_Skin	Skin	winter	K016.08_Skin	UTK	early	15.8	5
+Plate3_64762_Skin_GE6_01_26502.mzXML	Plate3	male_Skin	Skin	winter	K016.09_Skin	UTK	early	15.8	5
+Plate4_45212_Skin_GE5_01_27263.mzXML	Plate4	male_Skin	Skin	summer	UTK.K016.10_Skin	UTK	active	105.8	5
+Plate4_54646_Skin_GB10_01_27226.mzXML	Plate4	male_Skin	Skin	summer	UTK.K016.12_Skin	UTK	active	105.8	5
+Plate4_60910_Skin_GA11_01_27213.mzXML	Plate4	female_Skin	Skin	fall	2016.072_Skin	SHSU	active	100.6	5
+Plate4_64976_Skin_GB4_01_27219.mzXML	Plate4	male_Skin	Skin	winter	2017.043_Skin	SHSU	active	88.6	5
+Plate4_65176_Skin_GB7_01_27223.mzXML	Plate4	male_Skin	Skin	winter	2017.045_Skin	SHSU	early	47.45	5
+Plate5_60748_Skin_GE3_01_26624.mzXML	Plate5	female_Skin	Skin	fall	2016.073_Skin	SHSU	active	100.6	5
+Plate5_64220_Skin_GE8_01_26630.mzXML	Plate5	male_Skin	Skin	winter	Mr 17-04_Skin	CMU	active	61.65	5
+Plate6_45376_Skin_Rerun_GF8_01_26904.mzXML	Plate6	male_Skin	Skin	summer	UTK.K016.11_Skin	UTK	active	105.8	5
+Plate6_45880_Skin_GG1_01_26794.mzXML	Plate6	female_Skin	Skin	summer	Mrs. 16-09_Skin	CMU	active	142.45	5
+Plate6_54846_Skin_Rerun_GC4_01_26896.mzXML	Plate6	male_Skin	Skin	summer	2016.065_Skin	SHSU	active	137.5	5
+Plate6_61666_Skin_GB7_01_26723.mzXML	Plate6	male_Skin	Skin	fall	UTK.K016.06_Skin	UTK	active	96	5
+Plate7_45538_Skin_GA6_01_27019.mzXML	Plate7	female_Skin	Skin	summer	Mrs. 16-10_Skin	CMU	active	129.45	5
+Plate7_55040_Skin_GG1_01_27099.mzXML	Plate7	female_Skin	Skin	summer	2016.064_Skin	SHSU	active	137.5	5
+Plate7_55240_Skin_GD2_01_27057.mzXML	Plate7	female_Skin	Skin	summer	2016.067_Skin	SHSU	active	146.15	5
+Plate7_60548_Skin_GG11_01_27110.mzXML	Plate7	male_Skin	Skin	summer	17-10_Skin	CMU	active	122.55	5
+Plate7_63682_Skin_GB8_01_27036.mzXML	Plate7	female_Skin	Skin	winter	2017.046_Skin	SHSU	active	66.6	5
+Plate8_61074_Skin_GC8_01_27359.mzXML	Plate8	male_Skin	Skin	fall	2016.076_Skin	SHSU	active	80.3	5
+Plate8_61304_Skin_GF1_01_27393.mzXML	Plate8	female_Skin	Skin	fall	UTK.K016.04_Skin	UTK	active	92.6	5
+Plate9_25268_Skin_GD3_01_26986.mzXML	Plate9	female_Skin	Skin	spring	CMU_Mrs._16_03_Skin	CMU	active	52.50000001	5
+Plate9_45728_Skin_GA2_01_26938.mzXML	Plate9	female_Skin	Skin	fall	17-12_Skin	CMU	active	58.65	5
+Plate9_61504_Skin_GA3_01_26939.mzXML	Plate9	female_Skin	Skin	fall	UTK.K016.05_Skin	UTK	active	92.6	5
+Plate10_43508_Soil_BD6_01_27755.mzXML	Plate10	male_Soil	Soil	spring	UTK.K016.03_Soil	UTK	active	109.7222222	5
+Plate10_64604_Soil_BG6_01_27798.mzXML	Plate10	male_Soil	Soil	winter	K016.07_Soil	UTK	early	15.8	5
+Plate10_64766_Soil_BE10_01_27775.mzXML	Plate10	male_Soil	Soil	winter	K016.09_Soil	UTK	early	15.8	5
+Plate11_25272_Soil_GE3_01_27649.mzXML	Plate11	female_Soil	Soil	spring	CMU_Mrs._16_03_Soil	CMU	active	52.50000001	5
+Plate11_25472_Soil_GH6_01_27695.mzXML	Plate11	male_Soil	Soil	spring	CMU_Mr._16_04_Soil	CMU	early	44.72222223	5
+Plate11_25742_Soil_GG6_01_27681.mzXML	Plate11	female_Soil	Soil	spring	CMU_Mrs._16_05_Soil	CMU	early	31.11111111	5
+Plate11_25868_Soil_GA6_01_27597.mzXML	Plate11	female_Soil	Soil	spring	UTK.K016.01_Soil	UTK	early	48.33333334	5
+Plate11_43328_Soil_GH11_01_27702.mzXML	Plate11	female_Soil	Soil	spring	UTK.K016.02_Soil	UTK	active	86.66666667	5
+Plate11_45542_Soil_GC9_01_27628.mzXML	Plate11	female_Soil	Soil	summer	Mrs. 16-10_Soil	CMU	active	129.45	5
+Plate11_60552_Soil_GD3_01_27635.mzXML	Plate11	male_Soil	Soil	summer	17-10_Soil	CMU	active	122.55	5
+Plate12_55576_Soil_GC9_01_27994.mzXML	Plate12	male_Soil	Soil	fall	16-14_Soil	CMU	early	0	5
+Plate13_43670_Soil_GA9_01_27480.mzXML	Plate13	male_Soil	Soil	spring	shsu.2016.007_Soil	SHSU	active	111.6666667	5
+Plate13_43870_Soil_GF6_01_27545.mzXML	Plate13	female_Soil	Soil	spring	shsu.2016.011_Soil	SHSU	active	111.6666667	5
+Plate13_44064_Soil_GE7_01_27533.mzXML	Plate13	male_Soil	Soil	spring	shsu.2016.024_Soil	SHSU	active	111.6666667	5
+Plate13_45884_Soil_GD1_01_27469.mzXML	Plate13	female_Soil	Soil	summer	Mrs. 16-09_Soil	CMU	active	142.45	5
+Plate13_55406_Soil_GF11_01_27551.mzXML	Plate13	male_Soil	Soil	fall	16-12_Soil	CMU	early	20.8	5
+Plate13_64404_Soil_GD7_01_27519.mzXML	Plate13	male_Soil	Soil	winter	K016.08_Soil	UTK	early	15.8	5
+Plate14_60752_Soil_BH3_01_27937.mzXML	Plate14	female_Soil	Soil	fall	2016.073_Soil	SHSU	active	100.6	5
+Plate14_60914_Soil_BD5_01_27882.mzXML	Plate14	female_Soil	Soil	fall	2016.072_Soil	SHSU	active	100.6	5
+Plate14_61078_Soil_BD6_01_27883.mzXML	Plate14	male_Soil	Soil	fall	2016.076_Soil	SHSU	active	80.3	5
+Plate14_64224_Soil_BA5_01_27841.mzXML	Plate14	male_Soil	Soil	winter	Mr 17-04_Soil	CMU	active	61.65	5
+Plate14_64980_Soil_BE3_01_27894.mzXML	Plate14	male_Soil	Soil	winter	2017.043_Soil	SHSU	active	88.6	5
+Plate15_45746_Soil_BB10_01_28115.mzXML	Plate15	female_Soil	Soil	fall	17-12_Soil	CMU	active	58.65	5
+Plate15_61308_Soil_BB7_01_28112.mzXML	Plate15	female_Soil	Soil	fall	UTK.K016.04_Soil	UTK	active	92.6	5
+Plate15_63686_Soil_BA3_01_28093.mzXML	Plate15	female_Soil	Soil	winter	2017.046_Soil	SHSU	active	66.6	5
+Plate15_65180_Soil_BH10_01_28202.mzXML	Plate15	male_Soil	Soil	winter	2017.045_Soil	SHSU	early	47.45	5
+Plate16_54850_Soil_GG5_01_28303.mzXML	Plate16	male_Soil	Soil	summer	2016.065_Soil	SHSU	active	137.5	5
+Plate16_55244_Soil_GE7_01_28277.mzXML	Plate16	female_Soil	Soil	summer	2016.067_Soil	SHSU	active	146.15	5
+Plate16_61508_Soil_GC9_01_28250.mzXML	Plate16	female_Soil	Soil	fall	UTK.K016.05_Soil	UTK	active	92.6	5
+Plate16_61670_Soil_GA2_01_28214.mzXML	Plate16	male_Soil	Soil	fall	UTK.K016.06_Soil	UTK	active	96	5
+Plate17_45384_Soil_BC2_01_28376.mzXML	Plate17	male_Soil	Soil	summer	UTK.K016.11_Soil	UTK	active	105.8	5
+Plate17_54654_Soil_BG5_01_28437.mzXML	Plate17	male_Soil	Soil	summer	UTK.K016.12_Soil	UTK	active	105.8	5
+Plate17_55044_Soil_BB6_01_28365.mzXML	Plate17	female_Soil	Soil	summer	2016.064_Soil	SHSU	active	137.5	5
+Plate17_62063_Soil_BH6_01_28454.mzXML	Plate17	male_Soil	Soil	winter	Mr. 16-15_Soil	CMU	early	12.45	5
+Plate18_45220_Soil_GA7_01_28505.mzXML	Plate18	male_Soil	Soil	summer	UTK.K016.10_Soil	UTK	active	105.8	5
+Plate18_62014_Soil_GB5_01_28518.mzXML	Plate18	female_Soil	Soil	winter	Mrs. 17-01_Soil	CMU	early	0	5
+Plate1_25846_Skin_GH11_01_26311.mzXML	Plate1	female_Skin	Skin	spring	UTK.K016.01_Skin	UTK	active	62.50000001	6
+Plate1_43306_Skin_GE5_01_26263.mzXML	Plate1	female_Skin	Skin	spring	UTK.K016.02_Skin	UTK	active	107.2222222	6
+Plate1_43486_Skin_GA7_01_26120.mzXML	Plate1	male_Skin	Skin	spring	UTK.K016.03_Skin	UTK	active	133.3333333	6
+Plate1_43686_Skin_GA10_01_26122.mzXML	Plate1	male_Skin	Skin	spring	shsu.2016.007_Skin	SHSU	active	132.7777778	6
+Plate1_43880_Skin_GA3_01_26116.mzXML	Plate1	female_Skin	Skin	spring	shsu.2016.011_Skin	SHSU	active	132.7777778	6
+Plate1_44080_Skin_GB9_01_26108.mzXML	Plate1	male_Skin	Skin	spring	shsu.2016.024_Skin	SHSU	active	132.7777778	6
+Plate2_25288_Skin_GC3_01_26361.mzXML	Plate2	female_Skin	Skin	spring	CMU_Mrs._16_03_Skin	CMU	active	57.22222223	6
+Plate2_25450_Skin_GE1_01_26387.mzXML	Plate2	male_Skin	Skin	spring	CMU_Mr._16_04_Skin	CMU	active	50.83333334	6
+Plate2_55589_Skin_GH8_01_26439.mzXML	Plate2	male_Skin	Skin	fall	16-14_Skin	CMU	early	1.4	6
+Plate2_63601_Skin_GE6_01_26392.mzXML	Plate2	male_Skin	Skin	winter	Mr. 16-15_Skin	CMU	early	12.45	6
+Plate2_64582_Skin_GF4_01_26404.mzXML	Plate2	male_Skin	Skin	winter	K016.07_Skin	UTK	early	32.8	6
+Plate2_64782_Skin_GH4_01_26434.mzXML	Plate2	male_Skin	Skin	winter	K016.09_Skin	UTK	early	32.8	6
+Plate3_55422_Skin_GG4_01_26529.mzXML	Plate3	male_Skin	Skin	fall	16-12_Skin	CMU	early	25.8	6
+Plate3_64420_Skin_GB11_01_26471.mzXML	Plate3	male_Skin	Skin	winter	K016.08_Skin	UTK	early	32.8	6
+Plate4_45232_Skin_GD6_01_27250.mzXML	Plate4	male_Skin	Skin	summer	UTK.K016.10_Skin	UTK	active	126.4	6
+Plate4_54666_Skin_GD7_01_27252.mzXML	Plate4	male_Skin	Skin	summer	UTK.K016.12_Skin	UTK	active	126.4	6
+Plate4_60730_Skin_GG8_01_27295.mzXML	Plate4	female_Skin	Skin	fall	2016.073_Skin	SHSU	active	117.55	6
+Plate4_63702_Skin_GE9_01_27268.mzXML	Plate4	female_Skin	Skin	winter	2017.046_Skin	SHSU	active	71.95	6
+Plate4_65158_Skin_GD2_01_27246.mzXML	Plate4	male_Skin	Skin	winter	2017.045_Skin	SHSU	active	61.6	6
+Plate5_45358_Skin_GA11_01_26572.mzXML	Plate5	male_Skin	Skin	summer	UTK.K016.11_Skin	UTK	active	126.4	6
+Plate5_45752_Skin_GH3_01_26668.mzXML	Plate5	female_Skin	Skin	fall	17-12_Skin	CMU	active	68.95	6
+Plate5_60930_Skin_GD6_01_26610.mzXML	Plate5	female_Skin	Skin	fall	2016.072_Skin	SHSU	active	117.55	6
+Plate5_61124_Skin_GF11_01_26648.mzXML	Plate5	male_Skin	Skin	fall	2016.076_Skin	SHSU	active	99.45	6
+Plate5_64240_Skin_GB9_01_26586.mzXML	Plate5	male_Skin	Skin	winter	Mr 17-04_Skin	CMU	active	76.65	6
+Plate5_64996_Skin_GB8_01_26585.mzXML	Plate5	male_Skin	Skin	winter	2017.043_Skin	SHSU	active	96.1	6
+Plate6_54860_Skin_GA10_01_26712.mzXML	Plate6	male_Skin	Skin	summer	2016.065_Skin	SHSU	active	166.3888889	6
+Plate6_55060_Skin_GD8_01_26755.mzXML	Plate6	female_Skin	Skin	summer	2016.064_Skin	SHSU	active	166.3888889	6
+Plate6_61486_Skin_GA7_01_26708.mzXML	Plate6	female_Skin	Skin	fall	UTK.K016.05_Skin	UTK	active	111.5	6
+Plate6_61686_Skin_GH1_01_26879.mzXML	Plate6	male_Skin	Skin	fall	UTK.K016.06_Skin	UTK	active	112.4	6
+Plate7_45862_Skin_GE1_01_27070.mzXML	Plate7	female_Skin	Skin	summer	Mrs. 16-09_Skin	CMU	active	169.4	6
+Plate7_60568_Skin_GC6_01_27047.mzXML	Plate7	male_Skin	Skin	summer	17-10_Skin	CMU	active	146.45	6
+Plate7_61324_Skin_GD7_01_27063.mzXML	Plate7	female_Skin	Skin	fall	UTK.K016.04_Skin	UTK	active	111.5	6
+Plate8_55222_Skin_GD5_01_27369.mzXML	Plate8	female_Skin	Skin	summer	2016.067_Skin	SHSU	active	173.4	6
+Plate9_25758_Skin_GD11_01_26996.mzXML	Plate9	female_Skin	Skin	spring	CMU_Mrs._16_05_Skin	CMU	early	42.5	6
+Plate10_25454_Soil_BE7_01_27772.mzXML	Plate10	male_Soil	Soil	spring	CMU_Mr._16_04_Soil	CMU	active	50.83333334	6
+Plate10_25858_Soil_BD4_01_27753.mzXML	Plate10	female_Soil	Soil	spring	UTK.K016.01_Soil	UTK	active	62.50000001	6
+Plate10_43490_Soil_BC1_01_27736.mzXML	Plate10	male_Soil	Soil	spring	UTK.K016.03_Soil	UTK	active	133.3333333	6
+Plate10_64424_Soil_BA7_01_27715.mzXML	Plate10	male_Soil	Soil	winter	K016.08_Soil	UTK	early	32.8	6
+Plate10_64586_Soil_BF2_01_27780.mzXML	Plate10	male_Soil	Soil	winter	K016.07_Soil	UTK	early	32.8	6
+Plate11_25281_Soil_GD2_01_27634.mzXML	Plate11	female_Soil	Soil	spring	CMU_Mrs._16_03_Soil	CMU	active	57.22222223	6
+Plate11_25292_Soil_GE9_01_27656.mzXML	Plate11	female_Soil	Soil	spring	CMU_Mrs._16_03_Soil	CMU	active	57.22222223	6
+Plate11_25762_Soil_GA5_01_27595.mzXML	Plate11	female_Soil	Soil	spring	CMU_Mrs._16_05_Soil	CMU	early	42.5	6
+Plate11_25850_Soil_GE4_01_27650.mzXML	Plate11	female_Soil	Soil	spring	UTK.K016.01_Soil	UTK	active	62.50000001	6
+Plate11_54864_Soil_GC4_01_27622.mzXML	Plate11	male_Soil	Soil	summer	2016.065_Soil	SHSU	active	166.3888889	6
+Plate11_55064_Soil_GC8_01_27627.mzXML	Plate11	female_Soil	Soil	summer	2016.064_Soil	SHSU	active	166.3888889	6
+Plate11_61490_Soil_GF3_01_27663.mzXML	Plate11	female_Soil	Soil	fall	UTK.K016.05_Soil	UTK	active	111.5	6
+Plate12_55593_Soil_GD2_01_28000.mzXML	Plate12	male_Soil	Soil	fall	16-14_Soil	CMU	early	1.4	6
+Plate12_64244_Soil_GE9_01_28022.mzXML	Plate12	male_Soil	Soil	winter	Mr 17-04_Soil	CMU	active	76.65	6
+Plate12_64786_Soil_GA10_01_28067.mzXML	Plate12	male_Soil	Soil	winter	K016.09_Soil	UTK	early	32.8	6
+Plate13_43679_Soil_GA2_01_27472.mzXML	Plate13	male_Soil	Soil	spring	shsu.2016.007_Soil	SHSU	active	132.7777778	6
+Plate13_43690_Soil_GA10_01_27481.mzXML	Plate13	male_Soil	Soil	spring	shsu.2016.007_Soil	SHSU	active	132.7777778	6
+Plate13_43884_Soil_GH2_01_27570.mzXML	Plate13	female_Soil	Soil	spring	shsu.2016.011_Soil	SHSU	active	132.7777778	6
+Plate13_44084_Soil_GA1_01_27471.mzXML	Plate13	male_Soil	Soil	spring	shsu.2016.024_Soil	SHSU	active	132.7777778	6
+Plate13_45866_Soil_GH6_01_27574.mzXML	Plate13	female_Soil	Soil	summer	Mrs. 16-09_Soil	CMU	active	169.4	6
+Plate13_60572_Soil_GH1_01_27569.mzXML	Plate13	male_Soil	Soil	summer	17-10_Soil	CMU	active	146.45	6
+Plate14_45756_Soil_BC11_01_27875.mzXML	Plate14	female_Soil	Soil	fall	17-12_Soil	CMU	active	68.95	6
+Plate14_60734_Soil_BG1_01_27920.mzXML	Plate14	female_Soil	Soil	fall	2016.073_Soil	SHSU	active	117.55	6
+Plate14_60934_Soil_BF7_01_27913.mzXML	Plate14	female_Soil	Soil	fall	2016.072_Soil	SHSU	active	117.55	6
+Plate14_61128_Soil_BA10_01_27847.mzXML	Plate14	male_Soil	Soil	fall	2016.076_Soil	SHSU	active	99.45	6
+Plate14_63706_Soil_BF2_01_27907.mzXML	Plate14	female_Soil	Soil	winter	2017.046_Soil	SHSU	active	71.95	6
+Plate14_65000_Soil_BB1_01_27851.mzXML	Plate14	male_Soil	Soil	winter	2017.043_Soil	SHSU	active	96.1	6
+Plate14_65162_Soil_BH1_01_27935.mzXML	Plate14	male_Soil	Soil	winter	2017.045_Soil	SHSU	active	61.6	6
+Plate15_61690_Soil_BE7_01_28154.mzXML	Plate15	male_Soil	Soil	fall	UTK.K016.06_Soil	UTK	active	112.4	6
+Plate16_43310_Soil_GG1_01_28299.mzXML	Plate16	female_Soil	Soil	spring	UTK.K016.02_Soil	UTK	active	107.2222222	6
+Plate16_45562_Soil_GE2_01_28271.mzXML	Plate16	female_Soil	Soil	summer	Mrs. 16-10_Soil	CMU	active	153.05	6
+Plate16_55226_Soil_GF6_01_28290.mzXML	Plate16	female_Soil	Soil	summer	2016.067_Soil	SHSU	active	173.4	6
+Plate16_61328_Soil_GC4_01_28244.mzXML	Plate16	female_Soil	Soil	fall	UTK.K016.04_Soil	UTK	active	111.5	6
+Plate17_54674_Soil_BG7_01_28441.mzXML	Plate17	male_Soil	Soil	summer	UTK.K016.12_Soil	UTK	active	126.4	6
+Plate17_63595_Soil_BC5_01_28379.mzXML	Plate17	male_Soil	Soil	winter	Mr. 16-15_Soil	CMU	early	12.45	6
+Plate18_45240_Soil_GD4_01_28545.mzXML	Plate18	male_Soil	Soil	summer	UTK.K016.10_Soil	UTK	active	126.4	6
+Plate18_45366_Soil_GE11_01_28567.mzXML	Plate18	male_Soil	Soil	summer	UTK.K016.11_Soil	UTK	active	126.4	6
+Plate18_55426_Soil_GA1_01_28499.mzXML	Plate18	male_Soil	Soil	fall	16-12_Soil	CMU	early	25.8	6
+Plate1_25270_Skin_GD11_01_26256.mzXML	Plate1	female_Skin	Skin	spring	CMU_Mrs._16_03_Skin	CMU	active	66.11111112	7
+Plate1_25866_Skin_GF1_01_26273.mzXML	Plate1	female_Skin	Skin	spring	UTK.K016.01_Skin	UTK	active	76.3888889	7
+Plate1_43506_Skin_GB7_01_26131.mzXML	Plate1	male_Skin	Skin	spring	UTK.K016.03_Skin	UTK	active	152.5	7
+Plate2_25470_Skin_GD4_01_26376.mzXML	Plate2	male_Skin	Skin	spring	CMU_Mr._16_04_Skin	CMU	active	57.77777778	7
+Plate2_43326_Skin_GC2_01_26360.mzXML	Plate2	female_Skin	Skin	spring	UTK.K016.02_Skin	UTK	active	130.5555556	7
+Plate2_64602_Skin_GG5_01_26420.mzXML	Plate2	male_Skin	Skin	winter	K016.07_Skin	UTK	early	49.3	7
+Plate2_64796_Skin_GE5_01_26391.mzXML	Plate2	male_Skin	Skin	winter	K016.09_Skin	UTK	early	49.3	7
+Plate3_55436_Skin_GG11_01_26537.mzXML	Plate3	male_Skin	Skin	fall	16-12_Skin	CMU	early	26.1	7
+Plate3_55586_Skin_Rerun_GF11_01_26550.mzXML	Plate3	male_Skin	Skin	fall	16-14_Skin	CMU	early	1.4	7
+Plate3_61844_Skin_GH3_01_26541.mzXML	Plate3	male_Skin	Skin	winter	Mr. 16-15_Skin	CMU	early	12.45	7
+Plate3_62024_Skin_GD6_01_26490.mzXML	Plate3	female_Skin	Skin	winter	Mrs. 17-01_Skin	CMU	early	6.15	7
+Plate3_64402_Skin_GD5_01_26489.mzXML	Plate3	male_Skin	Skin	winter	K016.08_Skin	UTK	early	49.3	7
+Plate4_45772_Skin_GB8_01_27224.mzXML	Plate4	female_Skin	Skin	fall	17-12_Skin	CMU	active	80.35	7
+Plate4_60944_Skin_GF4_01_27276.mzXML	Plate4	female_Skin	Skin	fall	2016.072_Skin	SHSU	active	135.35	7
+Plate5_45214_Skin_GH10_01_26676.mzXML	Plate5	male_Skin	Skin	summer	UTK.K016.10_Skin	UTK	active	148.5	7
+Plate5_45378_Skin_GF10_01_26647.mzXML	Plate5	male_Skin	Skin	summer	UTK.K016.11_Skin	UTK	active	148.5	7
+Plate5_54680_Skin_GB6_01_26580.mzXML	Plate5	male_Skin	Skin	summer	UTK.K016.12_Skin	UTK	active	148.5	7
+Plate5_60750_Skin_GC10_01_26601.mzXML	Plate5	female_Skin	Skin	fall	2016.073_Skin	SHSU	active	135.35	7
+Plate5_63716_Skin_Rerun_GH1_01_26684.mzXML	Plate5	female_Skin	Skin	winter	2017.046_Skin	SHSU	active	79.15	7
+Plate5_64222_Skin_GF9_01_26646.mzXML	Plate5	male_Skin	Skin	winter	Mr 17-04_Skin	CMU	active	92.2	7
+Plate5_64978_Skin_GH9_01_26675.mzXML	Plate5	male_Skin	Skin	winter	2017.043_Skin	SHSU	active	100.55	7
+Plate6_45882_Skin_GF6_01_26784.mzXML	Plate6	female_Skin	Skin	summer	Mrs. 16-09_Skin	CMU	active	196.65	7
+Plate6_54880_Skin_GC7_01_26738.mzXML	Plate6	male_Skin	Skin	summer	2016.065_Skin	SHSU	active	195.5555556	7
+Plate6_55042_Skin_Rerun_GE6_01_26903.mzXML	Plate6	female_Skin	Skin	summer	2016.064_Skin	SHSU	active	195.5555556	7
+Plate6_55242_Skin_Rerun_GF1_01_26779.mzXML	Plate6	female_Skin	Skin	summer	2016.067_Skin	SHSU	advanced	201.45	7
+Plate6_61144_Skin_GF11_01_26790.mzXML	Plate6	male_Skin	Skin	fall	2016.076_Skin	SHSU	active	116.1	7
+Plate6_61306_Skin_GC3_01_26733.mzXML	Plate6	female_Skin	Skin	fall	UTK.K016.04_Skin	UTK	active	130.7	7
+Plate6_61506_Skin_GD6_01_26751.mzXML	Plate6	female_Skin	Skin	fall	UTK.K016.05_Skin	UTK	active	130.7	7
+Plate6_61700_Skin_GC11_01_26742.mzXML	Plate6	male_Skin	Skin	fall	UTK.K016.06_Skin	UTK	active	129.1	7
+Plate6_65178_Skin_Rerun_GD9_01_26900.mzXML	Plate6	male_Skin	Skin	winter	2017.045_Skin	SHSU	active	82.45	7
+Plate7_60550_Skin_GE9_01_27079.mzXML	Plate7	male_Skin	Skin	summer	17-10_Skin	CMU	active	169.5	7
+Plate8_43700_Skin_GH1_01_27422.mzXML	Plate8	male_Skin	Skin	spring	shsu.2016.007_Skin	SHSU	active	153.8888889	7
+Plate8_43900_Skin_GG8_01_27415.mzXML	Plate8	female_Skin	Skin	spring	shsu.2016.011_Skin	SHSU	active	153.8888889	7
+Plate9_25772_Skin_GA9_01_26947.mzXML	Plate9	female_Skin	Skin	spring	CMU_Mrs._16_05_Skin	CMU	active	56.66666667	7
+Plate9_44062_Skin_rerun_GC1_01_26968.mzXML	Plate9	male_Skin	Skin	spring	shsu.2016.024_Skin	SHSU	active	153.8888889	7
+Plate10_25274_Soil_BH11_01_27822.mzXML	Plate10	female_Soil	Soil	spring	CMU_Mrs._16_03_Soil	CMU	active	66.11111112	7
+Plate10_25870_Soil_BF10_01_27789.mzXML	Plate10	female_Soil	Soil	spring	UTK.K016.01_Soil	UTK	active	76.3888889	7
+Plate10_43510_Soil_BE8_01_27773.mzXML	Plate10	male_Soil	Soil	spring	UTK.K016.03_Soil	UTK	active	152.5	7
+Plate10_43704_Soil_Rerun_BG4_01_27814.mzXML	Plate10	male_Soil	Soil	spring	shsu.2016.007_Soil	SHSU	active	153.8888889	7
+Plate10_43904_Soil_BE4_01_27767.mzXML	Plate10	female_Soil	Soil	spring	shsu.2016.011_Soil	SHSU	active	153.8888889	7
+Plate10_61704_Soil_BB1_01_27722.mzXML	Plate10	male_Soil	Soil	fall	UTK.K016.06_Soil	UTK	active	129.1	7
+Plate11_25474_Soil_GB2_01_27606.mzXML	Plate11	male_Soil	Soil	spring	CMU_Mr._16_04_Soil	CMU	active	57.77777778	7
+Plate11_44066_Soil_GH1_01_27690.mzXML	Plate11	male_Soil	Soil	spring	shsu.2016.024_Soil	SHSU	active	153.8888889	7
+Plate11_64406_Soil_GD6_01_27638.mzXML	Plate11	male_Soil	Soil	winter	K016.08_Soil	UTK	early	49.3	7
+Plate12_45886_Soil_GH1_01_28053.mzXML	Plate12	female_Soil	Soil	summer	Mrs. 16-09_Soil	CMU	active	196.65	7
+Plate12_54688_Soil_GG10_01_28070.mzXML	Plate12	male_Soil	Soil	summer	UTK.K016.12_Soil	UTK	active	148.5	7
+Plate12_60554_Soil_Rerun_GB10_01_28082.mzXML	Plate12	male_Soil	Soil	summer	17-10_Soil	CMU	active	169.5	7
+Plate12_61310_Soil_GF9_01_28035.mzXML	Plate12	female_Soil	Soil	fall	UTK.K016.04_Soil	UTK	active	130.7	7
+Plate12_64606_Soil_GB7_01_27979.mzXML	Plate12	male_Soil	Soil	winter	K016.07_Soil	UTK	early	49.3	7
+Plate12_64800_Soil_GC3_01_27988.mzXML	Plate12	male_Soil	Soil	winter	K016.09_Soil	UTK	early	49.3	7
+Plate13_25776_Soil_GH7_01_27576.mzXML	Plate13	female_Soil	Soil	spring	CMU_Mrs._16_05_Soil	CMU	active	56.66666667	7
+Plate14_60754_Soil_BB11_01_27862.mzXML	Plate14	female_Soil	Soil	fall	2016.073_Soil	SHSU	active	135.35	7
+Plate14_60948_Soil_BB8_01_27859.mzXML	Plate14	female_Soil	Soil	fall	2016.072_Soil	SHSU	active	135.35	7
+Plate14_63720_Soil_BF9_01_27915.mzXML	Plate14	female_Soil	Soil	winter	2017.046_Soil	SHSU	active	79.15	7
+Plate14_64982_Soil_BA9_01_27846.mzXML	Plate14	male_Soil	Soil	winter	2017.043_Soil	SHSU	active	100.55	7
+Plate14_65182_Soil_BH5_01_27939.mzXML	Plate14	male_Soil	Soil	winter	2017.045_Soil	SHSU	active	82.45	7
+Plate15_45776_Soil_BB2_01_28106.mzXML	Plate15	female_Soil	Soil	fall	17-12_Soil	CMU	active	80.35	7
+Plate16_43330_Soil_Rerun_GH5_01_28330.mzXML	Plate16	female_Soil	Soil	spring	UTK.K016.02_Soil	UTK	active	130.5555556	7
+Plate16_55046_Soil_GG8_01_28307.mzXML	Plate16	female_Soil	Soil	summer	2016.064_Soil	SHSU	active	195.5555556	7
+Plate16_55246_Soil_GH8_01_28321.mzXML	Plate16	female_Soil	Soil	summer	2016.067_Soil	SHSU	advanced	201.45	7
+Plate16_61148_Soil_GD8_01_28264.mzXML	Plate16	male_Soil	Soil	fall	2016.076_Soil	SHSU	active	116.1	7
+Plate16_61510_Soil_GD5_01_28260.mzXML	Plate16	female_Soil	Soil	fall	UTK.K016.05_Soil	UTK	active	130.7	7
+Plate16_64226_Soil_GC2_01_28242.mzXML	Plate16	male_Soil	Soil	winter	Mr 17-04_Soil	CMU	active	92.2	7
+Plate17_45222_Soil_BG10_01_28446.mzXML	Plate17	male_Soil	Soil	summer	UTK.K016.10_Soil	UTK	active	148.5	7
+Plate17_45386_Soil_BG4_01_28436.mzXML	Plate17	male_Soil	Soil	summer	UTK.K016.11_Soil	UTK	active	148.5	7
+Plate17_54884_Soil_BA4_01_28349.mzXML	Plate17	male_Soil	Soil	summer	2016.065_Soil	SHSU	active	195.5555556	7
+Plate17_55590_Soil_BC1_01_28375.mzXML	Plate17	male_Soil	Soil	fall	16-14_Soil	CMU	early	1.4	7
+Plate17_61848_Soil_BH3_01_28451.mzXML	Plate17	male_Soil	Soil	winter	Mr. 16-15_Soil	CMU	early	12.45	7
+Plate18_55440_Soil_GD10_01_28552.mzXML	Plate18	male_Soil	Soil	fall	16-12_Soil	CMU	early	26.1	7
+Plate18_62028_Soil_GB9_01_28523.mzXML	Plate18	female_Soil	Soil	winter	Mrs. 17-01_Soil	CMU	early	6.15	7
+Plate1_25880_Skin_GH7_01_26307.mzXML	Plate1	female_Skin	Skin	spring	UTK.K016.01_Skin	UTK	active	90.27777779	8
+Plate2_43340_Skin_GC7_01_26366.mzXML	Plate2	female_Skin	Skin	spring	UTK.K016.02_Skin	UTK	active	151.9444445	8
+Plate2_43520_Skin_GA9_01_26340.mzXML	Plate2	male_Skin	Skin	spring	UTK.K016.03_Skin	UTK	active	168.6111111	8
+Plate2_61864_Skin_GE9_01_26396.mzXML	Plate2	male_Skin	Skin	winter	Mr. 16-15_Skin	CMU	early	12.45	8
+Plate3_45071_Skin_GF8_01_26520.mzXML	Plate3	male_Skin	Skin	fall	16-14_Skin	CMU	early	1.4	8
+Plate3_55456_Skin_GG7_01_26533.mzXML	Plate3	male_Skin	Skin	fall	16-12_Skin	CMU	early	26.1	8
+Plate3_62044_Skin_GC8_01_26480.mzXML	Plate3	female_Skin	Skin	winter	Mrs. 17-01_Skin	CMU	early	8.65	8
+Plate3_64422_Skin_GG5_01_26530.mzXML	Plate3	male_Skin	Skin	winter	K016.08_Skin	UTK	active	64.5	8
+Plate3_64616_Skin_GC9_01_26481.mzXML	Plate3	male_Skin	Skin	winter	K016.07_Skin	UTK	active	64.5	8
+Plate3_64816_Skin_GD1_01_26485.mzXML	Plate3	male_Skin	Skin	winter	K016.09_Skin	UTK	active	64.5	8
+Plate4_45234_Skin_GF8_01_27281.mzXML	Plate4	male_Skin	Skin	summer	UTK.K016.10_Skin	UTK	active	170.3	8
+Plate4_45428_Skin_GA3_01_27204.mzXML	Plate4	male_Skin	Skin	summer	UTK.K016.11_Skin	UTK	active	170.3	8
+Plate4_60764_Skin_GA10_01_27212.mzXML	Plate4	female_Skin	Skin	fall	2016.073_Skin	SHSU	active	154	8
+Plate4_60964_Skin_GF1_01_27273.mzXML	Plate4	female_Skin	Skin	fall	2016.072_Skin	SHSU	active	154	8
+Plate4_63736_Skin_GC11_01_27242.mzXML	Plate4	female_Skin	Skin	winter	2017.046_Skin	SHSU	active	83.6	8
+Plate4_64998_Skin_GF3_01_27275.mzXML	Plate4	male_Skin	Skin	winter	2017.043_Skin	SHSU	active	103.65	8
+Plate5_45069_Skin_GG11_01_26663.mzXML	Plate5	male_Skin	Skin	winter	2017.045_Skin	SHSU	active	99.65	8
+Plate5_45754_Skin_Rerun_GA4_01_26680.mzXML	Plate5	female_Skin	Skin	fall	17-12_Skin	CMU	active	93.95	8
+Plate6_45896_Skin_GB2_01_26717.mzXML	Plate6	female_Skin	Skin	summer	Mrs. 16-09_Skin	CMU	advanced	225	8
+Plate6_55062_Skin_GH8_01_26888.mzXML	Plate6	female_Skin	Skin	summer	2016.064_Skin	SHSU	advanced	223.0555556	8
+Plate6_61326_Skin_GG10_01_26875.mzXML	Plate6	female_Skin	Skin	fall	UTK.K016.04_Skin	UTK	active	152.3	8
+Plate6_61520_Skin_GG11_01_26876.mzXML	Plate6	female_Skin	Skin	fall	UTK.K016.05_Skin	UTK	active	152.3	8
+Plate6_61720_Skin_GC6_01_26736.mzXML	Plate6	male_Skin	Skin	fall	UTK.K016.06_Skin	UTK	active	146.4	8
+Plate6_64242_Skin_GH11_01_26891.mzXML	Plate6	male_Skin	Skin	winter	Mr 17-04_Skin	CMU	active	109.7	8
+Plate7_54708_Skin_GF11_01_27095.mzXML	Plate7	male_Skin	Skin	summer	UTK.K016.12_Skin	UTK	active	170.3	8
+Plate7_54862_Skin_GF7_01_27091.mzXML	Plate7	male_Skin	Skin	summer	2016.065_Skin	SHSU	advanced	223.0555556	8
+Plate7_61126_Skin_GD3_01_27058.mzXML	Plate7	male_Skin	Skin	fall	2016.076_Skin	SHSU	active	127.45	8
+Plate8_43882_Skin_GE1_01_27379.mzXML	Plate8	female_Skin	Skin	spring	shsu.2016.011_Skin	SHSU	active	174.4444445	8
+Plate8_44082_Skin_GF2_01_27394.mzXML	Plate8	male_Skin	Skin	spring	shsu.2016.024_Skin	SHSU	active	174.4444445	8
+Plate8_55256_Skin_GC1_01_27351.mzXML	Plate8	female_Skin	Skin	summer	2016.067_Skin	SHSU	advanced	229.8	8
+Plate8_60570_Skin_GB9_01_27346.mzXML	Plate8	male_Skin	Skin	summer	17-10_Skin	CMU	active	193.95	8
+Plate9_25290_Skin_GC7_01_26976.mzXML	Plate9	female_Skin	Skin	spring	CMU_Mrs._16_03_Skin	CMU	active	73.05555556	8
+Plate9_25484_Skin_GB2_01_26953.mzXML	Plate9	male_Skin	Skin	spring	CMU_Mr._16_04_Skin	CMU	active	62.22222223	8
+Plate9_25792_Skin_GA6_01_26942.mzXML	Plate9	female_Skin	Skin	spring	CMU_Mrs._16_05_Skin	CMU	active	69.44444445	8
+Plate9_43720_Skin_GC8_01_26977.mzXML	Plate9	male_Skin	Skin	spring	shsu.2016.007_Skin	SHSU	active	174.4444445	8
+Plate10_25294_Soil_BB10_01_27732.mzXML	Plate10	female_Soil	Soil	spring	CMU_Mrs._16_03_Soil	CMU	active	73.05555556	8
+Plate10_43524_Soil_BE11_01_27776.mzXML	Plate10	male_Soil	Soil	spring	UTK.K016.03_Soil	UTK	active	168.6111111	8
+Plate10_43724_Soil_BC3_01_27738.mzXML	Plate10	male_Soil	Soil	spring	shsu.2016.007_Soil	SHSU	active	174.4444445	8
+Plate10_43886_Soil_BA3_01_27710.mzXML	Plate10	female_Soil	Soil	spring	shsu.2016.011_Soil	SHSU	active	174.4444445	8
+Plate10_62048_Soil_BH1_01_27807.mzXML	Plate10	female_Soil	Soil	winter	Mrs. 17-01_Soil	CMU	early	8.65	8
+Plate10_64620_Soil_BF1_01_27779.mzXML	Plate10	male_Soil	Soil	winter	K016.07_Soil	UTK	active	64.5	8
+Plate10_64820_Soil_BB7_01_27729.mzXML	Plate10	male_Soil	Soil	winter	K016.09_Soil	UTK	active	64.5	8
+Plate11_25488_Soil_GE7_01_27654.mzXML	Plate11	male_Soil	Soil	spring	CMU_Mr._16_04_Soil	CMU	active	62.22222223	8
+Plate11_25796_Soil_GD10_01_27643.mzXML	Plate11	female_Soil	Soil	spring	CMU_Mrs._16_05_Soil	CMU	active	69.44444445	8
+Plate11_44086_Soil_GG5_01_27680.mzXML	Plate11	male_Soil	Soil	spring	shsu.2016.024_Soil	SHSU	active	174.4444445	8
+Plate11_54700_Soil_GD7_01_27640.mzXML	Plate11	male_Soil	Soil	summer	UTK.K016.12_Soil	UTK	active	170.3	8
+Plate11_55066_Soil_GB10_01_27615.mzXML	Plate11	female_Soil	Soil	summer	2016.064_Soil	SHSU	advanced	223.0555556	8
+Plate11_60574_Soil_GA2_01_27592.mzXML	Plate11	male_Soil	Soil	summer	17-10_Soil	CMU	active	193.95	8
+Plate11_61330_Soil_GB3_01_27607.mzXML	Plate11	female_Soil	Soil	fall	UTK.K016.04_Soil	UTK	active	152.3	8
+Plate12_25884_Soil_GH10_01_28063.mzXML	Plate12	female_Soil	Soil	spring	UTK.K016.01_Soil	UTK	active	90.27777779	8
+Plate12_64426_Soil_GD11_01_28010.mzXML	Plate12	male_Soil	Soil	winter	K016.08_Soil	UTK	active	64.5	8
+Plate13_45900_Soil_GD10_01_27522.mzXML	Plate13	female_Soil	Soil	summer	Mrs. 16-09_Soil	CMU	advanced	225	8
+Plate14_45758_Soil_BD3_01_27880.mzXML	Plate14	female_Soil	Soil	fall	17-12_Soil	CMU	active	93.95	8
+Plate14_61130_Soil_BC7_01_27871.mzXML	Plate14	male_Soil	Soil	fall	2016.076_Soil	SHSU	active	127.45	8
+Plate14_65002_Soil_BF1_01_27906.mzXML	Plate14	male_Soil	Soil	winter	2017.043_Soil	SHSU	active	103.65	8
+Plate15_60768_Soil_Rerun_BH9_01_28200.mzXML	Plate15	female_Soil	Soil	fall	2016.073_Soil	SHSU	active	154	8
+Plate15_60968_Soil_BG11_01_28186.mzXML	Plate15	female_Soil	Soil	fall	2016.072_Soil	SHSU	active	154	8
+Plate15_63740_Soil_BB5_01_28109.mzXML	Plate15	female_Soil	Soil	winter	2017.046_Soil	SHSU	active	83.6	8
+Plate16_43344_Soil_GG6_01_28304.mzXML	Plate16	female_Soil	Soil	spring	UTK.K016.02_Soil	UTK	active	151.9444445	8
+Plate16_55260_Soil_GA10_01_28223.mzXML	Plate16	female_Soil	Soil	summer	2016.067_Soil	SHSU	advanced	229.8	8
+Plate16_61524_Soil_GA9_01_28222.mzXML	Plate16	female_Soil	Soil	fall	UTK.K016.05_Soil	UTK	active	152.3	8
+Plate16_61724_Soil_GB1_01_28227.mzXML	Plate16	male_Soil	Soil	fall	UTK.K016.06_Soil	UTK	active	146.4	8
+Plate17_45075_Soil_BH7_01_28457.mzXML	Plate17	male_Soil	Soil	fall	16-14_Soil	CMU	early	1.4	8
+Plate17_54866_Soil_BA2_01_28347.mzXML	Plate17	male_Soil	Soil	summer	2016.065_Soil	SHSU	advanced	223.0555556	8
+Plate17_55460_Soil_BF4_01_28422.mzXML	Plate17	male_Soil	Soil	fall	16-12_Soil	CMU	early	26.1	8
+Plate18_45242_Soil_GD2_01_28543.mzXML	Plate18	male_Soil	Soil	summer	UTK.K016.10_Soil	UTK	active	170.3	8
+Plate18_45436_Soil_GE8_01_28564.mzXML	Plate18	male_Soil	Soil	summer	UTK.K016.11_Soil	UTK	active	170.3	8
+Plate18_61868_Soil_GE3_01_28558.mzXML	Plate18	male_Soil	Soil	winter	Mr. 16-15_Soil	CMU	early	12.45	8
+Plate1_25774_Skin_GB10_01_26314.mzXML	Plate1	female_Skin	Skin	spring	CMU_Mrs._16_05_Skin	CMU	active	79.72222223	9
+Plate1_25900_Skin_GG2_01_26288.mzXML	Plate1	female_Skin	Skin	spring	UTK.K016.01_Skin	UTK	active	108.8888889	9
+Plate1_43360_Skin_GE3_01_26261.mzXML	Plate1	female_Skin	Skin	spring	UTK.K016.02_Skin	UTK	active	169.7222222	9
+Plate1_43540_Skin_GD5_01_26251.mzXML	Plate1	male_Skin	Skin	spring	UTK.K016.03_Skin	UTK	active	180.5555556	9
+Plate2_45090_Skin_GE7_01_26394.mzXML	Plate2	male_Skin	Skin	fall	16-14_Skin	CMU	early	1.4	9
+Plate2_55438_Skin_GE10_01_26397.mzXML	Plate2	male_Skin	Skin	fall	16-12_Skin	CMU	early	26.1	9
+Plate2_62026_Skin_GG11_01_26427.mzXML	Plate2	female_Skin	Skin	winter	Mrs. 17-01_Skin	CMU	early	12.25	9
+Plate2_64636_Skin_GF10_01_26411.mzXML	Plate2	male_Skin	Skin	winter	K016.07_Skin	UTK	active	80.4	9
+Plate2_64798_Skin_GH7_01_26438.mzXML	Plate2	male_Skin	Skin	winter	K016.09_Skin	UTK	active	80.4	9
+Plate3_61846_Skin_GC2_01_26474.mzXML	Plate3	male_Skin	Skin	winter	Mr. 16-15_Skin	CMU	early	12.45	9
+Plate3_64436_Skin_GA5_01_26452.mzXML	Plate3	male_Skin	Skin	winter	K016.08_Skin	UTK	active	80.4	9
+Plate4_45248_Skin_GF6_01_27278.mzXML	Plate4	male_Skin	Skin	summer	UTK.K016.10_Skin	UTK	active	193.3	9
+Plate4_45448_Skin_GE10_01_27269.mzXML	Plate4	male_Skin	Skin	summer	UTK.K016.11_Skin	UTK	active	193.3	9
+Plate4_60784_Skin_GE11_01_27270.mzXML	Plate4	female_Skin	Skin	fall	2016.073_Skin	SHSU	active	170.4	9
+Plate4_60946_Skin_GG3_01_27289.mzXML	Plate4	female_Skin	Skin	fall	2016.072_Skin	SHSU	active	170.4	9
+Plate4_61146_Skin_GH5_01_27305.mzXML	Plate4	male_Skin	Skin	fall	2016.076_Skin	SHSU	active	137.75	9
+Plate4_65212_Skin_GC7_01_27237.mzXML	Plate4	male_Skin	Skin	winter	2017.045_Skin	SHSU	active	117.15	9
+Plate5_63718_Skin_GG7_01_26659.mzXML	Plate5	female_Skin	Skin	winter	2017.046_Skin	SHSU	active	88.3	9
+Plate5_64256_Skin_GG4_01_26655.mzXML	Plate5	male_Skin	Skin	winter	Mr 17-04_Skin	CMU	active	127.45	9
+Plate5_65012_Skin_GB10_01_26587.mzXML	Plate5	male_Skin	Skin	winter	2017.043_Skin	SHSU	active	111.45	9
+Plate6_45774_Skin_GA5_01_26705.mzXML	Plate6	female_Skin	Skin	fall	17-12_Skin	CMU	active	107.85	9
+Plate6_45916_Skin_GA8_01_26709.mzXML	Plate6	female_Skin	Skin	summer	Mrs. 16-09_Skin	CMU	advanced	248.35	9
+Plate6_54682_Skin_GE9_01_26772.mzXML	Plate6	male_Skin	Skin	summer	UTK.K016.12_Skin	UTK	active	193.3	9
+Plate6_54882_Skin_GD11_01_26758.mzXML	Plate6	male_Skin	Skin	summer	2016.065_Skin	SHSU	advanced	250.2777778	9
+Plate7_45574_Skin_GA1_01_27014.mzXML	Plate7	female_Skin	Skin	summer	Mrs. 16-10_Skin	CMU	advanced	228.65	9
+Plate7_55076_Skin_GA10_01_27024.mzXML	Plate7	female_Skin	Skin	summer	2016.064_Skin	SHSU	advanced	250.2777778	9
+Plate7_61340_Skin_GA9_01_27023.mzXML	Plate7	female_Skin	Skin	fall	UTK.K016.04_Skin	UTK	active	173.7	9
+Plate7_61540_Skin_GC4_01_27045.mzXML	Plate7	female_Skin	Skin	fall	UTK.K016.05_Skin	UTK	active	173.7	9
+Plate8_25304_Skin_GE8_01_27387.mzXML	Plate8	female_Skin	Skin	spring	CMU_Mrs._16_03_Skin	CMU	active	80.83333334	9
+Plate8_43702_Skin_GG3_01_27409.mzXML	Plate8	male_Skin	Skin	spring	shsu.2016.007_Skin	SHSU	active	194.7222222	9
+Plate8_43902_Skin_GH6_01_27427.mzXML	Plate8	female_Skin	Skin	spring	shsu.2016.011_Skin	SHSU	active	194.7222222	9
+Plate8_55276_Skin_GA1_01_27322.mzXML	Plate8	female_Skin	Skin	summer	2016.067_Skin	SHSU	advanced	256.45	9
+Plate8_60584_Skin_GA3_01_27324.mzXML	Plate8	male_Skin	Skin	summer	17-10_Skin	CMU	advanced	219.2	9
+Plate8_61702_Skin_GD10_01_27375.mzXML	Plate8	male_Skin	Skin	fall	UTK.K016.06_Skin	UTK	active	166.5	9
+Plate9_25504_Skin_GA8_01_26946.mzXML	Plate9	male_Skin	Skin	spring	CMU_Mr._16_04_Skin	CMU	active	68.05555556	9
+Plate9_44096_Skin_GD8_01_26992.mzXML	Plate9	male_Skin	Skin	spring	shsu.2016.024_Skin	SHSU	active	194.7222222	9
+Plate10_25508_Soil_BF8_01_27787.mzXML	Plate10	male_Soil	Soil	spring	CMU_Mr._16_04_Soil	CMU	active	68.05555556	9
+Plate10_25778_Soil_BD10_01_27760.mzXML	Plate10	female_Soil	Soil	spring	CMU_Mrs._16_05_Soil	CMU	active	79.72222223	9
+Plate10_25904_Soil_BB5_01_27726.mzXML	Plate10	female_Soil	Soil	spring	UTK.K016.01_Soil	UTK	active	108.8888889	9
+Plate10_43544_Soil_BF7_01_27786.mzXML	Plate10	male_Soil	Soil	spring	UTK.K016.03_Soil	UTK	active	180.5555556	9
+Plate10_43706_Soil_BB2_01_27723.mzXML	Plate10	male_Soil	Soil	spring	shsu.2016.007_Soil	SHSU	active	194.7222222	9
+Plate10_43906_Soil_BE6_01_27771.mzXML	Plate10	female_Soil	Soil	spring	shsu.2016.011_Soil	SHSU	active	194.7222222	9
+Plate10_44100_Soil_BG11_01_27804.mzXML	Plate10	male_Soil	Soil	spring	shsu.2016.024_Soil	SHSU	active	194.7222222	9
+Plate11_25308_Soil_GF7_01_27669.mzXML	Plate11	female_Soil	Soil	spring	CMU_Mrs._16_03_Soil	CMU	active	80.83333334	9
+Plate11_61544_Soil_GC6_01_27624.mzXML	Plate11	female_Soil	Soil	fall	UTK.K016.05_Soil	UTK	active	173.7	9
+Plate12_54886_Soil_GA11_01_27969.mzXML	Plate12	male_Soil	Soil	summer	2016.065_Soil	SHSU	advanced	250.2777778	9
+Plate12_60588_Soil_GA8_01_27967.mzXML	Plate12	male_Soil	Soil	summer	17-10_Soil	CMU	advanced	219.2	9
+Plate12_61706_Soil_GG3_01_28042.mzXML	Plate12	male_Soil	Soil	fall	UTK.K016.06_Soil	UTK	active	166.5	9
+Plate12_64640_Soil_GA4_01_27962.mzXML	Plate12	male_Soil	Soil	winter	K016.07_Soil	UTK	active	80.4	9
+Plate12_64802_Soil_GE3_01_28015.mzXML	Plate12	male_Soil	Soil	winter	K016.09_Soil	UTK	active	80.4	9
+Plate13_45094_Soil_GB4_01_27488.mzXML	Plate13	male_Soil	Soil	fall	16-14_Soil	CMU	early	1.4	9
+Plate13_45578_Soil_GG8_01_27562.mzXML	Plate13	female_Soil	Soil	summer	Mrs. 16-10_Soil	CMU	advanced	228.65	9
+Plate13_45920_Soil_GC3_01_27501.mzXML	Plate13	female_Soil	Soil	summer	Mrs. 16-09_Soil	CMU	advanced	248.35	9
+Plate13_55080_Soil_GC7_01_27506.mzXML	Plate13	female_Soil	Soil	summer	2016.064_Soil	SHSU	advanced	250.2777778	9
+Plate13_61344_Soil_GB10_01_27495.mzXML	Plate13	female_Soil	Soil	fall	UTK.K016.04_Soil	UTK	active	173.7	9
+Plate13_64440_Soil_GC2_01_27500.mzXML	Plate13	male_Soil	Soil	winter	K016.08_Soil	UTK	active	80.4	9
+Plate14_60788_Soil_BE7_01_27899.mzXML	Plate14	female_Soil	Soil	fall	2016.073_Soil	SHSU	active	170.4	9
+Plate14_60950_Soil_BG9_01_27930.mzXML	Plate14	female_Soil	Soil	fall	2016.072_Soil	SHSU	active	170.4	9
+Plate14_61150_Soil_BG6_01_27925.mzXML	Plate14	male_Soil	Soil	fall	2016.076_Soil	SHSU	active	137.75	9
+Plate14_64260_Soil_BE5_01_27896.mzXML	Plate14	male_Soil	Soil	winter	Mr 17-04_Soil	CMU	active	127.45	9
+Plate14_65216_Soil_BB4_01_27854.mzXML	Plate14	male_Soil	Soil	winter	2017.045_Soil	SHSU	active	117.15	9
+Plate15_45065_Soil_BG5_01_28179.mzXML	Plate15	female_Soil	Soil	winter	2017.046_Soil	SHSU	active	88.3	9
+Plate15_45778_Soil_BA5_01_28095.mzXML	Plate15	female_Soil	Soil	fall	17-12_Soil	CMU	active	107.85	9
+Plate15_55280_Soil_BB1_01_28105.mzXML	Plate15	female_Soil	Soil	summer	2016.067_Soil	SHSU	advanced	256.45	9
+Plate15_65016_Soil_BB11_01_28116.mzXML	Plate15	male_Soil	Soil	winter	2017.043_Soil	SHSU	active	111.45	9
+Plate17_43364_Soil_BB5_01_28364.mzXML	Plate17	female_Soil	Soil	spring	UTK.K016.02_Soil	UTK	active	169.7222222	9
+Plate17_45456_Soil_BE1_01_28404.mzXML	Plate17	male_Soil	Soil	summer	UTK.K016.11_Soil	UTK	active	193.3	9
+Plate17_54690_Soil_BD10_01_28400.mzXML	Plate17	male_Soil	Soil	summer	UTK.K016.12_Soil	UTK	active	193.3	9
+Plate17_62030_Soil_BH5_01_28453.mzXML	Plate17	female_Soil	Soil	winter	Mrs. 17-01_Soil	CMU	early	12.25	9
+Plate18_45256_Soil_GA8_01_28508.mzXML	Plate18	male_Soil	Soil	summer	UTK.K016.10_Soil	UTK	active	193.3	9
+Plate18_55442_Soil_GA2_01_28500.mzXML	Plate18	male_Soil	Soil	fall	16-12_Soil	CMU	early	26.1	9
+Plate18_61850_Soil_GD8_01_28550.mzXML	Plate18	male_Soil	Soil	winter	Mr. 16-15_Soil	CMU	early	12.45	9
+Plate1_25794_Skin_GF9_01_26282.mzXML	Plate1	female_Skin	Skin	spring	CMU_Mrs._16_05_Skin	CMU	active	93.33333334	10
+Plate1_25882_Skin_GG6_01_26292.mzXML	Plate1	female_Skin	Skin	spring	UTK.K016.01_Skin	UTK	active	126.6666667	10
+Plate1_43522_Skin_GD2_01_26322.mzXML	Plate1	male_Skin	Skin	spring	UTK.K016.03_Skin	UTK	active	193.8888889	10
+Plate1_43722_Skin_GB8_01_26132.mzXML	Plate1	male_Skin	Skin	spring	shsu.2016.007_Skin	SHSU	advanced	220.5555556	10
+Plate1_43916_Skin_GD6_01_26252.mzXML	Plate1	female_Skin	Skin	spring	shsu.2016.011_Skin	SHSU	advanced	220.5555556	10
+Plate1_44116_Skin_GD9_01_26255.mzXML	Plate1	male_Skin	Skin	spring	shsu.2016.024_Skin	SHSU	advanced	220.5555556	10
+Plate2_43342_Skin_GB1_01_26344.mzXML	Plate2	female_Skin	Skin	spring	UTK.K016.02_Skin	UTK	active	185.8333333	10
+Plate2_55458_Skin_GF3_01_26403.mzXML	Plate2	male_Skin	Skin	fall	16-12_Skin	CMU	early	26.1	10
+Plate2_60404_Skin_GE2_01_26388.mzXML	Plate2	male_Skin	Skin	fall	16-14_Skin	CMU	early	1.4	10
+Plate2_61866_Skin_GH2_01_26432.mzXML	Plate2	male_Skin	Skin	winter	Mr. 16-15_Skin	CMU	early	12.45	10
+Plate3_62046_Skin_GC7_01_26479.mzXML	Plate3	female_Skin	Skin	winter	Mrs. 17-01_Skin	CMU	early	16.4	10
+Plate3_64456_Skin_GB4_01_26464.mzXML	Plate3	male_Skin	Skin	winter	K016.08_Skin	UTK	active	94.1	10
+Plate3_64618_Skin_GE2_01_26498.mzXML	Plate3	male_Skin	Skin	winter	K016.07_Skin	UTK	active	94.1	10
+Plate3_64818_Skin_GC3_01_26475.mzXML	Plate3	male_Skin	Skin	winter	K016.09_Skin	UTK	active	94.1	10
+Plate4_45268_Skin_GF7_01_27280.mzXML	Plate4	male_Skin	Skin	summer	UTK.K016.10_Skin	UTK	advanced	215.2	10
+Plate4_54702_Skin_GE6_01_27264.mzXML	Plate4	male_Skin	Skin	summer	UTK.K016.12_Skin	UTK	advanced	215.2	10
+Plate4_60766_Skin_GB11_01_27227.mzXML	Plate4	female_Skin	Skin	fall	2016.073_Skin	SHSU	active	189.05	10
+Plate4_60966_Skin_GD3_01_27247.mzXML	Plate4	female_Skin	Skin	fall	2016.072_Skin	SHSU	active	189.05	10
+Plate4_61160_Skin_GC4_01_27233.mzXML	Plate4	male_Skin	Skin	fall	2016.076_Skin	SHSU	active	149.4	10
+Plate5_45430_Skin_GB5_01_26579.mzXML	Plate5	male_Skin	Skin	summer	UTK.K016.11_Skin	UTK	advanced	215.2	10
+Plate5_63738_Skin_GC5_01_26595.mzXML	Plate5	female_Skin	Skin	winter	2017.046_Skin	SHSU	active	95.8	10
+Plate5_64276_Skin_GF8_01_26645.mzXML	Plate5	male_Skin	Skin	winter	Mr 17-04_Skin	CMU	active	144.95	10
+Plate5_65032_Skin_Rerun_GE1_01_26622.mzXML	Plate5	male_Skin	Skin	winter	2017.043_Skin	SHSU	active	120.1	10
+Plate6_45788_Skin_GE2_01_26763.mzXML	Plate6	female_Skin	Skin	fall	17-12_Skin	CMU	active	125.05	10
+Plate6_45898_Skin_GB3_01_26718.mzXML	Plate6	female_Skin	Skin	summer	Mrs. 16-09_Skin	CMU	advanced	269.7	10
+Plate6_54896_Skin_GH9_01_26889.mzXML	Plate6	male_Skin	Skin	summer	2016.065_Skin	SHSU	advanced	278.0555556	10
+Plate6_55258_Skin_GH2_01_26880.mzXML	Plate6	female_Skin	Skin	summer	2016.067_Skin	SHSU	advanced	280.6	10
+Plate6_61360_Skin_GF3_01_26781.mzXML	Plate6	female_Skin	Skin	fall	UTK.K016.04_Skin	UTK	active	194.1	10
+Plate6_61522_Skin_GC1_01_26731.mzXML	Plate6	female_Skin	Skin	fall	UTK.K016.05_Skin	UTK	active	194.1	10
+Plate6_65194_Skin_GH7_01_26887.mzXML	Plate6	male_Skin	Skin	winter	2017.045_Skin	SHSU	active	132.15	10
+Plate7_55096_Skin_GF9_01_27093.mzXML	Plate7	female_Skin	Skin	summer	2016.064_Skin	SHSU	advanced	278.0555556	10
+Plate8_25486_Skin_GF6_01_27399.mzXML	Plate8	male_Skin	Skin	spring	CMU_Mr._16_04_Skin	CMU	active	80.27777778	10
+Plate8_45594_Skin_GB4_01_27340.mzXML	Plate8	female_Skin	Skin	summer	Mrs. 16-10_Skin	CMU	advanced	255.05	10
+Plate8_60604_Skin_GC2_01_27352.mzXML	Plate8	male_Skin	Skin	summer	17-10_Skin	CMU	advanced	244.45	10
+Plate8_61722_Skin_GE6_01_27384.mzXML	Plate8	male_Skin	Skin	fall	UTK.K016.06_Skin	UTK	active	187.6	10
+Plate9_25324_Skin_GD6_01_26989.mzXML	Plate9	female_Skin	Skin	spring	CMU_Mrs._16_03_Skin	CMU	active	89.72222223	10
+Plate10_43526_Soil_BF9_01_27788.mzXML	Plate10	male_Soil	Soil	spring	UTK.K016.03_Soil	UTK	active	193.8888889	10
+Plate10_61526_Soil_BA9_01_27717.mzXML	Plate10	female_Soil	Soil	fall	UTK.K016.05_Soil	UTK	active	194.1	10
+Plate10_61726_Soil_BA5_01_27712.mzXML	Plate10	male_Soil	Soil	fall	UTK.K016.06_Soil	UTK	active	187.6	10
+Plate10_64822_Soil_BD3_01_27752.mzXML	Plate10	male_Soil	Soil	winter	K016.09_Soil	UTK	active	94.1	10
+Plate11_25328_Soil_Rerun_GH3_01_27697.mzXML	Plate11	female_Soil	Soil	spring	CMU_Mrs._16_03_Soil	CMU	active	89.72222223	10
+Plate11_25490_Soil_GA8_01_27599.mzXML	Plate11	male_Soil	Soil	spring	CMU_Mr._16_04_Soil	CMU	active	80.27777778	10
+Plate11_25798_Soil_GB11_01_27616.mzXML	Plate11	female_Soil	Soil	spring	CMU_Mrs._16_05_Soil	CMU	active	93.33333334	10
+Plate11_25886_Soil_GG7_01_27683.mzXML	Plate11	female_Soil	Soil	spring	UTK.K016.01_Soil	UTK	active	126.6666667	10
+Plate11_60608_Soil_GD9_01_27642.mzXML	Plate11	male_Soil	Soil	summer	17-10_Soil	CMU	advanced	244.45	10
+Plate11_61364_Soil_GC2_01_27620.mzXML	Plate11	female_Soil	Soil	fall	UTK.K016.04_Soil	UTK	active	194.1	10
+Plate11_64460_Soil_GG11_01_27687.mzXML	Plate11	male_Soil	Soil	winter	K016.08_Soil	UTK	active	94.1	10
+Plate12_45902_Soil_GH6_01_28058.mzXML	Plate12	female_Soil	Soil	summer	Mrs. 16-09_Soil	CMU	advanced	269.7	10
+Plate12_54710_Soil_GG9_01_28049.mzXML	Plate12	male_Soil	Soil	summer	UTK.K016.12_Soil	UTK	advanced	215.2	10
+Plate12_61870_Soil_GG1_01_28040.mzXML	Plate12	male_Soil	Soil	winter	Mr. 16-15_Soil	CMU	early	12.45	10
+Plate12_64622_Soil_GD7_01_28080.mzXML	Plate12	male_Soil	Soil	winter	K016.07_Soil	UTK	active	94.1	10
+Plate13_45598_Soil_GG9_01_27563.mzXML	Plate13	female_Soil	Soil	summer	Mrs. 16-10_Soil	CMU	advanced	255.05	10
+Plate13_54900_Soil_GE8_01_27534.mzXML	Plate13	male_Soil	Soil	summer	2016.065_Soil	SHSU	advanced	278.0555556	10
+Plate13_55100_Soil_GD3_01_27514.mzXML	Plate13	female_Soil	Soil	summer	2016.064_Soil	SHSU	advanced	278.0555556	10
+Plate14_60970_Soil_BA8_01_27845.mzXML	Plate14	female_Soil	Soil	fall	2016.072_Soil	SHSU	active	189.05	10
+Plate14_61164_Soil_BE6_01_27897.mzXML	Plate14	male_Soil	Soil	fall	2016.076_Soil	SHSU	active	149.4	10
+Plate14_63742_Soil_BG10_01_27931.mzXML	Plate14	female_Soil	Soil	winter	2017.046_Soil	SHSU	active	95.8	10
+Plate14_64280_Soil_BD11_01_27889.mzXML	Plate14	male_Soil	Soil	winter	Mr 17-04_Soil	CMU	active	144.95	10
+Plate14_65036_Soil_BB5_01_27855.mzXML	Plate14	male_Soil	Soil	winter	2017.043_Soil	SHSU	active	120.1	10
+Plate15_65198_Soil_BG2_01_28176.mzXML	Plate15	male_Soil	Soil	winter	2017.045_Soil	SHSU	active	132.15	10
+Plate16_43346_Soil_GF5_01_28289.mzXML	Plate16	female_Soil	Soil	spring	UTK.K016.02_Soil	UTK	active	185.8333333	10
+Plate16_43920_Soil_GH1_01_28313.mzXML	Plate16	female_Soil	Soil	spring	shsu.2016.011_Soil	SHSU	advanced	220.5555556	10
+Plate16_44120_Soil_GF10_01_28295.mzXML	Plate16	male_Soil	Soil	spring	shsu.2016.024_Soil	SHSU	advanced	220.5555556	10
+Plate16_45792_Soil_GB9_01_28236.mzXML	Plate16	female_Soil	Soil	fall	17-12_Soil	CMU	active	125.05	10
+Plate16_60770_Soil_GB8_01_28235.mzXML	Plate16	female_Soil	Soil	fall	2016.073_Soil	SHSU	active	189.05	10
+Plate17_43726_Soil_BB4_01_28363.mzXML	Plate17	male_Soil	Soil	spring	shsu.2016.007_Soil	SHSU	advanced	220.5555556	10
+Plate17_55262_Soil_BA7_01_28353.mzXML	Plate17	female_Soil	Soil	summer	2016.067_Soil	SHSU	advanced	280.6	10
+Plate17_55462_Soil_BE7_01_28412.mzXML	Plate17	male_Soil	Soil	fall	16-12_Soil	CMU	early	26.1	10
+Plate17_60408_Soil_BF8_01_28427.mzXML	Plate17	male_Soil	Soil	fall	16-14_Soil	CMU	early	1.4	10
+Plate17_62050_Soil_BF9_01_28428.mzXML	Plate17	female_Soil	Soil	winter	Mrs. 17-01_Soil	CMU	early	16.4	10
+Plate18_45276_Soil_GC5_01_28532.mzXML	Plate18	male_Soil	Soil	summer	UTK.K016.10_Soil	UTK	advanced	215.2	10
+Plate18_45438_Soil_GA4_01_28502.mzXML	Plate18	male_Soil	Soil	summer	UTK.K016.11_Soil	UTK	advanced	215.2	10
+Plate1_25902_Skin_GH4_01_26304.mzXML	Plate1	female_Skin	Skin	spring	UTK.K016.01_Skin	UTK	active	141.6666667	11
+Plate1_43362_Skin_GH9_01_26309.mzXML	Plate1	female_Skin	Skin	spring	UTK.K016.02_Skin	UTK	advanced	203.3333333	11
+Plate1_44098_Skin_GD1_01_26321.mzXML	Plate1	male_Skin	Skin	spring	shsu.2016.024_Skin	SHSU	advanced	247.2222222	11
+Plate2_25592_Skin_GB2_01_26345.mzXML	Plate2	female_Skin	Skin	spring	CMU_Mrs._16_05_Skin	CMU	active	110.2777778	11
+Plate2_43542_Skin_GD8_01_26381.mzXML	Plate2	male_Skin	Skin	spring	UTK.K016.03_Skin	UTK	advanced	213.0555556	11
+Plate2_43736_Skin_GC8_01_26367.mzXML	Plate2	male_Skin	Skin	spring	shsu.2016.007_Skin	SHSU	advanced	247.2222222	11
+Plate2_43936_Skin_GD3_01_26375.mzXML	Plate2	female_Skin	Skin	spring	shsu.2016.011_Skin	SHSU	advanced	247.2222222	11
+Plate2_61880_Skin_GF5_01_26405.mzXML	Plate2	male_Skin	Skin	winter	Mr. 16-15_Skin	CMU	early	12.7	11
+Plate2_64076_Skin_GF6_01_26406.mzXML	Plate2	female_Skin	Skin	winter	Mrs. 17-01_Skin	CMU	early	20.3	11
+Plate2_64438_Skin_GG2_01_26417.mzXML	Plate2	male_Skin	Skin	winter	K016.08_Skin	UTK	active	109.7	11
+Plate2_64638_Skin_GE11_01_26398.mzXML	Plate2	male_Skin	Skin	winter	K016.07_Skin	UTK	active	109.7	11
+Plate2_64832_Skin_GG1_01_26416.mzXML	Plate2	male_Skin	Skin	winter	K016.09_Skin	UTK	active	109.7	11
+Plate3_55472_Skin_GF10_01_26522.mzXML	Plate3	male_Skin	Skin	fall	16-12_Skin	CMU	early	26.1	11
+Plate3_60424_Skin_GA7_01_26454.mzXML	Plate3	male_Skin	Skin	fall	16-14_Skin	CMU	early	1.4	11
+Plate4_45250_Skin_GG9_01_27296.mzXML	Plate4	male_Skin	Skin	summer	UTK.K016.10_Skin	UTK	advanced	236.6	11
+Plate4_60786_Skin_GD9_01_27254.mzXML	Plate4	female_Skin	Skin	fall	2016.073_Skin	SHSU	advanced	209.6	11
+Plate5_45808_Skin_GC11_01_26602.mzXML	Plate5	female_Skin	Skin	fall	17-12_Skin	CMU	active	132.55	11
+Plate5_54716_Skin_GE9_01_26631.mzXML	Plate5	male_Skin	Skin	summer	UTK.K016.12_Skin	UTK	advanced	236.6	11
+Plate5_60980_Skin_GC6_01_26596.mzXML	Plate5	female_Skin	Skin	fall	2016.072_Skin	SHSU	advanced	209.6	11
+Plate5_61180_Skin_Rerun_GC4_01_26681.mzXML	Plate5	male_Skin	Skin	fall	2016.076_Skin	SHSU	active	159.15	11
+Plate5_65214_Skin_GG9_01_26661.mzXML	Plate5	male_Skin	Skin	winter	2017.045_Skin	SHSU	active	139.9	11
+Plate6_45918_Skin_GD5_01_26750.mzXML	Plate6	female_Skin	Skin	summer	Mrs. 16-09_Skin	CMU	advanced	293.3	11
+Plate6_61542_Skin_GE11_01_26774.mzXML	Plate6	female_Skin	Skin	fall	UTK.K016.05_Skin	UTK	advanced	214.5	11
+Plate6_64258_Skin_GB4_01_26719.mzXML	Plate6	male_Skin	Skin	winter	Mr 17-04_Skin	CMU	active	162.45	11
+Plate7_45450_Skin_GD10_01_27066.mzXML	Plate7	male_Skin	Skin	summer	UTK.K016.11_Skin	UTK	advanced	236.6	11
+Plate7_54916_Skin_GH9_01_27122.mzXML	Plate7	male_Skin	Skin	summer	2016.065_Skin	SHSU	advanced	306.9444444	11
+Plate7_55078_Skin_GH1_01_27113.mzXML	Plate7	female_Skin	Skin	summer	2016.064_Skin	SHSU	advanced	306.9444444	11
+Plate7_60586_Skin_GC8_01_27050.mzXML	Plate7	male_Skin	Skin	summer	17-10_Skin	CMU	advanced	270.85	11
+Plate7_65014_Skin_GH4_01_27116.mzXML	Plate7	male_Skin	Skin	winter	2017.043_Skin	SHSU	active	134.25	11
+Plate8_25306_Skin_GD9_01_27374.mzXML	Plate8	female_Skin	Skin	spring	CMU_Mrs._16_03_Skin	CMU	active	102.7777778	11
+Plate8_45608_Skin_GC7_01_27358.mzXML	Plate8	female_Skin	Skin	summer	Mrs. 16-10_Skin	CMU	advanced	280.3	11
+Plate8_55278_Skin_GA6_01_27328.mzXML	Plate8	female_Skin	Skin	summer	2016.067_Skin	SHSU	advanced	303.65	11
+Plate8_61342_Skin_GH7_01_27429.mzXML	Plate8	female_Skin	Skin	fall	UTK.K016.04_Skin	UTK	advanced	214.5	11
+Plate9_25506_Skin_GC4_01_26972.mzXML	Plate9	male_Skin	Skin	spring	CMU_Mr._16_04_Skin	CMU	active	87.77777778	11
+Plate9_61736_Skin_GC5_01_26973.mzXML	Plate9	male_Skin	Skin	fall	UTK.K016.06_Skin	UTK	advanced	209.3	11
+Plate10_43940_Soil_BA1_01_27708.mzXML	Plate10	female_Soil	Soil	spring	shsu.2016.011_Soil	SHSU	advanced	247.2222222	11
+Plate10_64836_Soil_BF11_01_27790.mzXML	Plate10	male_Soil	Soil	winter	K016.09_Soil	UTK	active	109.7	11
+Plate11_25310_Soil_GD11_01_27644.mzXML	Plate11	female_Soil	Soil	spring	CMU_Mrs._16_03_Soil	CMU	active	102.7777778	11
+Plate11_25510_Soil_GG3_01_27678.mzXML	Plate11	male_Soil	Soil	spring	CMU_Mr._16_04_Soil	CMU	active	87.77777778	11
+Plate11_25596_Soil_GD5_01_27637.mzXML	Plate11	female_Soil	Soil	spring	CMU_Mrs._16_05_Soil	CMU	active	110.2777778	11
+Plate11_45612_Soil_GD4_01_27636.mzXML	Plate11	female_Soil	Soil	summer	Mrs. 16-10_Soil	CMU	advanced	280.3	11
+Plate11_60590_Soil_GG9_01_27685.mzXML	Plate11	male_Soil	Soil	summer	17-10_Soil	CMU	advanced	270.85	11
+Plate11_61546_Soil_GC3_01_27621.mzXML	Plate11	female_Soil	Soil	fall	UTK.K016.05_Soil	UTK	advanced	214.5	11
+Plate12_44102_Soil_GD4_01_28002.mzXML	Plate12	male_Soil	Soil	spring	shsu.2016.024_Soil	SHSU	advanced	247.2222222	11
+Plate12_64442_Soil_GC6_01_28068.mzXML	Plate12	male_Soil	Soil	winter	K016.08_Soil	UTK	active	109.7	11
+Plate12_64642_Soil_GD10_01_28009.mzXML	Plate12	male_Soil	Soil	winter	K016.07_Soil	UTK	active	109.7	11
+Plate13_25906_Soil_GC1_01_27499.mzXML	Plate13	female_Soil	Soil	spring	UTK.K016.01_Soil	UTK	active	141.6666667	11
+Plate13_43366_Soil_GA3_01_27473.mzXML	Plate13	female_Soil	Soil	spring	UTK.K016.02_Soil	UTK	advanced	203.3333333	11
+Plate13_43546_Soil_GC6_01_27504.mzXML	Plate13	male_Soil	Soil	spring	UTK.K016.03_Soil	UTK	advanced	213.0555556	11
+Plate14_60984_Soil_BG11_01_27932.mzXML	Plate14	female_Soil	Soil	fall	2016.072_Soil	SHSU	advanced	209.6	11
+Plate14_64262_Soil_BF4_01_27909.mzXML	Plate14	male_Soil	Soil	winter	Mr 17-04_Soil	CMU	active	162.45	11
+Plate14_65018_Soil_BB9_01_27860.mzXML	Plate14	male_Soil	Soil	winter	2017.043_Soil	SHSU	active	134.25	11
+Plate15_45812_Soil_BE4_01_28150.mzXML	Plate15	female_Soil	Soil	fall	17-12_Soil	CMU	active	132.55	11
+Plate15_54920_Soil_BA1_01_28091.mzXML	Plate15	male_Soil	Soil	summer	2016.065_Soil	SHSU	advanced	306.9444444	11
+Plate15_55282_Soil_BA2_01_28092.mzXML	Plate15	female_Soil	Soil	summer	2016.067_Soil	SHSU	advanced	303.65	11
+Plate15_60790_Soil_BF7_01_28168.mzXML	Plate15	female_Soil	Soil	fall	2016.073_Soil	SHSU	advanced	209.6	11
+Plate15_61184_Soil_BE8_01_28155.mzXML	Plate15	male_Soil	Soil	fall	2016.076_Soil	SHSU	active	159.15	11
+Plate15_61346_Soil_BH3_01_28192.mzXML	Plate15	female_Soil	Soil	fall	UTK.K016.04_Soil	UTK	advanced	214.5	11
+Plate15_61740_Soil_BF3_01_28163.mzXML	Plate15	male_Soil	Soil	fall	UTK.K016.06_Soil	UTK	advanced	209.3	11
+Plate15_63756_Soil_BE2_01_28148.mzXML	Plate15	female_Soil	Soil	winter	2017.046_Soil	SHSU	active	105	11
+Plate16_43740_Soil_GG3_01_28301.mzXML	Plate16	male_Soil	Soil	spring	shsu.2016.007_Soil	SHSU	advanced	247.2222222	11
+Plate16_45922_Soil_GE9_01_28279.mzXML	Plate16	female_Soil	Soil	summer	Mrs. 16-09_Soil	CMU	advanced	293.3	11
+Plate16_55082_Soil_GC5_01_28245.mzXML	Plate16	female_Soil	Soil	summer	2016.064_Soil	SHSU	advanced	306.9444444	11
+Plate16_65218_Soil_Rerun_GA11_01_28327.mzXML	Plate16	male_Soil	Soil	winter	2017.045_Soil	SHSU	active	139.9	11
+Plate17_45258_Soil_BD2_01_28390.mzXML	Plate17	male_Soil	Soil	summer	UTK.K016.10_Soil	UTK	advanced	236.6	11
+Plate17_45458_Soil_BG6_01_28438.mzXML	Plate17	male_Soil	Soil	summer	UTK.K016.11_Soil	UTK	advanced	236.6	11
+Plate17_55476_Soil_BG2_01_28434.mzXML	Plate17	male_Soil	Soil	fall	16-12_Soil	CMU	early	26.1	11
+Plate17_60428_Soil_BE8_01_28413.mzXML	Plate17	male_Soil	Soil	fall	16-14_Soil	CMU	early	1.4	11
+Plate17_64080_Soil_BC6_01_28380.mzXML	Plate17	female_Soil	Soil	winter	Mrs. 17-01_Soil	CMU	early	20.3	11
+Plate18_54724_Soil_GB4_01_28517.mzXML	Plate18	male_Soil	Soil	summer	UTK.K016.12_Soil	UTK	advanced	236.6	11
+Plate18_61884_Soil_GC4_01_28531.mzXML	Plate18	male_Soil	Soil	winter	Mr. 16-15_Soil	CMU	early	12.7	11
+Plate1_25612_Skin_GB4_01_26128.mzXML	Plate1	female_Skin	Skin	spring	CMU_Mrs._16_05_Skin	CMU	active	123.3333333	12
+Plate1_25916_Skin_Rerun_GC11_01_26325.mzXML	Plate1	female_Skin	Skin	spring	UTK.K016.01_Skin	UTK	active	157.7777778	12
+Plate1_43376_Skin_GE6_01_26264.mzXML	Plate1	female_Skin	Skin	spring	UTK.K016.02_Skin	UTK	advanced	223.6111111	12
+Plate1_43557_Skin_GC9_01_26110.mzXML	Plate1	male_Skin	Skin	spring	UTK.K016.03_Skin	UTK	advanced	231.3888889	12
+Plate1_43918_Skin_GD10_01_26111.mzXML	Plate1	female_Skin	Skin	spring	shsu.2016.011_Skin	SHSU	advanced	271.1111111	12
+Plate2_43756_Skin_GB4_01_26348.mzXML	Plate2	male_Skin	Skin	spring	shsu.2016.007_Skin	SHSU	advanced	271.1111111	12
+Plate2_44118_Skin_GC6_01_26364.mzXML	Plate2	male_Skin	Skin	spring	shsu.2016.024_Skin	SHSU	advanced	271.1111111	12
+Plate2_61900_Skin_GE3_01_26389.mzXML	Plate2	male_Skin	Skin	winter	Mr. 16-15_Skin	CMU	early	17.15	12
+Plate3_55492_Skin_GE7_01_26503.mzXML	Plate3	male_Skin	Skin	fall	16-12_Skin	CMU	early	26.1	12
+Plate3_60406_Skin_GA11_01_26459.mzXML	Plate3	male_Skin	Skin	fall	16-14_Skin	CMU	early	5	12
+Plate3_64096_Skin_GE11_01_26507.mzXML	Plate3	female_Skin	Skin	winter	Mrs. 17-01_Skin	CMU	early	22.8	12
+Plate3_64458_Skin_GG6_01_26531.mzXML	Plate3	male_Skin	Skin	winter	K016.08_Skin	UTK	active	124.1	12
+Plate3_64652_Skin_GB8_01_26468.mzXML	Plate3	male_Skin	Skin	winter	K016.07_Skin	UTK	active	124.1	12
+Plate3_64852_Skin_Rerun_GA10_01_26458.mzXML	Plate3	male_Skin	Skin	winter	K016.09_Skin	UTK	active	124.1	12
+Plate4_45270_Skin_GE7_01_27266.mzXML	Plate4	male_Skin	Skin	summer	UTK.K016.10_Skin	UTK	advanced	258.6	12
+Plate4_45790_Skin_GH6_01_27306.mzXML	Plate4	female_Skin	Skin	fall	17-12_Skin	CMU	active	141.75	12
+Plate4_54536_Skin_GA7_01_27209.mzXML	Plate4	male_Skin	Skin	summer	UTK.K016.11_Skin	UTK	advanced	258.6	12
+Plate4_54736_Skin_GA1_01_27202.mzXML	Plate4	male_Skin	Skin	summer	UTK.K016.12_Skin	UTK	advanced	258.6	12
+Plate4_61162_Skin_GC9_01_27240.mzXML	Plate4	male_Skin	Skin	fall	2016.076_Skin	SHSU	active	169.15	12
+Plate5_61000_Skin_GC1_01_26591.mzXML	Plate5	female_Skin	Skin	fall	2016.072_Skin	SHSU	advanced	230.7	12
+Plate5_65034_Skin_GH5_01_26670.mzXML	Plate5	male_Skin	Skin	winter	2017.043_Skin	SHSU	active	143.4	12
+Plate5_65228_Skin_GD8_01_26613.mzXML	Plate5	male_Skin	Skin	winter	2017.045_Skin	SHSU	active	149.05	12
+Plate6_54898_Skin_GH5_01_26883.mzXML	Plate6	male_Skin	Skin	summer	2016.065_Skin	SHSU	advanced	335.5555556	12
+Plate6_55098_Skin_GB10_01_26726.mzXML	Plate6	female_Skin	Skin	summer	2016.064_Skin	SHSU	advanced	335.5555556	12
+Plate6_55292_Skin_Rerun_GC2_01_26895.mzXML	Plate6	female_Skin	Skin	summer	2016.067_Skin	SHSU	advanced	327	12
+Plate6_60800_Skin_GD1_01_26746.mzXML	Plate6	female_Skin	Skin	fall	2016.073_Skin	SHSU	advanced	230.7	12
+Plate6_61556_Skin_GE4_01_26765.mzXML	Plate6	female_Skin	Skin	fall	UTK.K016.05_Skin	UTK	advanced	236.2	12
+Plate6_63772_Skin_Rerun_GF10_01_26905.mzXML	Plate6	female_Skin	Skin	winter	2017.046_Skin	SHSU	active	109.15	12
+Plate6_64278_Skin_GD2_01_26747.mzXML	Plate6	male_Skin	Skin	winter	Mr 17-04_Skin	CMU	active	180.25	12
+Plate7_45628_Skin_GE2_01_27071.mzXML	Plate7	female_Skin	Skin	summer	Mrs. 16-10_Skin	CMU	advanced	303.9	12
+Plate7_60606_Skin_GF5_01_27088.mzXML	Plate7	male_Skin	Skin	summer	17-10_Skin	CMU	advanced	297.25	12
+Plate8_25326_Skin_GH5_01_27426.mzXML	Plate8	female_Skin	Skin	spring	CMU_Mrs._16_03_Skin	CMU	active	113.0555556	12
+Plate8_45932_Skin_GB7_01_27344.mzXML	Plate8	female_Skin	Skin	summer	Mrs. 16-09_Skin	CMU	advanced	317.75	12
+Plate9_25520_Skin_Rerun_GB4_01_27004.mzXML	Plate9	male_Skin	Skin	spring	CMU_Mr._16_04_Skin	CMU	active	91.66666667	12
+Plate9_61362_Skin_GD9_01_26993.mzXML	Plate9	female_Skin	Skin	fall	UTK.K016.04_Skin	UTK	advanced	236.2	12
+Plate9_61756_Skin_GB10_01_26962.mzXML	Plate9	male_Skin	Skin	fall	UTK.K016.06_Skin	UTK	advanced	229.7	12
+Plate10_25330_Soil_BG3_01_27795.mzXML	Plate10	female_Soil	Soil	spring	CMU_Mrs._16_03_Soil	CMU	active	113.0555556	12
+Plate11_25524_Soil_GF11_01_27673.mzXML	Plate11	male_Soil	Soil	spring	CMU_Mr._16_04_Soil	CMU	active	91.66666667	12
+Plate11_25616_Soil_GA3_01_27593.mzXML	Plate11	female_Soil	Soil	spring	CMU_Mrs._16_05_Soil	CMU	active	123.3333333	12
+Plate11_25920_Soil_GA1_01_27591.mzXML	Plate11	female_Soil	Soil	spring	UTK.K016.01_Soil	UTK	active	157.7777778	12
+Plate11_55102_Soil_GH10_01_27701.mzXML	Plate11	female_Soil	Soil	summer	2016.064_Soil	SHSU	advanced	335.5555556	12
+Plate11_61560_Soil_GF2_01_27662.mzXML	Plate11	female_Soil	Soil	fall	UTK.K016.05_Soil	UTK	advanced	236.2	12
+Plate12_54902_Soil_GC8_01_27993.mzXML	Plate12	male_Soil	Soil	summer	2016.065_Soil	SHSU	advanced	335.5555556	12
+Plate12_64656_Soil_GG8_01_28048.mzXML	Plate12	male_Soil	Soil	winter	K016.07_Soil	UTK	active	124.1	12
+Plate13_43380_Soil_GG10_01_27564.mzXML	Plate13	female_Soil	Soil	spring	UTK.K016.02_Soil	UTK	advanced	223.6111111	12
+Plate13_43560_Soil_GF10_01_27550.mzXML	Plate13	male_Soil	Soil	spring	UTK.K016.03_Soil	UTK	advanced	231.3888889	12
+Plate13_45936_Soil_GG4_01_27557.mzXML	Plate13	female_Soil	Soil	summer	Mrs. 16-09_Soil	CMU	advanced	317.75	12
+Plate13_60610_Soil_GC4_01_27502.mzXML	Plate13	male_Soil	Soil	summer	17-10_Soil	CMU	advanced	297.25	12
+Plate13_64856_Soil_GF1_01_27540.mzXML	Plate13	male_Soil	Soil	winter	K016.09_Soil	UTK	active	124.1	12
+Plate14_60804_Soil_BG4_01_27923.mzXML	Plate14	female_Soil	Soil	fall	2016.073_Soil	SHSU	advanced	230.7	12
+Plate14_63776_Soil_BF6_01_27911.mzXML	Plate14	female_Soil	Soil	winter	2017.046_Soil	SHSU	active	109.15	12
+Plate14_65232_Soil_BC8_01_27872.mzXML	Plate14	male_Soil	Soil	winter	2017.045_Soil	SHSU	active	149.05	12
+Plate15_45632_Soil_BD4_01_28136.mzXML	Plate15	female_Soil	Soil	summer	Mrs. 16-10_Soil	CMU	advanced	303.9	12
+Plate15_45794_Soil_BD10_01_28143.mzXML	Plate15	female_Soil	Soil	fall	17-12_Soil	CMU	active	141.75	12
+Plate15_61004_Soil_BD1_01_28133.mzXML	Plate15	female_Soil	Soil	fall	2016.072_Soil	SHSU	advanced	230.7	12
+Plate15_61166_Soil_BG8_01_28183.mzXML	Plate15	male_Soil	Soil	fall	2016.076_Soil	SHSU	active	169.15	12
+Plate15_61366_Soil_BB6_01_28110.mzXML	Plate15	female_Soil	Soil	fall	UTK.K016.04_Soil	UTK	advanced	236.2	12
+Plate15_61760_Soil_BF6_01_28166.mzXML	Plate15	male_Soil	Soil	fall	UTK.K016.06_Soil	UTK	advanced	229.7	12
+Plate15_65038_Soil_BB3_01_28107.mzXML	Plate15	male_Soil	Soil	winter	2017.043_Soil	SHSU	active	143.4	12
+Plate16_43760_Soil_GF8_01_28293.mzXML	Plate16	male_Soil	Soil	spring	shsu.2016.007_Soil	SHSU	advanced	271.1111111	12
+Plate16_44122_Soil_GG4_01_28302.mzXML	Plate16	male_Soil	Soil	spring	shsu.2016.024_Soil	SHSU	advanced	271.1111111	12
+Plate16_55296_Soil_GG11_01_28310.mzXML	Plate16	female_Soil	Soil	summer	2016.067_Soil	SHSU	advanced	327	12
+Plate16_64282_Soil_GC8_01_28249.mzXML	Plate16	male_Soil	Soil	winter	Mr 17-04_Soil	CMU	active	180.25	12
+Plate17_43922_Soil_BA9_01_28355.mzXML	Plate17	female_Soil	Soil	spring	shsu.2016.011_Soil	SHSU	advanced	271.1111111	12
+Plate17_45278_Soil_BF5_01_28423.mzXML	Plate17	male_Soil	Soil	summer	UTK.K016.10_Soil	UTK	advanced	258.6	12
+Plate17_54544_Soil_BC11_01_28386.mzXML	Plate17	male_Soil	Soil	summer	UTK.K016.11_Soil	UTK	advanced	258.6	12
+Plate17_55496_Soil_BH1_01_28449.mzXML	Plate17	male_Soil	Soil	fall	16-12_Soil	CMU	early	26.1	12
+Plate17_60410_Soil_BF7_01_28426.mzXML	Plate17	male_Soil	Soil	fall	16-14_Soil	CMU	early	5	12
+Plate17_61904_Soil_BB11_01_28372.mzXML	Plate17	male_Soil	Soil	winter	Mr. 16-15_Soil	CMU	early	17.15	12
+Plate17_64462_Soil_BG3_01_28435.mzXML	Plate17	male_Soil	Soil	winter	K016.08_Soil	UTK	active	124.1	12
+Plate18_54744_Soil_GA9_01_28509.mzXML	Plate18	male_Soil	Soil	summer	UTK.K016.12_Soil	UTK	advanced	258.6	12
+Plate18_64100_Soil_GC8_01_28536.mzXML	Plate18	female_Soil	Soil	winter	Mrs. 17-01_Soil	CMU	early	22.8	12
+Plate1_25540_Skin_GF6_01_26278.mzXML	Plate1	male_Skin	Skin	spring	CMU_Mr._16_04_Skin	CMU	active	96.11111111	13
+Plate1_25594_Skin_GA4_01_26117.mzXML	Plate1	female_Skin	Skin	spring	CMU_Mrs._16_05_Skin	CMU	active	136.6666667	13
+Plate1_25936_Skin_GD4_01_26250.mzXML	Plate1	female_Skin	Skin	spring	UTK.K016.01_Skin	UTK	active	176.9444445	13
+Plate1_43576_Skin_GC1_01_26109.mzXML	Plate1	male_Skin	Skin	spring	UTK.K016.03_Skin	UTK	advanced	250.8333333	13
+Plate1_44132_Skin_GF5_01_26277.mzXML	Plate1	male_Skin	Skin	spring	shsu.2016.024_Skin	SHSU	advanced	296.3888889	13
+Plate2_25340_Skin_Rerun_GB5_01_26350.mzXML	Plate2	female_Skin	Skin	spring	CMU_Mrs._16_03_Skin	CMU	active	117.7777778	13
+Plate2_43396_Skin_GB9_01_26355.mzXML	Plate2	female_Skin	Skin	spring	UTK.K016.02_Skin	UTK	advanced	245.5555556	13
+Plate2_43738_Skin_GC11_01_26370.mzXML	Plate2	male_Skin	Skin	spring	shsu.2016.007_Skin	SHSU	advanced	296.3888889	13
+Plate2_64078_Skin_Rerun_GF9_01_26414.mzXML	Plate2	female_Skin	Skin	winter	Mrs. 17-01_Skin	CMU	early	24.75	13
+Plate2_64472_Skin_GF7_01_26408.mzXML	Plate2	male_Skin	Skin	winter	K016.08_Skin	UTK	active	133.9	13
+Plate2_64834_Skin_GG8_01_26424.mzXML	Plate2	male_Skin	Skin	winter	K016.09_Skin	UTK	active	133.9	13
+Plate3_64672_Skin_GG2_01_26527.mzXML	Plate3	male_Skin	Skin	winter	K016.07_Skin	UTK	active	133.9	13
+Plate4_45284_Skin_GE1_01_27259.mzXML	Plate4	male_Skin	Skin	summer	UTK.K016.10_Skin	UTK	advanced	278.9	13
+Plate4_54718_Skin_GG2_01_27288.mzXML	Plate4	male_Skin	Skin	summer	UTK.K016.12_Skin	UTK	advanced	278.9	13
+Plate4_60820_Skin_GG1_01_27287.mzXML	Plate4	female_Skin	Skin	fall	2016.073_Skin	SHSU	advanced	252.9	13
+Plate4_61182_Skin_GD11_01_27256.mzXML	Plate4	male_Skin	Skin	fall	2016.076_Skin	SHSU	active	178.6	13
+Plate4_65048_Skin_GH8_01_27309.mzXML	Plate4	male_Skin	Skin	winter	2017.043_Skin	SHSU	active	150.6	13
+Plate4_65248_Skin_GB9_01_27225.mzXML	Plate4	male_Skin	Skin	winter	2017.045_Skin	SHSU	active	154.4	13
+Plate5_45810_Skin_Rerun_GE2_01_26623.mzXML	Plate5	female_Skin	Skin	fall	17-12_Skin	CMU	active	153.7	13
+Plate5_54556_Skin_GA3_01_26562.mzXML	Plate5	male_Skin	Skin	summer	UTK.K016.11_Skin	UTK	advanced	278.9	13
+Plate5_60426_Skin_GA9_01_26570.mzXML	Plate5	male_Skin	Skin	fall	16-14_Skin	CMU	early	6.95	13
+Plate5_60982_Skin_GG5_01_26656.mzXML	Plate5	female_Skin	Skin	fall	2016.072_Skin	SHSU	advanced	252.9	13
+Plate6_45952_Skin_GB11_01_26727.mzXML	Plate6	female_Skin	Skin	summer	Mrs. 16-09_Skin	CMU	advanced	343.3	13
+Plate6_54918_Skin_Rerun_GB5_01_26894.mzXML	Plate6	male_Skin	Skin	summer	2016.065_Skin	SHSU	advanced	364.1666667	13
+Plate6_55112_Skin_GD4_01_26749.mzXML	Plate6	female_Skin	Skin	summer	2016.064_Skin	SHSU	advanced	364.1666667	13
+Plate6_64292_Skin_Rerun_GG3_01_26798.mzXML	Plate6	male_Skin	Skin	winter	Mr 17-04_Skin	CMU	active	191.65	13
+Plate7_60620_Skin_GE8_01_27078.mzXML	Plate7	male_Skin	Skin	summer	17-10_Skin	CMU	advanced	322.8	13
+Plate7_63754_Skin_GG7_01_27106.mzXML	Plate7	female_Skin	Skin	winter	2017.046_Skin	SHSU	active	109.2	13
+Plate8_45610_Skin_GD2_01_27366.mzXML	Plate8	female_Skin	Skin	summer	Mrs. 16-10_Skin	CMU	advanced	327.5	13
+Plate8_55312_Skin_GB5_01_27341.mzXML	Plate8	female_Skin	Skin	summer	2016.067_Skin	SHSU	advanced	348.1	13
+Plate8_61576_Skin_GG2_01_27408.mzXML	Plate8	female_Skin	Skin	fall	UTK.K016.05_Skin	UTK	advanced	253.1	13
+Plate8_61882_Skin_GD4_01_27368.mzXML	Plate8	male_Skin	Skin	winter	Mr. 16-15_Skin	CMU	early	18.8	13
+Plate9_43938_Skin_Rerun_GC2_01_27009.mzXML	Plate9	female_Skin	Skin	spring	shsu.2016.011_Skin	SHSU	advanced	296.3888889	13
+Plate9_55474_Skin_GE1_01_26999.mzXML	Plate9	male_Skin	Skin	fall	16-12_Skin	CMU	early	26.1	13
+Plate9_61376_Skin_GD7_01_26991.mzXML	Plate9	female_Skin	Skin	fall	UTK.K016.04_Skin	UTK	advanced	253.1	13
+Plate9_61738_Skin_GC6_01_26974.mzXML	Plate9	male_Skin	Skin	fall	UTK.K016.06_Skin	UTK	advanced	252.1	13
+Plate10_25344_Soil_BH8_01_27819.mzXML	Plate10	female_Soil	Soil	spring	CMU_Mrs._16_03_Soil	CMU	active	117.7777778	13
+Plate10_25598_Soil_BC2_01_27737.mzXML	Plate10	female_Soil	Soil	spring	CMU_Mrs._16_05_Soil	CMU	active	136.6666667	13
+Plate10_25940_Soil_BD9_01_27759.mzXML	Plate10	female_Soil	Soil	spring	UTK.K016.01_Soil	UTK	active	176.9444445	13
+Plate10_43942_Soil_BA4_01_27711.mzXML	Plate10	female_Soil	Soil	spring	shsu.2016.011_Soil	SHSU	advanced	296.3888889	13
+Plate11_61742_Soil_GC10_01_27629.mzXML	Plate11	male_Soil	Soil	fall	UTK.K016.06_Soil	UTK	advanced	252.1	13
+Plate12_25352_Soil_Rerun_GE7_01_28083.mzXML	Plate12	female_Soil	Soil	spring	CMU_Mrs._16_03_Soil	CMU	active	117.7777778	13
+Plate12_25929_Soil_GG11_01_28050.mzXML	Plate12	female_Soil	Soil	spring	UTK.K016.01_Soil	UTK	active	176.9444445	13
+Plate12_43742_Soil_GH9_01_28062.mzXML	Plate12	male_Soil	Soil	spring	shsu.2016.007_Soil	SHSU	advanced	296.3888889	13
+Plate12_60624_Soil_GH8_01_28061.mzXML	Plate12	male_Soil	Soil	summer	17-10_Soil	CMU	advanced	322.8	13
+Plate12_61580_Soil_GF11_01_28037.mzXML	Plate12	female_Soil	Soil	fall	UTK.K016.05_Soil	UTK	advanced	253.1	13
+Plate13_25544_Soil_GC9_01_27508.mzXML	Plate13	male_Soil	Soil	spring	CMU_Mr._16_04_Soil	CMU	active	96.11111111	13
+Plate13_43400_Soil_GE1_01_27526.mzXML	Plate13	female_Soil	Soil	spring	UTK.K016.02_Soil	UTK	advanced	245.5555556	13
+Plate13_43580_Soil_GG1_01_27554.mzXML	Plate13	male_Soil	Soil	spring	UTK.K016.03_Soil	UTK	advanced	250.8333333	13
+Plate13_45956_Soil_GA11_01_27482.mzXML	Plate13	female_Soil	Soil	summer	Mrs. 16-09_Soil	CMU	advanced	343.3	13
+Plate14_60824_Soil_BB2_01_27852.mzXML	Plate14	female_Soil	Soil	fall	2016.073_Soil	SHSU	advanced	252.9	13
+Plate14_60986_Soil_BF11_01_27917.mzXML	Plate14	female_Soil	Soil	fall	2016.072_Soil	SHSU	advanced	252.9	13
+Plate14_61186_Soil_BD1_01_27878.mzXML	Plate14	male_Soil	Soil	fall	2016.076_Soil	SHSU	active	178.6	13
+Plate14_64296_Soil_BF8_01_27914.mzXML	Plate14	male_Soil	Soil	winter	Mr 17-04_Soil	CMU	active	191.65	13
+Plate14_65052_Soil_BD9_01_27887.mzXML	Plate14	male_Soil	Soil	winter	2017.043_Soil	SHSU	active	150.6	13
+Plate15_55316_Soil_BD6_01_28138.mzXML	Plate15	female_Soil	Soil	summer	2016.067_Soil	SHSU	advanced	348.1	13
+Plate15_61380_Soil_BG10_01_28185.mzXML	Plate15	female_Soil	Soil	fall	UTK.K016.04_Soil	UTK	advanced	253.1	13
+Plate15_63758_Soil_BE10_01_28157.mzXML	Plate15	female_Soil	Soil	winter	2017.046_Soil	SHSU	active	109.2	13
+Plate15_65252_Soil_BE3_01_28149.mzXML	Plate15	male_Soil	Soil	winter	2017.045_Soil	SHSU	active	154.4	13
+Plate16_43750_Soil_GF11_01_28296.mzXML	Plate16	male_Soil	Soil	spring	shsu.2016.007_Soil	SHSU	advanced	296.3888889	13
+Plate16_44136_Soil_GG9_01_28308.mzXML	Plate16	male_Soil	Soil	spring	shsu.2016.024_Soil	SHSU	advanced	296.3888889	13
+Plate16_45814_Soil_GE3_01_28272.mzXML	Plate16	female_Soil	Soil	fall	17-12_Soil	CMU	active	153.7	13
+Plate16_54922_Soil_GH6_01_28318.mzXML	Plate16	male_Soil	Soil	summer	2016.065_Soil	SHSU	advanced	364.1666667	13
+Plate16_55116_Soil_GE10_01_28280.mzXML	Plate16	female_Soil	Soil	summer	2016.064_Soil	SHSU	advanced	364.1666667	13
+Plate17_54564_Soil_BF1_01_28419.mzXML	Plate17	male_Soil	Soil	summer	UTK.K016.11_Soil	UTK	advanced	278.9	13
+Plate17_54726_Soil_BC9_01_28384.mzXML	Plate17	male_Soil	Soil	summer	UTK.K016.12_Soil	UTK	advanced	278.9	13
+Plate17_55478_Soil_BE2_01_28405.mzXML	Plate17	male_Soil	Soil	fall	16-12_Soil	CMU	early	26.1	13
+Plate17_60430_Soil_BD4_01_28392.mzXML	Plate17	male_Soil	Soil	fall	16-14_Soil	CMU	early	6.95	13
+Plate17_64476_Soil_BD8_01_28398.mzXML	Plate17	male_Soil	Soil	winter	K016.08_Soil	UTK	active	133.9	13
+Plate18_45292_Soil_GB1_01_28514.mzXML	Plate18	male_Soil	Soil	summer	UTK.K016.10_Soil	UTK	advanced	278.9	13
+Plate18_61886_Soil_GB10_01_28524.mzXML	Plate18	male_Soil	Soil	winter	Mr. 16-15_Soil	CMU	early	18.8	13
+Plate18_64082_Soil_GB8_01_28522.mzXML	Plate18	female_Soil	Soil	winter	Mrs. 17-01_Soil	CMU	early	24.75	13
+Plate18_64676_Soil_GE2_01_28557.mzXML	Plate18	male_Soil	Soil	winter	K016.07_Soil	UTK	active	133.9	13
+Plate18_64838_Soil_GC9_01_28537.mzXML	Plate18	male_Soil	Soil	winter	K016.09_Soil	UTK	active	133.9	13
+Plate1_25614_Skin_GE8_01_26267.mzXML	Plate1	female_Skin	Skin	spring	CMU_Mrs._16_05_Skin	CMU	active	150	14
+Plate1_43558_Skin_GB3_01_26127.mzXML	Plate1	male_Skin	Skin	spring	UTK.K016.03_Skin	UTK	advanced	268.8888889	14
+Plate1_43952_Skin_GD3_01_26323.mzXML	Plate1	female_Skin	Skin	spring	shsu.2016.011_Skin	SHSU	advanced	324.4444445	14
+Plate1_44152_Skin_GH8_01_26308.mzXML	Plate1	male_Skin	Skin	spring	shsu.2016.024_Skin	SHSU	advanced	324.4444445	14
+Plate2_25522_Skin_GA2_01_26333.mzXML	Plate2	male_Skin	Skin	spring	CMU_Mr._16_04_Skin	CMU	active	102.7777778	14
+Plate2_25918_Skin_GC9_01_26368.mzXML	Plate2	female_Skin	Skin	spring	UTK.K016.01_Skin	UTK	active	197.5	14
+Plate2_43378_Skin_GA1_01_26332.mzXML	Plate2	female_Skin	Skin	spring	UTK.K016.02_Skin	UTK	advanced	269.4444445	14
+Plate2_43758_Skin_GC1_01_26359.mzXML	Plate2	male_Skin	Skin	spring	shsu.2016.007_Skin	SHSU	advanced	324.4444445	14
+Plate2_64654_Skin_GH10_01_26441.mzXML	Plate2	male_Skin	Skin	winter	K016.07_Skin	UTK	active	148.3	14
+Plate3_64098_Skin_GF7_01_26519.mzXML	Plate3	female_Skin	Skin	winter	Mrs. 17-01_Skin	CMU	early	26.7	14
+Plate3_64492_Skin_GF2_01_26513.mzXML	Plate3	male_Skin	Skin	winter	K016.08_Skin	UTK	active	148.3	14
+Plate3_64854_Skin_GG10_01_26536.mzXML	Plate3	male_Skin	Skin	winter	K016.09_Skin	UTK	active	148.3	14
+Plate4_45304_Skin_GD10_01_27255.mzXML	Plate4	male_Skin	Skin	summer	UTK.K016.10_Skin	UTK	advanced	298.6	14
+Plate4_60802_Skin_GF10_01_27283.mzXML	Plate4	female_Skin	Skin	fall	2016.073_Skin	SHSU	advanced	271.25	14
+Plate4_61196_Skin_GG10_01_27297.mzXML	Plate4	male_Skin	Skin	fall	2016.076_Skin	SHSU	active	190.5	14
+Plate4_65068_Skin_GG11_01_27300.mzXML	Plate4	male_Skin	Skin	winter	2017.043_Skin	SHSU	active	162.3	14
+Plate5_45104_Skin_GG2_01_26653.mzXML	Plate5	female_Skin	Skin	fall	17-12_Skin	CMU	active	166.75	14
+Plate5_55494_Skin_GB11_01_26588.mzXML	Plate5	male_Skin	Skin	fall	16-12_Skin	CMU	early	27.5	14
+Plate5_60440_Skin_GE6_01_26627.mzXML	Plate5	male_Skin	Skin	fall	16-14_Skin	CMU	early	6.95	14
+Plate5_61902_Skin_GB1_01_26575.mzXML	Plate5	male_Skin	Skin	winter	Mr. 16-15_Skin	CMU	early	18.8	14
+Plate5_63774_Skin_GG3_01_26654.mzXML	Plate5	female_Skin	Skin	winter	2017.046_Skin	SHSU	active	109.2	14
+Plate5_64312_Skin_GE4_01_26625.mzXML	Plate5	male_Skin	Skin	winter	Mr 17-04_Skin	CMU	advanced	202.45	14
+Plate5_65230_Skin_GH11_01_26677.mzXML	Plate5	male_Skin	Skin	winter	2017.045_Skin	SHSU	active	161.6	14
+Plate6_54932_Skin_GF2_01_26780.mzXML	Plate6	male_Skin	Skin	summer	2016.065_Skin	SHSU	advanced	393.6111111	14
+Plate7_45934_Skin_GF3_01_27086.mzXML	Plate7	female_Skin	Skin	summer	Mrs. 16-09_Skin	CMU	advanced	371.35	14
+Plate7_54538_Skin_GB7_01_27035.mzXML	Plate7	male_Skin	Skin	summer	UTK.K016.11_Skin	UTK	advanced	298.6	14
+Plate7_55294_Skin_GB5_01_27032.mzXML	Plate7	female_Skin	Skin	summer	2016.067_Skin	SHSU	advanced	367.55	14
+Plate8_25360_Skin_GF8_01_27401.mzXML	Plate8	female_Skin	Skin	spring	CMU_Mrs._16_03_Skin	CMU	active	123.8888889	14
+Plate8_45630_Skin_GD3_01_27367.mzXML	Plate8	female_Skin	Skin	summer	Mrs. 16-10_Skin	CMU	advanced	351.95	14
+Plate8_54738_Skin_GA2_01_27323.mzXML	Plate8	male_Skin	Skin	summer	UTK.K016.12_Skin	UTK	advanced	298.6	14
+Plate8_60640_Skin_GB2_01_27337.mzXML	Plate8	male_Skin	Skin	summer	17-10_Skin	CMU	advanced	348.05	14
+Plate8_61396_Skin_GH11_01_27434.mzXML	Plate8	female_Skin	Skin	fall	UTK.K016.04_Skin	UTK	advanced	269.7	14
+Plate8_61558_Skin_GH8_01_27430.mzXML	Plate8	female_Skin	Skin	fall	UTK.K016.05_Skin	UTK	advanced	269.7	14
+Plate9_55132_Skin_Rerun_GB3_01_27003.mzXML	Plate9	female_Skin	Skin	summer	2016.064_Skin	SHSU	advanced	393.6111111	14
+Plate9_61758_Skin_GC3_01_26971.mzXML	Plate9	male_Skin	Skin	fall	UTK.K016.06_Skin	UTK	advanced	276	14
+Plate10_25364_Soil_BE1_01_27764.mzXML	Plate10	female_Soil	Soil	spring	CMU_Mrs._16_03_Soil	CMU	active	123.8888889	14
+Plate10_25526_Soil_BB9_01_27731.mzXML	Plate10	male_Soil	Soil	spring	CMU_Mr._16_04_Soil	CMU	active	102.7777778	14
+Plate10_43956_Soil_BH6_01_27812.mzXML	Plate10	female_Soil	Soil	spring	shsu.2016.011_Soil	SHSU	advanced	324.4444445	14
+Plate11_25618_Soil_GE6_01_27652.mzXML	Plate11	female_Soil	Soil	spring	CMU_Mrs._16_05_Soil	CMU	active	150	14
+Plate11_45634_Soil_GE1_01_27647.mzXML	Plate11	female_Soil	Soil	summer	Mrs. 16-10_Soil	CMU	advanced	351.95	14
+Plate11_61562_Soil_GE5_01_27651.mzXML	Plate11	female_Soil	Soil	fall	UTK.K016.05_Soil	UTK	advanced	269.7	14
+Plate11_61762_Soil_GC11_01_27630.mzXML	Plate11	male_Soil	Soil	fall	UTK.K016.06_Soil	UTK	advanced	276	14
+Plate11_64658_Soil_GF6_01_27666.mzXML	Plate11	male_Soil	Soil	winter	K016.07_Soil	UTK	active	148.3	14
+Plate12_60444_Soil_GF1_01_28027.mzXML	Plate12	male_Soil	Soil	fall	16-14_Soil	CMU	early	6.95	14
+Plate12_60644_Soil_GG5_01_28044.mzXML	Plate12	male_Soil	Soil	summer	17-10_Soil	CMU	advanced	348.05	14
+Plate12_64102_Soil_GH5_01_28057.mzXML	Plate12	female_Soil	Soil	winter	Mrs. 17-01_Soil	CMU	early	26.7	14
+Plate12_64858_Soil_GD8_01_28007.mzXML	Plate12	male_Soil	Soil	winter	K016.09_Soil	UTK	active	148.3	14
+Plate13_43382_Soil_GA8_01_27479.mzXML	Plate13	female_Soil	Soil	spring	UTK.K016.02_Soil	UTK	advanced	269.4444445	14
+Plate13_43562_Soil_GD11_01_27523.mzXML	Plate13	male_Soil	Soil	spring	UTK.K016.03_Soil	UTK	advanced	268.8888889	14
+Plate13_45938_Soil_GD2_01_27513.mzXML	Plate13	female_Soil	Soil	summer	Mrs. 16-09_Soil	CMU	advanced	371.35	14
+Plate13_55136_Soil_GB8_01_27493.mzXML	Plate13	female_Soil	Soil	summer	2016.064_Soil	SHSU	advanced	393.6111111	14
+Plate14_45108_Soil_BC1_01_27864.mzXML	Plate14	female_Soil	Soil	fall	17-12_Soil	CMU	active	166.75	14
+Plate14_64316_Soil_BE8_01_27900.mzXML	Plate14	male_Soil	Soil	winter	Mr 17-04_Soil	CMU	advanced	202.45	14
+Plate14_65072_Soil_BA11_01_27848.mzXML	Plate14	male_Soil	Soil	winter	2017.043_Soil	SHSU	active	162.3	14
+Plate14_65234_Soil_BB10_01_27861.mzXML	Plate14	male_Soil	Soil	winter	2017.045_Soil	SHSU	active	161.6	14
+Plate15_60806_Soil_BD5_01_28137.mzXML	Plate15	female_Soil	Soil	fall	2016.073_Soil	SHSU	advanced	271.25	14
+Plate15_61006_Soil_BH6_01_28195.mzXML	Plate15	female_Soil	Soil	fall	2016.072_Soil	SHSU	advanced	271.25	14
+Plate15_61200_Soil_Rerun_BH7_01_28201.mzXML	Plate15	male_Soil	Soil	fall	2016.076_Soil	SHSU	active	190.5	14
+Plate16_43762_Soil_GG2_01_28300.mzXML	Plate16	male_Soil	Soil	spring	shsu.2016.007_Soil	SHSU	advanced	324.4444445	14
+Plate16_44156_Soil_GH9_01_28322.mzXML	Plate16	male_Soil	Soil	spring	shsu.2016.024_Soil	SHSU	advanced	324.4444445	14
+Plate16_61400_Soil_GE1_01_28270.mzXML	Plate16	female_Soil	Soil	fall	UTK.K016.04_Soil	UTK	advanced	269.7	14
+Plate16_63778_Soil_GA5_01_28217.mzXML	Plate16	female_Soil	Soil	winter	2017.046_Soil	SHSU	active	109.2	14
+Plate17_25922_Soil_BA3_01_28348.mzXML	Plate17	female_Soil	Soil	spring	UTK.K016.01_Soil	UTK	active	197.5	14
+Plate17_45312_Soil_BD3_01_28391.mzXML	Plate17	male_Soil	Soil	summer	UTK.K016.10_Soil	UTK	advanced	298.6	14
+Plate17_54546_Soil_BD9_01_28399.mzXML	Plate17	male_Soil	Soil	summer	UTK.K016.11_Soil	UTK	advanced	298.6	14
+Plate17_54746_Soil_BF3_01_28421.mzXML	Plate17	male_Soil	Soil	summer	UTK.K016.12_Soil	UTK	advanced	298.6	14
+Plate17_54936_Soil_BA11_01_28357.mzXML	Plate17	male_Soil	Soil	summer	2016.065_Soil	SHSU	advanced	393.6111111	14
+Plate17_55298_Soil_BB2_01_28361.mzXML	Plate17	female_Soil	Soil	summer	2016.067_Soil	SHSU	advanced	367.55	14
+Plate17_55498_Soil_BB9_01_28369.mzXML	Plate17	male_Soil	Soil	fall	16-12_Soil	CMU	early	27.5	14
+Plate17_61906_Soil_BC8_01_28383.mzXML	Plate17	male_Soil	Soil	winter	Mr. 16-15_Soil	CMU	early	18.8	14
+Plate17_64496_Soil_BG1_01_28433.mzXML	Plate17	male_Soil	Soil	winter	K016.08_Soil	UTK	active	148.3	14
+Plate1_25938_Skin_GB2_01_26126.mzXML	Plate1	female_Skin	Skin	spring	UTK.K016.01_Skin	UTK	advanced	220.8333333	15
+Plate1_43398_Skin_GG3_01_26289.mzXML	Plate1	female_Skin	Skin	spring	UTK.K016.02_Skin	UTK	advanced	292.2222222	15
+Plate1_43578_Skin_GF11_01_26284.mzXML	Plate1	male_Skin	Skin	spring	UTK.K016.03_Skin	UTK	advanced	289.1666667	15
+Plate1_43972_Skin_GA2_01_26106.mzXML	Plate1	female_Skin	Skin	spring	shsu.2016.011_Skin	SHSU	advanced	350	15
+Plate1_44134_Skin_GE4_01_26262.mzXML	Plate1	male_Skin	Skin	spring	shsu.2016.024_Skin	SHSU	advanced	350	15
+Plate2_25628_Skin_GB6_01_26352.mzXML	Plate2	female_Skin	Skin	spring	CMU_Mrs._16_05_Skin	CMU	active	164.7222222	15
+Plate2_43772_Skin_GB7_01_26353.mzXML	Plate2	male_Skin	Skin	spring	shsu.2016.007_Skin	SHSU	advanced	350	15
+Plate2_64112_Skin_GH3_01_26433.mzXML	Plate2	female_Skin	Skin	winter	Mrs. 17-01_Skin	CMU	early	26.7	15
+Plate3_55508_Skin_GH4_01_26542.mzXML	Plate3	male_Skin	Skin	fall	16-12_Skin	CMU	early	27.5	15
+Plate3_60460_Skin_GH9_01_26547.mzXML	Plate3	male_Skin	Skin	fall	16-14_Skin	CMU	early	8.05	15
+Plate3_61916_Skin_GH2_01_26540.mzXML	Plate3	male_Skin	Skin	winter	Mr. 16-15_Skin	CMU	early	18.8	15
+Plate3_64474_Skin_GB1_01_26461.mzXML	Plate3	male_Skin	Skin	winter	K016.08_Skin	UTK	active	161	15
+Plate3_64674_Skin_GE3_01_26499.mzXML	Plate3	male_Skin	Skin	winter	K016.07_Skin	UTK	active	161	15
+Plate3_64868_Skin_GB10_01_26470.mzXML	Plate3	male_Skin	Skin	winter	K016.09_Skin	UTK	active	161	15
+Plate4_60822_Skin_GH4_01_27304.mzXML	Plate4	female_Skin	Skin	fall	2016.073_Skin	SHSU	advanced	281	15
+Plate4_61216_Skin_GG5_01_27291.mzXML	Plate4	male_Skin	Skin	fall	2016.076_Skin	SHSU	advanced	203	15
+Plate4_64294_Skin_GH1_01_27301.mzXML	Plate4	male_Skin	Skin	winter	Mr 17-04_Skin	CMU	advanced	213.25	15
+Plate4_65050_Skin_GB3_01_27218.mzXML	Plate4	male_Skin	Skin	winter	2017.043_Skin	SHSU	active	172.55	15
+Plate5_45124_Skin_GA5_01_26564.mzXML	Plate5	female_Skin	Skin	fall	17-12_Skin	CMU	active	179	15
+Plate5_65250_Skin_GD5_01_26609.mzXML	Plate5	male_Skin	Skin	winter	2017.045_Skin	SHSU	active	166.05	15
+Plate6_55114_Skin_GA2_01_26702.mzXML	Plate6	female_Skin	Skin	summer	2016.064_Skin	SHSU	advanced	422.2222222	15
+Plate6_63788_Skin_GH3_01_26881.mzXML	Plate6	female_Skin	Skin	winter	2017.046_Skin	SHSU	active	110.05	15
+Plate7_45286_Skin_GC1_01_27042.mzXML	Plate7	male_Skin	Skin	summer	UTK.K016.10_Skin	UTK	advanced	319.6	15
+Plate7_45644_Skin_GH10_01_27123.mzXML	Plate7	female_Skin	Skin	summer	Mrs. 16-10_Skin	CMU	advanced	376.1	15
+Plate7_45954_Skin_GE5_01_27074.mzXML	Plate7	female_Skin	Skin	summer	Mrs. 16-09_Skin	CMU	advanced	397.75	15
+Plate7_54558_Skin_GG8_01_27107.mzXML	Plate7	male_Skin	Skin	summer	UTK.K016.11_Skin	UTK	advanced	319.6	15
+Plate7_54752_Skin_GF2_01_27085.mzXML	Plate7	male_Skin	Skin	summer	UTK.K016.12_Skin	UTK	advanced	319.6	15
+Plate7_54952_Skin_GD5_01_27060.mzXML	Plate7	male_Skin	Skin	summer	2016.065_Skin	SHSU	advanced	422.2222222	15
+Plate7_55314_Skin_GH11_01_27124.mzXML	Plate7	female_Skin	Skin	summer	2016.067_Skin	SHSU	advanced	388.4	15
+Plate7_60622_Skin_GB10_01_27038.mzXML	Plate7	male_Skin	Skin	summer	17-10_Skin	CMU	advanced	373.85	15
+Plate7_61578_Skin_GB4_01_27031.mzXML	Plate7	female_Skin	Skin	fall	UTK.K016.05_Skin	UTK	advanced	286.1	15
+Plate8_25542_Skin_GG5_01_27411.mzXML	Plate8	male_Skin	Skin	spring	CMU_Mr._16_04_Skin	CMU	active	111.3888889	15
+Plate8_61378_Skin_GF9_01_27402.mzXML	Plate8	female_Skin	Skin	fall	UTK.K016.04_Skin	UTK	advanced	286.1	15
+Plate9_25342_Skin_GD4_01_26987.mzXML	Plate9	female_Skin	Skin	spring	CMU_Mrs._16_03_Skin	CMU	active	130.8333333	15
+Plate9_61772_Skin_GD5_01_26988.mzXML	Plate9	male_Skin	Skin	fall	UTK.K016.06_Skin	UTK	advanced	299.7	15
+Plate10_25346_Soil_BE9_01_27774.mzXML	Plate10	female_Soil	Soil	spring	CMU_Mrs._16_03_Soil	CMU	active	130.8333333	15
+Plate10_25546_Soil_BA11_01_27719.mzXML	Plate10	male_Soil	Soil	spring	CMU_Mr._16_04_Soil	CMU	active	111.3888889	15
+Plate10_43976_Soil_BB8_01_27730.mzXML	Plate10	female_Soil	Soil	spring	shsu.2016.011_Soil	SHSU	advanced	350	15
+Plate10_61776_Soil_BH4_01_27810.mzXML	Plate10	male_Soil	Soil	fall	UTK.K016.06_Soil	UTK	advanced	299.7	15
+Plate11_25632_Soil_GB6_01_27610.mzXML	Plate11	female_Soil	Soil	spring	CMU_Mrs._16_05_Soil	CMU	active	164.7222222	15
+Plate11_44138_Soil_GE8_01_27655.mzXML	Plate11	male_Soil	Soil	spring	shsu.2016.024_Soil	SHSU	advanced	350	15
+Plate11_61582_Soil_GF8_01_27670.mzXML	Plate11	female_Soil	Soil	fall	UTK.K016.05_Soil	UTK	advanced	286.1	15
+Plate11_64116_Soil_GG10_01_27686.mzXML	Plate11	female_Soil	Soil	winter	Mrs. 17-01_Soil	CMU	early	26.7	15
+Plate11_64678_Soil_GD1_01_27633.mzXML	Plate11	male_Soil	Soil	winter	K016.07_Soil	UTK	active	161	15
+Plate12_60626_Soil_GD1_01_27999.mzXML	Plate12	male_Soil	Soil	summer	17-10_Soil	CMU	advanced	373.85	15
+Plate12_63792_Soil_GE6_01_28018.mzXML	Plate12	female_Soil	Soil	winter	2017.046_Soil	SHSU	active	110.05	15
+Plate12_64872_Soil_GH7_01_28060.mzXML	Plate12	male_Soil	Soil	winter	K016.09_Soil	UTK	active	161	15
+Plate13_43402_Soil_GB1_01_27485.mzXML	Plate13	female_Soil	Soil	spring	UTK.K016.02_Soil	UTK	advanced	292.2222222	15
+Plate13_43582_Soil_GC5_01_27503.mzXML	Plate13	male_Soil	Soil	spring	UTK.K016.03_Soil	UTK	advanced	289.1666667	15
+Plate13_45958_Soil_GE4_01_27529.mzXML	Plate13	female_Soil	Soil	summer	Mrs. 16-09_Soil	CMU	advanced	397.75	15
+Plate13_54956_Soil_GC8_01_27507.mzXML	Plate13	male_Soil	Soil	summer	2016.065_Soil	SHSU	advanced	422.2222222	15
+Plate14_60826_Soil_BB7_01_27858.mzXML	Plate14	female_Soil	Soil	fall	2016.073_Soil	SHSU	advanced	281	15
+Plate14_64298_Soil_BD2_01_27879.mzXML	Plate14	male_Soil	Soil	winter	Mr 17-04_Soil	CMU	advanced	213.25	15
+Plate14_65254_Soil_BA3_01_27839.mzXML	Plate14	male_Soil	Soil	winter	2017.045_Soil	SHSU	active	166.05	15
+Plate15_45648_Soil_BH1_01_28190.mzXML	Plate15	female_Soil	Soil	summer	Mrs. 16-10_Soil	CMU	advanced	376.1	15
+Plate15_55318_Soil_BD7_01_28140.mzXML	Plate15	female_Soil	Soil	summer	2016.067_Soil	SHSU	advanced	388.4	15
+Plate15_61220_Soil_BE6_01_28152.mzXML	Plate15	male_Soil	Soil	fall	2016.076_Soil	SHSU	advanced	203	15
+Plate15_61382_Soil_BD9_01_28142.mzXML	Plate15	female_Soil	Soil	fall	UTK.K016.04_Soil	UTK	advanced	286.1	15
+Plate15_65054_Soil_BA7_01_28098.mzXML	Plate15	male_Soil	Soil	winter	2017.043_Soil	SHSU	active	172.55	15
+Plate16_25942_Soil_GE5_01_28274.mzXML	Plate16	female_Soil	Soil	spring	UTK.K016.01_Soil	UTK	advanced	220.8333333	15
+Plate16_43776_Soil_Rerun_GH4_01_28329.mzXML	Plate16	male_Soil	Soil	spring	shsu.2016.007_Soil	SHSU	advanced	350	15
+Plate16_45128_Soil_GB4_01_28230.mzXML	Plate16	female_Soil	Soil	fall	17-12_Soil	CMU	active	179	15
+Plate16_55118_Soil_GE6_01_28275.mzXML	Plate16	female_Soil	Soil	summer	2016.064_Soil	SHSU	advanced	422.2222222	15
+Plate16_61020_Soil_GD10_01_28266.mzXML	Plate16	female_Soil	Soil	fall	2016.072_Soil	SHSU	advanced	281	15
+Plate17_45294_Soil_BH11_01_28461.mzXML	Plate17	male_Soil	Soil	summer	UTK.K016.10_Soil	UTK	advanced	319.6	15
+Plate17_54756_Soil_BF2_01_28420.mzXML	Plate17	male_Soil	Soil	summer	UTK.K016.12_Soil	UTK	advanced	319.6	15
+Plate17_61920_Soil_BD7_01_28397.mzXML	Plate17	male_Soil	Soil	winter	Mr. 16-15_Soil	CMU	early	18.8	15
+Plate18_54566_Soil_GB3_01_28516.mzXML	Plate18	male_Soil	Soil	summer	UTK.K016.11_Soil	UTK	advanced	319.6	15
+Plate18_55512_Soil_GC2_01_28529.mzXML	Plate18	male_Soil	Soil	fall	16-12_Soil	CMU	early	27.5	15
+Plate18_60464_Soil_GE6_01_28561.mzXML	Plate18	male_Soil	Soil	fall	16-14_Soil	CMU	early	8.05	15
+Plate18_64478_Soil_GB11_01_28525.mzXML	Plate18	male_Soil	Soil	winter	K016.08_Soil	UTK	active	161	15
+Plate1_43412_Skin_GH1_01_26301.mzXML	Plate1	female_Skin	Skin	spring	UTK.K016.02_Skin	UTK	advanced	313.3333333	16
+Plate1_44154_Skin_GE2_01_26260.mzXML	Plate1	male_Skin	Skin	spring	shsu.2016.024_Skin	SHSU	advanced	373.6111111	16
+Plate2_25648_Skin_GA6_01_26337.mzXML	Plate2	female_Skin	Skin	spring	CMU_Mrs._16_05_Skin	CMU	active	179.7222222	16
+Plate2_25952_Skin_GB8_01_26354.mzXML	Plate2	female_Skin	Skin	spring	UTK.K016.01_Skin	UTK	advanced	242.2222222	16
+Plate2_43592_Skin_GD2_01_26374.mzXML	Plate2	male_Skin	Skin	spring	UTK.K016.03_Skin	UTK	advanced	308.0555556	16
+Plate2_43792_Skin_GD1_01_26373.mzXML	Plate2	male_Skin	Skin	spring	shsu.2016.007_Skin	SHSU	advanced	373.6111111	16
+Plate2_43954_Skin_GA3_01_26334.mzXML	Plate2	female_Skin	Skin	spring	shsu.2016.011_Skin	SHSU	advanced	373.6111111	16
+Plate3_61936_Skin_GE9_01_26505.mzXML	Plate3	male_Skin	Skin	winter	Mr. 16-15_Skin	CMU	early	18.8	16
+Plate3_64132_Skin_GC1_01_26473.mzXML	Plate3	female_Skin	Skin	winter	Mrs. 17-01_Skin	CMU	early	27.8	16
+Plate3_64494_Skin_GA3_01_26450.mzXML	Plate3	male_Skin	Skin	winter	K016.08_Skin	UTK	active	174.6	16
+Plate3_64688_Skin_GD3_01_26487.mzXML	Plate3	male_Skin	Skin	winter	K016.07_Skin	UTK	active	174.6	16
+Plate3_64888_Skin_GE1_01_26497.mzXML	Plate3	male_Skin	Skin	winter	K016.09_Skin	UTK	active	174.6	16
+Plate4_60442_Skin_GH11_01_27312.mzXML	Plate4	male_Skin	Skin	fall	16-14_Skin	CMU	early	12.75	16
+Plate4_61036_Skin_GD4_01_27248.mzXML	Plate4	female_Skin	Skin	fall	2016.072_Skin	SHSU	advanced	289.9	16
+Plate4_64314_Skin_GC10_01_27241.mzXML	Plate4	male_Skin	Skin	winter	Mr 17-04_Skin	CMU	advanced	224.05	16
+Plate5_55528_Skin_GC9_01_26600.mzXML	Plate5	male_Skin	Skin	fall	16-12_Skin	CMU	early	27.5	16
+Plate5_60836_Skin_GA10_01_26571.mzXML	Plate5	female_Skin	Skin	fall	2016.073_Skin	SHSU	advanced	289.9	16
+Plate5_61198_Skin_GD11_01_26616.mzXML	Plate5	male_Skin	Skin	fall	2016.076_Skin	SHSU	advanced	210.25	16
+Plate6_45106_Skin_GF5_01_26783.mzXML	Plate6	female_Skin	Skin	fall	17-12_Skin	CMU	active	190.95	16
+Plate6_45464_Skin_GF7_01_26786.mzXML	Plate6	female_Skin	Skin	summer	Mrs. 16-09_Skin	CMU	advanced	422.75	16
+Plate6_54934_Skin_GE8_01_26771.mzXML	Plate6	male_Skin	Skin	summer	2016.065_Skin	SHSU	advanced	449.4444444	16
+Plate6_55328_Skin_GG7_01_26872.mzXML	Plate6	female_Skin	Skin	summer	2016.067_Skin	SHSU	advanced	410.3	16
+Plate6_61398_Skin_Rerun_GC10_01_26897.mzXML	Plate6	female_Skin	Skin	fall	UTK.K016.04_Skin	UTK	advanced	302.8	16
+Plate6_61592_Skin_GD3_01_26748.mzXML	Plate6	female_Skin	Skin	fall	UTK.K016.05_Skin	UTK	advanced	302.8	16
+Plate6_63608_Skin_GG4_01_26869.mzXML	Plate6	male_Skin	Skin	winter	2017.045_Skin	SHSU	active	170.75	16
+Plate7_45664_Skin_GB9_01_27037.mzXML	Plate7	female_Skin	Skin	summer	Mrs. 16-10_Skin	CMU	advanced	400	16
+Plate7_54572_Skin_GA11_01_27025.mzXML	Plate7	male_Skin	Skin	summer	UTK.K016.11_Skin	UTK	advanced	341.7	16
+Plate7_54772_Skin_GG10_01_27109.mzXML	Plate7	male_Skin	Skin	summer	UTK.K016.12_Skin	UTK	advanced	341.7	16
+Plate7_55134_Skin_GH8_01_27121.mzXML	Plate7	female_Skin	Skin	summer	2016.064_Skin	SHSU	advanced	449.4444444	16
+Plate7_60642_Skin_GA7_01_27021.mzXML	Plate7	male_Skin	Skin	summer	17-10_Skin	CMU	advanced	398.55	16
+Plate7_63808_Skin_GC10_01_27052.mzXML	Plate7	female_Skin	Skin	winter	2017.046_Skin	SHSU	active	113.45	16
+Plate7_65070_Skin_GB6_01_27033.mzXML	Plate7	male_Skin	Skin	winter	2017.043_Skin	SHSU	active	180.3	16
+Plate8_25556_Skin_GF10_01_27403.mzXML	Plate8	male_Skin	Skin	spring	CMU_Mr._16_04_Skin	CMU	active	122.7777778	16
+Plate8_45306_Skin_GA11_01_27333.mzXML	Plate8	male_Skin	Skin	summer	UTK.K016.10_Skin	UTK	advanced	341.7	16
+Plate9_25362_Skin_GE2_01_27000.mzXML	Plate9	female_Skin	Skin	spring	CMU_Mrs._16_03_Skin	CMU	active	135.2777778	16
+Plate9_61792_Skin_GB5_01_26956.mzXML	Plate9	male_Skin	Skin	fall	UTK.K016.06_Skin	UTK	advanced	316.6	16
+Plate10_25366_Soil_BB6_01_27727.mzXML	Plate10	female_Soil	Soil	spring	CMU_Mrs._16_03_Soil	CMU	active	135.2777778	16
+Plate10_25560_Soil_BD11_01_27761.mzXML	Plate10	male_Soil	Soil	spring	CMU_Mr._16_04_Soil	CMU	active	122.7777778	16
+Plate10_25652_Soil_BG10_01_27803.mzXML	Plate10	female_Soil	Soil	spring	CMU_Mrs._16_05_Soil	CMU	active	179.7222222	16
+Plate10_64136_Soil_BC6_01_27741.mzXML	Plate10	female_Soil	Soil	winter	Mrs. 17-01_Soil	CMU	early	27.8	16
+Plate11_55138_Soil_GE2_01_27648.mzXML	Plate11	female_Soil	Soil	summer	2016.064_Soil	SHSU	advanced	449.4444444	16
+Plate11_60646_Soil_GC5_01_27623.mzXML	Plate11	male_Soil	Soil	summer	17-10_Soil	CMU	advanced	398.55	16
+Plate11_64692_Soil_GE11_01_27658.mzXML	Plate11	male_Soil	Soil	winter	K016.07_Soil	UTK	active	174.6	16
+Plate12_45668_Soil_GA6_01_27965.mzXML	Plate12	female_Soil	Soil	summer	Mrs. 16-10_Soil	CMU	advanced	400	16
+Plate12_54938_Soil_GA7_01_27966.mzXML	Plate12	male_Soil	Soil	summer	2016.065_Soil	SHSU	advanced	449.4444444	16
+Plate12_55532_Soil_GF6_01_28031.mzXML	Plate12	male_Soil	Soil	fall	16-12_Soil	CMU	early	27.5	16
+Plate12_60446_Soil_GD6_01_28004.mzXML	Plate12	male_Soil	Soil	fall	16-14_Soil	CMU	early	12.75	16
+Plate12_61940_Soil_GC10_01_27995.mzXML	Plate12	male_Soil	Soil	winter	Mr. 16-15_Soil	CMU	early	18.8	16
+Plate12_64892_Soil_GA2_01_27960.mzXML	Plate12	male_Soil	Soil	winter	K016.09_Soil	UTK	active	174.6	16
+Plate13_25956_Soil_GE11_01_27537.mzXML	Plate13	female_Soil	Soil	spring	UTK.K016.01_Soil	UTK	advanced	242.2222222	16
+Plate13_43416_Soil_GG5_01_27558.mzXML	Plate13	female_Soil	Soil	spring	UTK.K016.02_Soil	UTK	advanced	313.3333333	16
+Plate13_45468_Soil_GC11_01_27510.mzXML	Plate13	female_Soil	Soil	summer	Mrs. 16-09_Soil	CMU	advanced	422.75	16
+Plate14_60840_Soil_BC5_01_27868.mzXML	Plate14	female_Soil	Soil	fall	2016.073_Soil	SHSU	advanced	289.9	16
+Plate14_61040_Soil_BC9_01_27873.mzXML	Plate14	female_Soil	Soil	fall	2016.072_Soil	SHSU	advanced	289.9	16
+Plate14_61202_Soil_BH6_01_27940.mzXML	Plate14	male_Soil	Soil	fall	2016.076_Soil	SHSU	advanced	210.25	16
+Plate14_63812_Soil_BE10_01_27902.mzXML	Plate14	female_Soil	Soil	winter	2017.046_Soil	SHSU	active	113.45	16
+Plate14_64318_Soil_BA6_01_27842.mzXML	Plate14	male_Soil	Soil	winter	Mr 17-04_Soil	CMU	advanced	224.05	16
+Plate15_61402_Soil_BA9_01_28100.mzXML	Plate15	female_Soil	Soil	fall	UTK.K016.04_Soil	UTK	advanced	302.8	16
+Plate15_61596_Soil_BF9_01_28170.mzXML	Plate15	female_Soil	Soil	fall	UTK.K016.05_Soil	UTK	advanced	302.8	16
+Plate15_61796_Soil_BE11_01_28158.mzXML	Plate15	male_Soil	Soil	fall	UTK.K016.06_Soil	UTK	advanced	316.6	16
+Plate16_43596_Soil_GH11_01_28324.mzXML	Plate16	male_Soil	Soil	spring	UTK.K016.03_Soil	UTK	advanced	308.0555556	16
+Plate16_43796_Soil_GG7_01_28306.mzXML	Plate16	male_Soil	Soil	spring	shsu.2016.007_Soil	SHSU	advanced	373.6111111	16
+Plate16_44158_Soil_GH10_01_28323.mzXML	Plate16	male_Soil	Soil	spring	shsu.2016.024_Soil	SHSU	advanced	373.6111111	16
+Plate16_45110_Soil_GA3_01_28215.mzXML	Plate16	female_Soil	Soil	fall	17-12_Soil	CMU	active	190.95	16
+Plate16_55332_Soil_GE4_01_28273.mzXML	Plate16	female_Soil	Soil	summer	2016.067_Soil	SHSU	advanced	410.3	16
+Plate16_63612_Soil_GC6_01_28246.mzXML	Plate16	male_Soil	Soil	winter	2017.045_Soil	SHSU	active	170.75	16
+Plate16_65074_Soil_GB2_01_28228.mzXML	Plate16	male_Soil	Soil	winter	2017.043_Soil	SHSU	active	180.3	16
+Plate17_43958_Soil_BA5_01_28350.mzXML	Plate17	female_Soil	Soil	spring	shsu.2016.011_Soil	SHSU	advanced	373.6111111	16
+Plate17_54580_Soil_BG11_01_28447.mzXML	Plate17	male_Soil	Soil	summer	UTK.K016.11_Soil	UTK	advanced	341.7	16
+Plate17_64498_Soil_BC4_01_28378.mzXML	Plate17	male_Soil	Soil	winter	K016.08_Soil	UTK	active	174.6	16
+Plate18_45314_Soil_GD3_01_28544.mzXML	Plate18	male_Soil	Soil	summer	UTK.K016.10_Soil	UTK	advanced	341.7	16
+Plate18_54780_Soil_GD1_01_28542.mzXML	Plate18	male_Soil	Soil	summer	UTK.K016.12_Soil	UTK	advanced	341.7	16
+Plate1_43432_Skin_GA1_01_26113.mzXML	Plate1	female_Skin	Skin	spring	UTK.K016.02_Skin	UTK	advanced	332.7777778	17
+Plate2_25972_Skin_GC4_01_26362.mzXML	Plate2	female_Skin	Skin	spring	UTK.K016.01_Skin	UTK	advanced	260	17
+Plate2_43612_Skin_GA4_01_26335.mzXML	Plate2	male_Skin	Skin	spring	UTK.K016.03_Skin	UTK	advanced	326.1111111	17
+Plate2_55510_Skin_GG9_01_26425.mzXML	Plate2	male_Skin	Skin	fall	16-12_Skin	CMU	early	27.5	17
+Plate3_61918_Skin_GB7_01_26467.mzXML	Plate3	male_Skin	Skin	winter	Mr. 16-15_Skin	CMU	early	19.35	17
+Plate3_64114_Skin_GA2_01_26449.mzXML	Plate3	female_Skin	Skin	winter	Mrs. 17-01_Skin	CMU	early	28.65	17
+Plate3_64508_Skin_GB9_01_26469.mzXML	Plate3	male_Skin	Skin	winter	K016.08_Skin	UTK	active	186.2	17
+Plate3_64708_Skin_GC11_01_26483.mzXML	Plate3	male_Skin	Skin	winter	K016.07_Skin	UTK	active	186.2	17
+Plate3_64870_Skin_GA6_01_26453.mzXML	Plate3	male_Skin	Skin	winter	K016.09_Skin	UTK	active	186.2	17
+Plate5_45126_Skin_GD2_01_26606.mzXML	Plate5	female_Skin	Skin	fall	17-12_Skin	CMU	advanced	200.4	17
+Plate5_60856_Skin_GE5_01_26626.mzXML	Plate5	female_Skin	Skin	fall	2016.073_Skin	SHSU	advanced	305.2	17
+Plate5_61018_Skin_GA6_01_26566.mzXML	Plate5	female_Skin	Skin	fall	2016.072_Skin	SHSU	advanced	305.2	17
+Plate5_61218_Skin_GF5_01_26641.mzXML	Plate5	male_Skin	Skin	fall	2016.076_Skin	SHSU	advanced	213.9	17
+Plate5_63628_Skin_GH6_01_26671.mzXML	Plate5	male_Skin	Skin	winter	2017.045_Skin	SHSU	active	178.25	17
+Plate5_63790_Skin_GB2_01_26576.mzXML	Plate5	female_Skin	Skin	winter	2017.046_Skin	SHSU	active	122.1	17
+Plate5_64328_Skin_GC8_01_26599.mzXML	Plate5	male_Skin	Skin	winter	Mr 17-04_Skin	CMU	advanced	235.2	17
+Plate6_61612_Skin_GG6_01_26871.mzXML	Plate6	female_Skin	Skin	fall	UTK.K016.05_Skin	UTK	advanced	320.1	17
+Plate6_65084_Skin_GF4_01_26782.mzXML	Plate6	male_Skin	Skin	winter	2017.043_Skin	SHSU	active	190.85	17
+Plate7_45320_Skin_GC9_01_27051.mzXML	Plate7	male_Skin	Skin	summer	UTK.K016.10_Skin	UTK	advanced	366.3	17
+Plate7_54600_Skin_GG9_01_27108.mzXML	Plate7	male_Skin	Skin	summer	UTK.K016.11_Skin	UTK	advanced	366.3	17
+Plate7_54754_Skin_GC5_01_27046.mzXML	Plate7	male_Skin	Skin	summer	UTK.K016.12_Skin	UTK	advanced	366.3	17
+Plate7_54954_Skin_GC3_01_27044.mzXML	Plate7	male_Skin	Skin	summer	2016.065_Skin	SHSU	advanced	476.1111111	17
+Plate7_55148_Skin_GE3_01_27072.mzXML	Plate7	female_Skin	Skin	summer	2016.064_Skin	SHSU	advanced	476.1111111	17
+Plate7_55348_Skin_GE10_01_27080.mzXML	Plate7	female_Skin	Skin	summer	2016.067_Skin	SHSU	advanced	432.5	17
+Plate8_25630_Skin_GF5_01_27397.mzXML	Plate8	female_Skin	Skin	spring	CMU_Mrs._16_05_Skin	CMU	active	194.7222222	17
+Plate8_43974_Skin_GF3_01_27395.mzXML	Plate8	female_Skin	Skin	spring	shsu.2016.011_Skin	SHSU	advanced	391.6666667	17
+Plate8_45484_Skin_Rerun_GC5_01_27439.mzXML	Plate8	female_Skin	Skin	summer	Mrs. 16-09_Skin	CMU	advanced	446.35	17
+Plate8_45646_Skin_GC9_01_27360.mzXML	Plate8	female_Skin	Skin	summer	Mrs. 16-10_Skin	CMU	advanced	421.7	17
+Plate8_60462_Skin_GH4_01_27425.mzXML	Plate8	male_Skin	Skin	fall	16-14_Skin	CMU	early	19.4	17
+Plate8_60656_Skin_GA8_01_27330.mzXML	Plate8	male_Skin	Skin	summer	17-10_Skin	CMU	advanced	424.7	17
+Plate9_25376_Skin_Rerun_GA4_01_27002.mzXML	Plate9	female_Skin	Skin	spring	CMU_Mrs._16_03_Skin	CMU	active	141.1111111	17
+Plate9_25576_Skin_GD2_01_26985.mzXML	Plate9	male_Skin	Skin	spring	CMU_Mr._16_04_Skin	CMU	active	136.9444445	17
+Plate9_43774_Skin_GC11_01_26980.mzXML	Plate9	male_Skin	Skin	spring	shsu.2016.007_Skin	SHSU	advanced	391.6666667	17
+Plate9_44168_Skin_GD10_01_26995.mzXML	Plate9	male_Skin	Skin	spring	shsu.2016.024_Skin	SHSU	advanced	391.6666667	17
+Plate9_61412_Skin_GC10_01_26979.mzXML	Plate9	female_Skin	Skin	fall	UTK.K016.04_Skin	UTK	advanced	320.1	17
+Plate9_61774_Skin_GC9_01_26978.mzXML	Plate9	male_Skin	Skin	fall	UTK.K016.06_Skin	UTK	advanced	328.2	17
+Plate10_25380_Soil_BH9_01_27820.mzXML	Plate10	female_Soil	Soil	spring	CMU_Mrs._16_03_Soil	CMU	active	141.1111111	17
+Plate10_25634_Soil_BG9_01_27802.mzXML	Plate10	female_Soil	Soil	spring	CMU_Mrs._16_05_Soil	CMU	active	194.7222222	17
+Plate10_43778_Soil_BD2_01_27751.mzXML	Plate10	male_Soil	Soil	spring	shsu.2016.007_Soil	SHSU	advanced	391.6666667	17
+Plate10_44172_Soil_BH2_01_27808.mzXML	Plate10	male_Soil	Soil	spring	shsu.2016.024_Soil	SHSU	advanced	391.6666667	17
+Plate11_43978_Soil_GC1_01_27619.mzXML	Plate11	female_Soil	Soil	spring	shsu.2016.011_Soil	SHSU	advanced	391.6666667	17
+Plate11_54592_Soil_GF4_01_27664.mzXML	Plate11	male_Soil	Soil	summer	UTK.K016.11_Soil	UTK	advanced	366.3	17
+Plate12_45650_Soil_GF10_01_28036.mzXML	Plate12	female_Soil	Soil	summer	Mrs. 16-10_Soil	CMU	advanced	421.7	17
+Plate12_60660_Soil_GA9_01_27968.mzXML	Plate12	male_Soil	Soil	summer	17-10_Soil	CMU	advanced	424.7	17
+Plate12_61922_Soil_GE2_01_28014.mzXML	Plate12	male_Soil	Soil	winter	Mr. 16-15_Soil	CMU	early	19.35	17
+Plate13_25580_Soil_GE10_01_27536.mzXML	Plate13	male_Soil	Soil	spring	CMU_Mr._16_04_Soil	CMU	active	136.9444445	17
+Plate13_25976_Soil_GD8_01_27520.mzXML	Plate13	female_Soil	Soil	spring	UTK.K016.01_Soil	UTK	advanced	260	17
+Plate13_43436_Soil_GG3_01_27556.mzXML	Plate13	female_Soil	Soil	spring	UTK.K016.02_Soil	UTK	advanced	332.7777778	17
+Plate13_45488_Soil_GE2_01_27527.mzXML	Plate13	female_Soil	Soil	summer	Mrs. 16-09_Soil	CMU	advanced	446.35	17
+Plate13_64712_Soil_GA5_01_27475.mzXML	Plate13	male_Soil	Soil	winter	K016.07_Soil	UTK	active	186.2	17
+Plate14_61022_Soil_BF3_01_27908.mzXML	Plate14	female_Soil	Soil	fall	2016.072_Soil	SHSU	advanced	305.2	17
+Plate14_61222_Soil_BB6_01_27856.mzXML	Plate14	male_Soil	Soil	fall	2016.076_Soil	SHSU	advanced	213.9	17
+Plate14_63632_Soil_BH4_01_27938.mzXML	Plate14	male_Soil	Soil	winter	2017.045_Soil	SHSU	active	178.25	17
+Plate14_64332_Soil_BH9_01_27944.mzXML	Plate14	male_Soil	Soil	winter	Mr 17-04_Soil	CMU	advanced	235.2	17
+Plate14_65088_Soil_BH11_01_27946.mzXML	Plate14	male_Soil	Soil	winter	2017.043_Soil	SHSU	active	190.85	17
+Plate15_55352_Soil_BG7_01_28182.mzXML	Plate15	female_Soil	Soil	summer	2016.067_Soil	SHSU	advanced	432.5	17
+Plate15_60860_Soil_BG9_01_28184.mzXML	Plate15	female_Soil	Soil	fall	2016.073_Soil	SHSU	advanced	305.2	17
+Plate15_61778_Soil_BC6_01_28124.mzXML	Plate15	male_Soil	Soil	fall	UTK.K016.06_Soil	UTK	advanced	328.2	17
+Plate15_63794_Soil_BA8_01_28099.mzXML	Plate15	female_Soil	Soil	winter	2017.046_Soil	SHSU	active	122.1	17
+Plate16_43616_Soil_Rerun_GH2_01_28328.mzXML	Plate16	male_Soil	Soil	spring	UTK.K016.03_Soil	UTK	advanced	326.1111111	17
+Plate16_45130_Soil_GC1_01_28241.mzXML	Plate16	female_Soil	Soil	fall	17-12_Soil	CMU	advanced	200.4	17
+Plate16_54958_Soil_GF1_01_28285.mzXML	Plate16	male_Soil	Soil	summer	2016.065_Soil	SHSU	advanced	476.1111111	17
+Plate16_61416_Soil_GD9_01_28265.mzXML	Plate16	female_Soil	Soil	fall	UTK.K016.04_Soil	UTK	advanced	320.1	17
+Plate16_61616_Soil_GA8_01_28221.mzXML	Plate16	female_Soil	Soil	fall	UTK.K016.05_Soil	UTK	advanced	320.1	17
+Plate17_45328_Soil_BE10_01_28415.mzXML	Plate17	male_Soil	Soil	summer	UTK.K016.10_Soil	UTK	advanced	366.3	17
+Plate17_54762_Soil_BB10_01_28371.mzXML	Plate17	male_Soil	Soil	summer	UTK.K016.12_Soil	UTK	advanced	366.3	17
+Plate17_55152_Soil_BA8_01_28354.mzXML	Plate17	female_Soil	Soil	summer	2016.064_Soil	SHSU	advanced	476.1111111	17
+Plate17_60466_Soil_BH4_01_28452.mzXML	Plate17	male_Soil	Soil	fall	16-14_Soil	CMU	early	19.4	17
+Plate17_64118_Soil_BG8_01_28442.mzXML	Plate17	female_Soil	Soil	winter	Mrs. 17-01_Soil	CMU	early	28.65	17
+Plate17_64512_Soil_BE5_01_28408.mzXML	Plate17	male_Soil	Soil	winter	K016.08_Soil	UTK	active	186.2	17
+Plate17_64874_Soil_BC10_01_28385.mzXML	Plate17	male_Soil	Soil	winter	K016.09_Soil	UTK	active	186.2	17
+Plate18_55514_Soil_GE10_01_28566.mzXML	Plate18	male_Soil	Soil	fall	16-12_Soil	CMU	early	27.5	17
+Plate1_43414_Skin_GC10_01_26318.mzXML	Plate1	female_Skin	Skin	spring	UTK.K016.02_Skin	UTK	advanced	354.7222222	18
+Plate1_43594_Skin_GH6_01_26306.mzXML	Plate1	male_Skin	Skin	spring	UTK.K016.03_Skin	UTK	advanced	345.2777778	18
+Plate2_25558_Skin_GB11_01_26357.mzXML	Plate2	male_Skin	Skin	spring	CMU_Mr._16_04_Skin	CMU	active	149.7222222	18
+Plate2_25650_Skin_GA7_01_26338.mzXML	Plate2	female_Skin	Skin	spring	CMU_Mrs._16_05_Skin	CMU	advanced	200.8333333	18
+Plate2_25954_Skin_GC10_01_26369.mzXML	Plate2	female_Skin	Skin	spring	UTK.K016.01_Skin	UTK	advanced	276.1111111	18
+Plate2_55530_Skin_Rerun_GG7_01_26428.mzXML	Plate2	male_Skin	Skin	fall	16-12_Skin	CMU	early	27.5	18
+Plate2_64134_Skin_GE8_01_26395.mzXML	Plate2	female_Skin	Skin	winter	Mrs. 17-01_Skin	CMU	early	28.95	18
+Plate2_64890_Skin_GH1_01_26431.mzXML	Plate2	male_Skin	Skin	winter	K016.09_Skin	UTK	active	194.1	18
+Plate3_64528_Skin_GE4_01_26500.mzXML	Plate3	male_Skin	Skin	winter	K016.08_Skin	UTK	active	194.1	18
+Plate3_64690_Skin_GD10_01_26494.mzXML	Plate3	male_Skin	Skin	winter	K016.07_Skin	UTK	active	194.1	18
+Plate4_60476_Skin_GG4_01_27290.mzXML	Plate4	male_Skin	Skin	fall	16-14_Skin	CMU	early	19.4	18
+Plate5_60838_Skin_Rerun_GB7_01_26685.mzXML	Plate5	female_Skin	Skin	fall	2016.073_Skin	SHSU	advanced	326.9	18
+Plate5_61038_Skin_GC3_01_26593.mzXML	Plate5	female_Skin	Skin	fall	2016.072_Skin	SHSU	advanced	326.9	18
+Plate5_61938_Skin_Rerun_GD1_01_26682.mzXML	Plate5	male_Skin	Skin	winter	Mr. 16-15_Skin	CMU	early	19.35	18
+Plate5_63610_Skin_Rerun_GG1_01_26683.mzXML	Plate5	male_Skin	Skin	winter	2017.045_Skin	SHSU	active	187.45	18
+Plate5_63810_Skin_GD4_01_26608.mzXML	Plate5	female_Skin	Skin	winter	2017.046_Skin	SHSU	active	130.75	18
+Plate5_64348_Skin_GA7_01_26568.mzXML	Plate5	male_Skin	Skin	winter	Mr 17-04_Skin	CMU	advanced	243.55	18
+Plate5_65104_Skin_GH4_01_26669.mzXML	Plate5	male_Skin	Skin	winter	2017.043_Skin	SHSU	advanced	205	18
+Plate6_55330_Skin_GA6_01_26706.mzXML	Plate6	female_Skin	Skin	summer	2016.067_Skin	SHSU	advanced	457.5	18
+Plate6_61594_Skin_GB1_01_26716.mzXML	Plate6	female_Skin	Skin	fall	UTK.K016.05_Skin	UTK	advanced	340.2	18
+Plate7_45140_Skin_GA8_01_27022.mzXML	Plate7	female_Skin	Skin	fall	17-12_Skin	CMU	advanced	211.5	18
+Plate7_45340_Skin_Rerun_GB11_01_27125.mzXML	Plate7	male_Skin	Skin	summer	UTK.K016.10_Skin	UTK	advanced	392.2	18
+Plate7_45466_Skin_GF1_01_27084.mzXML	Plate7	female_Skin	Skin	summer	Mrs. 16-09_Skin	CMU	advanced	471.65	18
+Plate7_45666_Skin_GD9_01_27065.mzXML	Plate7	female_Skin	Skin	summer	Mrs. 16-10_Skin	CMU	advanced	443.9	18
+Plate7_54574_Skin_GG6_01_27104.mzXML	Plate7	male_Skin	Skin	summer	UTK.K016.11_Skin	UTK	advanced	392.2	18
+Plate7_54774_Skin_GH6_01_27118.mzXML	Plate7	male_Skin	Skin	summer	UTK.K016.12_Skin	UTK	advanced	392.2	18
+Plate7_54968_Skin_GA2_01_27015.mzXML	Plate7	male_Skin	Skin	summer	2016.065_Skin	SHSU	advanced	503.3333333	18
+Plate8_43988_Skin_GE10_01_27389.mzXML	Plate8	female_Skin	Skin	spring	shsu.2016.011_Skin	SHSU	advanced	409.1666667	18
+Plate8_44188_Skin_GE5_01_27383.mzXML	Plate8	male_Skin	Skin	spring	shsu.2016.024_Skin	SHSU	advanced	409.1666667	18
+Plate8_55168_Skin_GB1_01_27336.mzXML	Plate8	female_Skin	Skin	summer	2016.064_Skin	SHSU	advanced	503.3333333	18
+Plate8_60676_Skin_GB11_01_27348.mzXML	Plate8	male_Skin	Skin	summer	17-10_Skin	CMU	advanced	451.65	18
+Plate8_61232_Skin_GA10_01_27332.mzXML	Plate8	male_Skin	Skin	fall	2016.076_Skin	SHSU	advanced	219.45	18
+Plate8_61432_Skin_GE9_01_27388.mzXML	Plate8	female_Skin	Skin	fall	UTK.K016.04_Skin	UTK	advanced	340.2	18
+Plate8_61794_Skin_GD7_01_27372.mzXML	Plate8	male_Skin	Skin	fall	UTK.K016.06_Skin	UTK	advanced	340	18
+Plate9_25396_Skin_GD1_01_26984.mzXML	Plate9	female_Skin	Skin	spring	CMU_Mrs._16_03_Skin	CMU	active	153.3333333	18
+Plate9_43794_Skin_GA7_01_26945.mzXML	Plate9	male_Skin	Skin	spring	shsu.2016.007_Skin	SHSU	advanced	409.1666667	18
+Plate10_25400_Soil_Rerun_BG7_01_27816.mzXML	Plate10	female_Soil	Soil	spring	CMU_Mrs._16_03_Soil	CMU	active	153.3333333	18
+Plate10_44192_Soil_BF6_01_27784.mzXML	Plate10	male_Soil	Soil	spring	shsu.2016.024_Soil	SHSU	advanced	409.1666667	18
+Plate11_25562_Soil_GA4_01_27594.mzXML	Plate11	male_Soil	Soil	spring	CMU_Mr._16_04_Soil	CMU	active	149.7222222	18
+Plate11_45470_Soil_GB9_01_27614.mzXML	Plate11	female_Soil	Soil	summer	Mrs. 16-09_Soil	CMU	advanced	471.65	18
+Plate11_45670_Soil_GH4_01_27693.mzXML	Plate11	female_Soil	Soil	summer	Mrs. 16-10_Soil	CMU	advanced	443.9	18
+Plate11_55172_Soil_GH7_01_27698.mzXML	Plate11	female_Soil	Soil	summer	2016.064_Soil	SHSU	advanced	503.3333333	18
+Plate12_43992_Soil_GB6_01_27977.mzXML	Plate12	female_Soil	Soil	spring	shsu.2016.011_Soil	SHSU	advanced	409.1666667	18
+Plate12_54972_Soil_GE5_01_28017.mzXML	Plate12	male_Soil	Soil	summer	2016.065_Soil	SHSU	advanced	503.3333333	18
+Plate12_55534_Soil_GF7_01_28033.mzXML	Plate12	male_Soil	Soil	fall	16-12_Soil	CMU	early	27.5	18
+Plate12_60480_Soil_GE11_01_28024.mzXML	Plate12	male_Soil	Soil	fall	16-14_Soil	CMU	early	19.4	18
+Plate12_64138_Soil_GG4_01_28043.mzXML	Plate12	female_Soil	Soil	winter	Mrs. 17-01_Soil	CMU	early	28.95	18
+Plate13_25654_Soil_GB2_01_27486.mzXML	Plate13	female_Soil	Soil	spring	CMU_Mrs._16_05_Soil	CMU	advanced	200.8333333	18
+Plate13_25958_Soil_GF3_01_27470.mzXML	Plate13	female_Soil	Soil	spring	UTK.K016.01_Soil	UTK	advanced	276.1111111	18
+Plate13_43418_Soil_GG11_01_27565.mzXML	Plate13	female_Soil	Soil	spring	UTK.K016.02_Soil	UTK	advanced	354.7222222	18
+Plate13_60680_Soil_GF7_01_27547.mzXML	Plate13	male_Soil	Soil	summer	17-10_Soil	CMU	advanced	451.65	18
+Plate13_64694_Soil_GH4_01_27572.mzXML	Plate13	male_Soil	Soil	winter	K016.07_Soil	UTK	active	194.1	18
+Plate14_61042_Soil_BE2_01_27893.mzXML	Plate14	female_Soil	Soil	fall	2016.072_Soil	SHSU	advanced	326.9	18
+Plate14_61236_Soil_BH8_01_27943.mzXML	Plate14	male_Soil	Soil	fall	2016.076_Soil	SHSU	advanced	219.45	18
+Plate14_63614_Soil_BC4_01_27867.mzXML	Plate14	male_Soil	Soil	winter	2017.045_Soil	SHSU	active	187.45	18
+Plate15_61436_Soil_BA11_01_28102.mzXML	Plate15	female_Soil	Soil	fall	UTK.K016.04_Soil	UTK	advanced	340.2	18
+Plate15_61598_Soil_BF1_01_28161.mzXML	Plate15	female_Soil	Soil	fall	UTK.K016.05_Soil	UTK	advanced	340.2	18
+Plate15_61798_Soil_BB8_01_28113.mzXML	Plate15	male_Soil	Soil	fall	UTK.K016.06_Soil	UTK	advanced	340	18
+Plate15_63814_Soil_BC5_01_28123.mzXML	Plate15	female_Soil	Soil	winter	2017.046_Soil	SHSU	active	130.75	18
+Plate15_64352_Soil_BF8_01_28169.mzXML	Plate15	male_Soil	Soil	winter	Mr 17-04_Soil	CMU	advanced	243.55	18
+Plate16_43598_Soil_GF2_01_28286.mzXML	Plate16	male_Soil	Soil	spring	UTK.K016.03_Soil	UTK	advanced	345.2777778	18
+Plate16_43798_Soil_GH7_01_28320.mzXML	Plate16	male_Soil	Soil	spring	shsu.2016.007_Soil	SHSU	advanced	409.1666667	18
+Plate16_45144_Soil_GD6_01_28261.mzXML	Plate16	female_Soil	Soil	fall	17-12_Soil	CMU	advanced	211.5	18
+Plate16_60842_Soil_GC11_01_28252.mzXML	Plate16	female_Soil	Soil	fall	2016.073_Soil	SHSU	advanced	326.9	18
+Plate16_65108_Soil_GD3_01_28258.mzXML	Plate16	male_Soil	Soil	winter	2017.043_Soil	SHSU	advanced	205	18
+Plate17_54782_Soil_BH8_01_28458.mzXML	Plate17	male_Soil	Soil	summer	UTK.K016.12_Soil	UTK	advanced	392.2	18
+Plate17_55334_Soil_BA6_01_28351.mzXML	Plate17	female_Soil	Soil	summer	2016.067_Soil	SHSU	advanced	457.5	18
+Plate17_61942_Soil_BH2_01_28450.mzXML	Plate17	male_Soil	Soil	winter	Mr. 16-15_Soil	CMU	early	19.35	18
+Plate18_45348_Soil_GD6_01_28547.mzXML	Plate18	male_Soil	Soil	summer	UTK.K016.10_Soil	UTK	advanced	392.2	18
+Plate18_54582_Soil_GA5_01_28503.mzXML	Plate18	male_Soil	Soil	summer	UTK.K016.11_Soil	UTK	advanced	392.2	18
+Plate18_64532_Soil_GE4_01_28559.mzXML	Plate18	male_Soil	Soil	winter	K016.08_Soil	UTK	active	194.1	18
+Plate18_64894_Soil_GA11_01_28511.mzXML	Plate18	male_Soil	Soil	winter	K016.09_Soil	UTK	active	194.1	18
+Plate1_25578_Skin_GA9_01_26121.mzXML	Plate1	male_Skin	Skin	spring	CMU_Mr._16_04_Skin	CMU	active	160	19
+Plate1_25664_Skin_GF7_01_26280.mzXML	Plate1	female_Skin	Skin	spring	CMU_Mrs._16_05_Skin	CMU	advanced	207.5	19
+Plate1_25974_Skin_GC4_01_26139.mzXML	Plate1	female_Skin	Skin	spring	UTK.K016.01_Skin	UTK	advanced	293.6111111	19
+Plate1_43434_Skin_GF10_01_26283.mzXML	Plate1	female_Skin	Skin	spring	UTK.K016.02_Skin	UTK	advanced	375.8333333	19
+Plate1_43614_Skin_GG4_01_26290.mzXML	Plate1	male_Skin	Skin	spring	UTK.K016.03_Skin	UTK	advanced	366.9444445	19
+Plate3_55544_Skin_GF6_01_26518.mzXML	Plate3	male_Skin	Skin	fall	16-12_Skin	CMU	early	27.5	19
+Plate3_60496_Skin_GC6_01_26478.mzXML	Plate3	male_Skin	Skin	fall	16-14_Skin	CMU	early	19.4	19
+Plate3_61952_Skin_GB2_01_26462.mzXML	Plate3	male_Skin	Skin	winter	Mr. 16-15_Skin	CMU	early	19.35	19
+Plate3_64148_Skin_GG8_01_26534.mzXML	Plate3	female_Skin	Skin	winter	Mrs. 17-01_Skin	CMU	early	33.4	19
+Plate3_64510_Skin_GG3_01_26528.mzXML	Plate3	male_Skin	Skin	winter	K016.08_Skin	UTK	advanced	202.2	19
+Plate3_64710_Skin_GA8_01_26455.mzXML	Plate3	male_Skin	Skin	winter	K016.07_Skin	UTK	advanced	202.2	19
+Plate3_64904_Skin_GF9_01_26521.mzXML	Plate3	male_Skin	Skin	winter	K016.09_Skin	UTK	advanced	202.2	19
+Plate4_65086_Skin_GB5_01_27220.mzXML	Plate4	male_Skin	Skin	winter	2017.043_Skin	SHSU	advanced	225.85	19
+Plate5_45160_Skin_GF2_01_26638.mzXML	Plate5	female_Skin	Skin	fall	17-12_Skin	CMU	advanced	222.9	19
+Plate5_60858_Skin_GA1_01_26560.mzXML	Plate5	female_Skin	Skin	fall	2016.073_Skin	SHSU	advanced	342.45	19
+Plate5_61088_Skin_GC7_01_26598.mzXML	Plate5	female_Skin	Skin	fall	2016.072_Skin	SHSU	advanced	342.45	19
+Plate5_63630_Skin_GF7_01_26644.mzXML	Plate5	male_Skin	Skin	winter	2017.045_Skin	SHSU	active	191.6	19
+Plate5_64330_Skin_GE11_01_26633.mzXML	Plate5	male_Skin	Skin	winter	Mr 17-04_Skin	CMU	advanced	254.4	19
+Plate6_54988_Skin_GH4_01_26882.mzXML	Plate6	male_Skin	Skin	summer	2016.065_Skin	SHSU	advanced	530.8333333	19
+Plate6_61252_Skin_GE7_01_26770.mzXML	Plate6	male_Skin	Skin	fall	2016.076_Skin	SHSU	advanced	236.4	19
+Plate6_61414_Skin_GA4_01_26704.mzXML	Plate6	female_Skin	Skin	fall	UTK.K016.04_Skin	UTK	advanced	361.3	19
+Plate6_61614_Skin_Rerun_GD10_01_26902.mzXML	Plate6	female_Skin	Skin	fall	UTK.K016.05_Skin	UTK	advanced	361.3	19
+Plate6_63824_Skin_GC8_01_26739.mzXML	Plate6	female_Skin	Skin	winter	2017.046_Skin	SHSU	active	144.6	19
+Plate7_45322_Skin_GE4_01_27073.mzXML	Plate7	male_Skin	Skin	summer	UTK.K016.10_Skin	UTK	advanced	417.9	19
+Plate7_45486_Skin_GF8_01_27092.mzXML	Plate7	female_Skin	Skin	summer	Mrs. 16-09_Skin	CMU	advanced	496.4	19
+Plate7_54594_Skin_GH5_01_27117.mzXML	Plate7	male_Skin	Skin	summer	UTK.K016.11_Skin	UTK	advanced	417.9	19
+Plate7_54788_Skin_GG4_01_27102.mzXML	Plate7	male_Skin	Skin	summer	UTK.K016.12_Skin	UTK	advanced	417.9	19
+Plate7_55350_Skin_GB2_01_27029.mzXML	Plate7	female_Skin	Skin	summer	2016.067_Skin	SHSU	advanced	486.1	19
+Plate7_61808_Skin_GD6_01_27061.mzXML	Plate7	male_Skin	Skin	fall	UTK.K016.06_Skin	UTK	advanced	357.1	19
+Plate8_25378_Skin_GG6_01_27412.mzXML	Plate8	female_Skin	Skin	spring	CMU_Mrs._16_03_Skin	CMU	active	160.8333333	19
+Plate8_43808_Skin_GG4_01_27410.mzXML	Plate8	male_Skin	Skin	spring	shsu.2016.007_Skin	SHSU	advanced	428.6111111	19
+Plate8_44170_Skin_GG11_01_27419.mzXML	Plate8	male_Skin	Skin	spring	shsu.2016.024_Skin	SHSU	advanced	428.6111111	19
+Plate8_45680_Skin_GA4_01_27325.mzXML	Plate8	female_Skin	Skin	summer	Mrs. 16-10_Skin	CMU	advanced	464.75	19
+Plate8_55150_Skin_GC11_01_27362.mzXML	Plate8	female_Skin	Skin	summer	2016.064_Skin	SHSU	advanced	530.8333333	19
+Plate8_60658_Skin_Rerun_GB3_01_27339.mzXML	Plate8	male_Skin	Skin	summer	17-10_Skin	CMU	advanced	477.8	19
+Plate9_44008_Skin_Rerun_GB7_01_27006.mzXML	Plate9	female_Skin	Skin	spring	shsu.2016.011_Skin	SHSU	advanced	428.6111111	19
+Plate10_25382_Soil_BE2_01_27765.mzXML	Plate10	female_Soil	Soil	spring	CMU_Mrs._16_03_Soil	CMU	active	160.8333333	19
+Plate10_44012_Soil_Rerun_BH10_01_27825.mzXML	Plate10	female_Soil	Soil	spring	shsu.2016.011_Soil	SHSU	advanced	428.6111111	19
+Plate10_44174_Soil_BC7_01_27743.mzXML	Plate10	male_Soil	Soil	spring	shsu.2016.024_Soil	SHSU	advanced	428.6111111	19
+Plate11_25668_Soil_GF5_01_27665.mzXML	Plate11	female_Soil	Soil	spring	CMU_Mrs._16_05_Soil	CMU	advanced	207.5	19
+Plate11_43812_Soil_GB5_01_27609.mzXML	Plate11	male_Soil	Soil	spring	shsu.2016.007_Soil	SHSU	advanced	428.6111111	19
+Plate11_45490_Soil_GA11_01_27602.mzXML	Plate11	female_Soil	Soil	summer	Mrs. 16-09_Soil	CMU	advanced	496.4	19
+Plate11_64908_Soil_GF1_01_27661.mzXML	Plate11	male_Soil	Soil	winter	K016.09_Soil	UTK	advanced	202.2	19
+Plate12_25582_Soil_GG6_01_28045.mzXML	Plate12	male_Soil	Soil	spring	CMU_Mr._16_04_Soil	CMU	active	160	19
+Plate12_55548_Soil_GG7_01_28047.mzXML	Plate12	male_Soil	Soil	fall	16-12_Soil	CMU	early	27.5	19
+Plate12_60500_Soil_GB3_01_27974.mzXML	Plate12	male_Soil	Soil	fall	16-14_Soil	CMU	early	19.4	19
+Plate12_60662_Soil_GB8_01_27980.mzXML	Plate12	male_Soil	Soil	summer	17-10_Soil	CMU	advanced	477.8	19
+Plate12_61956_Soil_GD5_01_28003.mzXML	Plate12	male_Soil	Soil	winter	Mr. 16-15_Soil	CMU	early	19.35	19
+Plate12_64514_Soil_GE1_01_28013.mzXML	Plate12	male_Soil	Soil	winter	K016.08_Soil	UTK	advanced	202.2	19
+Plate12_64714_Soil_GA5_01_27963.mzXML	Plate12	male_Soil	Soil	winter	K016.07_Soil	UTK	advanced	202.2	19
+Plate13_25978_Soil_GA6_01_27476.mzXML	Plate13	female_Soil	Soil	spring	UTK.K016.01_Soil	UTK	advanced	293.6111111	19
+Plate13_54992_Soil_GB7_01_27492.mzXML	Plate13	male_Soil	Soil	summer	2016.065_Soil	SHSU	advanced	530.8333333	19
+Plate13_55354_Soil_GD5_01_27516.mzXML	Plate13	female_Soil	Soil	summer	2016.067_Soil	SHSU	advanced	486.1	19
+Plate14_45164_Soil_BA1_01_27837.mzXML	Plate14	female_Soil	Soil	fall	17-12_Soil	CMU	advanced	222.9	19
+Plate14_61256_Soil_BA7_01_27844.mzXML	Plate14	male_Soil	Soil	fall	2016.076_Soil	SHSU	advanced	236.4	19
+Plate15_45684_Soil_BA6_01_28096.mzXML	Plate15	female_Soil	Soil	summer	Mrs. 16-10_Soil	CMU	advanced	464.75	19
+Plate15_61418_Soil_BD8_01_28141.mzXML	Plate15	female_Soil	Soil	fall	UTK.K016.04_Soil	UTK	advanced	361.3	19
+Plate15_61618_Soil_BE5_01_28151.mzXML	Plate15	female_Soil	Soil	fall	UTK.K016.05_Soil	UTK	advanced	361.3	19
+Plate15_61812_Soil_BH4_01_28193.mzXML	Plate15	male_Soil	Soil	fall	UTK.K016.06_Soil	UTK	advanced	357.1	19
+Plate15_63828_Soil_BF10_01_28171.mzXML	Plate15	female_Soil	Soil	winter	2017.046_Soil	SHSU	active	144.6	19
+Plate16_43438_Soil_GG10_01_28309.mzXML	Plate16	female_Soil	Soil	spring	UTK.K016.02_Soil	UTK	advanced	375.8333333	19
+Plate16_43618_Soil_GF3_01_28287.mzXML	Plate16	male_Soil	Soil	spring	UTK.K016.03_Soil	UTK	advanced	366.9444445	19
+Plate16_60862_Soil_GB3_01_28229.mzXML	Plate16	female_Soil	Soil	fall	2016.073_Soil	SHSU	advanced	342.45	19
+Plate16_61092_Soil_GC3_01_28243.mzXML	Plate16	female_Soil	Soil	fall	2016.072_Soil	SHSU	advanced	342.45	19
+Plate16_63634_Soil_GC10_01_28251.mzXML	Plate16	male_Soil	Soil	winter	2017.045_Soil	SHSU	active	191.6	19
+Plate16_64334_Soil_GD1_01_28255.mzXML	Plate16	male_Soil	Soil	winter	Mr 17-04_Soil	CMU	advanced	254.4	19
+Plate16_65090_Soil_GB7_01_28234.mzXML	Plate16	male_Soil	Soil	winter	2017.043_Soil	SHSU	advanced	225.85	19
+Plate17_45330_Soil_BE6_01_28409.mzXML	Plate17	male_Soil	Soil	summer	UTK.K016.10_Soil	UTK	advanced	417.9	19
+Plate17_54602_Soil_BB7_01_28367.mzXML	Plate17	male_Soil	Soil	summer	UTK.K016.11_Soil	UTK	advanced	417.9	19
+Plate17_54796_Soil_BF11_01_28430.mzXML	Plate17	male_Soil	Soil	summer	UTK.K016.12_Soil	UTK	advanced	417.9	19
+Plate18_64152_Soil_GD9_01_28551.mzXML	Plate18	female_Soil	Soil	winter	Mrs. 17-01_Soil	CMU	early	33.4	19
+Plate7_55154_Soil_GD8_01_27064.mzXML	Plate17	female_Soil	Soil	summer	2016.064_Soil	SHSU	advanced	530.8333333	19
+Plate1_25398_Skin_GG8_01_26295.mzXML	Plate1	female_Skin	Skin	spring	CMU_Mrs._16_03_Skin	CMU	active	164.7222222	20
+Plate1_25686_Skin_GE10_01_26269.mzXML	Plate1	female_Skin	Skin	spring	UTK.K016.02_Skin	UTK	advanced	394.4444444	20
+Plate1_43628_Skin_GC3_01_26315.mzXML	Plate1	male_Skin	Skin	spring	UTK.K016.03_Skin	UTK	advanced	390.2777778	20
+Plate2_25666_Skin_GD5_01_26377.mzXML	Plate2	female_Skin	Skin	spring	UTK.K016.01_Skin	UTK	advanced	313.8888889	20
+Plate2_25684_Skin_GD11_01_26384.mzXML	Plate2	female_Skin	Skin	spring	CMU_Mrs._16_05_Skin	CMU	advanced	214.1666667	20
+Plate2_64924_Skin_GH9_01_26440.mzXML	Plate2	male_Skin	Skin	winter	K016.09_Skin	UTK	advanced	212.9	20
+Plate3_64168_Skin_GB3_01_26463.mzXML	Plate3	female_Skin	Skin	winter	Mrs. 17-01_Skin	CMU	early	33.65	20
+Plate3_64530_Skin_GD9_01_26493.mzXML	Plate3	male_Skin	Skin	winter	K016.08_Skin	UTK	advanced	212.9	20
+Plate3_64724_Skin_GH10_01_26548.mzXML	Plate3	male_Skin	Skin	winter	K016.07_Skin	UTK	advanced	212.9	20
+Plate4_60872_Skin_GH2_01_27302.mzXML	Plate4	female_Skin	Skin	fall	2016.073_Skin	SHSU	advanced	357.45	20
+Plate4_64350_Skin_GH7_01_27308.mzXML	Plate4	male_Skin	Skin	winter	Mr 17-04_Skin	CMU	advanced	267.15	20
+Plate5_55564_Skin_GC2_01_26592.mzXML	Plate5	male_Skin	Skin	fall	16-12_Skin	CMU	early	31.1	20
+Plate5_61108_Skin_GE7_01_26629.mzXML	Plate5	female_Skin	Skin	fall	2016.072_Skin	SHSU	advanced	357.45	20
+Plate5_61234_Skin_GF3_01_26639.mzXML	Plate5	male_Skin	Skin	fall	2016.076_Skin	SHSU	advanced	254.5	20
+Plate5_65106_Skin_GA8_01_26569.mzXML	Plate5	male_Skin	Skin	winter	2017.043_Skin	SHSU	advanced	243.05	20
+Plate6_55364_Skin_GG9_01_26874.mzXML	Plate6	female_Skin	Skin	summer	2016.067_Skin	SHSU	advanced	513.85	20
+Plate6_61628_Skin_GH6_01_26884.mzXML	Plate6	female_Skin	Skin	fall	UTK.K016.05_Skin	UTK	advanced	383	20
+Plate6_63644_Skin_Rerun_GG2_01_26797.mzXML	Plate6	male_Skin	Skin	winter	2017.045_Skin	SHSU	active	191.65	20
+Plate7_45142_Skin_GD11_01_27067.mzXML	Plate7	female_Skin	Skin	fall	17-12_Skin	CMU	advanced	232.9	20
+Plate7_45500_Skin_GF4_01_27087.mzXML	Plate7	female_Skin	Skin	summer	Mrs. 16-09_Skin	CMU	advanced	521.95	20
+Plate7_54608_Skin_GG3_01_27101.mzXML	Plate7	male_Skin	Skin	summer	UTK.K016.11_Skin	UTK	advanced	441.3	20
+Plate7_54808_Skin_GE7_01_27077.mzXML	Plate7	male_Skin	Skin	summer	UTK.K016.12_Skin	UTK	advanced	441.3	20
+Plate7_54970_Skin_GF6_01_27089.mzXML	Plate7	male_Skin	Skin	summer	2016.065_Skin	SHSU	advanced	558.6111111	20
+Plate7_60678_Skin_GH7_01_27120.mzXML	Plate7	male_Skin	Skin	summer	17-10_Skin	CMU	advanced	504.75	20
+Plate7_63844_Skin_GG5_01_27103.mzXML	Plate7	female_Skin	Skin	winter	2017.046_Skin	SHSU	active	156	20
+Plate8_25700_Skin_GH3_01_27424.mzXML	Plate8	male_Skin	Skin	spring	CMU_Mr._16_04_Skin	CMU	active	173.6111111	20
+Plate8_43828_Skin_GE7_01_27386.mzXML	Plate8	male_Skin	Skin	spring	shsu.2016.007_Skin	SHSU	advanced	449.1666667	20
+Plate8_43990_Skin_GH10_01_27433.mzXML	Plate8	female_Skin	Skin	spring	shsu.2016.011_Skin	SHSU	advanced	449.1666667	20
+Plate8_45342_Skin_Rerun_GC4_01_27438.mzXML	Plate8	male_Skin	Skin	summer	UTK.K016.10_Skin	UTK	advanced	441.3	20
+Plate8_45700_Skin_GA9_01_27331.mzXML	Plate8	female_Skin	Skin	summer	Mrs. 16-10_Skin	CMU	advanced	483.95	20
+Plate8_55170_Skin_GB6_01_27342.mzXML	Plate8	female_Skin	Skin	summer	2016.064_Skin	SHSU	advanced	558.6111111	20
+Plate8_61434_Skin_GG1_01_27407.mzXML	Plate8	female_Skin	Skin	fall	UTK.K016.04_Skin	UTK	advanced	383	20
+Plate8_61972_Skin_GG9_01_27417.mzXML	Plate8	male_Skin	Skin	winter	Mr. 16-15_Skin	CMU	early	19.35	20
+Plate9_44190_Skin_Rerun_GB6_01_27005.mzXML	Plate9	male_Skin	Skin	spring	shsu.2016.024_Skin	SHSU	advanced	449.1666667	20
+Plate9_60478_Skin_GA10_01_26948.mzXML	Plate9	male_Skin	Skin	fall	16-14_Skin	CMU	early	19.4	20
+Plate9_61828_Skin_GB1_01_26952.mzXML	Plate9	male_Skin	Skin	fall	UTK.K016.06_Skin	UTK	advanced	373.2	20
+Plate10_25704_Soil_BG2_01_27794.mzXML	Plate10	male_Soil	Soil	spring	CMU_Mr._16_04_Soil	CMU	active	173.6111111	20
+Plate10_43821_Soil_BC4_01_27739.mzXML	Plate10	male_Soil	Soil	spring	shsu.2016.007_Soil	SHSU	advanced	449.1666667	20
+Plate10_43994_Soil_BA8_01_27716.mzXML	Plate10	female_Soil	Soil	spring	shsu.2016.011_Soil	SHSU	advanced	449.1666667	20
+Plate10_44194_Soil_BB11_01_27733.mzXML	Plate10	male_Soil	Soil	spring	shsu.2016.024_Soil	SHSU	advanced	449.1666667	20
+Plate11_25402_Soil_GG8_01_27684.mzXML	Plate11	female_Soil	Soil	spring	CMU_Mrs._16_03_Soil	CMU	active	164.7222222	20
+Plate11_25688_Soil_GA9_01_27600.mzXML	Plate11	female_Soil	Soil	spring	CMU_Mrs._16_05_Soil	CMU	advanced	214.1666667	20
+Plate11_43832_Soil_GA7_01_27598.mzXML	Plate11	male_Soil	Soil	spring	shsu.2016.007_Soil	SHSU	advanced	449.1666667	20
+Plate12_55368_Soil_GC2_01_27987.mzXML	Plate12	female_Soil	Soil	summer	2016.067_Soil	SHSU	advanced	513.85	20
+Plate12_60482_Soil_GB1_01_27972.mzXML	Plate12	male_Soil	Soil	fall	16-14_Soil	CMU	early	19.4	20
+Plate12_61976_Soil_GA3_01_27961.mzXML	Plate12	male_Soil	Soil	winter	Mr. 16-15_Soil	CMU	early	19.35	20
+Plate12_64534_Soil_GC4_01_27989.mzXML	Plate12	male_Soil	Soil	winter	K016.08_Soil	UTK	advanced	212.9	20
+Plate12_64728_Soil_GD3_01_28001.mzXML	Plate12	male_Soil	Soil	winter	K016.07_Soil	UTK	advanced	212.9	20
+Plate13_25391_Soil_GH10_01_27579.mzXML	Plate13	female_Soil	Soil	spring	CMU_Mrs._16_03_Soil	CMU	active	164.7222222	20
+Plate13_25670_Soil_GG7_01_27561.mzXML	Plate13	female_Soil	Soil	spring	UTK.K016.01_Soil	UTK	advanced	313.8888889	20
+Plate13_25678_Soil_GE6_01_27531.mzXML	Plate13	female_Soil	Soil	spring	UTK.K016.01_Soil	UTK	advanced	313.8888889	20
+Plate13_25690_Soil_GB9_01_27494.mzXML	Plate13	female_Soil	Soil	spring	UTK.K016.02_Soil	UTK	advanced	394.4444444	20
+Plate13_45504_Soil_GG2_01_27555.mzXML	Plate13	female_Soil	Soil	summer	Mrs. 16-09_Soil	CMU	advanced	521.95	20
+Plate13_54616_Soil_GH9_01_27578.mzXML	Plate13	male_Soil	Soil	summer	UTK.K016.11_Soil	UTK	advanced	441.3	20
+Plate13_60682_Soil_GG6_01_27559.mzXML	Plate13	male_Soil	Soil	summer	17-10_Soil	CMU	advanced	504.75	20
+Plate14_45146_Soil_BH7_01_27942.mzXML	Plate14	female_Soil	Soil	fall	17-12_Soil	CMU	advanced	232.9	20
+Plate14_60876_Soil_BG5_01_27924.mzXML	Plate14	female_Soil	Soil	fall	2016.073_Soil	SHSU	advanced	357.45	20
+Plate15_45704_Soil_BB4_01_28108.mzXML	Plate15	female_Soil	Soil	summer	Mrs. 16-10_Soil	CMU	advanced	483.95	20
+Plate15_61438_Soil_BC7_01_28126.mzXML	Plate15	female_Soil	Soil	fall	UTK.K016.04_Soil	UTK	advanced	383	20
+Plate15_61832_Soil_BH11_01_28203.mzXML	Plate15	male_Soil	Soil	fall	UTK.K016.06_Soil	UTK	advanced	373.2	20
+Plate15_63648_Soil_BC3_01_28121.mzXML	Plate15	male_Soil	Soil	winter	2017.045_Soil	SHSU	active	191.65	20
+Plate15_63848_Soil_BF4_01_28164.mzXML	Plate15	female_Soil	Soil	winter	2017.046_Soil	SHSU	active	156	20
+Plate15_65110_Soil_BC4_01_28122.mzXML	Plate15	male_Soil	Soil	winter	2017.043_Soil	SHSU	advanced	243.05	20
+Plate16_43632_Soil_GF9_01_28294.mzXML	Plate16	male_Soil	Soil	spring	UTK.K016.03_Soil	UTK	advanced	390.2777778	20
+Plate16_55174_Soil_GE11_01_28281.mzXML	Plate16	female_Soil	Soil	summer	2016.064_Soil	SHSU	advanced	558.6111111	20
+Plate16_61112_Soil_GA6_01_28218.mzXML	Plate16	female_Soil	Soil	fall	2016.072_Soil	SHSU	advanced	357.45	20
+Plate16_61238_Soil_GC7_01_28248.mzXML	Plate16	male_Soil	Soil	fall	2016.076_Soil	SHSU	advanced	254.5	20
+Plate16_61632_Soil_GA7_01_28220.mzXML	Plate16	female_Soil	Soil	fall	UTK.K016.05_Soil	UTK	advanced	383	20
+Plate16_64354_Soil_GB5_01_28231.mzXML	Plate16	male_Soil	Soil	winter	Mr 17-04_Soil	CMU	advanced	267.15	20
+Plate17_54974_Soil_BB3_01_28362.mzXML	Plate17	male_Soil	Soil	summer	2016.065_Soil	SHSU	advanced	558.6111111	20
+Plate18_45350_Soil_GC6_01_28533.mzXML	Plate18	male_Soil	Soil	summer	UTK.K016.10_Soil	UTK	advanced	441.3	20
+Plate18_54816_Soil_GA6_01_28504.mzXML	Plate18	male_Soil	Soil	summer	UTK.K016.12_Soil	UTK	advanced	441.3	20
+Plate18_55568_Soil_GA3_01_28501.mzXML	Plate18	male_Soil	Soil	fall	16-12_Soil	CMU	early	31.1	20
+Plate18_64172_Soil_GC10_01_28538.mzXML	Plate18	female_Soil	Soil	winter	Mrs. 17-01_Soil	CMU	early	33.65	20
+Plate18_64928_Soil_GC3_01_28530.mzXML	Plate18	male_Soil	Soil	winter	K016.09_Soil	UTK	advanced	212.9	20
+Plate2_64544_Skin_GG10_01_26426.mzXML	Plate2	male_Skin	Skin	winter	K016.08_Skin	UTK	advanced	215.9	21
+Plate3_64150_Skin_GA9_01_26456.mzXML	Plate3	female_Skin	Skin	winter	Mrs. 17-01_Skin	CMU	early	33.65	21
+Plate3_64744_Skin_GF1_01_26512.mzXML	Plate3	male_Skin	Skin	winter	K016.07_Skin	UTK	advanced	215.9	21
+Plate3_64906_Skin_GD4_01_26488.mzXML	Plate3	male_Skin	Skin	winter	K016.09_Skin	UTK	advanced	215.9	21
+Plate12_64548_Soil_GF2_01_28028.mzXML	Plate12	male_Soil	Soil	winter	K016.08_Soil	UTK	advanced	215.9	21
+Plate12_64748_Soil_GC5_01_27990.mzXML	Plate12	male_Soil	Soil	winter	K016.07_Soil	UTK	advanced	215.9	21
+Plate17_64154_Soil_BE9_01_28414.mzXML	Plate17	female_Soil	Soil	winter	Mrs. 17-01_Soil	CMU	early	33.65	21
+Plate17_64910_Soil_BB8_01_28368.mzXML	Plate17	male_Soil	Soil	winter	K016.09_Soil	UTK	advanced	215.9	21
+Plate1_Blank_Empty_Skin_5ul_GD12_01_26258.mzXML	Plate1	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate1_Blank_Empty_Skin_GA12_01_26124.mzXML	Plate1	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate1_Blank_Empty_Skin_GB12_01_26136.mzXML	Plate1	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate1_Blank_Empty_Skin_GC12_01_26320.mzXML	Plate1	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate1_Blank_Empty_Skin_GE12_01_26272.mzXML	Plate1	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate1_Blank_Empty_Skin_GF12_01_26286.mzXML	Plate1	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate1_Blank_Empty_Skin_GG12_01_26300.mzXML	Plate1	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate1_Blank_Empty_Skin_GH12_01_26313.mzXML	Plate1	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate2_Blank_Empty_Skin_GA12_01_26343.mzXML	Plate2	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate2_Blank_Empty_Skin_GB12_01_26358.mzXML	Plate2	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate2_Blank_Empty_Skin_GC12_01_26372.mzXML	Plate2	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate2_Blank_Empty_Skin_GD12_01_26386.mzXML	Plate2	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate2_Blank_Empty_Skin_GE12_01_26400.mzXML	Plate2	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate2_Blank_Empty_Skin_GF12_01_26415.mzXML	Plate2	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate2_Blank_Empty_Skin_GG12_01_26430.mzXML	Plate2	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate2_Blank_Empty_Skin_GH12_01_26444.mzXML	Plate2	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate3_Blank_Empty_Skin_GA12_01_26460.mzXML	Plate3	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate3_Blank_Empty_Skin_GB12_01_26472.mzXML	Plate3	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate3_Blank_Empty_Skin_GC12_01_26484.mzXML	Plate3	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate3_Blank_Empty_Skin_GD12_01_26496.mzXML	Plate3	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate3_Blank_Empty_Skin_GE12_01_26511.mzXML	Plate3	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate3_Blank_Empty_Skin_GF12_01_26525.mzXML	Plate3	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate3_Blank_Empty_Skin_GG12_01_26538.mzXML	Plate3	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate4_Blank_Empty_Skin_GA12_01_27215.mzXML	Plate4	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate4_Blank_Empty_Skin_GB12_01_27229.mzXML	Plate4	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate4_Blank_Empty_Skin_GC12_01_27244.mzXML	Plate4	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate4_Blank_Empty_Skin_GD12_01_27258.mzXML	Plate4	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate4_Blank_Empty_Skin_GE12_01_27272.mzXML	Plate4	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate4_Blank_Empty_Skin_GF12_01_27286.mzXML	Plate4	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate4_Blank_Empty_Skin_GG12_01_27299.mzXML	Plate4	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate4_Blank_Empty_Skin_GH12_01_27315.mzXML	Plate4	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate5_Blank_Empty_Skin_GA12_01_26574.mzXML	Plate5	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate5_Blank_Empty_Skin_GB12_01_26590.mzXML	Plate5	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate5_Blank_Empty_Skin_GC12_01_26604.mzXML	Plate5	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate5_Blank_Empty_Skin_GD12_01_26618.mzXML	Plate5	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate5_Blank_Empty_Skin_GE12_01_26635.mzXML	Plate5	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate5_Blank_Empty_Skin_GF12_01_26651.mzXML	Plate5	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate5_Blank_Empty_Skin_GG12_01_26665.mzXML	Plate5	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate5_Blank_Empty_Skin_GH12_01_26679.mzXML	Plate5	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate6_Blank_Empty_Skin_GA12_01_26715.mzXML	Plate6	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate6_Blank_Empty_Skin_GB12_01_26730.mzXML	Plate6	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate6_Blank_Empty_Skin_GC12_01_26745.mzXML	Plate6	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate6_Blank_Empty_Skin_GD12_01_26761.mzXML	Plate6	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate6_Blank_Empty_Skin_GE12_01_26777.mzXML	Plate6	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate6_Blank_Empty_Skin_GF12_01_26793.mzXML	Plate6	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate6_Blank_Empty_Skin_GG12_01_26878.mzXML	Plate6	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate6_Blank_Empty_Skin_GH12_01_26893.mzXML	Plate6	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate7_Blank_Empty_Skin_GA12_01_27027.mzXML	Plate7	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate7_Blank_Empty_Skin_GB12_01_27041.mzXML	Plate7	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate7_Blank_Empty_Skin_GC12_01_27055.mzXML	Plate7	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate7_Blank_Empty_Skin_GD12_01_27069.mzXML	Plate7	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate7_Blank_Empty_Skin_GE12_01_27083.mzXML	Plate7	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate7_Blank_Empty_Skin_GG12_01_27112.mzXML	Plate7	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate7_Blank_Empty_Skin_GH12_01_27127.mzXML	Plate7	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate8_Blank_Empty_Skin_GA12_01_27335.mzXML	Plate8	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate8_Blank_Empty_Skin_GB12_01_27350.mzXML	Plate8	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate8_Blank_Empty_Skin_GC12_01_27364.mzXML	Plate8	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate8_Blank_Empty_Skin_GD12_01_27378.mzXML	Plate8	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate8_Blank_Empty_Skin_GE12_01_27392.mzXML	Plate8	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate8_Blank_Empty_Skin_GF12_01_27406.mzXML	Plate8	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate8_Blank_Empty_Skin_GG12_01_27421.mzXML	Plate8	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate8_Blank_Empty_Skin_GH12_01_27436.mzXML	Plate8	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate9_Blank_Empty_Skin_GA12_01_26951.mzXML	Plate9	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate9_Blank_Empty_Skin_GC12_01_26983.mzXML	Plate9	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate9_Blank_Empty_Skin_GD12_01_26997.mzXML	Plate9	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate9_Blank_Empty_Skin_Rerun_GB12_01_27008.mzXML	Plate9	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate10_Blank_Empty_Soil_BA12_01_27721.mzXML	Plate10	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate10_Blank_Empty_Soil_BB12_01_27735.mzXML	Plate10	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate10_Blank_Empty_Soil_BC12_01_27749.mzXML	Plate10	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate10_Blank_Empty_Soil_BD12_01_27763.mzXML	Plate10	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate10_Blank_Empty_Soil_BE12_01_27778.mzXML	Plate10	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate10_Blank_Empty_Soil_BF12_01_27792.mzXML	Plate10	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate10_Blank_Empty_Soil_BG12_01_27806.mzXML	Plate10	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate10_Blank_Empty_Soil_BH12_01_27824.mzXML	Plate10	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate11_Blank_Empty_Soil_GA12_01_27604.mzXML	Plate11	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate11_Blank_Empty_Soil_GB12_01_27618.mzXML	Plate11	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate11_Blank_Empty_Soil_GD12_01_27646.mzXML	Plate11	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate11_Blank_Empty_Soil_GE12_01_27660.mzXML	Plate11	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate11_Blank_Empty_Soil_GF12_01_27675.mzXML	Plate11	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate11_Blank_Empty_Soil_GG12_01_27689.mzXML	Plate11	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate11_Blank_Empty_Soil_GH12_01_27704.mzXML	Plate11	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate11_blank_Soil_GC12_01_27632.mzXML	Plate11	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate12_Blank_Empty_Soil_GA12_01_27971.mzXML	Plate12	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate12_Blank_Empty_Soil_GB12_01_27985.mzXML	Plate12	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate12_Blank_Empty_Soil_GC12_01_27998.mzXML	Plate12	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate12_Blank_Empty_Soil_GD12_01_28012.mzXML	Plate12	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate12_Blank_Empty_Soil_GE12_01_28026.mzXML	Plate12	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate12_Blank_Empty_Soil_GF12_01_28039.mzXML	Plate12	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate12_Blank_Empty_Soil_GG12_01_28052.mzXML	Plate12	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate12_Blank_Empty_Soil_GH12_01_28066.mzXML	Plate12	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate13_Blank_Empty_Soil_GA12_01_27484.mzXML	Plate13	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate13_Blank_Empty_Soil_GB12_01_27498.mzXML	Plate13	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate13_Blank_Empty_Soil_GC12_01_27512.mzXML	Plate13	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate13_Blank_Empty_Soil_GD12_01_27525.mzXML	Plate13	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate13_Blank_Empty_Soil_GE12_01_27539.mzXML	Plate13	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate13_Blank_Empty_Soil_GF12_01_27553.mzXML	Plate13	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate13_Blank_Empty_Soil_GG12_01_27567.mzXML	Plate13	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate13_Blank_Empty_Soil_GH12_01_27582.mzXML	Plate13	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate14_Blank_Empty_Soil_BA12_01_27850.mzXML	Plate14	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate14_Blank_Empty_Soil_BB12_01_27863.mzXML	Plate14	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate14_Blank_Empty_Soil_BC12_01_27877.mzXML	Plate14	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate14_Blank_Empty_Soil_BD12_01_27891.mzXML	Plate14	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate14_Blank_Empty_Soil_BE12_01_27905.mzXML	Plate14	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate14_Blank_Empty_Soil_BF12_01_27919.mzXML	Plate14	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate14_Blank_Empty_Soil_BG12_01_27934.mzXML	Plate14	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate14_Blank_Empty_Soil_BH12_01_27948.mzXML	Plate14	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate15_Blank_Empty_Soil_BA12_01_28104.mzXML	Plate15	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate15_Blank_Empty_Soil_BB12_01_28118.mzXML	Plate15	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate15_Blank_Empty_Soil_BC12_01_28132.mzXML	Plate15	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate15_Blank_Empty_Soil_BD12_01_28146.mzXML	Plate15	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate15_Blank_Empty_Soil_BE12_01_28160.mzXML	Plate15	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate15_Blank_Empty_Soil_BF12_01_28174.mzXML	Plate15	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate15_Blank_Empty_Soil_BG12_01_28188.mzXML	Plate15	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate15_Blank_Empty_Soil_BH12_01_28205.mzXML	Plate15	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate16_Blank_Empty_Soil_GA12_01_28226.mzXML	Plate16	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate16_Blank_Empty_Soil_GB12_01_28240.mzXML	Plate16	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate16_Blank_Empty_Soil_GC12_01_28254.mzXML	Plate16	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate16_Blank_Empty_Soil_GD12_01_28269.mzXML	Plate16	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate16_Blank_Empty_Soil_GE12_01_28283.mzXML	Plate16	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate16_Blank_Empty_Soil_GF12_01_28298.mzXML	Plate16	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate16_Blank_Empty_Soil_GG12_01_28312.mzXML	Plate16	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate16_Blank_Empty_Soil_GH12_01_28326.mzXML	Plate16	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate17_Blank_Empty_Soil_BA12_01_28359.mzXML	Plate17	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate17_Blank_Empty_Soil_BB12_01_28374.mzXML	Plate17	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate17_Blank_Empty_Soil_BC12_01_28388.mzXML	Plate17	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate17_Blank_Empty_Soil_BD12_01_28403.mzXML	Plate17	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate17_Blank_Empty_Soil_BE12_01_28418.mzXML	Plate17	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate17_Blank_Empty_Soil_BF12_01_28432.mzXML	Plate17	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate17_Blank_Empty_Soil_BG12_01_28448.mzXML	Plate17	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate17_Blank_Empty_Soil_BH12_01_28463.mzXML	Plate17	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate18_Blank_Empty_Soil_GA12_01_28513.mzXML	Plate18	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate18_Blank_Empty_Soil_GB12_01_28527.mzXML	Plate18	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate18_Blank_Empty_Soil_GC12_01_28541.mzXML	Plate18	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate18_Blank_Empty_Soil_GD12_01_28555.mzXML	Plate18	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate18_Blank_Empty_Soil_GE12_01_28569.mzXML	Plate18	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Plate18_SKIP_Soil_GB7_01_28521.mzXML	Plate18	Blank_Empty	Blank_Empty	Blank_Empty	Blank_Empty	NA	NA		
+Blank Swab_GA1_01_26229.mzXML	PlateBlankSwab	Blank_Swab	Blank_Swab	Blank_Swab	Blank_Swab	NA	NA		
+Blank Swab_GA2_01_26230.mzXML	PlateBlankSwab	Blank_Swab	Blank_Swab	Blank_Swab	Blank_Swab	NA	NA		
+Blank Swab_GA3_01_26231.mzXML	PlateBlankSwab	Blank_Swab	Blank_Swab	Blank_Swab	Blank_Swab	NA	NA		
+Blank Swab_GA4_01_26232.mzXML	PlateBlankSwab	Blank_Swab	Blank_Swab	Blank_Swab	Blank_Swab	NA	NA		
+Blank Swab_GA5_01_26233.mzXML	PlateBlankSwab	Blank_Swab	Blank_Swab	Blank_Swab	Blank_Swab	NA	NA		
+Blank Swab_GA6_01_26234.mzXML	PlateBlankSwab	Blank_Swab	Blank_Swab	Blank_Swab	Blank_Swab	NA	NA		
+Blank Swab_GA7_01_26235.mzXML	PlateBlankSwab	Blank_Swab	Blank_Swab	Blank_Swab	Blank_Swab	NA	NA		
+Blank Swab_GA8_01_26236.mzXML	PlateBlankSwab	Blank_Swab	Blank_Swab	Blank_Swab	Blank_Swab	NA	NA		
+Blank Swab_GA9_01_26237.mzXML	PlateBlankSwab	Blank_Swab	Blank_Swab	Blank_Swab	Blank_Swab	NA	NA		
+Blank Swab_GA10_01_26238.mzXML	PlateBlankSwab	Blank_Swab	Blank_Swab	Blank_Swab	Blank_Swab	NA	NA		
+Blank Swab_GA11_01_26239.mzXML	PlateBlankSwab	Blank_Swab	Blank_Swab	Blank_Swab	Blank_Swab	NA	NA		
+Blank Swab_GB1_01_26241.mzXML	PlateBlankSwab	Blank_Swab	Blank_Swab	Blank_Swab	Blank_Swab	NA	NA		
+Blank Swab_GB2_01_26242.mzXML	PlateBlankSwab	Blank_Swab	Blank_Swab	Blank_Swab	Blank_Swab	NA	NA		
+QC_End_RA2_01_28570.mzXML	Not_Specified	QC_Soil	QC_Soil	QC_Soil	QC_Soil	NA	NA		
+QC_Start_RA2_01_28497.mzXML	Not_Specified	QC_Soil	QC_Soil	QC_Soil	QC_Soil	NA	NA		
+QC_RA2_01_28344.mzXML	Not_Specified	QC_Soil	QC_Soil	QC_Soil	QC_Soil	NA	NA		
+QC End_RA2_01_28333.mzXML	Not_Specified	QC_Soil	QC_Soil	QC_Soil	QC_Soil	NA	NA		
+QC Start_RA2_01_28211.mzXML	Not_Specified	QC_Soil	QC_Soil	QC_Soil	QC_Soil	NA	NA		
+QC End_RA2_01_28206.mzXML	Not_Specified	QC_Soil	QC_Soil	QC_Soil	QC_Soil	NA	NA		
+QC Start_RA2_01_28089.mzXML	Not_Specified	QC_Soil	QC_Soil	QC_Soil	QC_Soil	NA	NA		
+QC End_RA2_01_27949.mzXML	Not_Specified	QC_Soil	QC_Soil	QC_Soil	QC_Soil	NA	NA		
+QC Start_RA2_01_27835.mzXML	Not_Specified	QC_Soil	QC_Soil	QC_Soil	QC_Soil	NA	NA		
+QC_End_RA2_01_27583.mzXML	Not_Specified	QC_Soil	QC_Soil	QC_Soil	QC_Soil	NA	NA		
+QC_Start_RA2_01_27467.mzXML	Not_Specified	QC_Soil	QC_Soil	QC_Soil	QC_Soil	NA	NA		
+QC End_RA2_01_28073.mzXML	Not_Specified	QC_Soil	QC_Soil	QC_Soil	QC_Soil	NA	NA		
+QC Start_RA2_01_27957.mzXML	Not_Specified	QC_Soil	QC_Soil	QC_Soil	QC_Soil	NA	NA		
+QC_RA2_01_27589.mzXML	Not_Specified	QC_Soil	QC_Soil	QC_Soil	QC_Soil	NA	NA		
+QC_End_RA2_01_27826.mzXML	Not_Specified	QC_Soil	QC_Soil	QC_Soil	QC_Soil	NA	NA		
+QC_End_Start_RA2_01_27706.mzXML	Not_Specified	QC_Soil	QC_Soil	QC_Soil	QC_Soil	NA	NA		
+QC Mix_End_RA2_01_26327.mzXML	Not_Specified	QC_Soil	QC_Soil	QC_Soil	QC_Soil	NA	NA		
+QC Start_RA2_01_26330.mzXML	Not_Specified	QC_Skin	QC_Skin	QC_Skin	QC_Skin	NA	NA		
+QC End_RA2_01_26445.mzXML	Not_Specified	QC_Skin	QC_Skin	QC_Skin	QC_Skin	NA	NA		
+QC_EndPlate3_RA2_01_26554.mzXML	Not_Specified	QC_Skin	QC_Skin	QC_Skin	QC_Skin	NA	NA		
+QC_MidPlate3_RA2_01_26510.mzXML	Not_Specified	QC_Skin	QC_Skin	QC_Skin	QC_Skin	NA	NA		
+QC_StartPlate3_RA2_01_26446.mzXML	Not_Specified	QC_Skin	QC_Skin	QC_Skin	QC_Skin	NA	NA		
+QC End_RA2_01_27316.mzXML	Not_Specified	QC_Skin	QC_Skin	QC_Skin	QC_Skin	NA	NA		
+QC Start_RA2_01_27200.mzXML	Not_Specified	QC_Skin	QC_Skin	QC_Skin	QC_Skin	NA	NA		
+QC Start_Rerun_RA2_01_26558.mzXML	Not_Specified	QC_Skin	QC_Skin	QC_Skin	QC_Skin	NA	NA		
+QCEnd_RA2_01_26689.mzXML	Not_Specified	QC_Skin	QC_Skin	QC_Skin	QC_Skin	NA	NA		
+QC End_RA2_01_26914.mzXML	Not_Specified	QC_Skin	QC_Skin	QC_Skin	QC_Skin	NA	NA		
+QC Start_RA2_01_26699.mzXML	Not_Specified	QC_Skin	QC_Skin	QC_Skin	QC_Skin	NA	NA		
+QC_End_RA2_01_27012.mzXML	Not_Specified	QC_Skin	QC_Skin	QC_Skin	QC_Skin	NA	NA		
+QC_End_RA2_01_27128.mzXML	Not_Specified	QC_Skin	QC_Skin	QC_Skin	QC_Skin	NA	NA		
+QC End_RA2_01_27444.mzXML	Not_Specified	QC_Skin	QC_Skin	QC_Skin	QC_Skin	NA	NA		
+QC Start_RA2_01_27320.mzXML	Not_Specified	QC_Skin	QC_Skin	QC_Skin	QC_Skin	NA	NA		
+QC Start_RA2_01_26934.mzXML	Not_Specified	QC_Skin	QC_Skin	QC_Skin	QC_Skin	NA	NA		
+QC Start_RA2_01_26228.mzXML	Not_Specified	QC_Skin	QC_Skin	QC_Skin	QC_Skin	NA	NA		
+Blank _RA1_01_26365.mzXML	Not_Specified	Blank_QC	Blank_QC	Blank_QC	Blank_QC	NA	NA		
+Blank _RA1_01_26379.mzXML	Not_Specified	Blank_QC	Blank_QC	Blank_QC	Blank_QC	NA	NA		
+Blank _RA1_01_26422.mzXML	Not_Specified	Blank_QC	Blank_QC	Blank_QC	Blank_QC	NA	NA		
+Blank _RA1_01_26437.mzXML	Not_Specified	Blank_QC	Blank_QC	Blank_QC	Blank_QC	NA	NA		
+Blank No Injection_RA1_01_26329.mzXML	Not_Specified	Blank_QC	Blank_QC	Blank_QC	Blank_QC	NA	NA		
+Blank No Injection_RA1_01_26347.mzXML	Not_Specified	Blank_QC	Blank_QC	Blank_QC	Blank_QC	NA	NA		
+Blank_RA1_01_26393.mzXML	Not_Specified	Blank_QC	Blank_QC	Blank_QC	Blank_QC	NA	NA		
+Blank_RA1_01_26407.mzXML	Not_Specified	Blank_QC	Blank_QC	Blank_QC	Blank_QC	NA	NA		
+Resuspension_RA1_01_26447.mzXML	Not_Specified	Blank_QC	Blank_QC	Blank_QC	Blank_QC	NA	NA		
+Blank_RA1_01_26516.mzXML	Not_Specified	Blank_QC	Blank_QC	Blank_QC	Blank_QC	NA	NA		
+Blank_RA1_01_26532.mzXML	Not_Specified	Blank_QC	Blank_QC	Blank_QC	Blank_QC	NA	NA		
+Blank No Injection_RA1_01_27201.mzXML	Not_Specified	Blank_QC	Blank_QC	Blank_QC	Blank_QC	NA	NA		
+Blank No Injection_RA1_01_27208.mzXML	Not_Specified	Blank_QC	Blank_QC	Blank_QC	Blank_QC	NA	NA		
+Blank No Injection_RA1_01_27222.mzXML	Not_Specified	Blank_QC	Blank_QC	Blank_QC	Blank_QC	NA	NA		
+Blank No Injection_RA1_01_27236.mzXML	Not_Specified	Blank_QC	Blank_QC	Blank_QC	Blank_QC	NA	NA		
+Blank No Injection_RA1_01_27238.mzXML	Not_Specified	Blank_QC	Blank_QC	Blank_QC	Blank_QC	NA	NA		
+Blank No Injection_RA1_01_27251.mzXML	Not_Specified	Blank_QC	Blank_QC	Blank_QC	Blank_QC	NA	NA		
+Blank No Injection_RA1_01_27307.mzXML	Not_Specified	Blank_QC	Blank_QC	Blank_QC	Blank_QC	NA	NA		
+Blank Resuspension_RA1_01_27199.mzXML	Not_Specified	Blank_QC	Blank_QC	Blank_QC	Blank_QC	NA	NA		
+Blank Resuspension_RA1_01_27265.mzXML	Not_Specified	Blank_QC	Blank_QC	Blank_QC	Blank_QC	NA	NA		
+Blank Resuspension_RA1_01_27279.mzXML	Not_Specified	Blank_QC	Blank_QC	Blank_QC	Blank_QC	NA	NA		
+Blank Resuspension_RA1_01_27293.mzXML	Not_Specified	Blank_QC	Blank_QC	Blank_QC	Blank_QC	NA	NA		
+Blank No Injection_RA1_01_26628.mzXML	Not_Specified	Blank_QC	Blank_QC	Blank_QC	Blank_QC	NA	NA		
+Blank No Injection_RA1_01_26643.mzXML	Not_Specified	Blank_QC	Blank_QC	Blank_QC	Blank_QC	NA	NA		
+Blank No Injection_RA1_01_26658.mzXML	Not_Specified	Blank_QC	Blank_QC	Blank_QC	Blank_QC	NA	NA		
+Blank No Injection_RA1_01_26672.mzXML	Not_Specified	Blank_QC	Blank_QC	Blank_QC	Blank_QC	NA	NA		
+Blank No Injection_RA1_01_26688.mzXML	Not_Specified	Blank_QC	Blank_QC	Blank_QC	Blank_QC	NA	NA		
+Blank_RA1_01_26557.mzXML	Not_Specified	Blank_QC	Blank_QC	Blank_QC	Blank_QC	NA	NA		
+Blank_RA1_01_26559.mzXML	Not_Specified	Blank_QC	Blank_QC	Blank_QC	Blank_QC	NA	NA		
+Blank_RA1_01_26567.mzXML	Not_Specified	Blank_QC	Blank_QC	Blank_QC	Blank_QC	NA	NA		
+Blank_RA1_01_26581.mzXML	Not_Specified	Blank_QC	Blank_QC	Blank_QC	Blank_QC	NA	NA		
+Blank_RA1_01_26583.mzXML	Not_Specified	Blank_QC	Blank_QC	Blank_QC	Blank_QC	NA	NA		
+Blank_RA1_01_26584.mzXML	Not_Specified	Blank_QC	Blank_QC	Blank_QC	Blank_QC	NA	NA		
+Blank_RA1_01_26597.mzXML	Not_Specified	Blank_QC	Blank_QC	Blank_QC	Blank_QC	NA	NA		
+Blank_RA1_01_26611.mzXML	Not_Specified	Blank_QC	Blank_QC	Blank_QC	Blank_QC	NA	NA		
+Blank_RA1_01_26620.mzXML	Not_Specified	Blank_QC	Blank_QC	Blank_QC	Blank_QC	NA	NA		
+Blank_RA1_01_26710.mzXML	Not_Specified	Blank_QC	Blank_QC	Blank_QC	Blank_QC	NA	NA		
+Blank Non Injection_RA1_01_27958.mzXML	Not_Specified	Blank_QC	Blank_QC	Blank_QC	Blank_QC	NA	NA		
+Blank Non Injection_RA1_01_27964.mzXML	Not_Specified	Blank_QC	Blank_QC	Blank_QC	Blank_QC	NA	NA		
+Blank Non Injection_RA1_01_27978.mzXML	Not_Specified	Blank_QC	Blank_QC	Blank_QC	Blank_QC	NA	NA		
+Blank Non Injection_RA1_01_27991.mzXML	Not_Specified	Blank_QC	Blank_QC	Blank_QC	Blank_QC	NA	NA		
+Blank Non Injection_RA1_01_28005.mzXML	Not_Specified	Blank_QC	Blank_QC	Blank_QC	Blank_QC	NA	NA		
+Blank Non Injection_RA1_01_28019.mzXML	Not_Specified	Blank_QC	Blank_QC	Blank_QC	Blank_QC	NA	NA		
+Blank Non Injection_RA1_01_28032.mzXML	Not_Specified	Blank_QC	Blank_QC	Blank_QC	Blank_QC	NA	NA		
+Blank Non Injection_RA1_01_28046.mzXML	Not_Specified	Blank_QC	Blank_QC	Blank_QC	Blank_QC	NA	NA		
+Blank Non Injection_RA1_01_28059.mzXML	Not_Specified	Blank_QC	Blank_QC	Blank_QC	Blank_QC	NA	NA		
+Blank Non Injection_RA1_01_28078.mzXML	Not_Specified	Blank_QC	Blank_QC	Blank_QC	Blank_QC	NA	NA		
+Blank Non Injection_RA1_01_28079.mzXML	Not_Specified	Blank_QC	Blank_QC	Blank_QC	Blank_QC	NA	NA		
+Blank Non Injection_RA1_01_28087.mzXML	Not_Specified	Blank_QC	Blank_QC	Blank_QC	Blank_QC	NA	NA		
+Blank Resuspension_RA1_01_27956.mzXML	Not_Specified	Blank_QC	Blank_QC	Blank_QC	Blank_QC	NA	NA		
+Blank No Injection_RA1_01_27466.mzXML	Not_Specified	Blank_QC	Blank_QC	Blank_QC	Blank_QC	NA	NA		
+Blank No Injection_RA1_01_27477.mzXML	Not_Specified	Blank_QC	Blank_QC	Blank_QC	Blank_QC	NA	NA		
+Blank No Injection_RA1_01_27491.mzXML	Not_Specified	Blank_QC	Blank_QC	Blank_QC	Blank_QC	NA	NA		
+Blank No Injection_RA1_01_27505.mzXML	Not_Specified	Blank_QC	Blank_QC	Blank_QC	Blank_QC	NA	NA		
+Blank No Injection_RA1_01_27518.mzXML	Not_Specified	Blank_QC	Blank_QC	Blank_QC	Blank_QC	NA	NA		
+Blank No Injection_RA1_01_27532.mzXML	Not_Specified	Blank_QC	Blank_QC	Blank_QC	Blank_QC	NA	NA		
+Blank No Injection_RA1_01_27546.mzXML	Not_Specified	Blank_QC	Blank_QC	Blank_QC	Blank_QC	NA	NA		
+Blank No Injection_RA1_01_27560.mzXML	Not_Specified	Blank_QC	Blank_QC	Blank_QC	Blank_QC	NA	NA		
+Blank No Injection_RA1_01_27575.mzXML	Not_Specified	Blank_QC	Blank_QC	Blank_QC	Blank_QC	NA	NA		
+Blank No Injection_RA1_01_27584.mzXML	Not_Specified	Blank_QC	Blank_QC	Blank_QC	Blank_QC	NA	NA		
+Blank No Injection_RA1_01_27585.mzXML	Not_Specified	Blank_QC	Blank_QC	Blank_QC	Blank_QC	NA	NA		
+Blank No Injection_RA1_01_27587.mzXML	Not_Specified	Blank_QC	Blank_QC	Blank_QC	Blank_QC	NA	NA		
+Blank Resuspension_RA1_01_27468.mzXML	Not_Specified	Blank_QC	Blank_QC	Blank_QC	Blank_QC	NA	NA		
+Blank Non Injection_RA1_01_27833.mzXML	Not_Specified	Blank_QC	Blank_QC	Blank_QC	Blank_QC	NA	NA		
+Blank Non Injection_RA1_01_27834.mzXML	Not_Specified	Blank_QC	Blank_QC	Blank_QC	Blank_QC	NA	NA		
+Blank Non Injection_RA1_01_27836.mzXML	Not_Specified	Blank_QC	Blank_QC	Blank_QC	Blank_QC	NA	NA		
+Blank Non Injection_RA1_01_27843.mzXML	Not_Specified	Blank_QC	Blank_QC	Blank_QC	Blank_QC	NA	NA		
+Blank Non Injection_RA1_01_27857.mzXML	Not_Specified	Blank_QC	Blank_QC	Blank_QC	Blank_QC	NA	NA		
+Blank Non Injection_RA1_01_27870.mzXML	Not_Specified	Blank_QC	Blank_QC	Blank_QC	Blank_QC	NA	NA		
+Blank Non Injection_RA1_01_27884.mzXML	Not_Specified	Blank_QC	Blank_QC	Blank_QC	Blank_QC	NA	NA		
+Blank Non Injection_RA1_01_27898.mzXML	Not_Specified	Blank_QC	Blank_QC	Blank_QC	Blank_QC	NA	NA		
+Blank Non Injection_RA1_01_27912.mzXML	Not_Specified	Blank_QC	Blank_QC	Blank_QC	Blank_QC	NA	NA		
+Blank Non Injection_RA1_01_27926.mzXML	Not_Specified	Blank_QC	Blank_QC	Blank_QC	Blank_QC	NA	NA		
+Blank Non Injection_RA1_01_27928.mzXML	Not_Specified	Blank_QC	Blank_QC	Blank_QC	Blank_QC	NA	NA		
+Blank Non Injection_RA1_01_27941.mzXML	Not_Specified	Blank_QC	Blank_QC	Blank_QC	Blank_QC	NA	NA		
+Blank Resuspension_RA1_01_27953.mzXML	Not_Specified	Blank_QC	Blank_QC	Blank_QC	Blank_QC	NA	NA		
+Blank No Injection_RA2_01_28088.mzXML	Not_Specified	Blank_QC	Blank_QC	Blank_QC	Blank_QC	NA	NA		
+Blank No Injection_RA2_01_28090.mzXML	Not_Specified	Blank_QC	Blank_QC	Blank_QC	Blank_QC	NA	NA		
+Blank No Injection_RA2_01_28097.mzXML	Not_Specified	Blank_QC	Blank_QC	Blank_QC	Blank_QC	NA	NA		
+Blank No Injection_RA2_01_28111.mzXML	Not_Specified	Blank_QC	Blank_QC	Blank_QC	Blank_QC	NA	NA		
+Blank No Injection_RA2_01_28125.mzXML	Not_Specified	Blank_QC	Blank_QC	Blank_QC	Blank_QC	NA	NA		
+Blank No Injection_RA2_01_28139.mzXML	Not_Specified	Blank_QC	Blank_QC	Blank_QC	Blank_QC	NA	NA		
+Blank No Injection_RA2_01_28153.mzXML	Not_Specified	Blank_QC	Blank_QC	Blank_QC	Blank_QC	NA	NA		
+Blank No Injection_RA2_01_28167.mzXML	Not_Specified	Blank_QC	Blank_QC	Blank_QC	Blank_QC	NA	NA		
+Blank No Injection_RA2_01_28181.mzXML	Not_Specified	Blank_QC	Blank_QC	Blank_QC	Blank_QC	NA	NA		
+Blank No Injection_RA2_01_28196.mzXML	Not_Specified	Blank_QC	Blank_QC	Blank_QC	Blank_QC	NA	NA		
+Blank No Injection_RA2_01_28209.mzXML	Not_Specified	Blank_QC	Blank_QC	Blank_QC	Blank_QC	NA	NA		
+Blank No Injection_RA2_01_28210.mzXML	Not_Specified	Blank_QC	Blank_QC	Blank_QC	Blank_QC	NA	NA		
+Blank No Injection_RA2_01_28212.mzXML	Not_Specified	Blank_QC	Blank_QC	Blank_QC	Blank_QC	NA	NA		
+Blank No Injection_RA2_01_28219.mzXML	Not_Specified	Blank_QC	Blank_QC	Blank_QC	Blank_QC	NA	NA		
+Blank No Injection_RA2_01_28233.mzXML	Not_Specified	Blank_QC	Blank_QC	Blank_QC	Blank_QC	NA	NA		
+Blank No Injection_RA2_01_28247.mzXML	Not_Specified	Blank_QC	Blank_QC	Blank_QC	Blank_QC	NA	NA		
+Blank No Injection_RA2_01_28256.mzXML	Not_Specified	Blank_QC	Blank_QC	Blank_QC	Blank_QC	NA	NA		
+Blank No Injection_RA2_01_28262.mzXML	Not_Specified	Blank_QC	Blank_QC	Blank_QC	Blank_QC	NA	NA		
+Blank No Injection_RA2_01_28276.mzXML	Not_Specified	Blank_QC	Blank_QC	Blank_QC	Blank_QC	NA	NA		
+Blank No Injection_RA2_01_28284.mzXML	Not_Specified	Blank_QC	Blank_QC	Blank_QC	Blank_QC	NA	NA		
+Blank No Injection_RA2_01_28291.mzXML	Not_Specified	Blank_QC	Blank_QC	Blank_QC	Blank_QC	NA	NA		
+Blank No Injection_RA2_01_28305.mzXML	Not_Specified	Blank_QC	Blank_QC	Blank_QC	Blank_QC	NA	NA		
+Blank No Injection_RA2_01_28319.mzXML	Not_Specified	Blank_QC	Blank_QC	Blank_QC	Blank_QC	NA	NA		
+Blank No Injection_RA2_01_28332.mzXML	Not_Specified	Blank_QC	Blank_QC	Blank_QC	Blank_QC	NA	NA		
+Blank No Injection_RA2_01_28340.mzXML	Not_Specified	Blank_QC	Blank_QC	Blank_QC	Blank_QC	NA	NA		
+Blank No Injection_RA2_01_28341.mzXML	Not_Specified	Blank_QC	Blank_QC	Blank_QC	Blank_QC	NA	NA		
+Blank No Injection_RA1_01_28496.mzXML	Not_Specified	Blank_QC	Blank_QC	Blank_QC	Blank_QC	NA	NA		
+Blank No Injection_RA1_01_28498.mzXML	Not_Specified	Blank_QC	Blank_QC	Blank_QC	Blank_QC	NA	NA		
+Blank No Injection_RA1_01_28506.mzXML	Not_Specified	Blank_QC	Blank_QC	Blank_QC	Blank_QC	NA	NA		
+Blank No Injection_RA1_01_28507.mzXML	Not_Specified	Blank_QC	Blank_QC	Blank_QC	Blank_QC	NA	NA		
+Blank No Injection_RA1_01_28520.mzXML	Not_Specified	Blank_QC	Blank_QC	Blank_QC	Blank_QC	NA	NA		
+Blank No Injection_RA1_01_28534.mzXML	Not_Specified	Blank_QC	Blank_QC	Blank_QC	Blank_QC	NA	NA		
+Blank No Injection_RA1_01_28548.mzXML	Not_Specified	Blank_QC	Blank_QC	Blank_QC	Blank_QC	NA	NA		
+Blank No Injection_RA1_01_28562.mzXML	Not_Specified	Blank_QC	Blank_QC	Blank_QC	Blank_QC	NA	NA		
+Blank No Injection_RA1_01_28576.mzXML	Not_Specified	Blank_QC	Blank_QC	Blank_QC	Blank_QC	NA	NA		
