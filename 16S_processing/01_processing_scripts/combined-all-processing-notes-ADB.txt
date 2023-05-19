@@ -1,0 +1,1733 @@
+#########################################################################################
+## Project: PMI3 Combined 16S/18S all seasons
+## Name: Aeriel Belk
+## QIIME 2020.2
+######################################################################################### 
+
+#########################################################################################
+# Start 16S from scratch
+# Sept 21, 2020
+#########################################################################################
+#########################################################################################
+## Initial Processing
+#########################################################################################
+##### Demultiplex #####
+qiime demux emp-single \
+  --i-seqs 16S-sequences/16S-1_sequences.qza \
+  --m-barcodes-file 03_metadata/16S-1-full-metadata.txt \
+  --m-barcodes-column 16S_barcode \
+  --o-per-sample-sequences 04_artifacts-and-visualizations/demux-files/16S-1_demux.qza \
+  --o-error-correction-details 04_artifacts-and-visualizations/demux-files/16S-1_demux_details.qza \
+  --p-rev-comp-mapping-barcodes \
+  --p-rev-comp-barcodes
+
+qiime demux emp-single \
+  --i-seqs 16S-sequences/16S-2_sequences.qza \
+  --m-barcodes-file 03_metadata/16S-2-full-metadata.txt \
+  --m-barcodes-column 16S_barcode \
+  --o-per-sample-sequences 04_artifacts-and-visualizations/demux-files/16S-2_demux.qza \
+  --o-error-correction-details 04_artifacts-and-visualizations/demux-files/16S-2_demux_details.qza \
+  --p-rev-comp-mapping-barcodes \
+  --p-rev-comp-barcodes
+
+qiime demux emp-single \
+  --i-seqs 16S-sequences/16S-3_sequences.qza \
+  --m-barcodes-file 03_metadata/16S-3-full-metadata.txt \
+  --m-barcodes-column 16S_barcode \
+  --o-per-sample-sequences 04_artifacts-and-visualizations/demux-files/16S-3_demux.qza \
+  --o-error-correction-details 04_artifacts-and-visualizations/demux-files/16S-3_demux_details.qza \
+  --p-rev-comp-mapping-barcodes \
+  --p-rev-comp-barcodes
+
+qiime demux emp-single \
+  --i-seqs 16S-sequences/16S-4_sequences.qza \
+  --m-barcodes-file 03_metadata/16S-4-full-metadata.txt \
+  --m-barcodes-column 16S_barcode \
+  --o-per-sample-sequences 04_artifacts-and-visualizations/demux-files/16S-4_demux.qza \
+  --o-error-correction-details 04_artifacts-and-visualizations/demux-files/16S-4_demux_details.qza \
+  --p-rev-comp-mapping-barcodes \
+  --p-rev-comp-barcodes
+
+qiime demux emp-single \
+  --i-seqs 16S-sequences/16S-5_sequences.qza \
+  --m-barcodes-file 03_metadata/16S-5-full-metadata.txt \
+  --m-barcodes-column 16S_barcode \
+  --o-per-sample-sequences 04_artifacts-and-visualizations/demux-files/16S-5_demux.qza \
+  --o-error-correction-details 04_artifacts-and-visualizations/demux-files/16S-5_demux_details.qza \
+  --p-rev-comp-mapping-barcodes \
+  --p-rev-comp-barcodes
+
+qiime demux emp-single \
+  --i-seqs 16S-sequences/16S-6_sequences.qza \
+  --m-barcodes-file 03_metadata/16S-6-full-metadata.txt \
+  --m-barcodes-column 16S_barcode \
+  --o-per-sample-sequences 04_artifacts-and-visualizations/demux-files/16S-6_demux.qza \
+  --o-error-correction-details 04_artifacts-and-visualizations/demux-files/16S-6_demux_details.qza \
+  --p-rev-comp-mapping-barcodes \
+  --p-rev-comp-barcodes
+
+qiime demux emp-single \
+  --i-seqs 16S-sequences/16S-7_sequences.qza \
+  --m-barcodes-file 03_metadata/16S-7-full-metadata.txt \
+  --m-barcodes-column 16S_barcode \
+  --o-per-sample-sequences 04_artifacts-and-visualizations/demux-files/16S-7_demux.qza \
+  --o-error-correction-details 04_artifacts-and-visualizations/demux-files/16S-7_demux_details.qza \
+  --p-rev-comp-mapping-barcodes \
+  --p-rev-comp-barcodes
+
+qiime demux emp-single \
+  --i-seqs 16S-sequences/16S-8_sequences.qza \
+  --m-barcodes-file 03_metadata/16S-8-full-metadata.txt \
+  --m-barcodes-column 16S_barcode \
+  --o-per-sample-sequences 04_artifacts-and-visualizations/demux-files/16S-8_demux.qza \
+  --o-error-correction-details 04_artifacts-and-visualizations/demux-files/16S-8_demux_details.qza \
+  --p-rev-comp-mapping-barcodes \
+  --p-rev-comp-barcodes
+
+qiime demux emp-single \
+  --i-seqs 16S-sequences/16S-9_sequences.qza \
+  --m-barcodes-file 03_metadata/16S-9-full-metadata.txt \
+  --m-barcodes-column 16S_barcode \
+  --o-per-sample-sequences 04_artifacts-and-visualizations/demux-files/16S-9_demux.qza \
+  --o-error-correction-details 04_artifacts-and-visualizations/demux-files/16S-9_demux_details.qza \
+  --p-rev-comp-mapping-barcodes \
+  --p-rev-comp-barcodes
+
+qiime demux emp-single \
+  --i-seqs 16S-sequences/16S-10_sequences.qza \
+  --m-barcodes-file 03_metadata/16S-10-full-metadata.txt \
+  --m-barcodes-column 16S_barcode \
+  --o-per-sample-sequences 04_artifacts-and-visualizations/demux-files/16S-10_demux.qza \
+  --o-error-correction-details 04_artifacts-and-visualizations/demux-files/16S-10_demux_details.qza \
+  --p-rev-comp-mapping-barcodes \
+  --p-rev-comp-barcodes
+
+
+##### Deblur #####
+qiime deblur denoise-16S \
+  --i-demultiplexed-seqs 04_artifacts-and-visualizations/demux-files/16S-1_demux.qza\ \
+  --p-trim-length 150 \
+  --p-jobs-to-start 5 \
+  --p-sample-stats \
+  --o-table 04_artifacts-and-visualizations/deblur-files/16S-1_table.qza \
+  --o-representative-sequences 04_artifacts-and-visualizations/deblur-files/16S-1_rep-seqs.qza \
+  --o-stats 04_artifacts-and-visualizations/deblur-files/16S-1_deblur-stats.qza
+
+qiime deblur denoise-16S \
+  --i-demultiplexed-seqs 04_artifacts-and-visualizations/demux-files/16S-2_demux.qza\ \
+  --p-trim-length 150 \
+  --p-jobs-to-start 5 \
+  --p-sample-stats \
+  --o-table 04_artifacts-and-visualizations/deblur-files/16S-2_table.qza \
+  --o-representative-sequences 04_artifacts-and-visualizations/deblur-files/16S-2_rep-seqs.qza \
+  --o-stats 04_artifacts-and-visualizations/deblur-files/16S-2_deblur-stats.qza
+
+qiime deblur denoise-16S \
+  --i-demultiplexed-seqs 04_artifacts-and-visualizations/demux-files/16S-3_demux.qza\ \
+  --p-trim-length 150 \
+  --p-jobs-to-start 5 \
+  --p-sample-stats \
+  --o-table 04_artifacts-and-visualizations/deblur-files/16S-3_table.qza \
+  --o-representative-sequences 04_artifacts-and-visualizations/deblur-files/16S-3_rep-seqs.qza \
+  --o-stats 04_artifacts-and-visualizations/deblur-files/16S-3_deblur-stats.qza
+
+qiime deblur denoise-16S \
+  --i-demultiplexed-seqs 04_artifacts-and-visualizations/demux-files/16S-4_demux.qza\ \
+  --p-trim-length 150 \
+  --p-jobs-to-start 5 \
+  --p-sample-stats \
+  --o-table 04_artifacts-and-visualizations/deblur-files/16S-4_table.qza \
+  --o-representative-sequences 04_artifacts-and-visualizations/deblur-files/16S-4_rep-seqs.qza \
+  --o-stats 04_artifacts-and-visualizations/deblur-files/16S-4_deblur-stats.qza
+
+qiime deblur denoise-16S \
+  --i-demultiplexed-seqs 04_artifacts-and-visualizations/demux-files/16S-5_demux.qza\ \
+  --p-trim-length 150 \
+  --p-jobs-to-start 5 \
+  --p-sample-stats \
+  --o-table 04_artifacts-and-visualizations/deblur-files/16S-5_table.qza \
+  --o-representative-sequences 04_artifacts-and-visualizations/deblur-files/16S-5_rep-seqs.qza \
+  --o-stats 04_artifacts-and-visualizations/deblur-files/16S-5_deblur-stats.qza
+
+qiime deblur denoise-16S \
+  --i-demultiplexed-seqs 04_artifacts-and-visualizations/demux-files/16S-6_demux.qza\ \
+  --p-trim-length 150 \
+  --p-jobs-to-start 5 \
+  --p-sample-stats \
+  --o-table 04_artifacts-and-visualizations/deblur-files/16S-6_table.qza \
+  --o-representative-sequences 04_artifacts-and-visualizations/deblur-files/16S-6_rep-seqs.qza \
+  --o-stats 04_artifacts-and-visualizations/deblur-files/16S-6_deblur-stats.qza
+
+qiime deblur denoise-16S \
+  --i-demultiplexed-seqs 04_artifacts-and-visualizations/demux-files/16S-7_demux.qza\ \
+  --p-trim-length 150 \
+  --p-jobs-to-start 5 \
+  --p-sample-stats \
+  --o-table 04_artifacts-and-visualizations/deblur-files/16S-7_table.qza \
+  --o-representative-sequences 04_artifacts-and-visualizations/deblur-files/16S-7_rep-seqs.qza \
+  --o-stats 04_artifacts-and-visualizations/deblur-files/16S-7_deblur-stats.qza
+
+qiime deblur denoise-16S \
+  --i-demultiplexed-seqs 04_artifacts-and-visualizations/demux-files/16S-8_demux.qza\ \
+  --p-trim-length 150 \
+  --p-jobs-to-start 5 \
+  --p-sample-stats \
+  --o-table 04_artifacts-and-visualizations/deblur-files/16S-8_table.qza \
+  --o-representative-sequences 04_artifacts-and-visualizations/deblur-files/16S-8_rep-seqs.qza \
+  --o-stats 04_artifacts-and-visualizations/deblur-files/16S-8_deblur-stats.qza
+
+qiime deblur denoise-16S \
+  --i-demultiplexed-seqs 04_artifacts-and-visualizations/demux-files/16S-9_demux.qza\ \
+  --p-trim-length 150 \
+  --p-jobs-to-start 5 \
+  --p-sample-stats \
+  --o-table 04_artifacts-and-visualizations/deblur-files/16S-9_table.qza \
+  --o-representative-sequences 04_artifacts-and-visualizations/deblur-files/16S-9_rep-seqs.qza \
+  --o-stats 04_artifacts-and-visualizations/deblur-files/16S-9_deblur-stats.qza
+
+qiime deblur denoise-16S \
+  --i-demultiplexed-seqs 04_artifacts-and-visualizations/demux-files/16S-10_demux.qza\ \
+  --p-trim-length 150 \
+  --p-jobs-to-start 5 \
+  --p-sample-stats \
+  --o-table 04_artifacts-and-visualizations/deblur-files/16S-10_table.qza \
+  --o-representative-sequences 04_artifacts-and-visualizations/deblur-files/16S-10_rep-seqs.qza \
+  --o-stats 04_artifacts-and-visualizations/deblur-files/16S-10_deblur-stats.qza
+
+##### Merge #####
+cd 04_artifacts-and-visualizations/deblur-files
+
+qiime feature-table merge \
+  --i-tables 16S-1_table.qza 16S-2_table.qza 16S-3_table.qza 16S-4_table.qza 16S-5_table.qza 16S-6_table.qza 16S-7_table.qza 16S-8_table.qza 16S-9_table.qza 16S-10_table.qza \
+  --o-merged-table ../PMI-16S-table.qza
+
+qiime feature-table merge-seqs \
+  --i-data 16S-1_rep-seqs.qza 16S-2_rep-seqs.qza 16S-3_rep-seqs.qza 16S-4_rep-seqs.qza 16S-5_rep-seqs.qza 16S-6_rep-seqs.qza 16S-7_rep-seqs.qza 16S-8_rep-seqs.qza 16S-9_rep-seqs.qza 16S-10_rep-seqs.qza \
+  --o-merged-data ../PMI-16S-rep-seqs.qza
+  
+cd ../..
+
+## Visualize
+qiime feature-table summarize \
+  --i-table 04_artifacts-and-visualizations/PMI-16S-table.qza \
+  --m-sample-metadata-file 03_metadata/combined-metadata-simple-Jan2020.txt \
+  --o-visualization 04_artifacts-and-visualizations/PMI-16S-table.qzv
+
+## phylogenetic tree
+qiime fragment-insertion sepp \
+  --i-representative-sequences 04_artifacts-and-visualizations/PMI-16S-rep-seqs.qza \
+  --i-reference-database sepp-refs-silva-128.qza \
+  --p-threads 5 \
+  --o-tree 05_trees/16S_sepp_tree_full \
+  --o-placements 05_trees/pmi3-16S-tree_full_placements.qza
+
+#########################################################################################
+## Taxonomy and Filtering
+#########################################################################################
+##### Full Taxonomy #####
+wget --no-check-certificate https://data.qiime2.org/2020.2/common/silva-132-99-515-806-nb-classifier.qza
+
+qiime feature-classifier classify-sklearn \
+  --i-reads 04_artifacts-and-visualizations/PMI-16S-rep-seqs.qza \
+  --i-classifier silva-132-99-515-806-nb-classifier.qza \
+  --p-n-jobs 10 \
+  --o-classification 07_taxonomy/pmi3-16S-silva-taxonomy.qza
+
+qiime metadata tabulate \
+  --m-input-file 07_taxonomy/pmi3-16S-silva-taxonomy.qza \
+  --o-visualization 07_taxonomy/pmi3-16S-silva-taxonomy.qzv
+
+
+##### Filter Chloroplast and Mitochondria, Controls, Singletons #####
+qiime taxa filter-table \
+  --i-table 04_artifacts-and-visualizations/PMI-16S-table.qza \
+  --i-taxonomy 07_taxonomy/pmi3-16S-silva-taxonomy.qza \
+  --p-exclude mitochondria,chloroplast \
+  --o-filtered-table 04_artifacts-and-visualizations/PMI-16S-nochlomito-table.qza
+
+qiime taxa filter-seqs \
+  --i-sequences 04_artifacts-and-visualizations/PMI-16S-rep-seqs.qza \
+  --i-taxonomy 07_taxonomy/pmi3-16S-silva-taxonomy.qza \
+  --p-exclude mitochondria,chloroplast \
+  --o-filtered-sequences 04_artifacts-and-visualizations/PMI-16S-nochlomito-rep-seqs.qza
+  
+qiime feature-table filter-samples \
+  --i-table 04_artifacts-and-visualizations/PMI-16S-nochlomito-table.qza \
+  --m-metadata-file 03_metadata/combined-metadata-simple-Jan2020.txt \
+  --p-where "[control]=='n'" \
+  --o-filtered-table 04_artifacts-and-visualizations/PMI-16S-nochlomito-nocontrol-table.qza
+  
+qiime feature-table filter-features \
+  --i-table 04_artifacts-and-visualizations/PMI-16S-nochlomito-nocontrol-table.qza \
+  --p-min-samples 30 \
+  --o-filtered-table 04_artifacts-and-visualizations/PMI-16S-nochlomito-filtered-table.qza
+
+##### New Taxonomy #####
+qiime feature-classifier classify-sklearn \
+  --i-reads 04_artifacts-and-visualizations/PMI-16S-nochlomito-rep-seqs.qza \
+  --i-classifier silva-132-99-515-806-nb-classifier.qza \
+  --p-n-jobs 10 \
+  --o-classification 07_taxonomy/pmi3-16S-nochlomito-silva-taxonomy.qza
+
+qiime metadata tabulate \
+  --m-input-file 07_taxonomy/pmi3-16S-nochlomito-silva-taxonomy.qza \
+  --o-visualization 07_taxonomy/pmi3-16S-nochlomito-silva-taxonomy.qzv
+
+##### Taxa Bar Plot #####
+qiime taxa barplot \
+  --i-table 04_artifacts-and-visualizations/PMI-16S-nochlomito-filtered-table.qza \
+  --i-taxonomy 07_taxonomy/pmi3-16S-nochlomito-silva-taxonomy.qza \
+  --m-metadata-file 03_metadata/combined-metadata-simple-oct2020.txt \
+  --o-visualization 07_taxonomy/pmi3-16S-nochlomito-filtered-silva-taxa-barplot.qzv
+  
+qiime taxa barplot \
+  --i-table 04_artifacts-and-visualizations/PMI-16S-nochlomito-SOIL-filtered-table.qza \
+  --i-taxonomy 07_taxonomy/pmi3-16S-nochlomito-silva-taxonomy.qza \
+  --m-metadata-file 03_metadata/combined-metadata-simple-oct2020.txt \
+  --o-visualization 07_taxonomy/pmi3-16S-nochlomito-SOIL-filtered-silva-taxa-barplot.qzv
+  
+qiime feature-table filter-samples \
+  --i-table 04_artifacts-and-visualizations/PMI-16S-nochlomito-SOIL-filtered-table.qza \
+  --m-metadata-file 03_metadata/combined-metadata-simple-nov2020.txt \
+  --p-where "[sample_site] = 'soil.hip'" \
+  --o-filtered-table 04_artifacts-and-visualizations/PMI-16S-nochlomito-SOILHIP-filtered-table.qza
+
+qiime taxa barplot \
+  --i-table 04_artifacts-and-visualizations/PMI-16S-nochlomito-SOILHIP-filtered-table.qza \
+  --i-taxonomy 07_taxonomy/pmi3-16S-nochlomito-silva-taxonomy.qza \
+  --m-metadata-file 03_metadata/combined-metadata-simple-oct2020.txt \
+  --o-visualization 07_taxonomy/pmi3-16S-nochlomito-SOILHIP-filtered-silva-taxa-barplot.qzv
+
+
+##### Taxonomy tables for R #####
+## Species
+qiime taxa collapse \
+  --i-table 04_artifacts-and-visualizations/PMI-16S-nochlomito-filtered-table.qza \
+  --i-taxonomy 07_taxonomy/pmi3-16S-nochlomito-silva-taxonomy.qza \
+  --p-level 7 \
+  --o-collapsed-table 04_artifacts-and-visualizations/PMI-16S-nochlomito-filtered-species-table.qza
+
+#relative frequency
+qiime feature-table relative-frequency \
+--i-table 04_artifacts-and-visualizations/PMI-16S-nochlomito-filtered-species-table.qza \
+--o-relative-frequency-table 04_artifacts-and-visualizations/PMI-16S-nochlomito-filtered-species-relfreq.qza
+
+qiime tools export \
+--input-path 04_artifacts-and-visualizations/PMI-16S-nochlomito-filtered-species-relfreq.qza \
+--output-path 08_results/species_relfreq_table
+
+biom convert -i 08_results/species_relfreq_table/feature-table.biom -o 08_results/rel-freq-tables/species_relfreq_table.tsv --to-tsv
+
+#then, open table, delete random line at top, transpose, save again
+#rename #OTU ID to sample
+
+## Genus
+qiime taxa collapse \
+  --i-table 04_artifacts-and-visualizations/PMI-16S-nochlomito-filtered-table.qza \
+  --i-taxonomy 07_taxonomy/pmi3-16S-nochlomito-silva-taxonomy.qza \
+  --p-level 6 \
+  --o-collapsed-table 04_artifacts-and-visualizations/PMI-16S-nochlomito-filtered-genus-table.qza
+
+#relative frequency
+qiime feature-table relative-frequency \
+--i-table 04_artifacts-and-visualizations/PMI-16S-nochlomito-filtered-genus-table.qza \
+--o-relative-frequency-table 04_artifacts-and-visualizations/PMI-16S-nochlomito-filtered-genus-relfreq.qza
+
+qiime tools export \
+--input-path 04_artifacts-and-visualizations/PMI-16S-nochlomito-filtered-genus-relfreq.qza \
+--output-path 08_results/genus_relfreq_table
+
+biom convert -i 08_results/genus_relfreq_table/feature-table.biom -o 08_results/rel-freq-tables/genus_relfreq_table.tsv --to-tsv
+
+#then, open table, delete random line at top, transpose, save again
+#rename #OTU ID to sample
+
+## Family
+qiime taxa collapse \
+  --i-table 04_artifacts-and-visualizations/PMI-16S-nochlomito-filtered-table.qza \
+  --i-taxonomy 07_taxonomy/pmi3-16S-nochlomito-silva-taxonomy.qza \
+  --p-level 5 \
+  --o-collapsed-table 04_artifacts-and-visualizations/PMI-16S-nochlomito-filtered-family-table.qza
+
+#relative frequency
+qiime feature-table relative-frequency \
+--i-table 04_artifacts-and-visualizations/PMI-16S-nochlomito-filtered-family-table.qza \
+--o-relative-frequency-table 04_artifacts-and-visualizations/PMI-16S-nochlomito-filtered-family-relfreq.qza
+
+qiime tools export \
+--input-path 04_artifacts-and-visualizations/PMI-16S-nochlomito-filtered-family-relfreq.qza \
+--output-path 08_results/family_relfreq_table
+
+biom convert -i 08_results/family_relfreq_table/feature-table.biom -o 08_results/rel-freq-tables/family_relfreq_table.tsv --to-tsv
+
+#then, open table, delete random line at top, transpose, save again
+#rename #OTU ID to sample
+
+## Order
+qiime taxa collapse \
+  --i-table 04_artifacts-and-visualizations/PMI-16S-nochlomito-filtered-table.qza \
+  --i-taxonomy 07_taxonomy/pmi3-16S-nochlomito-silva-taxonomy.qza \
+  --p-level 4 \
+  --o-collapsed-table 04_artifacts-and-visualizations/PMI-16S-nochlomito-filtered-order-table.qza
+
+#relative frequency
+qiime feature-table relative-frequency \
+--i-table 04_artifacts-and-visualizations/PMI-16S-nochlomito-filtered-order-table.qza \
+--o-relative-frequency-table 04_artifacts-and-visualizations/PMI-16S-nochlomito-filtered-order-relfreq.qza
+
+qiime tools export \
+--input-path 04_artifacts-and-visualizations/PMI-16S-nochlomito-filtered-order-relfreq.qza \
+--output-path 08_results/order_relfreq_table
+
+biom convert -i 08_results/order_relfreq_table/feature-table.biom -o 08_results/rel-freq-tables/order_relfreq_table.tsv --to-tsv
+
+#then, open table, delete random line at top, transpose, save again
+#rename #OTU ID to sample
+
+## Class
+qiime taxa collapse \
+  --i-table 04_artifacts-and-visualizations/PMI-16S-nochlomito-filtered-table.qza \
+  --i-taxonomy 07_taxonomy/pmi3-16S-nochlomito-silva-taxonomy.qza \
+  --p-level 3 \
+  --o-collapsed-table 04_artifacts-and-visualizations/PMI-16S-nochlomito-filtered-class-table.qza
+
+#relative frequency
+qiime feature-table relative-frequency \
+--i-table 04_artifacts-and-visualizations/PMI-16S-nochlomito-filtered-class-table.qza \
+--o-relative-frequency-table 04_artifacts-and-visualizations/PMI-16S-nochlomito-filtered-class-relfreq.qza
+
+qiime tools export \
+--input-path 04_artifacts-and-visualizations/PMI-16S-nochlomito-filtered-class-relfreq.qza \
+--output-path 08_results/class_relfreq_table
+
+biom convert -i 08_results/class_relfreq_table/feature-table.biom -o 08_results/rel-freq-tables/class_relfreq_table.tsv --to-tsv
+
+#then, open table, delete random line at top, transpose, save again
+#rename #OTU ID to sample
+
+## Phylum
+qiime taxa collapse \
+  --i-table 04_artifacts-and-visualizations/PMI-16S-nochlomito-filtered-table.qza \
+  --i-taxonomy 07_taxonomy/pmi3-16S-nochlomito-silva-taxonomy.qza \
+  --p-level 2 \
+  --o-collapsed-table 04_artifacts-and-visualizations/PMI-16S-nochlomito-filtered-phylum-table.qza
+
+#relative frequency
+qiime feature-table relative-frequency \
+--i-table 04_artifacts-and-visualizations/PMI-16S-nochlomito-filtered-phylum-table.qza \
+--o-relative-frequency-table 04_artifacts-and-visualizations/PMI-16S-nochlomito-filtered-phylum-relfreq.qza
+
+qiime tools export \
+--input-path 04_artifacts-and-visualizations/PMI-16S-nochlomito-filtered-phylum-relfreq.qza \
+--output-path 08_results/phylum_relfreq_table
+
+biom convert -i 08_results/phylum_relfreq_table/feature-table.biom -o 08_results/rel-freq-tables/phylum_relfreq_table.tsv --to-tsv
+
+#then, open table, delete random line at top, transpose, save again
+#rename #OTU ID to sample
+
+
+#########################################################################################
+## Diversity
+#########################################################################################
+##### phylogenetic tree #####
+qiime fragment-insertion sepp \
+  --i-representative-sequences 04_artifacts-and-visualizations/PMI-16S-nochlomito-rep-seqs.qza \
+  --i-reference-database sepp-refs-silva-128.qza \
+  --p-threads 10 \
+  --o-tree 05_trees/16S_sepp_tree_filtered \
+  --o-placements 05_trees/pmi3-16S-tree_filtered_placements.qza
+
+########################
+##### core metrics #####
+########################
+qiime diversity core-metrics-phylogenetic \
+  --i-table 04_artifacts-and-visualizations/PMI-16S-nochlomito-filtered-table.qza \
+  --i-phylogeny 05_trees/16S_sepp_tree_filtered.qza \
+  --m-metadata-file 03_metadata/combined-metadata-simple-oct2020.txt \
+  --p-sampling-depth 5000 \
+  --output-dir 06_core-metrics/filtered-core-metrics-5000
+
+############################
+##### alpha statistics #####
+############################
+qiime diversity alpha-group-significance \
+  --i-alpha-diversity 06_core-metrics/filtered-core-metrics-5000/observed_otus_vector.qza \
+  --m-metadata-file 03_metadata/combined-metadata-simple-nov2020.txt \
+  --o-visualization 06_core-metrics/filtered-core-metrics-5000/observed_otus_group_significance.qzv
+
+qiime diversity alpha-group-significance \
+  --i-alpha-diversity 06_core-metrics/filtered-core-metrics-5000/shannon_vector.qza \
+  --m-metadata-file 03_metadata/combined-metadata-simple-nov2020.txt \
+  --o-visualization 06_core-metrics/filtered-core-metrics-5000/shannon_group_significance.qzv
+
+qiime diversity alpha-group-significance \
+  --i-alpha-diversity 06_core-metrics/filtered-core-metrics-5000/faith_pd_vector.qza \
+  --m-metadata-file 03_metadata/combined-metadata-simple-nov2020.txt \
+  --o-visualization 06_core-metrics/filtered-core-metrics-5000/faiths_group_significance.qzv
+
+
+
+###########################
+##### beta statistics #####
+###########################
+## Run general unifrac (0.5)
+qiime diversity beta-phylogenetic \
+  --i-phylogeny 05_trees/16S_sepp_tree_filtered.qza \
+  --i-table 06_core-metrics/filtered-core-metrics-5000/rarefied_table.qza \
+  --p-metric generalized_unifrac \
+  --p-alpha 0.5 \
+  --o-distance-matrix 06_core-metrics/filtered-core-metrics-5000/generalized-unifrac05-distance-matrix.qza 
+
+qiime diversity pcoa \
+	--i-distance-matrix 06_core-metrics/filtered-core-metrics-5000/generalized-unifrac05-distance-matrix.qza \
+	--o-pcoa 06_core-metrics/filtered-core-metrics-5000/generalized-unifrac05-pcoa-result.qza
+	
+qiime emperor plot \
+	--i-pcoa 06_core-metrics/filtered-core-metrics-5000/generalized-unifrac05-pcoa-result.qza \
+	--m-metadata-file 03_metadata/combined-metadata-simple-oct2020.txt \
+	--o-visualization 06_core-metrics/filtered-core-metrics-5000/generalized-unifrac05-pcoa-emperor.qzv
+	
+qiime emperor plot \
+  --i-pcoa 06_core-metrics/filtered-core-metrics-5000/generalized-unifrac05-pcoa-result.qza \
+  --m-metadata-file 03_metadata/combined-metadata-simple-oct2020.txt \
+  --p-custom-axes add_0c \
+  --o-visualization 06_core-metrics/filtered-core-metrics-5000/generalized-unifrac05-add0c-pcoa-emperor.qzv
+
+# Filter to just skin and soil
+qiime diversity filter-distance-matrix \
+  --i-distance-matrix 06_core-metrics/filtered-core-metrics-5000/generalized-unifrac05-distance-matrix.qza \
+  --m-metadata-file 03_metadata/combined-metadata-simple-oct2020.txt \
+  --p-where "[sample_type]='skin'" \
+  --o-filtered-distance-matrix 06_core-metrics/filtered-core-metrics-5000/generalized-unifrac05-SKIN-distance-matrix.qza
+
+qiime diversity pcoa \
+	--i-distance-matrix 06_core-metrics/filtered-core-metrics-5000/generalized-unifrac05-SKIN-distance-matrix.qza \
+	--o-pcoa 06_core-metrics/filtered-core-metrics-5000/generalized-unifrac05-SKIN-pcoa-result.qza
+	
+qiime emperor plot \
+	--i-pcoa 06_core-metrics/filtered-core-metrics-5000/generalized-unifrac05-SKIN-pcoa-result.qza \
+	--m-metadata-file 03_metadata/combined-metadata-simple-oct2020.txt \
+	--o-visualization 06_core-metrics/filtered-core-metrics-5000/generalized-unifrac05-SKIN-pcoa-emperor.qzv
+	
+qiime emperor plot \
+  --i-pcoa 06_core-metrics/filtered-core-metrics-5000/generalized-unifrac05-SKIN-pcoa-result.qza \
+  --m-metadata-file 03_metadata/combined-metadata-simple-oct2020.txt \
+  --p-custom-axes add_0c \
+  --o-visualization 06_core-metrics/filtered-core-metrics-5000/generalized-unifrac05-SKIN-add0c-pcoa-emperor.qzv
+  
+qiime emperor plot \
+  --i-pcoa 06_core-metrics/filtered-core-metrics-5000/generalized-unifrac05-SKIN-pcoa-result.qza \
+  --m-metadata-file 03_metadata/combined-metadata-simple-oct2020.txt \
+  --p-custom-axes days_since_placement \
+  --o-visualization 06_core-metrics/filtered-core-metrics-5000/generalized-unifrac05-SKIN-days-pcoa-emperor.qzv
+
+qiime diversity filter-distance-matrix \
+  --i-distance-matrix 06_core-metrics/filtered-core-metrics-5000/generalized-unifrac05-distance-matrix.qza \
+  --m-metadata-file 03_metadata/combined-metadata-simple-oct2020.txt \
+  --p-where "[sample_type]='soil'" \
+  --o-filtered-distance-matrix 06_core-metrics/filtered-core-metrics-5000/generalized-unifrac05-SOIL-distance-matrix.qza
+
+qiime diversity pcoa \
+	--i-distance-matrix 06_core-metrics/filtered-core-metrics-5000/generalized-unifrac05-SOIL-distance-matrix.qza \
+	--o-pcoa 06_core-metrics/filtered-core-metrics-5000/generalized-unifrac05-SOIL-pcoa-result.qza
+	
+qiime emperor plot \
+	--i-pcoa 06_core-metrics/filtered-core-metrics-5000/generalized-unifrac05-SOIL-pcoa-result.qza \
+	--m-metadata-file 03_metadata/combined-metadata-simple-oct2020.txt \
+	--o-visualization 06_core-metrics/filtered-core-metrics-5000/generalized-unifrac05-SOIL-pcoa-emperor.qzv
+	
+qiime emperor plot \
+  --i-pcoa 06_core-metrics/filtered-core-metrics-5000/generalized-unifrac05-SOIL-pcoa-result.qza \
+  --m-metadata-file 03_metadata/combined-metadata-simple-oct2020.txt \
+  --p-custom-axes add_0c \
+  --o-visualization 06_core-metrics/filtered-core-metrics-5000/generalized-unifrac05-SOIL-add0c-pcoa-emperor.qzv
+
+## Just skin summer for proposal
+qiime diversity filter-distance-matrix \
+  --i-distance-matrix 06_core-metrics/filtered-core-metrics-5000/generalized-unifrac05-SKIN-distance-matrix.qza \
+  --m-metadata-file 03_metadata/combined-metadata-simple-oct2020.txt \
+  --p-where "[season]='summer'" \
+  --o-filtered-distance-matrix 06_core-metrics/filtered-core-metrics-5000/generalized-unifrac05-SKIN-SUMMER-distance-matrix.qza
+
+qiime diversity pcoa \
+	--i-distance-matrix 06_core-metrics/filtered-core-metrics-5000/generalized-unifrac05-SKIN-SUMMER-distance-matrix.qza \
+	--o-pcoa 06_core-metrics/filtered-core-metrics-5000/generalized-unifrac05-SKIN-SUMMER-pcoa-result.qza
+	
+qiime emperor plot \
+  --i-pcoa 06_core-metrics/filtered-core-metrics-5000/generalized-unifrac05-SKIN-SUMMER-pcoa-result.qza \
+  --m-metadata-file 03_metadata/combined-metadata-simple-oct2020.txt \
+  --p-custom-axes add_0c \
+  --o-visualization 06_core-metrics/filtered-core-metrics-5000/generalized-unifrac05-SKIN-SUMMER-add0c-pcoa-emperor.qzv
+  
+qiime emperor plot \
+  --i-pcoa 06_core-metrics/filtered-core-metrics-5000/generalized-unifrac05-SKIN-SUMMER-pcoa-result.qza \
+  --m-metadata-file 03_metadata/combined-metadata-simple-oct2020.txt \
+  --p-custom-axes days_since_placement \
+  --o-visualization 06_core-metrics/filtered-core-metrics-5000/generalized-unifrac05-SKIN-SUMMER-days-pcoa-emperor.qzv
+
+## within facility
+### Filter
+qiime diversity filter-distance-matrix \
+  --i-distance-matrix 06_core-metrics/filtered-core-metrics-5000/generalized-unifrac05-distance-matrix.qza \
+  --m-metadata-file 03_metadata/combined-metadata-simple-oct2020.txt \
+  --p-where "[facility]='CMU'" \
+  --o-filtered-distance-matrix 06_core-metrics/filtered-core-metrics-5000/generalized-unifrac05-CMU-distance-matrix.qza
+
+qiime diversity filter-distance-matrix \
+  --i-distance-matrix 06_core-metrics/filtered-core-metrics-5000/generalized-unifrac05-distance-matrix.qza \
+  --m-metadata-file 03_metadata/combined-metadata-simple-oct2020.txt \
+  --p-where "[facility]='SHSU'" \
+  --o-filtered-distance-matrix 06_core-metrics/filtered-core-metrics-5000/generalized-unifrac05-SHSU-distance-matrix.qza
+  
+qiime diversity filter-distance-matrix \
+  --i-distance-matrix 06_core-metrics/filtered-core-metrics-5000/generalized-unifrac05-distance-matrix.qza \
+  --m-metadata-file 03_metadata/combined-metadata-simple-oct2020.txt \
+  --p-where "[facility]='UTK'" \
+  --o-filtered-distance-matrix 06_core-metrics/filtered-core-metrics-5000/generalized-unifrac05-UTK-distance-matrix.qza
+
+### Make plots
+qiime diversity pcoa \
+	--i-distance-matrix 06_core-metrics/filtered-core-metrics-5000/generalized-unifrac05-CMU-distance-matrix.qza \
+	--o-pcoa 06_core-metrics/filtered-core-metrics-5000/generalized-unifrac05-CMU-pcoa-result.qza
+	
+qiime emperor plot \
+	--i-pcoa 06_core-metrics/filtered-core-metrics-5000/generalized-unifrac05-CMU-pcoa-result.qza \
+	--m-metadata-file 03_metadata/combined-metadata-simple-oct2020.txt \
+	--o-visualization 06_core-metrics/filtered-core-metrics-5000/generalized-unifrac05-CMU-pcoa-emperor.qzv
+	
+	
+qiime diversity pcoa \
+	--i-distance-matrix 06_core-metrics/filtered-core-metrics-5000/generalized-unifrac05-SHSU-distance-matrix.qza \
+	--o-pcoa 06_core-metrics/filtered-core-metrics-5000/generalized-unifrac05-SHSU-pcoa-result.qza
+	
+qiime emperor plot \
+	--i-pcoa 06_core-metrics/filtered-core-metrics-5000/generalized-unifrac05-SHSU-pcoa-result.qza \
+	--m-metadata-file 03_metadata/combined-metadata-simple-oct2020.txt \
+	--o-visualization 06_core-metrics/filtered-core-metrics-5000/generalized-unifrac05-SHSU-pcoa-emperor.qzv
+	
+	
+qiime diversity pcoa \
+	--i-distance-matrix 06_core-metrics/filtered-core-metrics-5000/generalized-unifrac05-UTK-distance-matrix.qza \
+	--o-pcoa 06_core-metrics/filtered-core-metrics-5000/generalized-unifrac05-UTK-pcoa-result.qza
+	
+qiime emperor plot \
+	--i-pcoa 06_core-metrics/filtered-core-metrics-5000/generalized-unifrac05-UTK-pcoa-result.qza \
+	--m-metadata-file 03_metadata/combined-metadata-simple-oct2020.txt \
+	--o-visualization 06_core-metrics/filtered-core-metrics-5000/generalized-unifrac05-UTK-pcoa-emperor.qzv
+
+### Statistical comparison of samples
+qiime diversity beta-group-significance \
+  --i-distance-matrix 06_core-metrics/filtered-core-metrics-5000/generalized-unifrac05-CMU-distance-matrix.qza \
+  --m-metadata-file 03_metadata/combined-metadata-simple-oct2020.txt \
+  --m-metadata-column sample_site \
+  --p-pairwise \
+  --o-visualization 06_core-metrics/filtered-core-metrics-5000/generalized-unifrac05-CMU-sample_site-significance.qzv
+  
+qiime diversity beta-group-significance \
+  --i-distance-matrix 06_core-metrics/filtered-core-metrics-5000/generalized-unifrac05-SHSU-distance-matrix.qza \
+  --m-metadata-file 03_metadata/combined-metadata-simple-oct2020.txt \
+  --m-metadata-column sample_site \
+  --p-pairwise \
+  --o-visualization 06_core-metrics/filtered-core-metrics-5000/generalized-unifrac05-SHSU-sample_site-significance.qzv
+  
+qiime diversity beta-group-significance \
+  --i-distance-matrix 06_core-metrics/filtered-core-metrics-5000/generalized-unifrac05-UTK-distance-matrix.qza \
+  --m-metadata-file 03_metadata/combined-metadata-simple-oct2020.txt \
+  --m-metadata-column sample_site \
+  --p-pairwise \
+  --o-visualization 06_core-metrics/filtered-core-metrics-5000/generalized-unifrac05-UTK-sample_site-significance.qzv
+
+
+
+
+
+##### collapse rarefied plot #####
+## ASV
+qiime tools export \
+  --input-path 06_core-metrics/filtered-core-metrics-5000/rarefied_table.qza \
+  --output-path 04_artifacts-and-visualizations/rarefied_exported-feature-table
+
+mv 04_artifacts-and-visualizations/rarefied_exported-feature-table/feature-table.biom 04_artifacts-and-visualizations/normalized-table.biom
+
+rm -r 04_artifacts-and-visualizations/rarefied_exported-feature-table
+
+
+## Species
+qiime taxa collapse \
+  --i-table 06_core-metrics/filtered-core-metrics-5000/rarefied_table.qza \
+  --i-taxonomy 07_taxonomy/pmi3-16S-nochlomito-silva-taxonomy.qza \
+  --p-level 7 \
+  --o-collapsed-table 04_artifacts-and-visualizations/rarefied_species_table.qza
+
+qiime tools export \
+  --input-path 04_artifacts-and-visualizations/rarefied_species_table.qza \
+  --output-path 04_artifacts-and-visualizations/rarefied_species_exported-feature-table
+
+mv 04_artifacts-and-visualizations/rarefied_species_exported-feature-table/feature-table.biom 04_artifacts-and-visualizations/species-normalized-table.biom
+
+rm -r 04_artifacts-and-visualizations/rarefied_species_exported-feature-table
+
+
+## Genus
+qiime taxa collapse \
+  --i-table 06_core-metrics/filtered-core-metrics-5000/rarefied_table.qza \
+  --i-taxonomy 07_taxonomy/pmi3-16S-nochlomito-silva-taxonomy.qza \
+  --p-level 6 \
+  --o-collapsed-table 04_artifacts-and-visualizations/rarefied_genus_table.qza
+
+qiime tools export \
+  --input-path 04_artifacts-and-visualizations/rarefied_genus_table.qza \
+  --output-path 04_artifacts-and-visualizations/rarefied_genus_exported-feature-table
+
+mv 04_artifacts-and-visualizations/rarefied_genus_exported-feature-table/feature-table.biom 04_artifacts-and-visualizations/genus-normalized-table.biom
+
+rm -r 04_artifacts-and-visualizations/rarefied_genus_exported-feature-table
+
+
+## Family
+qiime taxa collapse \
+  --i-table 06_core-metrics/filtered-core-metrics-5000/rarefied_table.qza \
+  --i-taxonomy 07_taxonomy/pmi3-16S-nochlomito-silva-taxonomy.qza \
+  --p-level 5 \
+  --o-collapsed-table 04_artifacts-and-visualizations/rarefied_family_table.qza
+
+qiime tools export \
+  --input-path 04_artifacts-and-visualizations/rarefied_family_table.qza \
+  --output-path 04_artifacts-and-visualizations/rarefied_family_exported-feature-table
+
+mv 04_artifacts-and-visualizations/rarefied_family_exported-feature-table/feature-table.biom 04_artifacts-and-visualizations/family-normalized-table.biom
+
+rm -r 04_artifacts-and-visualizations/rarefied_family_exported-feature-table
+
+
+## Order
+qiime taxa collapse \
+  --i-table 06_core-metrics/filtered-core-metrics-5000/rarefied_table.qza \
+  --i-taxonomy 07_taxonomy/pmi3-16S-nochlomito-silva-taxonomy.qza \
+  --p-level 4 \
+  --o-collapsed-table 04_artifacts-and-visualizations/rarefied_order_table.qza
+
+qiime tools export \
+  --input-path 04_artifacts-and-visualizations/rarefied_order_table.qza \
+  --output-path 04_artifacts-and-visualizations/rarefied_order_exported-feature-table
+
+mv 04_artifacts-and-visualizations/rarefied_order_exported-feature-table/feature-table.biom 04_artifacts-and-visualizations/order-normalized-table.biom
+
+rm -r 04_artifacts-and-visualizations/rarefied_order_exported-feature-table
+
+
+## Class
+qiime taxa collapse \
+  --i-table 06_core-metrics/filtered-core-metrics-5000/rarefied_table.qza \
+  --i-taxonomy 07_taxonomy/pmi3-16S-nochlomito-silva-taxonomy.qza \
+  --p-level 3 \
+  --o-collapsed-table 04_artifacts-and-visualizations/rarefied_class_table.qza
+
+qiime tools export \
+  --input-path 04_artifacts-and-visualizations/rarefied_class_table.qza \
+  --output-path 04_artifacts-and-visualizations/rarefied_class_exported-feature-table
+
+mv 04_artifacts-and-visualizations/rarefied_class_exported-feature-table/feature-table.biom 04_artifacts-and-visualizations/class-normalized-table.biom
+
+rm -r 04_artifacts-and-visualizations/rarefied_class_exported-feature-table
+
+
+## Phylum
+qiime taxa collapse \
+  --i-table 06_core-metrics/filtered-core-metrics-5000/rarefied_table.qza \
+  --i-taxonomy 07_taxonomy/pmi3-16S-nochlomito-silva-taxonomy.qza \
+  --p-level 2 \
+  --o-collapsed-table 04_artifacts-and-visualizations/rarefied_phylum_table.qza
+
+qiime tools export \
+  --input-path 04_artifacts-and-visualizations/rarefied_phylum_table.qza \
+  --output-path 04_artifacts-and-visualizations/rarefied_phylum_exported-feature-table
+
+mv 04_artifacts-and-visualizations/rarefied_phylum_exported-feature-table/feature-table.biom 04_artifacts-and-visualizations/phylum-normalized-table.biom
+
+rm -r 04_artifacts-and-visualizations/rarefied_phylum_exported-feature-table
+
+###### ANCOM #####
+###### ORDER level to match figure ######
+## SKIN taxa that are significantly different across facility+decomp_period
+qiime feature-table filter-samples \
+  --i-table 04_artifacts-and-visualizations/PMI-16S-nochlomito-filtered-order-table.qza \
+  --m-metadata-file 03_metadata/combined-metadata-simple-nov2020.txt \
+  --p-where "[sample_type]='skin'" \
+  --o-filtered-table 04_artifacts-and-visualizations/PMI-16S-nochlomito-SKIN-filtered-order-table.qza
+  
+qiime feature-table filter-features \
+  --i-table 04_artifacts-and-visualizations/PMI-16S-nochlomito-SKIN-filtered-order-table.qza \
+  --p-min-frequency 50 \
+  --p-min-samples 4 \
+  --o-filtered-table 07_taxonomy/ancom/SKIN-order-abund.qza
+
+qiime composition add-pseudocount \
+  --i-table 07_taxonomy/ancom/SKIN-order-abund.qza \
+  --o-composition-table 07_taxonomy/ancom/SKIN-order-abund-comp.qza
+  
+qiime feature-table filter-samples \
+  --i-table 07_taxonomy/ancom/SKIN-order-abund-comp.qza \
+  --m-metadata-file 03_metadata/combined-metadata-simple-nov2020.txt \
+  --p-where "[facility]='CMU'" \
+  --o-filtered-table 07_taxonomy/ancom/SKIN-CMU-order-abund-comp.qza
+  
+qiime feature-table filter-samples \
+  --i-table 07_taxonomy/ancom/SKIN-order-abund-comp.qza \
+  --m-metadata-file 03_metadata/combined-metadata-simple-nov2020.txt \
+  --p-where "[facility]='SHSU'" \
+  --o-filtered-table 07_taxonomy/ancom/SKIN-SHSU-order-abund-comp.qza
+
+qiime feature-table filter-samples \
+  --i-table 07_taxonomy/ancom/SKIN-order-abund-comp.qza \
+  --m-metadata-file 03_metadata/combined-metadata-simple-nov2020.txt \
+  --p-where "[facility]='UTK'" \
+  --o-filtered-table 07_taxonomy/ancom/SKIN-UTK-order-abund-comp.qza
+  
+
+qiime composition ancom \
+  --i-table 07_taxonomy/ancom/SKIN-order-abund-comp.qza \
+  --m-metadata-file 03_metadata/combined-metadata-simple-nov2020.txt \
+  --m-metadata-column facility_decomp_stage \
+  --o-visualization 07_taxonomy/ancom/ancom-SKIN-order_facility_decomp_stage.qzv
+  
+qiime composition ancom \
+  --i-table 07_taxonomy/ancom/SKIN-order-abund-comp.qza \
+  --m-metadata-file 03_metadata/combined-metadata-simple-nov2020.txt \
+  --m-metadata-column decomp_stage \
+  --o-visualization 07_taxonomy/ancom/ancom-SKIN-order_decomp_stage.qzv
+  
+qiime composition ancom \
+  --i-table 07_taxonomy/ancom/SKIN-CMU-order-abund-comp.qza \
+  --m-metadata-file 03_metadata/combined-metadata-simple-nov2020.txt \
+  --m-metadata-column decomp_stage \
+  --o-visualization 07_taxonomy/ancom/ancom-SKIN-CMU-orderdecomp_stage.qzv
+
+qiime composition ancom \
+  --i-table 07_taxonomy/ancom/SKIN-SHSU-order-abund-comp.qza \
+  --m-metadata-file 03_metadata/combined-metadata-simple-nov2020.txt \
+  --m-metadata-column decomp_stage \
+  --o-visualization 07_taxonomy/ancom/ancom-SKIN-SHSU-order_decomp_stage.qzv
+
+qiime composition ancom \
+  --i-table 07_taxonomy/ancom/SKIN-UTK-order-abund-comp.qza \
+  --m-metadata-file 03_metadata/combined-metadata-simple-nov2020.txt \
+  --m-metadata-column decomp_stage \
+  --o-visualization 07_taxonomy/ancom/ancom-SKIN-UTK-order_decomp_stage.qzv
+
+
+## SOIL taxa that are significantly different across facility+decomp_period
+qiime feature-table filter-samples \
+  --i-table 04_artifacts-and-visualizations/PMI-16S-nochlomito-filtered-order-table.qza \
+  --m-metadata-file 03_metadata/combined-metadata-simple-nov2020.txt \
+  --p-where "[sample_type]='soil'" \
+  --o-filtered-table 04_artifacts-and-visualizations/PMI-16S-nochlomito-SOIL-filtered-order-table.qza
+  
+qiime feature-table filter-features \
+  --i-table 04_artifacts-and-visualizations/PMI-16S-nochlomito-SOIL-filtered-order-table.qza \
+  --p-min-frequency 50 \
+  --p-min-samples 4 \
+  --o-filtered-table 07_taxonomy/ancom/SOIL-order-abund.qza
+
+qiime composition add-pseudocount \
+  --i-table 07_taxonomy/ancom/SOIL-order-abund.qza \
+  --o-composition-table 07_taxonomy/ancom/SOIL-order-abund-comp.qza
+  
+qiime feature-table filter-samples \
+  --i-table 07_taxonomy/ancom/SOIL-order-abund-comp.qza \
+  --m-metadata-file 03_metadata/combined-metadata-simple-nov2020.txt \
+  --p-where "[facility]='CMU'" \
+  --o-filtered-table 07_taxonomy/ancom/SOIL-CMU-order-abund-comp.qza
+  
+qiime feature-table filter-samples \
+  --i-table 07_taxonomy/ancom/SOIL-order-abund-comp.qza \
+  --m-metadata-file 03_metadata/combined-metadata-simple-nov2020.txt \
+  --p-where "[facility]='SHSU'" \
+  --o-filtered-table 07_taxonomy/ancom/SOIL-SHSU-order-abund-comp.qza
+  
+qiime feature-table filter-samples \
+  --i-table 07_taxonomy/ancom/SOIL-order-abund-comp.qza \
+  --m-metadata-file 03_metadata/combined-metadata-simple-nov2020.txt \
+  --p-where "[facility]='UTK'" \
+  --o-filtered-table 07_taxonomy/ancom/SOIL-UTK-order-abund-comp.qza
+  
+  
+qiime composition ancom \
+  --i-table 07_taxonomy/ancom/SOIL-order-abund-comp.qza \
+  --m-metadata-file 03_metadata/combined-metadata-simple-nov2020.txt \
+  --m-metadata-column facility_decomp_stage \
+  --o-visualization 07_taxonomy/ancom/ancom-SOIL-order_facility_decomp_stage.qzv
+
+qiime composition ancom \
+  --i-table 07_taxonomy/ancom/SOIL-order-abund-comp.qza \
+  --m-metadata-file 03_metadata/combined-metadata-simple-nov2020.txt \
+  --m-metadata-column decomp_stage \
+  --o-visualization 07_taxonomy/ancom/ancom-SOIL-order_decomp_stage.qzv
+
+qiime composition ancom \
+  --i-table 07_taxonomy/ancom/SOIL-CMU-order-abund-comp.qza \
+  --m-metadata-file 03_metadata/combined-metadata-simple-nov2020.txt \
+  --m-metadata-column decomp_stage \
+  --o-visualization 07_taxonomy/ancom/ancom-SOIL-CMU-order_decomp_stage.qzv
+  
+qiime composition ancom \
+  --i-table 07_taxonomy/ancom/SOIL-SHSU-order-abund-comp.qza \
+  --m-metadata-file 03_metadata/combined-metadata-simple-nov2020.txt \
+  --m-metadata-column decomp_stage \
+  --o-visualization 07_taxonomy/ancom/ancom-SOIL-SHSU-order_decomp_stage.qzv
+  
+qiime composition ancom \
+  --i-table 07_taxonomy/ancom/SOIL-UTK-order-abund-comp.qza \
+  --m-metadata-file 03_metadata/combined-metadata-simple-nov2020.txt \
+  --m-metadata-column decomp_stage \
+  --o-visualization 07_taxonomy/ancom/ancom-SOIL-UTK-order_decomp_stage.qzv
+
+
+
+## SOIL taxa significantly different across facility
+qiime composition ancom \
+  --i-table 07_taxonomy/ancom/SOIL-order-abund-comp.qza \
+  --m-metadata-file 03_metadata/combined-metadata-simple-nov2020.txt \
+  --m-metadata-column facility \
+  --o-visualization 07_taxonomy/ancom/ancom-SOIL-order_facility.qzv
+
+
+## SOIL taxa significantly different across facility at TIME 0
+qiime feature-table filter-samples \
+  --i-table 07_taxonomy/ancom/SOIL-order-abund-comp.qza \
+  --m-metadata-file 03_metadata/combined-metadata-simple-nov2020.txt \
+  --p-where "[days_since_placement]='0'" \
+  --o-filtered-table 07_taxonomy/ancom/DAY0-order-abund-comp.qza
+  
+qiime composition ancom \
+  --i-table 07_taxonomy/ancom/DAY0-order-abund-comp.qza \
+  --m-metadata-file 03_metadata/combined-metadata-simple-nov2020.txt \
+  --m-metadata-column facility \
+  --o-visualization 07_taxonomy/ancom/ancom-DAY0-order_facility.qzv
+
+########################################################################################
+## Quick classification just to see what happens
+qiime feature-table filter-samples \
+  --i-table 04_artifacts-and-visualizations/PMI-16S-nochlomito-filtered-table.qza \
+  --m-metadata-file 03_metadata/combined-metadata-simple-nov2020.txt \
+  --p-where "[sample_type]='soil'" \
+  --o-filtered-table 04_artifacts-and-visualizations/PMI-16S-nochlomito-SOIL-filtered-table.qza
+
+
+qiime sample-classifier classify-samples \
+  --i-table 04_artifacts-and-visualizations/PMI-16S-nochlomito-SOIL-filtered-table.qza \
+  --m-metadata-file 03_metadata/combined-metadata-simple-nov2020.txt \
+  --m-metadata-column facility \
+  --p-random-state 666 \
+  --p-n-jobs 1 \
+  --output-dir 08_results/facility-sample-classifier-results
+
+
+#########################################################################################
+## Filter and create Beta Div matrix to match Zach's
+#########################################################################################
+## Get feature table with zach's sample IDs
+qiime feature-table filter-samples \
+  --i-table rarefied_table.qza \
+  --m-metadata-file ../../03_metadata/samples-in-shotgun.txt \
+  --o-filtered-table shotgun_only_rarefied_table.qza
+  
+qiime feature-table summarize \
+  --i-table shotgun_only_rarefied_table.qza \
+  --o-visualization shotgun_only_rarefied_table.qzv \
+  --m-sample-metadata-file ../../03_metadata/combined-metadata-simple-oct2020.txt
+
+qiime feature-table group \
+  --i-table shotgun_only_rarefied_table.qza \
+  --p-axis sample \
+  --m-metadata-file ../../03_metadata/shotgun-sample-ids.txt \
+  --m-metadata-column new-sample-ids \
+  --p-mode sum \
+  --o-grouped-table shotgun_labels_rarefied_table.qza
+  
+qiime feature-table summarize \
+  --i-table shotgun_labels_rarefied_table.qza \
+  --o-visualization shotgun_labels_rarefied_table.qzv \
+  --m-sample-metadata-file ../../../../shotgun/qiime2-2020-8/WoL/metadata/shotgun_metadata_q2.txt 
+
+
+## Run general unifrac (0.5)
+qiime diversity beta-phylogenetic \
+  --i-phylogeny ../../05_trees/16S_sepp_tree_filtered.qza \
+  --i-table shotgun_labels_rarefied_table.qza \
+  --p-metric generalized_unifrac \
+  --p-alpha 0.5 \
+  --o-distance-matrix generalized-unifrac05-shotgun-samples-distance-matrix.qza 
+
+qiime diversity pcoa \
+	--i-distance-matrix generalized-unifrac05-shotgun-samples-distance-matrix.qza \
+	--o-pcoa generalized-unifrac05-shotgun-samples-pcoa-result.qza
+	
+qiime emperor plot \
+	--i-pcoa generalized-unifrac05-shotgun-samples-pcoa-result.qza \
+	--m-metadata-file ../../../../shotgun/qiime2-2020-8/WoL/metadata/shotgun_metadata_q2.txt \
+	--o-visualization generalized-unifrac05-shotgun-samples-pcoa-emperor.qzv
+	
+qiime emperor plot \
+  --i-pcoa generalized-unifrac05-shotgun-samples-pcoa-result.qza \
+  --m-metadata-file ../../../../shotgun/qiime2-2020-8/WoL/metadata/shotgun_metadata_q2.txt \
+  --p-custom-axes add_0c \
+  --o-visualization generalized-unifrac05-shotgun-samples-add0c-pcoa-emperor.qzv
+
+
+
+# Mantel test to compare correlation between 16S and shotgun
+qiime diversity mantel \
+  --i-dm1 generalized-unifrac05-shotgun-samples-distance-matrix.qza \
+  --i-dm2 ../../../../../shotgun/qiime2-2020-8/WoL/core-metrics-results-all-9039/beta_diversity/matrices/generalized-unifrac05-distance-matrix.qza \
+  --p-method spearman \
+  --p-label1 amplicon \
+  --p-label2 shotgun \
+  --p-intersect-ids \
+  --o-visualization amplicon-vs-shotgun-general-unifrac05-mantel2.qzv
+
+
+##### Same but with bray-curtis
+qiime diversity beta \
+  --i-table shotgun_labels_rarefied_table.qza \
+  --p-metric braycurtis \
+  --o-distance-matrix braycurtis-shotgun-samples-distance-matrix.qza 
+  
+qiime diversity pcoa \
+	--i-distance-matrix braycurtis-shotgun-samples-distance-matrix.qza  \
+	--o-pcoa braycurtis-shotgun-samples-pcoa-result.qza
+  
+qiime emperor plot \
+	--i-pcoa braycurtis-shotgun-samples-pcoa-result.qza \
+	--m-metadata-file ../../../../../shotgun/qiime2-2020-8/WoL/metadata/shotgun_metadata_q2.txt \
+	--o-visualization braycurtis-shotgun-samples-pcoa-emperor.qzv
+	
+qiime emperor plot \
+  --i-pcoa braycurtis-shotgun-samples-pcoa-result.qza \
+  --m-metadata-file ../../../../../shotgun/qiime2-2020-8/WoL/metadata/shotgun_metadata_q2.txt \
+  --p-custom-axes add_0c \
+  --o-visualization braycurtis-shotgun-samples-add0c-pcoa-emperor.qzv
+
+
+qiime diversity mantel \
+  --i-dm1 braycurtis-shotgun-samples-distance-matrix.qza  \
+  --i-dm2 ../../../../../shotgun/qiime2-2020-8/WoL/core-metrics-results-all-9039/beta_diversity/matrices/bray_curtis_distance_matrix.qza \
+  --p-method spearman \
+  --p-label1 amplicon \
+  --p-label2 shotgun \
+  --p-intersect-ids \
+  --o-visualization amplicon-vs-shotgun-braycurtis-mantel.qzv
+  
+#########################################################################################
+## Procrustes analysis
+######################################################################################### 
+## Metagenomics
+qiime diversity pcoa \
+  --i-distance-matrix generalized-unifrac05-shotgun-samples-distance-matrix.qza \
+  --p-number-of-dimensions 3 \
+  --o-pcoa generalized-unifrac05-shotgun-samples-pcoa-results-3.qza
+  
+qiime diversity filter-distance-matrix \
+  --i-distance-matrix ../../../../../shotgun/qiime2-2020-8/WoL/core-metrics-results-all-9039/beta_diversity/matrices/generalized-unifrac05-distance-matrix.qza \
+  --m-metadata-file samples-to-keep.txt \
+  --o-filtered-distance-matrix metagenomics-generalized-unifrac05-distance-matrix.qza
+ 
+qiime diversity pcoa \
+  --i-distance-matrix metagenomics-generalized-unifrac05-distance-matrix.qza \
+  --p-number-of-dimensions 3 \
+  --o-pcoa metagenomics-generalized-unifrac05-pcoa-results-3.qza
+
+qiime diversity procrustes-analysis \
+  --i-reference generalized-unifrac05-shotgun-samples-pcoa-results-3.qza \
+  --i-other metagenomics-generalized-unifrac05-pcoa-results-3.qza \
+  --p-dimensions 3 \
+  --output-dir amplicon-vs-shotgun-procrustes
+  
+qiime emperor procrustes-plot \
+    --i-reference-pcoa amplicon-vs-shotgun-procrustes/transformed_reference.qza \
+    --i-other-pcoa amplicon-vs-shotgun-procrustes/transformed_other.qza \
+    --m-metadata-file  ../../../../../shotgun/qiime2-2020-8/WoL/metadata/shotgun_metadata_q2.txt \
+    --p-custom-axes add_0c \
+    --o-visualization amplicon-vs-shotgun-procrustes/procrustes_emperor_add.qzv
+
+qiime emperor procrustes-plot \
+    --i-reference-pcoa amplicon-vs-shotgun-procrustes/transformed_reference.qza \
+    --i-other-pcoa amplicon-vs-shotgun-procrustes/transformed_other.qza \
+    --m-metadata-file  ../../../../../shotgun/qiime2-2020-8/WoL/metadata/shotgun_metadata_q2.txt \
+    --o-visualization amplicon-vs-shotgun-procrustes/procrustes_emperor.qzv
+  
+  
+## Metabolomics
+qiime diversity beta \
+  --i-table skin-16S-mmvec.qza \
+  --p-metric braycurtis \
+   --o-distance-matrix 16S-skin-braycurtis-distance-matrix.qza
+
+qiime diversity beta \
+  --i-table soil-16S-mmvec.qza \
+  --p-metric braycurtis \
+   --o-distance-matrix 16S-soil-braycurtis-distance-matrix.qza
+
+qiime diversity beta \
+  --i-table skin-metab-mmvec.qza \
+  --p-metric braycurtis \
+   --o-distance-matrix metab-skin-braycurtis-distance-matrix.qza
+
+qiime diversity beta \
+  --i-table soil-metab-mmvec.qza \
+  --p-metric braycurtis \
+   --o-distance-matrix metab-soil-braycurtis-distance-matrix.qza
+
+qiime diversity pcoa \
+  --i-distance-matrix 16S-skin-braycurtis-distance-matrix.qza \
+  --p-number-of-dimensions 3 \
+  --o-pcoa 16S-skin-braycurtis-pcoa-results-3.qza
+
+qiime diversity pcoa \
+  --i-distance-matrix 16S-soil-braycurtis-distance-matrix.qza \
+  --p-number-of-dimensions 3 \
+  --o-pcoa 16S-soil-braycurtis-pcoa-results-3.qza
+
+qiime diversity pcoa \
+  --i-distance-matrix metab-skin-braycurtis-distance-matrix.qza \
+  --p-number-of-dimensions 3 \
+  --o-pcoa metab-skin-braycurtis-pcoa-results-3.qza
+
+qiime diversity pcoa \
+  --i-distance-matrix metab-soil-braycurtis-distance-matrix.qza \
+  --p-number-of-dimensions 3 \
+  --o-pcoa metab-soil-braycurtis-pcoa-results-3.qza
+  
+  
+  
+qiime diversity procrustes-analysis \
+  --i-reference 16S-skin-braycurtis-pcoa-results-3.qza \
+  --i-other metab-skin-braycurtis-pcoa-results-3.qza \
+  --p-dimensions 3 \
+  --output-dir skin
+
+qiime diversity procrustes-analysis \
+  --i-reference 16S-soil-braycurtis-pcoa-results-3.qza \
+  --i-other metab-soil-braycurtis-pcoa-results-3.qza \
+  --p-dimensions 3 \
+  --output-dir soil
+  
+  
+qiime emperor procrustes-plot \
+    --i-reference-pcoa skin/transformed_reference.qza \
+    --i-other-pcoa skin/transformed_other.qza \
+    --m-metadata-file  ../../../../03_metadata/combined-metadata-simple-oct2020.txt \
+    --p-custom-axes add_0c \
+    --o-visualization 16SvMetab_skin_procrustes_emperor_add.qzv
+    
+qiime emperor procrustes-plot \
+    --i-reference-pcoa soil/transformed_reference.qza \
+    --i-other-pcoa soil/transformed_other.qza \
+    --m-metadata-file  ../../../../03_metadata/combined-metadata-simple-oct2020.txt \
+    --p-custom-axes add_0c \
+    --o-visualization 16SvMetab_soil_procrustes_emperor_add.qzv
+    
+    
+qiime diversity mantel \
+  --i-dm1 16S-skin-braycurtis-distance-matrix.qza  \
+  --i-dm2 metab-skin-braycurtis-distance-matrix.qza \
+  --p-method spearman \
+  --p-label1 amplicon \
+  --p-label2 shotgun \
+  --p-intersect-ids \
+  --o-visualization amplicon-vs-metab-skin-braycurtis-mantel.qzv
+  
+qiime diversity mantel \
+  --i-dm1 16S-soil-braycurtis-distance-matrix.qza  \
+  --i-dm2 metab-soil-braycurtis-distance-matrix.qza \
+  --p-method spearman \
+  --p-label1 amplicon \
+  --p-label2 shotgun \
+  --p-intersect-ids \
+  --o-visualization amplicon-vs-metab-soil-braycurtis-mantel.qzv
+  
+  
+  
+### Try again but rarefy
+qiime diversity core-metrics \
+  --i-table skin-16S-mmvec.qza \
+  --p-sampling-depth 5000 \
+  --m-metadata-file  ../../../../03_metadata/combined-metadata-simple-oct2020.txt \
+  --output-dir skin-core-metrics
+  
+qiime diversity core-metrics \
+  --i-table soil-16S-mmvec.qza \
+  --p-sampling-depth 5000 \
+  --m-metadata-file  ../../../../03_metadata/combined-metadata-simple-oct2020.txt \
+  --output-dir soil-core-metrics
+
+
+
+qiime diversity filter-distance-matrix \
+  --i-distance-matrix metab-skin-braycurtis-distance-matrix.qza \
+  --m-metadata-file skin-samples-to-keep.txt \
+  --o-filtered-distance-matrix metab-skin-braycurtis-distance-matrix-filtered.qza
+  
+qiime diversity filter-distance-matrix \
+  --i-distance-matrix metab-soil-braycurtis-distance-matrix.qza \
+  --m-metadata-file soil-samples-to-keep.txt \
+  --o-filtered-distance-matrix metab-soil-braycurtis-distance-matrix-filtered.qza
+
+
+
+qiime diversity pcoa \
+  --i-distance-matrix metab-skin-braycurtis-distance-matrix-filtered.qza \
+  --p-number-of-dimensions 3 \
+  --o-pcoa metab-skin-braycurtis-pcoa-results-filtered-3.qza
+  
+qiime diversity pcoa \
+  --i-distance-matrix metab-soil-braycurtis-distance-matrix-filtered.qza \
+  --p-number-of-dimensions 3 \
+  --o-pcoa metab-soil-braycurtis-pcoa-results-filtered-3.qza
+
+qiime diversity pcoa \
+  --i-distance-matrix skin-core-metrics/bray_curtis_distance_matrix.qza \
+  --p-number-of-dimensions 3 \
+  --o-pcoa 16S-skin-braycurtis-pcoa-results-rarefied-3.qza
+
+qiime diversity pcoa \
+  --i-distance-matrix soil-core-metrics/bray_curtis_distance_matrix.qza \
+  --p-number-of-dimensions 3 \
+  --o-pcoa 16S-soil-braycurtis-pcoa-results-rarefied-3.qza
+  
+
+
+qiime diversity procrustes-analysis \
+  --i-reference 16S-skin-braycurtis-pcoa-results-rarefied-3.qza \
+  --i-other metab-skin-braycurtis-pcoa-results-filtered-3.qza \
+  --p-dimensions 3 \
+  --output-dir skin_rarefied
+  
+qiime diversity procrustes-analysis \
+  --i-reference 16S-soil-braycurtis-pcoa-results-rarefied-3.qza \
+  --i-other metab-soil-braycurtis-pcoa-results-filtered-3.qza \
+  --p-dimensions 3 \
+  --output-dir soil_rarefied
+
+
+qiime emperor procrustes-plot \
+    --i-reference-pcoa skin_rarefied/transformed_reference.qza \
+    --i-other-pcoa skin_rarefied/transformed_other.qza \
+    --m-metadata-file  ../../../../03_metadata/combined-metadata-simple-oct2020.txt \
+    --p-custom-axes add_0c \
+    --o-visualization 16SvMetab_skin_procrustes_rarefied_emperor_add.qzv
+    
+qiime emperor procrustes-plot \
+    --i-reference-pcoa soil_rarefied/transformed_reference.qza \
+    --i-other-pcoa soil_rarefied/transformed_other.qza \
+    --m-metadata-file  ../../../../03_metadata/combined-metadata-simple-oct2020.txt \
+    --p-custom-axes add_0c \
+    --o-visualization 16SvMetab_soil_procrustes_rarefied_emperor_add.qzv
+
+
+qiime diversity mantel \
+  --i-dm1 skin-core-metrics/bray_curtis_distance_matrix.qza \
+  --i-dm2 metab-skin-braycurtis-distance-matrix-filtered.qza \
+  --p-method spearman \
+  --p-label1 amplicon \
+  --p-label2 metabolomics \
+  --p-intersect-ids \
+  --o-visualization amplicon-vs-metab-skin-braycurtis-mantel2.qzv
+  
+qiime diversity mantel \
+  --i-dm1 soil-core-metrics/bray_curtis_distance_matrix.qza \
+  --i-dm2 metab-soil-braycurtis-distance-matrix-filtered.qza \
+  --p-method spearman \
+  --p-label1 amplicon \
+  --p-label2 metabolomics \
+  --p-intersect-ids \
+  --o-visualization amplicon-vs-metab-soil-braycurtis-mantel2.qzv
+
+
+
+## Functional tables
+qiime diversity beta \
+  --i-table ../../../../../shotgun/qiime2-2020-8/eggnog/feature_tables/eggnog_table-final-tss.qza \
+  --p-metric braycurtis \
+  --o-distance-matrix shotgun-braycurtis-distance-matrix.qza
+  
+qiime diversity filter-distance-matrix \
+  --i-distance-matrix shotgun-braycurtis-distance-matrix.qza \
+  --m-metadata-file samples-to-keep.txt \
+  --o-filtered-distance-matrix shotgun-braycurtis-filtered-distance-matrix.qza
+ 
+qiime diversity pcoa \
+  --i-distance-matrix shotgun-braycurtis-filtered-distance-matrix.qza \
+  --p-number-of-dimensions 3 \
+  --o-pcoa shotgun-braycurtis-filtered-pcoa-results-3.qza
+
+
+shotgun_labels_rarefied_table.qza
+qiime diversity beta \
+  --i-table ../shotgun_labels_rarefied_table.qza \
+  --p-metric braycurtis \
+  --o-distance-matrix 16S-braycurtis-distance-matrix.qza
+  
+qiime diversity filter-distance-matrix \
+  --i-distance-matrix 16S-braycurtis-distance-matrix.qza \
+  --m-metadata-file samples-to-keep.txt \
+  --o-filtered-distance-matrix 16S-braycurtis-filtered-distance-matrix.qza
+ 
+qiime diversity pcoa \
+  --i-distance-matrix 16S-braycurtis-filtered-distance-matrix.qza \
+  --p-number-of-dimensions 3 \
+  --o-pcoa 16S-braycurtis-filtered-pcoa-results-3.qza
+
+
+qiime diversity procrustes-analysis \
+  --i-reference 16S-braycurtis-filtered-pcoa-results-3.qza \
+  --i-other shotgun-braycurtis-filtered-pcoa-results-3.qza \
+  --p-dimensions 3 \
+  --output-dir amplicon-vs-shotgun-funct-procrustes
+  
+qiime emperor procrustes-plot \
+    --i-reference-pcoa amplicon-vs-shotgun-funct-procrustes/transformed_reference.qza \
+    --i-other-pcoa amplicon-vs-shotgun-funct-procrustes/transformed_other.qza \
+    --m-metadata-file  ../../../../../shotgun/qiime2-2020-8/WoL/metadata/shotgun_metadata_q2.txt \
+    --p-custom-axes add_0c \
+    --o-visualization amplicon-vs-shotgun-funct-procrustes/procrustes_emperor_add.qzv
+
+qiime emperor procrustes-plot \
+    --i-reference-pcoa amplicon-vs-shotgun-funct-procrustes/transformed_reference.qza \
+    --i-other-pcoa amplicon-vs-shotgun-funct-procrustes/transformed_other.qza \
+    --m-metadata-file  ../../../../../shotgun/qiime2-2020-8/WoL/metadata/shotgun_metadata_q2.txt \
+    --o-visualization amplicon-vs-shotgun-funct-procrustes/procrustes_emperor.qzv
+    
+    
+    
+qiime diversity mantel \
+  --i-dm1 16S-braycurtis-filtered-distance-matrix.qza \
+  --i-dm2 shotgun-braycurtis-filtered-distance-matrix.qza \
+  --p-method spearman \
+  --p-label1 amplicon \
+  --p-label2 shotgun \
+  --p-intersect-ids \
+  --o-visualization amplicon-vs-shotgun-braycurtis-mantel.qzv
+
+#########################################################################################
+## Longitudinal Analysis
+#########################################################################################
+## Goal: volatility plot comparing control soil and gravesoil samples over time
+## For both alpha and beta diversity
+
+# Everything
+qiime longitudinal volatility \
+  --m-metadata-file 03_metadata/combined-metadata-simple-nov2020.txt \
+  --m-metadata-file 06_core-metrics/filtered-core-metrics-5000/generalized-unifrac05-pcoa-result.qza \
+  --p-state-column add_0c \
+  --p-individual-id-column host_subject_id \
+  --p-default-group-column 'sample_type_soil_control' \
+  --p-default-metric 'Axis 1' \
+  --o-visualization 06_core-metrics/filtered-core-metrics-5000/longitudinal/beta_volatility.qzv
+
+qiime longitudinal volatility \
+  --m-metadata-file 03_metadata/combined-metadata-simple-nov2020.txt \
+  --m-metadata-file 06_core-metrics/filtered-core-metrics-5000/observed_otus_vector.qza \
+  --p-state-column add_0c \
+  --p-individual-id-column host_subject_id \
+  --p-default-group-column 'sample_type_soil_control' \
+  --p-default-metric 'observed_otus' \
+  --o-visualization 06_core-metrics/filtered-core-metrics-5000/longitudinal/richness_volatility.qzv
+
+# New metadata -> no skin
+qiime longitudinal volatility \
+  --m-metadata-file 03_metadata/longitudinal-metadata.txt \
+  --m-metadata-file 06_core-metrics/filtered-core-metrics-5000/generalized-unifrac05-pcoa-result.qza \
+  --p-state-column add_0c \
+  --p-individual-id-column host_subject_id \
+  --p-default-group-column 'facility_soil' \
+  --p-default-metric 'Axis 1' \
+  --o-visualization 06_core-metrics/filtered-core-metrics-5000/longitudinal/beta_volatility.qzv
+
+
+# By Facility
+## Beta
+qiime longitudinal volatility \
+  --m-metadata-file 03_metadata/longitudinal-CMU-metadata.txt \
+  --m-metadata-file 06_core-metrics/filtered-core-metrics-5000/generalized-unifrac05-pcoa-result.qza \
+  --p-state-column add_0c \
+  --p-individual-id-column host_subject_id \
+  --p-default-group-column 'sample_type_soil_control' \
+  --p-default-metric 'Axis 1' \
+  --o-visualization 06_core-metrics/filtered-core-metrics-5000/longitudinal/CMU_beta_volatility.qzv
+
+qiime longitudinal volatility \
+  --m-metadata-file 03_metadata/longitudinal-SHSU-metadata.txt \
+  --m-metadata-file 06_core-metrics/filtered-core-metrics-5000/generalized-unifrac05-pcoa-result.qza \
+  --p-state-column add_0c \
+  --p-individual-id-column host_subject_id \
+  --p-default-group-column 'sample_type_soil_control' \
+  --p-default-metric 'Axis 1' \
+  --o-visualization 06_core-metrics/filtered-core-metrics-5000/longitudinal/SHSU_beta_volatility.qzv
+
+qiime longitudinal volatility \
+  --m-metadata-file 03_metadata/longitudinal-UTK-metadata.txt \
+  --m-metadata-file 06_core-metrics/filtered-core-metrics-5000/generalized-unifrac05-pcoa-result.qza \
+  --p-state-column add_0c \
+  --p-individual-id-column host_subject_id \
+  --p-default-group-column 'sample_type_soil_control' \
+  --p-default-metric 'Axis 1' \
+  --o-visualization 06_core-metrics/filtered-core-metrics-5000/longitudinal/UTK_beta_volatility.qzv
+
+
+## Richness
+qiime longitudinal volatility \
+  --m-metadata-file 03_metadata/longitudinal-CMU-metadata.txt \
+  --m-metadata-file 06_core-metrics/filtered-core-metrics-5000/observed_otus_vector.qza \
+  --p-state-column add_0c \
+  --p-individual-id-column host_subject_id \
+  --p-default-group-column 'sample_type_soil_control' \
+  --p-default-metric 'observed_otus' \
+  --o-visualization 06_core-metrics/filtered-core-metrics-5000/longitudinal/CMU_richness_volatility.qzv
+
+qiime longitudinal volatility \
+  --m-metadata-file 03_metadata/longitudinal-SHSU-metadata.txt \
+  --m-metadata-file 06_core-metrics/filtered-core-metrics-5000/observed_otus_vector.qza \
+  --p-state-column add_0c \
+  --p-individual-id-column host_subject_id \
+  --p-default-group-column 'sample_type_soil_control' \
+  --p-default-metric 'observed_otus' \
+  --o-visualization 06_core-metrics/filtered-core-metrics-5000/longitudinal/SHSU_richness_volatility.qzv
+  
+qiime longitudinal volatility \
+  --m-metadata-file 03_metadata/longitudinal-UTK-metadata.txt \
+  --m-metadata-file 06_core-metrics/filtered-core-metrics-5000/observed_otus_vector.qza \
+  --p-state-column add_0c \
+  --p-individual-id-column host_subject_id \
+  --p-default-group-column 'sample_type_soil_control' \
+  --p-default-metric 'observed_otus' \
+  --o-visualization 06_core-metrics/filtered-core-metrics-5000/longitudinal/UTK_richness_volatility.qzv
+
+## Faiths
+qiime longitudinal volatility \
+  --m-metadata-file 03_metadata/longitudinal-CMU-metadata.txt \
+  --m-metadata-file 06_core-metrics/filtered-core-metrics-5000/faith_pd_vector.qza \
+  --p-state-column add_0c \
+  --p-individual-id-column host_subject_id \
+  --p-default-group-column 'sample_type_soil_control' \
+  --p-default-metric 'faith_pd' \
+  --o-visualization 06_core-metrics/filtered-core-metrics-5000/longitudinal/CMU_faiths_volatility.qzv
+
+qiime longitudinal volatility \
+  --m-metadata-file 03_metadata/longitudinal-SHSU-metadata.txt \
+  --m-metadata-file 06_core-metrics/filtered-core-metrics-5000/faith_pd_vector.qza \
+  --p-state-column add_0c \
+  --p-individual-id-column host_subject_id \
+  --p-default-group-column 'sample_type_soil_control' \
+  --p-default-metric 'faith_pd' \
+  --o-visualization 06_core-metrics/filtered-core-metrics-5000/longitudinal/SHSU_faiths_volatility.qzv
+
+qiime longitudinal volatility \
+  --m-metadata-file 03_metadata/longitudinal-UTK-metadata.txt \
+  --m-metadata-file 06_core-metrics/filtered-core-metrics-5000/faith_pd_vector.qza \
+  --p-state-column add_0c \
+  --p-individual-id-column host_subject_id \
+  --p-default-group-column 'sample_type_soil_control' \
+  --p-default-metric 'faith_pd' \
+  --o-visualization 06_core-metrics/filtered-core-metrics-5000/longitudinal/UTK_faiths_volatility.qzv
+  
+  
+## Skin vs soil over time
+qiime longitudinal volatility \
+  --m-metadata-file 03_metadata/combined-metadata-simple-nov2020.txt \
+  --m-metadata-file 06_core-metrics/filtered-core-metrics-5000/generalized-unifrac05-pcoa-result.qza \
+  --p-state-column add_0c \
+  --p-individual-id-column indiv_id \
+  --p-default-group-column 'sample_type_soil_control' \
+  --p-default-metric 'Axis 1' \
+  --o-visualization 06_core-metrics/filtered-core-metrics-5000/longitudinal/skinvsoil_beta_volatility.qzv
+  
+
+
+### ECOLOGY
+qiime feature-table filter-samples \
+  --i-table 06_core-metrics/filtered-core-metrics-5000/rarefied_table.qza \
+  --m-metadata-file 03_metadata/combined-metadata-ecology.txt \
+  --p-where "[keep]='yes'" \
+  --o-filtered-table ecology_tables/soil_table.qza
+  
+qiime feature-table group \
+  --i-table ecology_tables/soil_table.qza \
+  --p-axis sample \
+  --m-metadata-file 03_metadata/combined-metadata-ecology.txt \
+  --m-metadata-column eco-grouping \
+  --p-mode sum \
+  --o-grouped-table ecology_tables/soil_grouped_table.qza
+
+qiime tools export \
+--input-path ecology_tables/soil_grouped_table.qza \
+--output-path ecology_tables/soil_grouped_table
+
+biom convert -i ecology_tables/soil_grouped_table/feature-table.biom -o ecology_tables/soil_grouped_table.tsv --to-tsv
+
+rm -r ecology_tables/soil_grouped_table
+
+
+
+biom convert -i 06_core-metrics/filtered-core-metrics-5000/rarefied_table2.csv -o ecology_tables/rarefied_table2.biom --table-type="OTU table" --to-json
+
+
+
+
+
+
+
+
+
+
+
+### Collapse Zach's tables
+cd multi-omics_data/shotgun/qiime2-2020-8/WoL/
+
+#genus
+qiime taxa collapse \
+  --i-table feature_tables/WoL_table-decontam-minfreq50-500k-no-mito-no-chloro.qza \
+  --i-taxonomy taxonomy/WoL_taxonomy.qza \
+  --p-level 6 \
+  --o-collapsed-table feature_tables/final-genus-table.qza
+
+#relative frequency
+qiime feature-table relative-frequency \
+--i-table feature_tables/final-genus-table.qza \
+--o-relative-frequency-table feature_tables/final-genus-relfreq-table.qza
+
+qiime tools export \
+--input-path feature_tables/final-genus-relfreq-table.qza \
+--output-path feature_tables/final-genus-relfreq-table
+
+biom convert -i feature_tables/final-genus-relfreq-table/feature-table.biom -o feature_tables/final-genus-relfreq-table.tsv --to-tsv
+
+rm -r feature_tables/final-genus-relfreq-table
+
+#class
+qiime taxa collapse \
+  --i-table feature_tables/WoL_table-decontam-minfreq50-500k-no-mito-no-chloro.qza \
+  --i-taxonomy taxonomy/WoL_taxonomy.qza \
+  --p-level 3 \
+  --o-collapsed-table feature_tables/final-class-table.qza
+
+#relative frequency
+qiime feature-table relative-frequency \
+--i-table feature_tables/final-class-table.qza \
+--o-relative-frequency-table feature_tables/final-class-relfreq-table.qza
+
+qiime tools export \
+--input-path feature_tables/final-class-relfreq-table.qza \
+--output-path feature_tables/final-class-relfreq-table
+
+biom convert -i feature_tables/final-class-relfreq-table/feature-table.biom -o feature_tables/final-class-relfreq-table.tsv --to-tsv
+
+rm -r feature_tables/final-class-relfreq-table
+
+
+
+#phylum
+qiime taxa collapse \
+  --i-table feature_tables/WoL_table-decontam-minfreq50-500k-no-mito-no-chloro.qza \
+  --i-taxonomy taxonomy/WoL_taxonomy.qza \
+  --p-level 2 \
+  --o-collapsed-table feature_tables/final-phylum-table.qza
+
+#relative frequency
+qiime feature-table relative-frequency \
+--i-table feature_tables/final-phylum-table.qza \
+--o-relative-frequency-table feature_tables/final-phylum-relfreq-table.qza
+
+qiime tools export \
+--input-path feature_tables/final-phylum-relfreq-table.qza \
+--output-path feature_tables/final-phylum-relfreq-table
+
+biom convert -i feature_tables/final-phylum-relfreq-table/feature-table.biom -o feature_tables/final-phylum-relfreq-table.tsv --to-tsv
+
+rm -r feature_tables/final-phylum-relfreq-table
+
+
+
+
+
+
+#########################################################################################
+## Day 0 Analysis
+#########################################################################################
+## Filter
+qiime feature-table filter-samples \
+  --i-table 04_artifacts-and-visualizations/PMI-16S-nochlomito-SOIL-filtered-table.qza \
+  --m-metadata-file 03_metadata/combined-metadata-simple-nov2020.txt \
+  --p-where "[days_since_placement] = '0'" \
+  --o-filtered-table 04_artifacts-and-visualizations/PMI-16S-nochlomito-DAY0-filtered-table.qza
+
+## Core metrics
+qiime diversity core-metrics-phylogenetic \
+  --i-table 04_artifacts-and-visualizations/PMI-16S-nochlomito-DAY0-filtered-table.qza \
+  --i-phylogeny 05_trees/16S_sepp_tree_filtered.qza \
+  --m-metadata-file 03_metadata/combined-metadata-simple-nov2020.txt \
+  --p-sampling-depth 5000 \
+  --output-dir 06_core-metrics/DAY0-filtered-core-metrics-5000
+  
+## Alpha Diversity Analysis
+qiime diversity alpha-group-significance \
+  --i-alpha-diversity 06_core-metrics/DAY0-filtered-core-metrics-5000/observed_features_vector.qza \
+  --m-metadata-file 03_metadata/combined-metadata-simple-nov2020.txt \
+  --o-visualization 06_core-metrics/DAY0-filtered-core-metrics-5000/observed_features_group_significance.qzv
+
+qiime diversity alpha-group-significance \
+  --i-alpha-diversity 06_core-metrics/DAY0-filtered-core-metrics-5000/shannon_vector.qza \
+  --m-metadata-file 03_metadata/combined-metadata-simple-nov2020.txt \
+  --o-visualization 06_core-metrics/DAY0-filtered-core-metrics-5000/shannon_group_significance.qzv
+
+qiime diversity alpha-group-significance \
+  --i-alpha-diversity 06_core-metrics/DAY0-filtered-core-metrics-5000/faith_pd_vector.qza \
+  --m-metadata-file 03_metadata/combined-metadata-simple-nov2020.txt \
+  --o-visualization 06_core-metrics/DAY0-filtered-core-metrics-5000/faith_pd_group_significance.qzv
+
+
+## Beta Diversity Analysis
+qiime diversity beta-phylogenetic \
+  --i-phylogeny 05_trees/16S_sepp_tree_filtered.qza \
+  --i-table 06_core-metrics/DAY0-filtered-core-metrics-5000/rarefied_table.qza \
+  --p-metric generalized_unifrac \
+  --p-alpha 0.5 \
+  --o-distance-matrix 06_core-metrics/DAY0-filtered-core-metrics-5000/generalized-unifrac05-distance-matrix.qza 
+
+qiime diversity pcoa \
+	--i-distance-matrix 06_core-metrics/DAY0-filtered-core-metrics-5000/generalized-unifrac05-distance-matrix.qza \
+	--o-pcoa 06_core-metrics/DAY0-filtered-core-metrics-5000/generalized-unifrac05-pcoa-result.qza
+	
+qiime emperor plot \
+	--i-pcoa 06_core-metrics/DAY0-filtered-core-metrics-5000/generalized-unifrac05-pcoa-result.qza \
+	--m-metadata-file 03_metadata/combined-metadata-simple-nov2020.txt \
+	--o-visualization 06_core-metrics/DAY0-filtered-core-metrics-5000/generalized-unifrac05-pcoa-emperor.qzv
+
+qiime diversity beta-group-significance \
+  --i-distance-matrix 06_core-metrics/DAY0-filtered-core-metrics-5000/generalized-unifrac05-distance-matrix.qza \
+  --m-metadata-file 03_metadata/combined-metadata-simple-nov2020.txt \
+  --m-metadata-column facility \
+  --p-pairwise \
+  --o-visualization 06_core-metrics/filtered-core-metrics-5000/generalized-unifrac05-CMU-facility-significance.qzv
+
+## ANCOM
+qiime feature-table filter-features \
+  --i-table 04_artifacts-and-visualizations/PMI-16S-nochlomito-DAY0-filtered-table.qza \
+  --p-min-frequency 50 \
+  --p-min-samples 4 \
+  --o-filtered-table 07_taxonomy/ancom/DAY0-asv-abund.qza
+
+qiime composition add-pseudocount \
+  --i-table 07_taxonomy/ancom/DAY0-asv-abund.qza \
+  --o-composition-table 07_taxonomy/ancom/DAY0-asv-abund-comp.qza
+  
+qiime composition ancom \
+  --i-table 07_taxonomy/ancom/DAY0-asv-abund-comp.qza \
+  --m-metadata-file 03_metadata/combined-metadata-simple-nov2020.txt \
+  --m-metadata-column facility \
+  --o-visualization 07_taxonomy/ancom/DAY0-asv-facility.qzv
+
+
+  
+#########################################################################################
+#########################################################################################
+## Combined 16S and 18S for ML
+#########################################################################################
+#########################################################################################
+cd /scratch/summit/aerielb\@colostate.edu/PMI3_combined_16S
+
+## Just Species Level
+## Merge
+qiime feature-table merge \
+  --i-tables 04_artifacts-and-visualizations/rarefied_species_table.qza \
+  --i-tables ../PMI3_combined/04_artifacts-and-visualizations/18S_rarefied_species_table.qza \
+  --p-overlap-method sum \
+  --o-merged-table 04_artifacts-and-visualizations/all-amplicon-normalized-species-table.qza
+
+qiime tools export \
+  --input-path 04_artifacts-and-visualizations/all-amplicon-species-table.qza \
+  --output-path 04_artifacts-and-visualizations/all-amplicon-species-directory
+  
+mv 04_artifacts-and-visualizations/all-amplicon-species-directory/feature-table.biom 04_artifacts-and-visualizations/all-amplicon-species.biom
+
+rm -r 04_artifacts-and-visualizations/all-amplicon-species-directory
+
+
+
+
+
+
+
+
+
+
+
+
+
+../04_artifacts-and-visualizations/species-normalized-table.biom
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

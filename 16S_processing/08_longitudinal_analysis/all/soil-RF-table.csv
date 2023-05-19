@@ -1,0 +1,1502 @@
+﻿SampleID,Helcococcus_seattlensis,sample_site,add_0c,facility,decomp_stage,host_subject_id
+soil.hip.CMU.16.03.2016.3.day19,0.001291275,soil.hip,153.3333333,CMU,active,CMU_Mrs._16_03
+soil.face.CMU.16.04.2016.mo.day10,0,soil.face,68.05555556,CMU,active,CMU_Mr._16_04
+soil.face.UTK.K016.02.2016.04.24.day12,0.003271675,soil.face,203.3333333,UTK,advanced,UTK.K016.02
+soil.face.UTK.K016.01.2016.04.21.day17,0.000313414,soil.face,242.2222222,UTK,advanced,UTK.K016.01
+soil.hip.UTK.K016.02.2016.04.27.day15,0.00385472,soil.hip,269.4444445,UTK,advanced,UTK.K016.02
+soil.face.CMU.16.03.2016.3.day11,0,soil.face,89.72222223,CMU,active,CMU_Mrs._16_03
+soil.hip.UTK.K016.02.2016.04.26.day14,0.003518374,soil.hip,245.5555556,UTK,advanced,UTK.K016.02
+soil.face.UTK.K016.01.2016.04.18.day14,0,soil.face,176.9444445,UTK,active,UTK.K016.01
+soil.face.CMU.16.05.2016.mo.day21,0,soil.face,214.1666667,CMU,advanced,CMU_Mrs._16_05
+soil.face.CMU.16.05.2016.mo.day8,0,soil.face,56.66666667,CMU,active,CMU_Mrs._16_05
+soil.hip.CMU.16.05.2016.mo.day3,0,soil.hip,11.38888889,CMU,early,CMU_Mrs._16_05
+soil.hip.UTK.K016.01.2016.04.23.day19,0.000428816,soil.hip,276.1111111,UTK,advanced,UTK.K016.01
+soil.face.CMU.16.05.2016.mo.day17,0,soil.face,179.7222222,CMU,active,CMU_Mrs._16_05
+soil.face.CMU.16.05.2016.mo.day18,0,soil.face,194.7222222,CMU,active,CMU_Mrs._16_05
+soil.face.CMU.16.03.2016.3.day12,0,soil.face,102.7777778,CMU,active,CMU_Mrs._16_03
+soil.face.CMU.16.04.2016.mo.day6,0,soil.face,44.72222223,CMU,early,CMU_Mr._16_04
+soil.hip.UTK.K016.03.2016.05.12.day7,0,soil.hip,133.3333333,UTK,active,UTK.K016.03
+soil.hip.SHSU.2016.011.2016.04.21.day7,0.000366122,soil.hip,132.7777778,SHSU,active,shsu.2016.011
+soil.hip.UTK.K016.01.2016.04.08.day4,0,soil.hip,33.05555556,UTK,early,UTK.K016.01
+soil.hip.SHSU.2016.011.2016.04.20.day6,0,soil.hip,111.6666667,SHSU,active,shsu.2016.011
+soil.face.CMU.16.04.2016.mo.day4,0,soil.face,29.72222223,CMU,early,CMU_Mr._16_04
+soil.face.UTK.K016.03.2016.05.19.day14,0.015692399,soil.face,250.8333333,UTK,advanced,UTK.K016.03
+soil.face.UTK.K016.03.2016.05.10.day5,0,soil.face,86.11111111,UTK,active,UTK.K016.03
+soil.hip.CMU.16.03.2016.3.day12,0,soil.hip,102.7777778,CMU,active,CMU_Mrs._16_03
+soil.face.CMU.16.05.2016.mo.day13,0,soil.face,123.3333333,CMU,active,CMU_Mrs._16_05
+soil.hip.CMU.16.03.2016.3.day9,0,soil.hip,73.05555556,CMU,active,CMU_Mrs._16_03
+soil.face.UTK.K016.03.2016.05.16.day11,0.001331262,soil.face,193.8888889,UTK,active,UTK.K016.03
+soil.hip.CMU.16.03.2016.3.day21,0,soil.hip,164.7222222,CMU,active,CMU_Mrs._16_03
+soil.hip.SHSU.2016.024.2016.04.17.day3,0,soil.hip,45.83333333,SHSU,early,shsu.2016.024
+soil.hip.UTK.K016.03.2016.05.13.day8,0,soil.hip,152.5,UTK,active,UTK.K016.03
+soil.face.UTK.K016.03.2016.05.11.day6,0,soil.face,109.7222222,UTK,active,UTK.K016.03
+soil.hip.UTK.K016.01.2016.04.09.day5,0,soil.hip,40.55555556,UTK,early,UTK.K016.01
+soil.face.UTK.K016.02.2016.05.03.day21,0.000626645,soil.face,394.4444444,UTK,advanced,UTK.K016.02
+soil.hip.UTK.K016.02.2016.04.25.day13,0,soil.hip,223.6111111,UTK,advanced,UTK.K016.02
+soil.face.UTK.K016.01.2016.04.23.day19,0,soil.face,276.1111111,UTK,advanced,UTK.K016.01
+soil.face.CMU.16.04.2016.mo.day16,0,soil.face,111.3888889,CMU,active,CMU_Mr._16_04
+soil.face.CMU.16.05.2016.mo.day10,0,soil.face,79.72222223,CMU,active,CMU_Mrs._16_05
+soil.hip.UTK.K016.01.2016.04.17.day13,0.001209287,soil.hip,157.7777778,UTK,active,UTK.K016.01
+soil.face.CMU.16.03.2016.3.day2,0,soil.face,13.05555556,CMU,early,CMU_Mrs._16_03
+soil.hip.CMU.16.03.2016.3.day1,0,soil.hip,0,CMU,placement,CMU_Mrs._16_03
+soil.face.UTK.K016.03.2016.05.21.day16,0.025423729,soil.face,289.1666667,UTK,advanced,UTK.K016.03
+soil.hip.CMU.16.04.2016.mo.day16,0.003940332,soil.hip,111.3888889,CMU,active,CMU_Mr._16_04
+soil.hip.UTK.K016.03.2016.05.14.day9,0.000214087,soil.hip,168.6111111,UTK,active,UTK.K016.03
+soil.hip.CMU.16.03.2016.3.day14,0,soil.hip,117.7777778,CMU,active,CMU_Mrs._16_03
+soil.face.UTK.K016.01.2016.04.07.day3,0,soil.face,23.05555556,UTK,early,UTK.K016.01
+soil.hip.UTK.K016.02.2016.05.01.day19,0.00102504,soil.hip,354.7222222,UTK,advanced,UTK.K016.02
+soil.hip.CMU.16.05.2016.mo.day12,0,soil.hip,110.2777778,CMU,active,CMU_Mrs._16_05
+soil.hip.CMU.16.05.2016.mo.day14,0,soil.hip,136.6666667,CMU,active,CMU_Mrs._16_05
+soil.face.UTK.K016.01.2016.04.10.day6,0,soil.face,48.33333334,UTK,early,UTK.K016.01
+soil.face.UTK.K016.03.2016.05.20.day15,0.044255319,soil.face,268.8888889,UTK,advanced,UTK.K016.03
+soil.hip.CMU.16.05.2016.mo.day21,0.001707132,soil.hip,214.1666667,CMU,advanced,CMU_Mrs._16_05
+soil.face.UTK.K016.02.2016.04.18.day6,0,soil.face,86.66666667,UTK,active,UTK.K016.02
+soil.hip.UTK.K016.02.2016.04.24.day12,0.0005506,soil.hip,203.3333333,UTK,advanced,UTK.K016.02
+soil.hip.CMU.16.05.2016.mo.day13,0,soil.hip,123.3333333,CMU,active,CMU_Mrs._16_05
+soil.hip.CMU.16.04.2016.mo.day10,0.012987013,soil.hip,68.05555556,CMU,active,CMU_Mr._16_04
+soil.hip.CMU.16.04.2016.mo.day15,0,soil.hip,102.7777778,CMU,active,CMU_Mr._16_04
+soil.hip.SHSU.2016.024.2016.04.20.day6,0,soil.hip,111.6666667,SHSU,active,shsu.2016.024
+soil.hip.UTK.K016.02.2016.04.29.day17,0.001316222,soil.hip,313.3333333,UTK,advanced,UTK.K016.02
+soil.face.SHSU.2016.024.2016.04.20.day6,0,soil.face,111.6666667,SHSU,active,shsu.2016.024
+soil.hip.UTK.K016.03.2016.05.20.day15,0.014946876,soil.hip,268.8888889,UTK,advanced,UTK.K016.03
+soil.face.CMU.16.05.2016.mo.day4,0,soil.face,15.83333333,CMU,early,CMU_Mrs._16_05
+soil.hip.CMU.16.05.2016.mo.day20,0,soil.hip,207.5,CMU,advanced,CMU_Mrs._16_05
+soil.face.CMU.16.04.2016.mo.day9,0,soil.face,62.22222223,CMU,active,CMU_Mr._16_04
+soil.hip.SHSU.2016.007.2016.04.15.day1,0,soil.hip,0,SHSU,placement,shsu.2016.007
+soil.hip.UTK.K016.02.2016.04.15.day3,0,soil.hip,36.38888889,UTK,early,UTK.K016.02
+soil.face.CMU.16.05.2016.mo.day1,0.000203625,soil.face,0,CMU,placement,CMU_Mrs._16_05
+soil.face.UTK.K016.01.2016.04.14.day10,0,soil.face,108.8888889,UTK,active,UTK.K016.01
+soil.face.CMU.16.04.2016.mo.day20,0,soil.face,160,CMU,active,CMU_Mr._16_04
+soil.face.CMU.16.05.2016.mo.day15,0,soil.face,150,CMU,active,CMU_Mrs._16_05
+soil.hip.UTK.K016.02.2016.05.03.day21,0.000282287,soil.hip,394.4444444,UTK,advanced,UTK.K016.02
+soil.face.CMU.16.05.2016.mo.day12,0,soil.face,110.2777778,CMU,active,CMU_Mrs._16_05
+soil.face.SHSU.2016.011.2016.04.15.day1,0,soil.face,0,SHSU,placement,shsu.2016.011
+soil.face.UTK.K016.02.2016.04.17.day5,0,soil.face,67.5,UTK,active,UTK.K016.02
+soil.face.UTK.K016.03.2016.05.07.day2,0,soil.face,18.61111111,UTK,early,UTK.K016.03
+soil.face.CMU.16.04.2016.mo.day18,0,soil.face,136.9444445,CMU,active,CMU_Mr._16_04
+soil.face.UTK.K016.01.2016.04.05.day1,0,soil.face,0,UTK,placement,UTK.K016.01
+soil.face.CMU.16.03.2016.3.day5,0,soil.face,47.22222223,CMU,early,CMU_Mrs._16_03
+soil.face.SHSU.2016.024.2016.04.21.day7,0.000690767,soil.face,132.7777778,SHSU,active,shsu.2016.024
+soil.hip.CMU.16.04.2016.mo.day9,0,soil.hip,62.22222223,CMU,active,CMU_Mr._16_04
+soil.hip.SHSU.2016.024.2016.04.15.day1,0,soil.hip,0,SHSU,placement,shsu.2016.024
+soil.hip.CMU.16.04.2016.mo.day21,0.001172505,soil.hip,173.6111111,CMU,active,CMU_Mr._16_04
+soil.hip.CMU.16.04.2016.mo.day4,0,soil.hip,29.72222223,CMU,early,CMU_Mr._16_04
+soil.hip.CMU.16.05.2016.mo.day16,0,soil.hip,164.7222222,CMU,active,CMU_Mrs._16_05
+soil.hip.CMU.16.05.2016.mo.day6,0,soil.hip,31.11111111,CMU,early,CMU_Mrs._16_05
+soil.face.CMU.16.04.2016.mo.day12,0,soil.face,87.77777778,CMU,active,CMU_Mr._16_04
+soil.hip.SHSU.2016.011.2016.04.16.day2,0,soil.hip,23.33333333,SHSU,early,shsu.2016.011
+soil.hip.UTK.K016.01.2016.04.11.day7,0,soil.hip,62.50000001,UTK,active,UTK.K016.01
+soil.face.CMU.16.05.2016.mo.day11,0,soil.face,93.33333334,CMU,active,CMU_Mrs._16_05
+soil.hip.CMU.16.05.2016.mo.day2,0,soil.hip,7.5,CMU,early,CMU_Mrs._16_05
+soil.face.UTK.K016.03.2016.05.06.day1,0,soil.face,0,UTK,placement,UTK.K016.03
+soil.face.CMU.16.03.2016.3.day9,0,soil.face,73.05555556,CMU,active,CMU_Mrs._16_03
+soil.hip.CMU.16.05.2016.mo.day1,0,soil.hip,0,CMU,placement,CMU_Mrs._16_05
+soil.hip.CMU.16.04.2016.mo.day11,0,soil.hip,80.27777778,CMU,active,CMU_Mr._16_04
+soil.hip.CMU.16.04.2016.mo.day19,0,soil.hip,149.7222222,CMU,active,CMU_Mr._16_04
+soil.face.SHSU.2016.024.2016.04.18.day4,0.000712504,soil.face,67.5,SHSU,active,shsu.2016.024
+soil.face.UTK.K016.02.2016.04.27.day15,0.021788171,soil.face,269.4444445,UTK,advanced,UTK.K016.02
+soil.face.CMU.16.03.2016.3.day17,0,soil.face,135.2777778,CMU,active,CMU_Mrs._16_03
+soil.face.SHSU.2016.024.2016.04.17.day3,0,soil.face,45.83333333,SHSU,early,shsu.2016.024
+soil.face.UTK.K016.03.2016.05.08.day3,0,soil.face,41.38888889,UTK,early,UTK.K016.03
+soil.hip.CMU.16.04.2016.mo.day5,0,soil.hip,40.00000001,CMU,early,CMU_Mr._16_04
+soil.hip.UTK.K016.03.2016.05.21.day16,0.00032902,soil.hip,289.1666667,UTK,advanced,UTK.K016.03
+soil.face.UTK.K016.03.2016.05.12.day7,0,soil.face,133.3333333,UTK,active,UTK.K016.03
+soil.hip.UTK.K016.01.2016.04.10.day6,0,soil.hip,48.33333334,UTK,early,UTK.K016.01
+soil.hip.UTK.K016.01.2016.04.12.day8,0,soil.hip,76.3888889,UTK,active,UTK.K016.01
+soil.hip.CMU.16.04.2016.mo.day2,0,soil.hip,7.777777778,CMU,early,CMU_Mr._16_04
+soil.face.CMU.16.03.2016.3.day21,0,soil.face,164.7222222,CMU,active,CMU_Mrs._16_03
+soil.face.CMU.16.03.2016.3.day6,0,soil.face,52.50000001,CMU,active,CMU_Mrs._16_03
+soil.hip.CMU.16.05.2016.mo.day19,0.00240481,soil.hip,200.8333333,CMU,advanced,CMU_Mrs._16_05
+soil.hip.CMU.16.05.2016.mo.day10,0,soil.hip,79.72222223,CMU,active,CMU_Mrs._16_05
+soil.hip.CMU.16.04.2016.mo.day8,0,soil.hip,57.77777778,CMU,active,CMU_Mr._16_04
+soil.hip.CMU.16.05.2016.mo.day15,0.00154679,soil.hip,150,CMU,active,CMU_Mrs._16_05
+soil.face.CMU.16.05.2016.mo.day9,0,soil.face,69.44444445,CMU,active,CMU_Mrs._16_05
+soil.face.UTK.K016.03.2016.05.09.day4,0.000201572,soil.face,63.33333333,UTK,active,UTK.K016.03
+soil.hip.CMU.16.04.2016.mo.day17,0,soil.hip,122.7777778,CMU,active,CMU_Mr._16_04
+soil.hip.UTK.K016.01.2016.04.13.day9,0,soil.hip,90.27777779,UTK,active,UTK.K016.01
+soil.face.CMU.16.04.2016.mo.day17,0,soil.face,122.7777778,CMU,active,CMU_Mr._16_04
+soil.hip.UTK.K016.01.2016.04.14.day10,0,soil.hip,108.8888889,UTK,active,UTK.K016.01
+soil.hip.CMU.16.04.2016.mo.day1,0,soil.hip,0,CMU,placement,CMU_Mr._16_04
+soil.hip.UTK.K016.01.2016.04.06.day2,0,soil.hip,10.55555556,UTK,early,UTK.K016.01
+soil.face.CMU.16.04.2016.mo.day8,0,soil.face,57.77777778,CMU,active,CMU_Mr._16_04
+soil.hip.UTK.K016.01.2016.04.25.day21,0.002466236,soil.hip,313.8888889,UTK,advanced,UTK.K016.01
+soil.face.UTK.K016.01.2016.04.12.day8,0,soil.face,76.3888889,UTK,active,UTK.K016.01
+soil.face.SHSU.2016.011.2016.04.18.day4,0.004939143,soil.face,67.5,SHSU,active,shsu.2016.011
+soil.face.CMU.16.04.2016.mo.day1,0,soil.face,0,CMU,placement,CMU_Mr._16_04
+soil.hip.SHSU.2016.011.2016.04.18.day4,0,soil.hip,67.5,SHSU,active,shsu.2016.011
+soil.hip.UTK.K016.03.2016.05.16.day11,0.004958047,soil.hip,193.8888889,UTK,active,UTK.K016.03
+soil.face.SHSU.2016.011.2016.04.20.day6,0.001871658,soil.face,111.6666667,SHSU,active,shsu.2016.011
+soil.hip.UTK.K016.01.2016.04.05.day1,0,soil.hip,0,UTK,placement,UTK.K016.01
+soil.face.CMU.16.04.2016.mo.day21,0,soil.face,173.6111111,CMU,active,CMU_Mr._16_04
+soil.hip.UTK.K016.03.2016.05.19.day14,0.007191893,soil.hip,250.8333333,UTK,advanced,UTK.K016.03
+soil.face.SHSU.2016.011.2016.04.17.day3,0,soil.face,45.83333333,SHSU,early,shsu.2016.011
+soil.hip.SHSU.2016.024.2016.04.16.day2,0,soil.hip,23.33333333,SHSU,early,shsu.2016.024
+soil.face.UTK.K016.01.2016.04.09.day5,0,soil.face,40.55555556,UTK,early,UTK.K016.01
+soil.hip.CMU.16.04.2016.mo.day6,0,soil.hip,44.72222223,CMU,early,CMU_Mr._16_04
+soil.face.CMU.16.03.2016.3.day19,0,soil.face,153.3333333,CMU,active,CMU_Mrs._16_03
+soil.hip.SHSU.2016.011.2016.04.15.day1,0,soil.hip,0,SHSU,placement,shsu.2016.011
+soil.hip.UTK.K016.03.2016.05.10.day5,0,soil.hip,86.11111111,UTK,active,UTK.K016.03
+soil.hip.UTK.K016.01.2016.04.22.day18,0,soil.hip,260,UTK,advanced,UTK.K016.01
+soil.face.UTK.K016.03.2016.05.17.day12,0.010291595,soil.face,213.0555556,UTK,advanced,UTK.K016.03
+soil.hip.UTK.K016.01.2016.04.15.day11,0,soil.hip,126.6666667,UTK,active,UTK.K016.01
+soil.hip.CMU.16.03.2016.3.day5,0,soil.hip,47.22222223,CMU,early,CMU_Mrs._16_03
+soil.hip.UTK.K016.02.2016.04.28.day16,0.002033111,soil.hip,292.2222222,UTK,advanced,UTK.K016.02
+soil.face.UTK.K016.02.2016.04.15.day3,0,soil.face,36.38888889,UTK,early,UTK.K016.02
+soil.face.SHSU.2016.007.2016.04.17.day3,0,soil.face,45.83333333,SHSU,early,shsu.2016.007
+soil.face.CMU.16.03.2016.3.day3,0.000806777,soil.face,25.83333334,CMU,early,CMU_Mrs._16_03
+soil.hip.CMU.16.03.2016.3.day11,0,soil.hip,89.72222223,CMU,active,CMU_Mrs._16_03
+soil.hip.SHSU.2016.007.2016.04.17.day3,0,soil.hip,45.83333333,SHSU,early,shsu.2016.007
+soil.hip.CMU.16.04.2016.mo.day7,0,soil.hip,50.83333334,CMU,active,CMU_Mr._16_04
+soil.face.UTK.K016.02.2016.04.14.day2,0,soil.face,18.61111111,UTK,early,UTK.K016.02
+soil.face.UTK.K016.02.2016.04.25.day13,0.011823204,soil.face,223.6111111,UTK,advanced,UTK.K016.02
+soil.face.UTK.K016.01.2016.04.08.day4,0,soil.face,33.05555556,UTK,early,UTK.K016.01
+soil.face.UTK.K016.01.2016.04.11.day7,0,soil.face,62.50000001,UTK,active,UTK.K016.01
+soil.face.CMU.16.04.2016.mo.day13,0,soil.face,91.66666667,CMU,active,CMU_Mr._16_04
+soil.face.CMU.16.03.2016.3.day7,0,soil.face,57.22222223,CMU,active,CMU_Mrs._16_03
+soil.face.CMU.16.03.2016.3.day8,0,soil.face,66.11111112,CMU,active,CMU_Mrs._16_03
+soil.face.SHSU.2016.011.2016.04.16.day2,0,soil.face,23.33333333,SHSU,early,shsu.2016.011
+soil.hip.UTK.K016.01.2016.04.21.day17,0.00715103,soil.hip,242.2222222,UTK,advanced,UTK.K016.01
+soil.hip.SHSU.2016.011.2016.04.17.day3,0,soil.hip,45.83333333,SHSU,early,shsu.2016.011
+soil.face.CMU.16.03.2016.3.day16,0,soil.face,130.8333333,CMU,active,CMU_Mrs._16_03
+soil.hip.UTK.K016.02.2016.04.17.day5,0,soil.hip,67.5,UTK,active,UTK.K016.02
+soil.hip.CMU.16.04.2016.mo.day13,0,soil.hip,91.66666667,CMU,active,CMU_Mr._16_04
+soil.face.CMU.16.03.2016.3.day18,0,soil.face,141.1111111,CMU,active,CMU_Mrs._16_03
+soil.face.UTK.K016.01.2016.04.13.day9,0,soil.face,90.27777779,UTK,active,UTK.K016.01
+soil.hip.CMU.16.05.2016.mo.day7,0,soil.hip,42.5,CMU,early,CMU_Mrs._16_05
+soil.hip.CMU.16.04.2016.mo.day12,0,soil.hip,87.77777778,CMU,active,CMU_Mr._16_04
+soil.face.SHSU.2016.024.2016.04.15.day1,0,soil.face,0,SHSU,placement,shsu.2016.024
+soil.face.CMU.16.03.2016.3.day13,0,soil.face,113.0555556,CMU,active,CMU_Mrs._16_03
+soil.hip.UTK.K016.01.2016.04.18.day14,0.000696986,soil.hip,176.9444445,UTK,active,UTK.K016.01
+soil.hip.CMU.16.05.2016.mo.day9,0,soil.hip,69.44444445,CMU,active,CMU_Mrs._16_05
+soil.hip.UTK.K016.01.2016.04.07.day3,0,soil.hip,23.05555556,UTK,early,UTK.K016.01
+soil.face.SHSU.2016.011.2016.04.21.day7,0.01612542,soil.face,132.7777778,SHSU,active,shsu.2016.011
+soil.hip.CMU.16.03.2016.3.day6,0,soil.hip,52.50000001,CMU,active,CMU_Mrs._16_03
+soil.hip.UTK.K016.03.2016.05.11.day6,0,soil.hip,109.7222222,UTK,active,UTK.K016.03
+soil.face.CMU.16.03.2016.3.day4,0,soil.face,35.83333334,CMU,early,CMU_Mrs._16_03
+soil.hip.UTK.K016.02.2016.04.16.day4,0,soil.hip,51.38888889,UTK,active,UTK.K016.02
+soil.hip.UTK.K016.03.2016.05.15.day10,0.001678742,soil.hip,180.5555556,UTK,active,UTK.K016.03
+soil.face.CMU.16.04.2016.mo.day15,0,soil.face,102.7777778,CMU,active,CMU_Mr._16_04
+soil.face.CMU.16.05.2016.mo.day7,0,soil.face,42.5,CMU,early,CMU_Mrs._16_05
+soil.face.UTK.K016.03.2016.05.13.day8,0,soil.face,152.5,UTK,active,UTK.K016.03
+soil.face.UTK.K016.01.2016.04.16.day12,0,soil.face,141.6666667,UTK,active,UTK.K016.01
+soil.hip.CMU.16.04.2016.mo.day18,0,soil.hip,136.9444445,CMU,active,CMU_Mr._16_04
+soil.face.CMU.16.04.2016.mo.day14,0,soil.face,96.11111111,CMU,active,CMU_Mr._16_04
+soil.face.UTK.K016.01.2016.04.25.day21,0,soil.face,313.8888889,UTK,advanced,UTK.K016.01
+soil.face.CMU.16.05.2016.mo.day6,0,soil.face,31.11111111,CMU,early,CMU_Mrs._16_05
+soil.hip.CMU.16.05.2016.mo.day5,0,soil.hip,22.5,CMU,early,CMU_Mrs._16_05
+soil.face.CMU.16.03.2016.3.day1,0,soil.face,0,CMU,placement,CMU_Mrs._16_03
+soil.face.CMU.16.04.2016.mo.day19,0,soil.face,149.7222222,CMU,active,CMU_Mr._16_04
+soil.face.UTK.K016.01.2016.04.24.day20,0.000148633,soil.face,293.6111111,UTK,advanced,UTK.K016.01
+soil.hip.SHSU.2016.007.2016.04.18.day4,0,soil.hip,67.5,SHSU,active,shsu.2016.007
+soil.hip.CMU.16.03.2016.3.day2,0,soil.hip,13.05555556,CMU,early,CMU_Mrs._16_03
+soil.hip.UTK.K016.01.2016.04.24.day20,0.00145808,soil.hip,293.6111111,UTK,advanced,UTK.K016.01
+soil.hip.CMU.16.05.2016.mo.day11,0,soil.hip,93.33333334,CMU,active,CMU_Mrs._16_05
+soil.face.UTK.K016.01.2016.04.17.day13,0,soil.face,157.7777778,UTK,active,UTK.K016.01
+soil.hip.CMU.16.05.2016.mo.day8,0,soil.hip,56.66666667,CMU,active,CMU_Mrs._16_05
+soil.hip.CMU.16.03.2016.3.day8,0,soil.hip,66.11111112,CMU,active,CMU_Mrs._16_03
+soil.hip.SHSU.2016.007.2016.04.21.day7,0.00094162,soil.hip,132.7777778,SHSU,active,shsu.2016.007
+soil.face.CMU.16.04.2016.mo.day11,0,soil.face,80.27777778,CMU,active,CMU_Mr._16_04
+soil.face.CMU.16.04.2016.mo.day5,0,soil.face,40.00000001,CMU,early,CMU_Mr._16_04
+soil.face.CMU.16.05.2016.mo.day5,0,soil.face,22.5,CMU,early,CMU_Mrs._16_05
+soil.hip.UTK.K016.03.2016.05.09.day4,0,soil.hip,63.33333333,UTK,active,UTK.K016.03
+soil.face.UTK.K016.02.2016.04.26.day14,0.016484693,soil.face,245.5555556,UTK,advanced,UTK.K016.02
+soil.face.CMU.16.04.2016.mo.day7,0,soil.face,50.83333334,CMU,active,CMU_Mr._16_04
+soil.face.UTK.K016.01.2016.04.06.day2,0,soil.face,10.55555556,UTK,early,UTK.K016.01
+soil.hip.UTK.K016.03.2016.05.08.day3,0,soil.hip,41.38888889,UTK,early,UTK.K016.03
+soil.face.CMU.16.05.2016.mo.day16,0,soil.face,164.7222222,CMU,active,CMU_Mrs._16_05
+soil.face.CMU.16.03.2016.3.day20,0,soil.face,160.8333333,CMU,active,CMU_Mrs._16_03
+soil.face.SHSU.2016.024.2016.04.16.day2,0,soil.face,23.33333333,SHSU,early,shsu.2016.024
+soil.hip.SHSU.2016.024.2016.04.18.day4,0,soil.hip,67.5,SHSU,active,shsu.2016.024
+soil.face.UTK.K016.01.2016.04.15.day11,0,soil.face,126.6666667,UTK,active,UTK.K016.01
+soil.hip.CMU.16.04.2016.mo.day14,0,soil.hip,96.11111111,CMU,active,CMU_Mr._16_04
+soil.hip.CMU.16.03.2016.3.day7,0,soil.hip,57.22222223,CMU,active,CMU_Mrs._16_03
+soil.hip.CMU.16.03.2016.3.day17,0,soil.hip,135.2777778,CMU,active,CMU_Mrs._16_03
+soil.face.UTK.K016.03.2016.05.18.day13,0.028656889,soil.face,231.3888889,UTK,advanced,UTK.K016.03
+soil.face.UTK.K016.02.2016.04.16.day4,0,soil.face,51.38888889,UTK,active,UTK.K016.02
+soil.face.CMU.16.05.2016.mo.day14,0,soil.face,136.6666667,CMU,active,CMU_Mrs._16_05
+soil.face.CMU.16.05.2016.mo.day20,0,soil.face,207.5,CMU,advanced,CMU_Mrs._16_05
+soil.face.UTK.K016.02.2016.04.13.day1,0,soil.face,0,UTK,placement,UTK.K016.02
+soil.face.UTK.K016.03.2016.05.14.day9,0,soil.face,168.6111111,UTK,active,UTK.K016.03
+soil.hip.CMU.16.04.2016.mo.day20,0,soil.hip,160,CMU,active,CMU_Mr._16_04
+soil.hip.CMU.16.03.2016.3.day16,0,soil.hip,130.8333333,CMU,active,CMU_Mrs._16_03
+soil.face.UTK.K016.03.2016.05.15.day10,0.000418848,soil.face,180.5555556,UTK,active,UTK.K016.03
+soil.face.SHSU.2016.007.2016.04.21.day7,0.053537285,soil.face,132.7777778,SHSU,active,shsu.2016.007
+soil.hip.CMU.16.05.2016.mo.day4,0,soil.hip,15.83333333,CMU,early,CMU_Mrs._16_05
+soil.hip.UTK.K016.02.2016.04.30.day18,0.001687764,soil.hip,332.7777778,UTK,advanced,UTK.K016.02
+soil.hip.CMU.16.03.2016.3.day4,0,soil.hip,35.83333334,CMU,early,CMU_Mrs._16_03
+soil.face.SHSU.2016.007.2016.04.16.day2,0,soil.face,23.33333333,SHSU,early,shsu.2016.007
+soil.hip.UTK.K016.01.2016.04.16.day12,0.000558534,soil.hip,141.6666667,UTK,active,UTK.K016.01
+soil.face.SHSU.2016.007.2016.04.18.day4,0,soil.face,67.5,SHSU,active,shsu.2016.007
+soil.hip.SHSU.2016.007.2016.04.20.day6,0,soil.hip,111.6666667,SHSU,active,shsu.2016.007
+soil.face.CMU.16.05.2016.mo.day2,0,soil.face,7.5,CMU,early,CMU_Mrs._16_05
+soil.hip.CMU.16.03.2016.3.day20,0,soil.hip,160.8333333,CMU,active,CMU_Mrs._16_03
+soil.hip.SHSU.2016.007.2016.04.16.day2,0,soil.hip,23.33333333,SHSU,early,shsu.2016.007
+soil.hip.UTK.K016.03.2016.05.07.day2,0,soil.hip,18.61111111,UTK,early,UTK.K016.03
+soil.hip.UTK.K016.03.2016.05.06.day1,0,soil.hip,0,UTK,placement,UTK.K016.03
+soil.hip.SHSU.2016.024.2016.04.21.day7,0.000788747,soil.hip,132.7777778,SHSU,active,shsu.2016.024
+soil.hip.UTK.K016.02.2016.04.18.day6,0,soil.hip,86.66666667,UTK,active,UTK.K016.02
+soil.face.UTK.K016.01.2016.04.22.day18,0,soil.face,260,UTK,advanced,UTK.K016.01
+soil.face.CMU.16.05.2016.mo.day3,0,soil.face,11.38888889,CMU,early,CMU_Mrs._16_05
+soil.hip.UTK.K016.03.2016.05.17.day12,0.01801955,soil.hip,213.0555556,UTK,advanced,UTK.K016.03
+soil.face.UTK.K016.02.2016.04.28.day16,0.022327965,soil.face,292.2222222,UTK,advanced,UTK.K016.02
+soil.hip.UTK.K016.02.2016.04.14.day2,0,soil.hip,18.61111111,UTK,early,UTK.K016.02
+soil.face.SHSU.2016.007.2016.04.20.day6,0.001187648,soil.face,111.6666667,SHSU,active,shsu.2016.007
+soil.hip.CMU.16.05.2016.mo.day17,0,soil.hip,179.7222222,CMU,active,CMU_Mrs._16_05
+soil.hip.CMU.16.03.2016.3.day13,0,soil.hip,113.0555556,CMU,active,CMU_Mrs._16_03
+soil.hip.UTK.K016.02.2016.04.13.day1,0,soil.hip,0,UTK,placement,UTK.K016.02
+soil.face.CMU.16.05.2016.mo.day19,0,soil.face,200.8333333,CMU,advanced,CMU_Mrs._16_05
+soil.hip.CMU.16.05.2016.mo.day18,0.002768313,soil.hip,194.7222222,CMU,active,CMU_Mrs._16_05
+soil.face.CMU.16.03.2016.3.day14,0,soil.face,117.7777778,CMU,active,CMU_Mrs._16_03
+soil.hip.UTK.K016.03.2016.05.18.day13,0.021128451,soil.hip,231.3888889,UTK,advanced,UTK.K016.03
+soil.face.SHSU.2016.007.2016.04.15.day1,0,soil.face,0,SHSU,placement,shsu.2016.007
+soil.hip.CMU.16.03.2016.3.day18,0,soil.hip,141.1111111,CMU,active,CMU_Mrs._16_03
+soil.hip.CMU.16.03.2016.3.day3,0,soil.hip,25.83333334,CMU,early,CMU_Mrs._16_03
+soil.face.SHSU.2016.007.2016.04.25.day11,0.054340383,soil.face,220.5555556,SHSU,advanced,shsu.2016.007
+soil.face.UTK.K016.02.2016.04.21.day9,0,soil.face,151.9444445,UTK,active,UTK.K016.02
+soil.hip.SHSU.2016.007.2016.04.30.day16,0.004022328,soil.hip,350,SHSU,advanced,shsu.2016.007
+soil.hip.SHSU.2016.007.2016.04.26.day12,0.074223803,soil.hip,247.2222222,SHSU,advanced,shsu.2016.007
+soil.hip.SHSU.2016.024.2016.04.30.day16,0.004107901,soil.hip,350,SHSU,advanced,shsu.2016.024
+soil.face.SHSU.2016.024.2016.04.30.day16,0.005572021,soil.face,350,SHSU,advanced,shsu.2016.024
+soil.hip.SHSU.2016.011.2016.04.25.day11,0.020448472,soil.hip,220.5555556,SHSU,advanced,shsu.2016.011
+soil.hip.SHSU.2016.024.2016.04.22.day8,0.002674447,soil.hip,153.8888889,SHSU,active,shsu.2016.024
+soil.face.SHSU.2016.011.2016.04.23.day9,0.018538634,soil.face,174.4444445,SHSU,active,shsu.2016.011
+soil.hip.CMU.16.03.2016.3.day15,0,soil.hip,123.8888889,CMU,active,CMU_Mrs._16_03
+soil.hip.SHSU.2016.024.2016.04.26.day12,0.006052801,soil.hip,247.2222222,SHSU,advanced,shsu.2016.024
+soil.face.SHSU.2016.007.2016.04.26.day12,0.016723003,soil.face,247.2222222,SHSU,advanced,shsu.2016.007
+soil.hip.SHSU.2016.024.2016.04.27.day13,0.002463988,soil.hip,271.1111111,SHSU,advanced,shsu.2016.024
+soil.face.UTK.K016.02.2016.04.20.day8,0,soil.face,130.5555556,UTK,active,UTK.K016.02
+soil.face.SHSU.2016.007.2016.05.03.day19,0.010250569,soil.face,409.1666667,SHSU,advanced,shsu.2016.007
+soil.face.CMU.16.03.2016.3.day15,0.000300631,soil.face,123.8888889,CMU,active,CMU_Mrs._16_03
+soil.hip.SHSU.2016.024.2016.05.03.day19,0.000312061,soil.hip,409.1666667,SHSU,advanced,shsu.2016.024
+soil.face.SHSU.2016.024.2016.04.28.day14,0.002671119,soil.face,296.3888889,SHSU,advanced,shsu.2016.024
+soil.face.SHSU.2016.007.2016.05.05.day21,0.004852228,soil.face,449.1666667,SHSU,advanced,shsu.2016.007
+soil.hip.SHSU.2016.007.2016.05.01.day17,0.00337958,soil.hip,373.6111111,SHSU,advanced,shsu.2016.007
+soil.face.SHSU.2016.024.2016.05.04.day20,0.006507893,soil.face,428.6111111,SHSU,advanced,shsu.2016.024
+soil.hip.UTK.K016.03.2016.05.22.day17,0.00133821,soil.hip,308.0555556,UTK,advanced,UTK.K016.03
+soil.face.SHSU.2016.011.2016.05.03.day19,0.000390168,soil.face,409.1666667,SHSU,advanced,shsu.2016.011
+soil.face.SHSU.2016.011.2016.04.27.day13,0.026110997,soil.face,271.1111111,SHSU,advanced,shsu.2016.011
+soil.hip.SHSU.2016.011.2016.04.28.day14,0.037457001,soil.hip,296.3888889,SHSU,advanced,shsu.2016.011
+soil.face.SHSU.2016.007.2016.04.23.day9,0.01282548,soil.face,174.4444445,SHSU,active,shsu.2016.007
+soil.face.SHSU.2016.024.2016.05.01.day17,0.000926718,soil.face,373.6111111,SHSU,advanced,shsu.2016.024
+soil.hip.SHSU.2016.007.2016.04.27.day13,0.007013866,soil.hip,271.1111111,SHSU,advanced,shsu.2016.007
+soil.face.SHSU.2016.024.2016.05.03.day19,0.000877578,soil.face,409.1666667,SHSU,advanced,shsu.2016.024
+soil.hip.SHSU.2016.011.2016.04.24.day10,0.000956727,soil.hip,194.7222222,SHSU,active,shsu.2016.011
+soil.hip.SHSU.2016.024.2016.05.01.day17,0.001023167,soil.hip,373.6111111,SHSU,advanced,shsu.2016.024
+soil.hip.SHSU.2016.024.2016.04.19.day5,0,soil.hip,90.55555556,SHSU,active,shsu.2016.024
+soil.face.SHSU.2016.011.2016.04.22.day8,0.027105362,soil.face,153.8888889,SHSU,active,shsu.2016.011
+soil.face.CMU.16.03.2016.3.day10,0,soil.face,80.83333334,CMU,active,CMU_Mrs._16_03
+soil.face.SHSU.2016.024.2016.04.26.day12,0.003334877,soil.face,247.2222222,SHSU,advanced,shsu.2016.024
+soil.hip.SHSU.2016.024.2016.04.29.day15,0.001727329,soil.hip,324.4444445,SHSU,advanced,shsu.2016.024
+soil.hip.SHSU.2016.011.2016.04.22.day8,0.001395598,soil.hip,153.8888889,SHSU,active,shsu.2016.011
+soil.hip.SHSU.2016.007.2016.04.25.day11,0.022959641,soil.hip,220.5555556,SHSU,advanced,shsu.2016.007
+soil.face.UTK.K016.01.2016.04.19.day15,0.000996678,soil.face,197.5,UTK,active,UTK.K016.01
+soil.face.SHSU.2016.024.2016.04.23.day9,0.005069044,soil.face,174.4444445,SHSU,active,shsu.2016.024
+soil.hip.SHSU.2016.007.2016.05.03.day19,0.001971738,soil.hip,409.1666667,SHSU,advanced,shsu.2016.007
+soil.hip.CMU.16.03.2016.3.day10,0,soil.hip,80.83333334,CMU,active,CMU_Mrs._16_03
+soil.face.UTK.K016.02.2016.04.30.day18,0.015449927,soil.face,332.7777778,UTK,advanced,UTK.K016.02
+soil.hip.SHSU.2016.011.2016.04.26.day12,0.040788109,soil.hip,247.2222222,SHSU,advanced,shsu.2016.011
+soil.face.SHSU.2016.011.2016.04.26.day12,0,soil.face,247.2222222,SHSU,advanced,shsu.2016.011
+soil.hip.SHSU.2016.007.2016.05.04.day20,0.016414141,soil.hip,428.6111111,SHSU,advanced,shsu.2016.007
+soil.face.SHSU.2016.011.2016.05.05.day21,0.010930233,soil.face,449.1666667,SHSU,advanced,shsu.2016.011
+soil.hip.SHSU.2016.024.2016.04.28.day14,0.001650165,soil.hip,296.3888889,SHSU,advanced,shsu.2016.024
+soil.face.SHSU.2016.024.2016.04.25.day11,0,soil.face,220.5555556,SHSU,advanced,shsu.2016.024
+soil.face.UTK.K016.02.2016.04.22.day10,0,soil.face,169.7222222,UTK,active,UTK.K016.02
+soil.face.UTK.K016.02.2016.04.23.day11,0.000274826,soil.face,185.8333333,UTK,active,UTK.K016.02
+soil.hip.SHSU.2016.007.2016.04.29.day15,0.038478797,soil.hip,324.4444445,SHSU,advanced,shsu.2016.007
+soil.hip.SHSU.2016.024.2016.05.02.day18,0.000715583,soil.hip,391.6666667,SHSU,advanced,shsu.2016.024
+soil.face.UTK.K016.03.2016.05.25.day20,0.030940749,soil.face,366.9444445,UTK,advanced,UTK.K016.03
+soil.hip.SHSU.2016.011.2016.04.29.day15,0.183788666,soil.hip,324.4444445,SHSU,advanced,shsu.2016.011
+soil.hip.UTK.K016.02.2016.05.02.day20,0,soil.hip,375.8333333,UTK,advanced,UTK.K016.02
+soil.face.SHSU.2016.011.2016.04.29.day15,0.06468691,soil.face,324.4444445,SHSU,advanced,shsu.2016.011
+soil.hip.SHSU.2016.024.2016.04.25.day11,0,soil.hip,220.5555556,SHSU,advanced,shsu.2016.024
+soil.face.SHSU.2016.007.2016.04.28.day14,0.077683316,soil.face,296.3888889,SHSU,advanced,shsu.2016.007
+soil.face.SHSU.2016.024.2016.04.24.day10,0.00105636,soil.face,194.7222222,SHSU,active,shsu.2016.024
+soil.hip.SHSU.2016.024.2016.05.04.day20,0.006143118,soil.hip,428.6111111,SHSU,advanced,shsu.2016.024
+soil.hip.SHSU.2016.011.2016.04.30.day16,0.01445271,soil.hip,350,SHSU,advanced,shsu.2016.011
+soil.face.SHSU.2016.011.2016.05.02.day18,0.002659574,soil.face,391.6666667,SHSU,advanced,shsu.2016.011
+soil.hip.SHSU.2016.011.2016.05.04.day20,0.016756656,soil.hip,428.6111111,SHSU,advanced,shsu.2016.011
+soil.face.SHSU.2016.007.2016.04.29.day15,0.066782704,soil.face,324.4444445,SHSU,advanced,shsu.2016.007
+soil.hip.UTK.K016.03.2016.05.23.day18,0.007352941,soil.hip,326.1111111,UTK,advanced,UTK.K016.03
+soil.face.SHSU.2016.024.2016.04.19.day5,0.000228467,soil.face,90.55555556,SHSU,active,shsu.2016.024
+soil.face.SHSU.2016.007.2016.05.01.day17,0.027756529,soil.face,373.6111111,SHSU,advanced,shsu.2016.007
+soil.hip.SHSU.2016.011.2016.04.27.day13,0.024629237,soil.hip,271.1111111,SHSU,advanced,shsu.2016.011
+soil.face.SHSU.2016.007.2016.04.24.day10,0.036017435,soil.face,194.7222222,SHSU,active,shsu.2016.007
+soil.face.SHSU.2016.007.2016.04.22.day8,0.01199274,soil.face,153.8888889,SHSU,active,shsu.2016.007
+soil.face.SHSU.2016.007.2016.04.30.day16,0.002523036,soil.face,350,SHSU,advanced,shsu.2016.007
+soil.hip.SHSU.2016.011.2016.04.19.day5,0,soil.hip,90.55555556,SHSU,active,shsu.2016.011
+soil.hip.SHSU.2016.007.2016.05.02.day18,0.005653649,soil.hip,391.6666667,SHSU,advanced,shsu.2016.007
+soil.face.UTK.K016.03.2016.05.26.day21,0.011847639,soil.face,390.2777778,UTK,advanced,UTK.K016.03
+soil.hip.UTK.K016.03.2016.05.24.day19,0.004741834,soil.hip,345.2777778,UTK,advanced,UTK.K016.03
+soil.face.SHSU.2016.011.2016.04.30.day16,0.049282986,soil.face,350,SHSU,advanced,shsu.2016.011
+soil.face.UTK.K016.02.2016.04.29.day17,0.019993076,soil.face,313.3333333,UTK,advanced,UTK.K016.02
+soil.hip.SHSU.2016.007.2016.04.24.day10,0.001253215,soil.hip,194.7222222,SHSU,active,shsu.2016.007
+soil.face.SHSU.2016.011.2016.04.25.day11,0.065154718,soil.face,220.5555556,SHSU,advanced,shsu.2016.011
+soil.hip.UTK.K016.02.2016.04.21.day9,0,soil.hip,151.9444445,UTK,active,UTK.K016.02
+soil.hip.SHSU.2016.011.2016.05.05.day21,0.000883197,soil.hip,449.1666667,SHSU,advanced,shsu.2016.011
+soil.hip.SHSU.2016.024.2016.04.24.day10,0.000258889,soil.hip,194.7222222,SHSU,active,shsu.2016.024
+soil.face.SHSU.2016.011.2016.04.28.day14,0.098291109,soil.face,296.3888889,SHSU,advanced,shsu.2016.011
+soil.hip.SHSU.2016.007.2016.04.19.day5,0.001504153,soil.hip,90.55555556,SHSU,active,shsu.2016.007
+soil.face.SHSU.2016.024.2016.05.05.day21,0.00104475,soil.face,449.1666667,SHSU,advanced,shsu.2016.024
+soil.hip.SHSU.2016.007.2016.04.28.day14,0.01312578,soil.hip,296.3888889,SHSU,advanced,shsu.2016.007
+soil.face.SHSU.2016.011.2016.05.04.day20,0.000748343,soil.face,428.6111111,SHSU,advanced,shsu.2016.011
+soil.face.SHSU.2016.011.2016.05.01.day17,0.000649796,soil.face,373.6111111,SHSU,advanced,shsu.2016.011
+soil.face.UTK.K016.02.2016.04.19.day7,0.000112956,soil.face,107.2222222,UTK,active,UTK.K016.02
+soil.face.SHSU.2016.007.2016.04.27.day13,0.078762136,soil.face,271.1111111,SHSU,advanced,shsu.2016.007
+soil.hip.UTK.K016.01.2016.04.19.day15,0.006456241,soil.hip,197.5,UTK,active,UTK.K016.01
+soil.hip.SHSU.2016.011.2016.04.23.day9,0.002299634,soil.hip,174.4444445,SHSU,active,shsu.2016.011
+soil.hip.SHSU.2016.007.2016.04.23.day9,0.000267183,soil.hip,174.4444445,SHSU,active,shsu.2016.007
+soil.hip.SHSU.2016.011.2016.05.02.day18,0.008377188,soil.hip,391.6666667,SHSU,advanced,shsu.2016.011
+soil.face.SHSU.2016.007.2016.05.02.day18,0.00863793,soil.face,391.6666667,SHSU,advanced,shsu.2016.007
+soil.hip.UTK.K016.02.2016.04.20.day8,0.00017811,soil.hip,130.5555556,UTK,active,UTK.K016.02
+soil.face.UTK.K016.03.2016.05.23.day18,0.008713919,soil.face,326.1111111,UTK,advanced,UTK.K016.03
+soil.hip.UTK.K016.02.2016.04.23.day11,0,soil.hip,185.8333333,UTK,active,UTK.K016.02
+soil.hip.UTK.K016.02.2016.04.19.day7,0,soil.hip,107.2222222,UTK,active,UTK.K016.02
+soil.face.UTK.K016.01.2016.04.20.day16,0.000335345,soil.face,220.8333333,UTK,advanced,UTK.K016.01
+soil.face.UTK.K016.02.2016.05.01.day19,0.001409145,soil.face,354.7222222,UTK,advanced,UTK.K016.02
+soil.hip.SHSU.2016.007.2016.05.05.day21,0.001315963,soil.hip,449.1666667,SHSU,advanced,shsu.2016.007
+soil.face.UTK.K016.03.2016.05.24.day19,0.035345992,soil.face,345.2777778,UTK,advanced,UTK.K016.03
+soil.hip.SHSU.2016.024.2016.04.23.day9,0.000401875,soil.hip,174.4444445,SHSU,active,shsu.2016.024
+soil.face.UTK.K016.02.2016.05.02.day20,0.001032489,soil.face,375.8333333,UTK,advanced,UTK.K016.02
+soil.hip.SHSU.2016.024.2016.05.05.day21,0.000256253,soil.hip,449.1666667,SHSU,advanced,shsu.2016.024
+soil.face.SHSU.2016.024.2016.05.02.day18,0,soil.face,391.6666667,SHSU,advanced,shsu.2016.024
+soil.face.UTK.K016.03.2016.05.22.day17,0.013374579,soil.face,308.0555556,UTK,advanced,UTK.K016.03
+soil.face.SHSU.2016.007.2016.05.04.day20,0.020061055,soil.face,428.6111111,SHSU,advanced,shsu.2016.007
+soil.face.SHSU.2016.024.2016.04.27.day13,0.006729331,soil.face,271.1111111,SHSU,advanced,shsu.2016.024
+soil.face.SHSU.2016.011.2016.04.19.day5,0.001141653,soil.face,90.55555556,SHSU,active,shsu.2016.011
+soil.face.SHSU.2016.007.2016.04.19.day5,0.000137193,soil.face,90.55555556,SHSU,active,shsu.2016.007
+soil.hip.UTK.K016.03.2016.05.25.day20,0.003483743,soil.hip,366.9444445,UTK,advanced,UTK.K016.03
+soil.hip.SHSU.2016.007.2016.04.22.day8,0.00452629,soil.hip,153.8888889,SHSU,active,shsu.2016.007
+soil.face.SHSU.2016.024.2016.04.22.day8,0.000780396,soil.face,153.8888889,SHSU,active,shsu.2016.024
+soil.hip.UTK.K016.03.2016.05.26.day21,0.0021875,soil.hip,390.2777778,UTK,advanced,UTK.K016.03
+soil.face.SHSU.2016.011.2016.04.24.day10,0.033551913,soil.face,194.7222222,SHSU,active,shsu.2016.011
+soil.hip.SHSU.2016.011.2016.05.03.day19,0.001277139,soil.hip,409.1666667,SHSU,advanced,shsu.2016.011
+soil.hip.UTK.K016.02.2016.04.22.day10,0.000205381,soil.hip,169.7222222,UTK,active,UTK.K016.02
+soil.hip.SHSU.2016.011.2016.05.01.day17,0.008472687,soil.hip,373.6111111,SHSU,advanced,shsu.2016.011
+soil.hip.UTK.K016.01.2016.04.20.day16,0.007145733,soil.hip,220.8333333,UTK,advanced,UTK.K016.01
+soil.face.SHSU.2016.024.2016.04.29.day15,0.009078682,soil.face,324.4444445,SHSU,advanced,shsu.2016.024
+soil.hip.UTK.K016.04.2016.10.16.day21,0.020950491,soil.hip,383,UTK,advanced,UTK.K016.04
+soil.face.SHSU.2016.064.2016.09.03.day10,0.049855491,soil.face,250.2777778,SHSU,advanced,2016.064
+soil.face.UTK.K016.04.2016.10.07.day12,0.019586507,soil.face,214.5,UTK,advanced,UTK.K016.04
+soil.face.UTK.K016.04.2016.09.28.day3,0,soil.face,41.7,UTK,early,UTK.K016.04
+soil.face.UTK.K016.05.2016.09.28.day3,0,soil.face,41.7,UTK,early,UTK.K016.05
+soil.face.UTK.K016.04.2016.10.01.day6,0.000430046,soil.face,92.6,UTK,active,UTK.K016.04
+soil.face.CMU.16.09.2016.07.29.day4,0,soil.face,86.6,CMU,active,Mrs. 16-09
+soil.face.SHSU.2016.064.2016.09.10.day17,0.001049979,soil.face,449.4444444,SHSU,advanced,2016.064
+soil.face.SHSU.2016.065.2016.09.05.day12,0.072871737,soil.face,306.9444444,SHSU,advanced,2016.065
+soil.hip.SHSU.2016.064.2016.08.29.day5,0,soil.hip,109.4444444,SHSU,active,2016.064
+soil.face.CMU.16.10.2016.08.16.day11,0.011826347,soil.face,255.05,CMU,advanced,Mrs. 16-10
+soil.hip.SHSU.2016.067.2016.09.19.day4,0,soil.hip,89.75,SHSU,active,2016.067
+soil.hip.SHSU.2016.065.2016.09.06.day13,0.139540627,soil.hip,335.5555556,SHSU,advanced,2016.065
+soil.hip.UTK.K016.06.2016.10.21.day17,0.036516854,soil.hip,316.6,UTK,advanced,UTK.K016.06
+soil.face.CMU.16.09.2016.07.30.day5,0,soil.face,114.7,CMU,active,Mrs. 16-09
+soil.hip.UTK.K016.06.2016.10.17.day13,0.019362828,soil.hip,229.7,UTK,advanced,UTK.K016.06
+soil.hip.SHSU.2016.065.2016.09.05.day12,0.044952238,soil.hip,306.9444444,SHSU,advanced,2016.065
+soil.hip.SHSU.2016.067.2016.09.24.day9,0.034576492,soil.hip,229.8,SHSU,advanced,2016.067
+soil.face.CMU.16.10.2016.08.22.day17,0.005718954,soil.face,400,CMU,advanced,Mrs. 16-10
+soil.hip.SHSU.2016.064.2016.09.09.day16,0.010608204,soil.hip,422.2222222,SHSU,advanced,2016.064
+soil.face.SHSU.2016.065.2016.09.14.day21,0.000849205,soil.face,558.6111111,SHSU,advanced,2016.065
+soil.hip.CMU.16.09.2016.08.15.day21,0,soil.hip,521.95,CMU,advanced,Mrs. 16-09
+soil.face.UTK.K016.06.2016.10.25.day21,0.054960181,soil.face,373.2,UTK,advanced,UTK.K016.06
+soil.hip.UTK.K016.04.2016.10.13.day18,0.007850401,soil.hip,320.1,UTK,advanced,UTK.K016.04
+soil.face.CMU.16.09.2016.08.02.day8,0,soil.face,196.65,CMU,active,Mrs. 16-09
+soil.hip.CMU.16.10.2016.08.16.day11,0.010514187,soil.hip,255.05,CMU,advanced,Mrs. 16-10
+soil.face.SHSU.2016.064.2016.09.05.day12,0.007237038,soil.face,306.9444444,SHSU,advanced,2016.064
+soil.face.UTK.K016.06.2016.10.09.day5,0.002592087,soil.face,79.4,UTK,active,UTK.K016.06
+soil.hip.CMU.16.10.2016.08.15.day10,0.000951992,soil.hip,228.65,CMU,advanced,Mrs. 16-10
+soil.face.SHSU.2016.064.2016.08.29.day5,0.000898271,soil.face,109.4444444,SHSU,active,2016.064
+soil.face.UTK.K016.06.2016.10.06.day2,0,soil.face,20.4,UTK,early,UTK.K016.06
+soil.hip.SHSU.2016.065.2016.09.12.day19,0.0286,soil.hip,503.3333333,SHSU,advanced,2016.065
+soil.hip.SHSU.2016.065.2016.09.13.day20,0.054028133,soil.hip,530.8333333,SHSU,advanced,2016.065
+soil.hip.UTK.K016.05.2016.10.13.day18,0.087525151,soil.hip,320.1,UTK,advanced,UTK.K016.05
+soil.hip.SHSU.2016.067.2016.09.18.day3,0,soil.hip,58.9,SHSU,active,2016.067
+soil.hip.SHSU.2016.065.2016.09.08.day15,0.002842928,soil.hip,393.6111111,SHSU,advanced,2016.065
+soil.hip.SHSU.2016.065.2016.09.10.day17,0.023279183,soil.hip,449.4444444,SHSU,advanced,2016.065
+soil.hip.SHSU.2016.065.2016.09.11.day18,0,soil.hip,476.1111111,SHSU,advanced,2016.065
+soil.face.UTK.K016.04.2016.10.05.day10,0.010978712,soil.face,173.7,UTK,active,UTK.K016.04
+soil.face.CMU.16.10.2016.08.24.day19,0.000301978,soil.face,443.9,CMU,advanced,Mrs. 16-10
+soil.face.SHSU.2016.064.2016.09.08.day15,0.014191828,soil.face,393.6111111,SHSU,advanced,2016.064
+soil.hip.UTK.K016.05.2016.10.03.day8,0,soil.hip,130.7,UTK,active,UTK.K016.05
+soil.hip.SHSU.2016.064.2016.08.28.day4,0.000889878,soil.hip,82.22222222,SHSU,active,2016.064
+soil.hip.SHSU.2016.064.2016.09.14.day21,0.001265983,soil.hip,558.6111111,SHSU,advanced,2016.064
+soil.face.SHSU.2016.064.2016.09.13.day20,0.009602426,soil.face,530.8333333,SHSU,advanced,2016.064
+soil.face.SHSU.2016.065.2016.09.04.day11,0.064858227,soil.face,278.0555556,SHSU,advanced,2016.065
+soil.face.SHSU.2016.065.2016.09.03.day10,0.119989417,soil.face,250.2777778,SHSU,advanced,2016.065
+soil.face.UTK.K016.06.2016.10.05.day1,0.001269841,soil.face,0,UTK,placement,UTK.K016.06
+soil.face.SHSU.2016.064.2016.09.12.day19,0.001874609,soil.face,503.3333333,SHSU,advanced,2016.064
+soil.face.CMU.16.09.2016.08.04.day10,0.009534563,soil.face,248.35,CMU,advanced,Mrs. 16-09
+soil.face.SHSU.2016.064.2016.08.26.day2,0,soil.face,27.5,SHSU,early,2016.064
+soil.hip.CMU.16.09.2016.08.03.day9,0,soil.hip,225,CMU,advanced,Mrs. 16-09
+soil.hip.SHSU.2016.067.2016.09.23.day8,0.026021265,soil.hip,201.45,SHSU,advanced,2016.067
+soil.hip.CMU.16.09.2016.08.01.day7,0,soil.hip,169.4,CMU,active,Mrs. 16-09
+soil.face.UTK.K016.04.2016.10.08.day13,0.012430081,soil.face,236.2,UTK,advanced,UTK.K016.04
+soil.hip.UTK.K016.05.2016.10.14.day19,0.073185081,soil.hip,340.2,UTK,advanced,UTK.K016.05
+soil.face.SHSU.2016.067.2016.09.28.day13,0.020995962,soil.face,327,SHSU,advanced,2016.067
+soil.hip.SHSU.2016.065.2016.09.02.day9,0.065835175,soil.hip,223.0555556,SHSU,advanced,2016.065
+soil.hip.SHSU.2016.067.2016.09.30.day15,0.056053238,soil.hip,367.55,SHSU,advanced,2016.067
+soil.hip.CMU.16.09.2016.07.27.day2,0,soil.hip,28.3,CMU,early,Mrs. 16-09
+soil.face.UTK.K016.05.2016.10.05.day10,0.003296546,soil.face,173.7,UTK,active,UTK.K016.05
+soil.face.UTK.K016.06.2016.10.15.day11,0.033355828,soil.face,187.6,UTK,active,UTK.K016.06
+soil.face.UTK.K016.06.2016.10.24.day20,0.051617632,soil.face,357.1,UTK,advanced,UTK.K016.06
+soil.hip.SHSU.2016.067.2016.09.17.day2,0.000678273,soil.hip,29.2,SHSU,early,2016.067
+soil.hip.CMU.16.10.2016.08.10.day5,0,soil.hip,104.45,CMU,active,Mrs. 16-10
+soil.face.SHSU.2016.065.2016.08.28.day4,0,soil.face,82.22222222,SHSU,active,2016.065
+soil.hip.UTK.K016.04.2016.10.09.day14,0.024335286,soil.hip,253.1,UTK,advanced,UTK.K016.04
+soil.hip.UTK.K016.04.2016.10.11.day16,0.020226537,soil.hip,286.1,UTK,advanced,UTK.K016.04
+soil.face.CMU.16.09.2016.08.08.day14,0,soil.face,343.3,CMU,advanced,Mrs. 16-09
+soil.hip.UTK.K016.04.2016.10.02.day7,0.000338448,soil.hip,111.5,UTK,active,UTK.K016.04
+soil.face.SHSU.2016.064.2016.09.09.day16,0.021312345,soil.face,422.2222222,SHSU,advanced,2016.064
+soil.hip.CMU.16.09.2016.08.05.day11,0,soil.hip,269.7,CMU,advanced,Mrs. 16-09
+soil.hip.UTK.K016.05.2016.09.27.day2,0,soil.hip,21.3,UTK,early,UTK.K016.05
+soil.face.SHSU.2016.065.2016.08.30.day6,0.005579665,soil.face,137.5,SHSU,active,2016.065
+soil.hip.UTK.K016.06.2016.10.22.day18,0.025732987,soil.hip,328.2,UTK,advanced,UTK.K016.06
+soil.hip.SHSU.2016.064.2016.09.02.day9,0.01539158,soil.hip,223.0555556,SHSU,advanced,2016.064
+soil.face.SHSU.2016.067.2016.09.26.day11,0.020177947,soil.face,280.6,SHSU,advanced,2016.067
+soil.hip.SHSU.2016.067.2016.10.05.day20,0.066334533,soil.hip,486.1,SHSU,advanced,2016.067
+soil.face.UTK.K016.05.2016.09.27.day2,0,soil.face,21.3,UTK,early,UTK.K016.05
+soil.face.SHSU.2016.065.2016.09.02.day9,0.055119547,soil.face,223.0555556,SHSU,advanced,2016.065
+soil.hip.UTK.K016.06.2016.10.10.day6,0.004037345,soil.hip,96,UTK,active,UTK.K016.06
+soil.face.SHSU.2016.067.2016.09.22.day7,0.003923767,soil.face,173.4,SHSU,active,2016.067
+soil.face.UTK.K016.05.2016.10.13.day18,0.041797032,soil.face,320.1,UTK,advanced,UTK.K016.05
+soil.face.SHSU.2016.067.2016.09.23.day8,0,soil.face,201.45,SHSU,advanced,2016.067
+soil.hip.UTK.K016.05.2016.10.04.day9,0.014218993,soil.hip,152.3,UTK,active,UTK.K016.05
+soil.face.SHSU.2016.065.2016.09.06.day13,0.147543234,soil.face,335.5555556,SHSU,advanced,2016.065
+soil.hip.SHSU.2016.067.2016.09.29.day14,0.013469877,soil.hip,348.1,SHSU,advanced,2016.067
+soil.face.CMU.16.10.2016.08.11.day6,0,soil.face,129.45,CMU,active,Mrs. 16-10
+soil.face.CMU.16.10.2016.08.10.day5,0,soil.face,104.45,CMU,active,Mrs. 16-10
+soil.hip.CMU.16.10.2016.08.22.day17,0.002539089,soil.hip,400,CMU,advanced,Mrs. 16-10
+soil.face.CMU.16.10.2016.08.21.day16,0.006041908,soil.face,376.1,CMU,advanced,Mrs. 16-10
+soil.hip.CMU.16.10.2016.08.20.day15,0.014207489,soil.hip,351.95,CMU,advanced,Mrs. 16-10
+soil.face.CMU.16.09.2016.08.15.day21,0.002389227,soil.face,521.95,CMU,advanced,Mrs. 16-09
+soil.face.SHSU2016.067.2016.09.18.day3,0.004870921,soil.face,58.9,SHSU,active,2016.067
+soil.hip.SHSU.2016.067.2016.09.27.day12,0.016078018,soil.hip,303.65,SHSU,advanced,2016.067
+soil.face.UTK.K016.05.2016.10.16.day21,0.031772412,soil.face,383,UTK,advanced,UTK.K016.05
+soil.face.SHSU.2016.067.2016.09.19.day4,0,soil.face,89.75,SHSU,active,2016.067
+soil.face.SHSU.2016.065.2016.08.26.day2,0,soil.face,27.5,SHSU,early,2016.065
+soil.hip.UTK.K016.04.2016.10.15.day20,0.025603151,soil.hip,361.3,UTK,advanced,UTK.K016.04
+soil.face.CMU.16.09.2016.08.11.day17,0.000826617,soil.face,422.75,CMU,advanced,Mrs. 16-09
+soil.hip.CMU.16.10.2016.08.26.day21,0,soil.hip,483.95,CMU,advanced,Mrs. 16-10
+soil.face.UTK.K016.04.2016.10.15.day20,0.02091293,soil.face,361.3,UTK,advanced,UTK.K016.04
+soil.hip.CMU.16.09.2016.07.28.day3,0,soil.hip,57.45,CMU,active,Mrs. 16-09
+soil.face.UTK.K016.04.2016.09.30.day5,0,soil.face,76.2,UTK,active,UTK.K016.04
+soil.hip.UTK.K016.06.2016.10.16.day12,0.01482684,soil.hip,209.3,UTK,advanced,UTK.K016.06
+soil.face.CMU.16.10.2016.08.09.day4,0,soil.face,78.05,CMU,active,Mrs. 16-10
+soil.face.UTK.K016.05.2016.10.01.day6,0,soil.face,92.6,UTK,active,UTK.K016.05
+soil.hip.SHSU.2016.064.2016.09.11.day18,0,soil.hip,476.1111111,SHSU,advanced,2016.064
+soil.face.SHSU.2016.064.2016.09.01.day8,0.006761833,soil.face,195.5555556,SHSU,active,2016.064
+soil.hip.SHSU.2016.064.2016.09.06.day13,0,soil.hip,335.5555556,SHSU,advanced,2016.064
+soil.hip.CMU.16.04.2016.mo.day3,0,soil.hip,16.66666667,CMU,early,CMU_Mr._16_04
+soil.face.UTK.K016.06.2016.10.18.day14,0.038788838,soil.face,252.1,UTK,advanced,UTK.K016.06
+soil.hip.CMU.16.09.2016.08.13.day19,0.007600259,soil.hip,471.65,CMU,advanced,Mrs. 16-09
+soil.face.SHSU.2016.067.2016.10.06.day21,0.008674602,soil.face,513.85,SHSU,advanced,2016.067
+soil.face.SHSU.2016.064.2016.08.31.day7,0.001852832,soil.face,166.3888889,SHSU,active,2016.064
+soil.face.SHSU.2016.065.2016.08.25.day1,0.006696429,soil.face,0,SHSU,placement,2016.065
+soil.hip.SHSU.2016.065.2016.08.25.day1,0,soil.hip,0,SHSU,placement,2016.065
+soil.hip.CMU.16.09.2016.07.30.day5,0,soil.hip,114.7,CMU,active,Mrs. 16-09
+soil.face.SHSU.2016.067.2016.09.29.day14,0.010662177,soil.face,348.1,SHSU,advanced,2016.067
+soil.hip.CMU.16.09.2016.08.10.day16,0,soil.hip,397.75,CMU,advanced,Mrs. 16-09
+soil.face.CMU.16.09.2016.08.13.day19,0.000496278,soil.face,471.65,CMU,advanced,Mrs. 16-09
+soil.face.SHSU.2016.064.2016.09.07.day14,0.001849854,soil.face,364.1666667,SHSU,advanced,2016.064
+soil.face.UTK.K016.05.2016.10.12.day17,0.000395883,soil.face,302.8,UTK,advanced,UTK.K016.05
+soil.face.CMU.16.04.2016.mo.day3,0,soil.face,16.66666667,CMU,early,CMU_Mr._16_04
+soil.face.SHSU2016.067.2016.09.17.day2,0,soil.face,29.2,SHSU,early,2016.067
+soil.hip.CMU.16.09.2016.07.31.day6,0,soil.hip,142.45,CMU,active,Mrs. 16-09
+soil.face.CMU.16.10.2016.08.12.day7,0.0105561,soil.face,153.05,CMU,active,Mrs. 16-10
+soil.face.SHSU.2016.065.2016.09.10.day17,0.00893642,soil.face,449.4444444,SHSU,advanced,2016.065
+soil.face.CMU.16.09.2016.07.28.day3,0,soil.face,57.45,CMU,active,Mrs. 16-09
+soil.hip.CMU.16.10.2016.08.18.day13,0.001196351,soil.hip,303.9,CMU,advanced,Mrs. 16-10
+soil.face.CMU.16.09.2016.08.05.day11,0,soil.face,269.7,CMU,advanced,Mrs. 16-09
+soil.hip.SHSU.2016.064.2016.09.04.day11,0,soil.hip,278.0555556,SHSU,advanced,2016.064
+soil.face.CMU.16.10.2016.08.18.day13,0.01044335,soil.face,303.9,CMU,advanced,Mrs. 16-10
+soil.hip.SHSU.2016.067.2016.09.20.day5,0,soil.hip,118.95,SHSU,active,2016.067
+soil.hip.UTK.K016.06.2016.10.05.day1,0,soil.hip,0,UTK,placement,UTK.K016.06
+soil.hip.CMU.16.10.2016.08.12.day7,0.003072197,soil.hip,153.05,CMU,active,Mrs. 16-10
+soil.face.UTK.K016.06.2016.10.19.day15,0.057089668,soil.face,276,UTK,advanced,UTK.K016.06
+soil.face.SHSU.2016.064.2016.08.25.day1,0,soil.face,0,SHSU,placement,2016.064
+soil.face.CMU.16.10.2016.08.26.day21,0,soil.face,483.95,CMU,advanced,Mrs. 16-10
+soil.hip.CMU.16.10.2016.08.21.day16,0.017485265,soil.hip,376.1,CMU,advanced,Mrs. 16-10
+soil.face.SHSU.2016.067.2016.09.21.day6,0,soil.face,146.15,SHSU,active,2016.067
+soil.hip.UTK.K016.05.2016.09.30.day5,0,soil.hip,76.2,UTK,active,UTK.K016.05
+soil.hip.UTK.K016.04.2016.10.10.day15,0.023822299,soil.hip,269.7,UTK,advanced,UTK.K016.04
+soil.face.UTK.K016.06.2016.10.07.day3,0.000519346,soil.face,40.8,UTK,early,UTK.K016.06
+soil.hip.CMU.16.09.2016.08.14.day20,0.045185811,soil.hip,496.4,CMU,advanced,Mrs. 16-09
+soil.hip.SHSU.2016.064.2016.08.27.day3,0,soil.hip,55.27777778,SHSU,active,2016.064
+soil.hip.UTK.K016.04.2016.10.08.day13,0.030537379,soil.hip,236.2,UTK,advanced,UTK.K016.04
+soil.face.UTK.K016.06.2016.10.08.day4,0.002758845,soil.face,62.5,UTK,active,UTK.K016.06
+soil.hip.SHSU.2016.064.2016.08.31.day7,0.001055223,soil.hip,166.3888889,SHSU,active,2016.064
+soil.face.CMU.16.09.2016.08.10.day16,0,soil.face,397.75,CMU,advanced,Mrs. 16-09
+soil.face.UTK.K016.05.2016.10.14.day19,0.055716954,soil.face,340.2,UTK,advanced,UTK.K016.05
+soil.hip.UTK.K016.06.2016.10.23.day19,0.037856777,soil.hip,340,UTK,advanced,UTK.K016.06
+soil.hip.SHSU.2016.064.2016.09.03.day10,0.011802575,soil.hip,250.2777778,SHSU,advanced,2016.064
+soil.face.SHSU.2016.065.2016.08.29.day5,0.001657952,soil.face,109.4444444,SHSU,active,2016.065
+soil.face.SHSU2016.064.2016.09.14.day21,0.011257258,soil.face,558.6111111,SHSU,advanced,2016.064
+soil.face.SHSU.2016.064.2016.09.11.day18,0,soil.face,476.1111111,SHSU,advanced,2016.064
+soil.face.CMU.16.09.2016.08.07.day13,0.007862586,soil.face,317.75,CMU,advanced,Mrs. 16-09
+soil.hip.UTK.K016.04.2016.09.26.day1,0,soil.hip,0,UTK,placement,UTK.K016.04
+soil.hip.SHSU.2016.064.2016.09.05.day12,0.000612557,soil.hip,306.9444444,SHSU,advanced,2016.064
+soil.face.SHSU.2016.067.2016.10.04.day19,0.011247315,soil.face,457.5,SHSU,advanced,2016.067
+soil.hip.SHSU.2016.067.2016.10.01.day16,0.021011509,soil.hip,388.4,SHSU,advanced,2016.067
+soil.face.CMU.16.09.2016.07.27.day2,0,soil.face,28.3,CMU,early,Mrs. 16-09
+soil.hip.UTK.K016.05.2016.10.16.day21,0.047396406,soil.hip,383,UTK,advanced,UTK.K016.05
+soil.hip.SHSU.2016.065.2016.08.29.day5,0,soil.hip,109.4444444,SHSU,active,2016.065
+soil.face.SHSU.2016.067.2016.09.24.day9,0.074559059,soil.face,229.8,SHSU,advanced,2016.067
+soil.face.SHSU.2016.064.2016.09.04.day11,0.000959693,soil.face,278.0555556,SHSU,advanced,2016.064
+soil.hip.SHSU.2016.065.2016.08.27.day3,0,soil.hip,55.27777778,SHSU,active,2016.065
+soil.hip.UTK.K016.04.2016.10.14.day19,0.029049729,soil.hip,340.2,UTK,advanced,UTK.K016.04
+soil.hip.CMU.16.09.2016.08.08.day14,0,soil.hip,343.3,CMU,advanced,Mrs. 16-09
+soil.hip.SHSU.2016.067.2016.09.22.day7,0.015423242,soil.hip,173.4,SHSU,active,2016.067
+soil.face.CMU.16.10.2016.08.20.day15,0.006088065,soil.face,351.95,CMU,advanced,Mrs. 16-10
+soil.hip.UTK.K016.06.2016.10.08.day4,0.00120032,soil.hip,62.5,UTK,active,UTK.K016.06
+soil.face.SHSU.2016.065.2016.08.27.day3,0,soil.face,55.27777778,SHSU,active,2016.065
+soil.hip.SHSU.2016.065.2016.09.04.day11,0.001629277,soil.hip,278.0555556,SHSU,advanced,2016.065
+soil.face.UTK.K016.04.2016.10.14.day19,0.021514024,soil.face,340.2,UTK,advanced,UTK.K016.04
+soil.hip.CMU.16.09.2016.07.29.day4,0,soil.hip,86.6,CMU,active,Mrs. 16-09
+soil.face.SHSU.2016.065.2016.08.31.day7,0.035840432,soil.face,166.3888889,SHSU,active,2016.065
+soil.face.UTK.K016.04.2016.10.06.day11,0.014464425,soil.face,194.1,UTK,active,UTK.K016.04
+soil.hip.CMU.16.10.2016.08.09.day4,0,soil.hip,78.05,CMU,active,Mrs. 16-10
+soil.hip.UTK.K016.05.2016.10.01.day6,0,soil.hip,92.6,UTK,active,UTK.K016.05
+soil.face.UTK.K016.04.2016.09.27.day2,0,soil.face,21.3,UTK,early,UTK.K016.04
+soil.hip.SHSU.2016.067.2016.09.26.day11,0.069549509,soil.hip,280.6,SHSU,advanced,2016.067
+soil.face.SHSU2016.067.2016.09.20.day5,0,soil.face,118.95,SHSU,active,2016.067
+soil.face.SHSU.2016.067.2016.09.25.day10,0.034595224,soil.face,256.45,SHSU,advanced,2016.067
+soil.face.UTK.K016.06.2016.10.23.day19,0.020569346,soil.face,340,UTK,advanced,UTK.K016.06
+soil.hip.SHSU.2016.064.2016.08.30.day6,0.004722655,soil.hip,137.5,SHSU,active,2016.064
+soil.hip.CMU.16.10.2016.08.17.day12,0.009076433,soil.hip,280.3,CMU,advanced,Mrs. 16-10
+soil.hip.UTK.K016.05.2016.10.15.day20,0.042257043,soil.hip,361.3,UTK,advanced,UTK.K016.05
+soil.face.SHSU.2016.064.2016.09.06.day13,0.018961885,soil.face,335.5555556,SHSU,advanced,2016.064
+soil.hip.CMU.16.09.2016.08.06.day12,0,soil.hip,293.3,CMU,advanced,Mrs. 16-09
+soil.face.UTK.K016.04.2016.10.11.day16,0.029668226,soil.face,286.1,UTK,advanced,UTK.K016.04
+soil.hip.CMU.16.09.2016.07.26.day1,0,soil.hip,0,CMU,placement,Mrs. 16-09
+soil.face.CMU.16.09.2016.08.12.day18,0.047612389,soil.face,446.35,CMU,advanced,Mrs. 16-09
+soil.hip.SHSU.2016.064.2016.09.12.day19,0.001088986,soil.hip,503.3333333,SHSU,advanced,2016.064
+soil.hip.CMU.16.09.2016.08.04.day10,0.000266738,soil.hip,248.35,CMU,advanced,Mrs. 16-09
+soil.hip.UTK.K016.04.2016.09.30.day5,0,soil.hip,76.2,UTK,active,UTK.K016.04
+soil.face.SHSU.2016.065.2016.09.13.day20,0.044219653,soil.face,530.8333333,SHSU,advanced,2016.065
+soil.hip.UTK.K016.06.2016.10.07.day3,0.001029109,soil.hip,40.8,UTK,early,UTK.K016.06
+soil.hip.SHSU.2016.064.2016.08.25.day1,0,soil.hip,0,SHSU,placement,2016.064
+soil.face.SHSU.2016.065.2016.09.12.day19,0.006604507,soil.face,503.3333333,SHSU,advanced,2016.065
+soil.face.SHSU.2016.067.2016.10.01.day16,0.005489792,soil.face,388.4,SHSU,advanced,2016.067
+soil.hip.CMU.16.09.2016.08.07.day13,0,soil.hip,317.75,CMU,advanced,Mrs. 16-09
+soil.face.UTK.K016.05.2016.09.29.day4,0,soil.face,60.4,UTK,active,UTK.K016.05
+soil.hip.SHSU2016.065.2016.09.03.day10,0.043441227,soil.hip,250.2777778,SHSU,advanced,2016.065
+soil.face.UTK.K016.04.2016.09.26.day1,0.000346941,soil.face,0,UTK,placement,UTK.K016.04
+soil.hip.SHSU.2016.067.2016.09.21.day6,0.000641931,soil.hip,146.15,SHSU,active,2016.067
+soil.hip.SHSU.2016.064.2016.09.13.day20,0.006002155,soil.hip,530.8333333,SHSU,advanced,2016.064
+soil.face.CMU.16.09.2016.08.06.day12,0,soil.face,293.3,CMU,advanced,Mrs. 16-09
+soil.hip.CMU.16.10.2016.08.07.day2,0,soil.hip,24.45,CMU,early,Mrs. 16-10
+soil.hip.SHSU.2016.067.2016.10.06.day21,0.030547676,soil.hip,513.85,SHSU,advanced,2016.067
+soil.hip.CMU.16.09.2016.08.02.day8,0,soil.hip,196.65,CMU,active,Mrs. 16-09
+soil.face.CMU.16.09.2016.08.03.day9,0.000276587,soil.face,225,CMU,advanced,Mrs. 16-09
+soil.face.SHSU.2016.067.2016.10.05.day20,0.007607555,soil.face,486.1,SHSU,advanced,2016.067
+soil.hip.UTK.K016.04.2016.09.29.day4,0,soil.hip,60.4,UTK,active,UTK.K016.04
+soil.face.CMU.16.10.2016.08.06.day1,0,soil.face,0,CMU,placement,Mrs. 16-10
+soil.hip.UTK.K016.05.2016.10.12.day17,0.026873767,soil.hip,302.8,UTK,advanced,UTK.K016.05
+soil.face.CMU.16.10.2016.08.15.day10,0.011416626,soil.face,228.65,CMU,advanced,Mrs. 16-10
+soil.face.SHSU.2016.064.2016.08.28.day4,0,soil.face,82.22222222,SHSU,active,2016.064
+soil.face.UTK.K016.04.2016.10.09.day14,0.021290051,soil.face,253.1,UTK,advanced,UTK.K016.04
+soil.hip.UTK.K016.05.2016.09.29.day4,0.000449708,soil.hip,60.4,UTK,active,UTK.K016.05
+soil.hip.CMU.16.10.2016.08.23.day18,0.024032901,soil.hip,421.7,CMU,advanced,Mrs. 16-10
+soil.hip.UTK.K016.04.2016.10.12.day17,0.024057834,soil.hip,302.8,UTK,advanced,UTK.K016.04
+soil.hip.SHSU.2016.067.2016.09.25.day10,0.029818702,soil.hip,256.45,SHSU,advanced,2016.067
+soil.face.SHSU.2016.067.2016.10.03.day18,0.013157895,soil.face,432.5,SHSU,advanced,2016.067
+soil.hip.UTK.K016.06.2016.10.11.day7,0.000864491,soil.hip,112.4,UTK,active,UTK.K016.06
+soil.hip.SHSU.2016.065.2016.08.30.day6,0.001362133,soil.hip,137.5,SHSU,active,2016.065
+soil.face.CMU.16.10.2016.08.07.day2,0,soil.face,24.45,CMU,early,Mrs. 16-10
+soil.face.CMU.16.09.2016.08.01.day7,0,soil.face,169.4,CMU,active,Mrs. 16-09
+soil.hip.CMU.16.10.2016.08.11.day6,0,soil.hip,129.45,CMU,active,Mrs. 16-10
+soil.face.UTK.K016.04.2016.09.29.day4,0,soil.face,60.4,UTK,active,UTK.K016.04
+soil.face.CMU.16.10.2016.08.23.day18,0.010932598,soil.face,421.7,CMU,advanced,Mrs. 16-10
+soil.face.UTK.K016.05.2016.09.30.day5,0,soil.face,76.2,UTK,active,UTK.K016.05
+soil.hip.UTK.K016.04.2016.10.01.day6,0,soil.hip,92.6,UTK,active,UTK.K016.04
+soil.face.SHSU.2016.067.2016.09.27.day12,0.012396182,soil.face,303.65,SHSU,advanced,2016.067
+soil.face.UTK.K016.05.2016.10.15.day20,0.048837705,soil.face,361.3,UTK,advanced,UTK.K016.05
+soil.hip.SHSU.2016.064.2016.08.26.day2,0,soil.hip,27.5,SHSU,early,2016.064
+soil.hip.CMU.16.09.2016.08.12.day18,0.004861385,soil.hip,446.35,CMU,advanced,Mrs. 16-09
+soil.hip.SHSU2016.067.2016.10.03.day18,0.032459179,soil.hip,432.5,SHSU,advanced,2016.067
+soil.hip.CMU.16.10.2016.08.08.day3,0,soil.hip,50,CMU,early,Mrs. 16-10
+soil.face.SHSU.2016.064.2016.09.02.day9,0.022637145,soil.face,223.0555556,SHSU,advanced,2016.064
+soil.face.UTK.K016.06.2016.10.10.day6,0.016220901,soil.face,96,UTK,active,UTK.K016.06
+soil.face.SHSU.2016.065.2016.09.07.day14,0.009631352,soil.face,364.1666667,SHSU,advanced,2016.065
+soil.hip.UTK.K016.04.2016.09.28.day3,0,soil.hip,41.7,UTK,early,UTK.K016.04
+soil.hip.SHSU.2016.064.2016.09.08.day15,0.014439324,soil.hip,393.6111111,SHSU,advanced,2016.064
+soil.face.SHSU.2016.067.2016.09.30.day15,0.022322615,soil.face,367.55,SHSU,advanced,2016.067
+soil.hip.SHSU.2016.065.2016.09.09.day16,0.020216606,soil.hip,422.2222222,SHSU,advanced,2016.065
+soil.face.UTK.K016.06.2016.10.22.day18,0.052210366,soil.face,328.2,UTK,advanced,UTK.K016.06
+soil.face.SHSU.2016.064.2016.08.30.day6,0.003685762,soil.face,137.5,SHSU,active,2016.064
+soil.hip.UTK.K016.06.2016.10.13.day9,0.003217436,soil.hip,146.4,UTK,active,UTK.K016.06
+soil.hip.UTK.K016.06.2016.10.24.day20,0.02171576,soil.hip,357.1,UTK,advanced,UTK.K016.06
+soil.hip.CMU.16.10.2016.08.24.day19,0,soil.hip,443.9,CMU,advanced,Mrs. 16-10
+soil.face.CMU.16.10.2016.08.17.day12,0.008109478,soil.face,280.3,CMU,advanced,Mrs. 16-10
+soil.hip.SHSU.2016.067.2016.09.28.day13,0.024808525,soil.hip,327,SHSU,advanced,2016.067
+soil.face.SHSU.2016.065.2016.09.01.day8,0.061845442,soil.face,195.5555556,SHSU,active,2016.065
+soil.face.UTK.K016.04.2016.10.12.day17,0.020524899,soil.face,302.8,UTK,advanced,UTK.K016.04
+soil.face.SHSU.2016.065.2016.09.08.day15,0.0394972,soil.face,393.6111111,SHSU,advanced,2016.065
+soil.face.UTK.K016.04.2016.10.16.day21,0.014775342,soil.face,383,UTK,advanced,UTK.K016.04
+soil.face.SHSU.2016.067.2016.09.16.day1,0,soil.face,0,SHSU,placement,2016.067
+soil.face.SHSU.2016.065.2016.09.11.day18,0.007706256,soil.face,476.1111111,SHSU,advanced,2016.065
+soil.hip.SHSU.2016.067.2016.10.04.day19,0.034382095,soil.hip,457.5,SHSU,advanced,2016.067
+soil.hip.SHSU.2016.067.2016.10.02.day17,0.031936902,soil.hip,410.3,SHSU,advanced,2016.067
+soil.face.UTK.K016.04.2016.10.10.day15,0.015654443,soil.face,269.7,UTK,advanced,UTK.K016.04
+soil.face.CMU.16.10.2016.08.25.day20,0.000433088,soil.face,464.75,CMU,advanced,Mrs. 16-10
+soil.hip.SHSU.2016.065.2016.09.07.day14,0.003237798,soil.hip,364.1666667,SHSU,advanced,2016.065
+soil.face.SHSU.2016.065.2016.09.09.day16,0.008757526,soil.face,422.2222222,SHSU,advanced,2016.065
+soil.hip.SHSU.2016.065.2016.08.31.day7,0.000979295,soil.hip,166.3888889,SHSU,active,2016.065
+soil.hip.SHSU.2016.067.2016.09.16.day1,0,soil.hip,0,SHSU,placement,2016.067
+soil.face.SHSU.2016.067.2016.10.02.day17,0.010154525,soil.face,410.3,SHSU,advanced,2016.067
+soil.hip.SHSU.2016.064.2016.09.10.day17,0,soil.hip,449.4444444,SHSU,advanced,2016.064
+soil.face.CMU.16.09.2016.07.26.day1,0,soil.face,0,CMU,placement,Mrs. 16-09
+soil.face.CMU.16.09.2016.07.31.day6,0,soil.face,142.45,CMU,active,Mrs. 16-09
+soil.hip.CMU.16.10.2016.08.25.day20,0.001917852,soil.hip,464.75,CMU,advanced,Mrs. 16-10
+soil.face.UTK.K016.06.2016.10.21.day17,0.04562779,soil.face,316.6,UTK,advanced,UTK.K016.06
+soil.face.CMU.16.09.2016.08.09.day15,0,soil.face,371.35,CMU,advanced,Mrs. 16-09
+soil.hip.UTK.K016.06.2016.10.06.day2,0.000764877,soil.hip,20.4,UTK,early,UTK.K016.06
+soil.hip.UTK.K016.04.2016.10.07.day12,0.02466341,soil.hip,214.5,UTK,advanced,UTK.K016.04
+soil.face.SHSU.2016.064.2016.08.27.day3,0,soil.face,55.27777778,SHSU,active,2016.064
+soil.hip.CMU.16.09.2016.08.09.day15,0,soil.hip,371.35,CMU,advanced,Mrs. 16-09
+soil.face.CMU.16.10.2016.08.08.day3,0.00055322,soil.face,50,CMU,early,Mrs. 16-10
+soil.hip.CMU.16.09.2016.08.11.day17,0,soil.hip,422.75,CMU,advanced,Mrs. 16-09
+soil.hip.UTK.K016.06.2016.10.09.day5,0.001579098,soil.hip,79.4,UTK,active,UTK.K016.06
+soil.face.CMU.16.09.2016.08.14.day20,0.030005358,soil.face,496.4,CMU,advanced,Mrs. 16-09
+soil.hip.CMU.16.10.2016.08.06.day1,0,soil.hip,0,CMU,placement,Mrs. 16-10
+soil.hip.SHSU.2016.065.2016.09.01.day8,0.011475558,soil.hip,195.5555556,SHSU,active,2016.065
+soil.hip.UTK.K016.04.2016.09.27.day2,0.000230203,soil.hip,21.3,UTK,early,UTK.K016.04
+soil.hip.SHSU.2016.064.2016.09.07.day14,0.000369049,soil.hip,364.1666667,SHSU,advanced,2016.064
+soil.hip.SHSU.2016.065.2016.08.26.day2,0,soil.hip,27.5,SHSU,early,2016.065
+soil.hip.SHSU.2016.065.2016.08.28.day4,0.000310655,soil.hip,82.22222222,SHSU,active,2016.065
+soil.hip.SHSU.2016.064.2016.09.01.day8,0.016824014,soil.hip,195.5555556,SHSU,active,2016.064
+soil.hip.UTK.K016.06.2016.10.25.day21,0.025466443,soil.hip,373.2,UTK,advanced,UTK.K016.06
+soil.hip.UTK.K016.04.2016.10.03.day8,0.004394329,soil.hip,130.7,UTK,active,UTK.K016.04
+soil.hip.UTK.K016.05.2016.10.06.day11,0.007118255,soil.hip,194.1,UTK,active,UTK.K016.05
+soil.face.UTK.K016.05.2016.10.06.day11,0.009680422,soil.face,194.1,UTK,active,UTK.K016.05
+soil.face.UTK.K016.04.2016.10.04.day9,0.002902078,soil.face,152.3,UTK,active,UTK.K016.04
+soil.hip.UTK.K016.05.2016.09.26.day1,0.000415397,soil.hip,0,UTK,placement,UTK.K016.05
+soil.hip.UTK.K016.06.2016.10.15.day11,0.016805352,soil.hip,187.6,UTK,active,UTK.K016.06
+soil.hip.UTK.K016.06.2016.10.12.day8,0.002298096,soil.hip,129.1,UTK,active,UTK.K016.06
+soil.hip.UTK.K016.05.2016.10.09.day14,0.031366597,soil.hip,253.1,UTK,advanced,UTK.K016.05
+soil.face.UTK.K016.06.2016.10.20.day16,0.064683314,soil.face,299.7,UTK,advanced,UTK.K016.06
+soil.face.UTK.K016.05.2016.10.08.day13,0.012126388,soil.face,236.2,UTK,advanced,UTK.K016.05
+soil.face.UTK.K016.05.2016.10.02.day7,0.000194628,soil.face,111.5,UTK,active,UTK.K016.05
+soil.hip.UTK.K016.05.2016.10.02.day7,0,soil.hip,111.5,UTK,active,UTK.K016.05
+soil.face.UTK.K016.05.2016.10.11.day16,0.029877261,soil.face,286.1,UTK,advanced,UTK.K016.05
+soil.face.UTK.K016.05.2016.09.26.day1,0.000188182,soil.face,0,UTK,placement,UTK.K016.05
+soil.face.UTK.K016.06.2016.10.13.day9,0.052615755,soil.face,146.4,UTK,active,UTK.K016.06
+soil.face.UTK.K016.05.2016.10.07.day12,0.018286814,soil.face,214.5,UTK,advanced,UTK.K016.05
+soil.face.UTK.K016.06.2016.10.17.day13,0.062106759,soil.face,229.7,UTK,advanced,UTK.K016.06
+soil.hip.UTK.K016.06.2016.10.19.day15,0.032501739,soil.hip,276,UTK,advanced,UTK.K016.06
+soil.face.UTK.K016.05.2016.10.03.day8,0.00024566,soil.face,130.7,UTK,active,UTK.K016.05
+soil.hip.UTK.K016.05.2016.09.28.day3,0.001418595,soil.hip,41.7,UTK,early,UTK.K016.05
+soil.hip.UTK.K016.06.2016.10.18.day14,0.034140286,soil.hip,252.1,UTK,advanced,UTK.K016.06
+soil.hip.UTK.K016.04.2016.10.06.day11,0.046255623,soil.hip,194.1,UTK,active,UTK.K016.04
+soil.hip.UTK.K016.04.2016.10.04.day9,0.040377623,soil.hip,152.3,UTK,active,UTK.K016.04
+soil.face.UTK.K016.04.2016.10.13.day18,0.028613638,soil.face,320.1,UTK,advanced,UTK.K016.04
+soil.hip.UTK.K016.04.2016.10.05.day10,0.043735642,soil.hip,173.7,UTK,active,UTK.K016.04
+soil.hip.UTK.K016.05.2016.10.05.day10,0.014775457,soil.hip,173.7,UTK,active,UTK.K016.05
+soil.hip.UTK.K016.05.2016.10.10.day15,0.044573926,soil.hip,269.7,UTK,advanced,UTK.K016.05
+soil.face.UTK.K016.05.2016.10.04.day9,0.003867766,soil.face,152.3,UTK,active,UTK.K016.05
+soil.face.UTK.K016.06.2016.10.14.day10,0.210675254,soil.face,166.5,UTK,active,UTK.K016.06
+soil.face.UTK.K016.06.2016.10.16.day12,0.041912098,soil.face,209.3,UTK,advanced,UTK.K016.06
+soil.hip.UTK.K016.06.2016.10.20.day16,0.03818024,soil.hip,299.7,UTK,advanced,UTK.K016.06
+soil.face.UTK.K016.04.2016.10.03.day8,0.003835336,soil.face,130.7,UTK,active,UTK.K016.04
+soil.hip.UTK.K016.05.2016.10.07.day12,0.015074526,soil.hip,214.5,UTK,advanced,UTK.K016.05
+soil.face.UTK.K016.05.2016.10.09.day14,0.012727273,soil.face,253.1,UTK,advanced,UTK.K016.05
+soil.hip.UTK.K016.05.2016.10.11.day16,0.038101884,soil.hip,286.1,UTK,advanced,UTK.K016.05
+soil.face.UTK.K016.06.2016.10.12.day8,0.005414935,soil.face,129.1,UTK,active,UTK.K016.06
+soil.face.UTK.K016.06.2016.10.11.day7,0.009094009,soil.face,112.4,UTK,active,UTK.K016.06
+soil.face.UTK.K016.04.2016.10.02.day7,0,soil.face,111.5,UTK,active,UTK.K016.04
+soil.hip.UTK.K016.06.2016.10.14.day10,0.025573961,soil.hip,166.5,UTK,active,UTK.K016.06
+soil.hip.UTK.K016.05.2016.10.08.day13,0.02003386,soil.hip,236.2,UTK,advanced,UTK.K016.05
+soil.face.UTK.K016.05.2016.10.10.day15,0.020041929,soil.face,269.7,UTK,advanced,UTK.K016.05
+soil.face.CMU.17.01.2017.01.day18,0,soil.face,28.65,CMU,early,Mrs. 17-01
+soil.face.UTK.K016.07.2017.Jan.12.day6,0,soil.face,32.8,UTK,early,K016.07
+soil.hip.UTK.K016.09.2017.Jan.12.day6,0,soil.hip,32.8,UTK,early,K016.09
+soil.face.UTK.K016.09.2017.Jan.23.day17,0,soil.face,186.2,UTK,active,K016.09
+soil.hip.CMU.16.14.2016.12.day.day12,0,soil.hip,1.4,CMU,early,16-14
+soil.hip.UTK.K016.08.2017.Jan.20.day14,0,soil.hip,148.3,UTK,active,K016.08
+soil.hip.UTK.K016.07.2017.Jan.06.day1,0,soil.hip,0,UTK,placement,K016.07
+soil.face.CMU.16.14.2016.12.day.day18,0,soil.face,19.4,CMU,early,16-14
+soil.hip.CMU.17.01.2017.01.day8,0,soil.hip,6.15,CMU,early,Mrs. 17-01
+soil.face.UTK.K016.07.2017.Jan.14.day8,0,soil.face,64.5,UTK,active,K016.07
+soil.hip.UTK.K016.07.2017.Jan.25.day19,0,soil.hip,202.2,UTK,advanced,K016.07
+soil.face.UTK.K016.08.2017.Jan.20.day14,0,soil.face,148.3,UTK,active,K016.08
+soil.face.CMU.16.14.2016.12.day.day12,0,soil.face,1.4,CMU,early,16-14
+soil.hip.UTK.K016.09.2017.Jan.13.day7,0,soil.hip,49.3,UTK,early,K016.09
+soil.face.CMU.16.14.2016.12.day.day20,0,soil.face,19.4,CMU,early,16-14
+soil.face.UTK.K016.08.2017.Jan.14.day8,0,soil.face,64.5,UTK,active,K016.08
+soil.face.UTK.K016.07.2017.Jan.08.day2,0,soil.face,0,UTK,early,K016.07
+soil.hip.CMU.17.01.2017.01.day5,0,soil.hip,0,CMU,early,Mrs. 17-01
+soil.hip.CMU.17.01.2017.01.day20,0,soil.hip,33.4,CMU,early,Mrs. 17-01
+soil.hip.UTK.K016.08.2017.Jan.11.day5,0,soil.hip,15.8,UTK,early,K016.08
+soil.face.CMU.16.12.2016.10.day.day4,0,soil.face,14.4,CMU,early,16-12
+soil.hip.CMU.16.14.2016.12.day.day6,0,soil.hip,0,CMU,early,16-14
+soil.hip.UTK.K016.09.2017.Jan.09.day3,0,soil.hip,0,UTK,early,K016.09
+soil.hip.UTK.K016.07.2017.Jan.14.day8,0,soil.hip,64.5,UTK,active,K016.07
+soil.face.UTK.K016.07.2017.Jan.16.day10,0,soil.face,94.1,UTK,active,K016.07
+soil.face.UTK.K016.07.2017.Jan.06.day1,0,soil.face,0,UTK,placement,K016.07
+soil.face.UTK.K016.07.2017.Jan.27.day21,0,soil.face,215.9,UTK,advanced,K016.07
+soil.face.CMU.16.15.2017.01.day21,0,soil.face,19.35,CMU,early,Mr. 16-15
+soil.face.UTK.K016.08.2017.Jan.15.day9,0,soil.face,80.4,UTK,active,K016.08
+soil.hip.CMU.16.12.2016.11.day.day20,0,soil.hip,27.5,CMU,early,16-12
+soil.face.UTK.K016.09.2017.Jan.21.day15,0,soil.face,161,UTK,active,K016.09
+soil.hip.CMU.16.15.2016.12.day13,0,soil.hip,17.15,CMU,early,Mr. 16-15
+soil.face.CMU.16.14.2016.11.day.day2,0,soil.face,0,CMU,early,16-14
+soil.face.UTK.K016.08.2017.Jan.12.day6,0,soil.face,32.8,UTK,early,K016.08
+soil.hip.UTK.K016.07.2017.Jan.09.day3,0,soil.hip,0,UTK,early,K016.07
+soil.hip.CMU.16.14.2016.12.day.day18,0,soil.hip,19.4,CMU,early,16-14
+soil.hip.CMU.16.12.2016.10.day.day3,0,soil.hip,11.1,CMU,early,16-12
+soil.hip.CMU.16.15.2016.12.day16,0,soil.hip,18.8,CMU,early,Mr. 16-15
+soil.face.UTK.K016.09.2017.Jan.27.day21,0,soil.face,215.9,UTK,advanced,K016.09
+soil.hip.UTK.K016.09.2017.Jan.24.day18,0,soil.hip,194.1,UTK,active,K016.09
+soil.face.UTK.K016.07.2017.Jan.09.day3,0,soil.face,0,UTK,early,K016.07
+soil.hip.CMU.16.14.2016.12.day.day16,0,soil.hip,8.05,CMU,early,16-14
+soil.hip.CMU.16.15.2016.12.day19,0,soil.hip,19.35,CMU,early,Mr. 16-15
+soil.hip.UTK.K016.08.2017.Jan.21.day15,0,soil.hip,161,UTK,active,K016.08
+soil.hip.CMU.16.12.2016.11.day.day21,0,soil.hip,31.1,CMU,early,16-12
+soil.hip.UTK.K016.07.2017.Jan.22.day16,0,soil.hip,174.6,UTK,active,K016.07
+soil.face.UTK.K016.09.2017.Jan.20.day14,0,soil.face,148.3,UTK,active,K016.09
+soil.hip.CMU.16.14.2016.12.day.day21,0,soil.hip,19.4,CMU,early,16-14
+soil.hip.UTK.K016.09.2017.Jan.08.day2,0,soil.hip,0,UTK,early,K016.09
+soil.face.CMU.16.15.2016.12.day7,0,soil.face,12.45,CMU,early,Mr. 16-15
+soil.face.UTK.K016.08.2017.Jan.21.day15,0,soil.face,161,UTK,active,K016.08
+soil.face.CMU.16.15.2016.12.day17,0,soil.face,18.8,CMU,early,Mr. 16-15
+soil.hip.UTK.K016.09.2017.Jan.20.day14,0,soil.hip,148.3,UTK,active,K016.09
+soil.face.CMU.17.01.2017.01.day1,0,soil.face,0,CMU,placement,Mrs. 17-01
+soil.hip.CMU.16.14.2016.12.day.day20,0,soil.hip,19.4,CMU,early,16-14
+soil.face.CMU.16.12.2016.11.day.day14,0,soil.face,26.1,CMU,early,16-12
+soil.face.CMU.16.12.2016.11.day.day18,0,soil.face,27.5,CMU,early,16-12
+soil.face.CMU.17.01.2017.01.day2,0,soil.face,0,CMU,early,Mrs. 17-01
+soil.hip.UTK.K016.08.2017.Jan.17.day11,0,soil.hip,109.7,UTK,active,K016.08
+soil.face.UTK.K016.09.2017.Jan.16.day10,0,soil.face,94.1,UTK,active,K016.09
+soil.face.UTK.K016.08.2017.Jan.08.day2,0,soil.face,0,UTK,early,K016.08
+soil.hip.CMU.16.15.2016.12.day3,0,soil.hip,1.1,CMU,early,Mr. 16-15
+soil.hip.CMU.16.14.2016.12.day.day15,0,soil.hip,6.95,CMU,early,16-14
+soil.hip.UTK.K016.08.2017.Jan.13.day7,0,soil.hip,49.3,UTK,early,K016.08
+soil.hip.CMU.17.01.2017.01.day22,0,soil.hip,33.65,CMU,early,Mrs. 17-01
+soil.hip.CMU.17.01.2017.01.day4,0,soil.hip,0,CMU,early,Mrs. 17-01
+soil.face.UTK.K016.07.2017.Jan.21.day15,0,soil.face,161,UTK,active,K016.07
+soil.face.CMU.16.15.2016.12.day13,0,soil.face,17.15,CMU,early,Mr. 16-15
+soil.hip.CMU.16.14.2016.12.day.day17,0,soil.hip,12.75,CMU,early,16-14
+soil.face.UTK.K016.09.2017.Jan.11.day5,0,soil.face,15.8,UTK,early,K016.09
+soil.face.UTK.K016.09.2017.Jan.14.day8,0,soil.face,64.5,UTK,active,K016.09
+soil.face.UTK.K016.09.2017.Jan.18.day12,0,soil.face,124.1,UTK,active,K016.09
+soil.face.CMU.16.14.2016.12.day.day17,0,soil.face,12.75,CMU,early,16-14
+soil.hip.UTK.K016.09.2017.Jan.17.day11,0,soil.hip,109.7,UTK,active,K016.09
+soil.hip.UTK.K016.07.2017.Jan.18.day12,0,soil.hip,124.1,UTK,active,K016.07
+soil.face.CMU.16.15.2016.12.day4,0,soil.face,5.8,CMU,early,Mr. 16-15
+soil.face.CMU.17.01.2017.01.day6,0,soil.face,0,CMU,early,Mrs. 17-01
+soil.face.CMU.17.01.2017.01.day21,0,soil.face,33.65,CMU,early,Mrs. 17-01
+soil.hip.UTK.K016.07.2017.Jan.21.day15,0,soil.hip,161,UTK,active,K016.07
+soil.hip.UTK.K016.08.2017.Jan.15.day9,0,soil.hip,80.4,UTK,active,K016.08
+soil.face.CMU.16.15.2016.12.day3,0,soil.face,1.1,CMU,early,Mr. 16-15
+soil.hip.UTK.K016.08.2017.Jan.19.day13,0,soil.hip,133.9,UTK,active,K016.08
+soil.hip.UTK.K016.07.2017.Jan.26.day20,0,soil.hip,212.9,UTK,advanced,K016.07
+soil.hip.CMU.17.01.2017.01.day9,0,soil.hip,8.65,CMU,early,Mrs. 17-01
+soil.face.CMU.16.15.2016.12.day10,0,soil.face,12.45,CMU,early,Mr. 16-15
+soil.face.UTK.K016.07.2017.Jan.23.day17,0,soil.face,186.2,UTK,active,K016.07
+soil.hip.CMU.16.15.2016.12.day2,0,soil.hip,0,CMU,early,Mr. 16-15
+soil.face.UTK.K016.09.2017.Jan.24.day18,0,soil.face,194.1,UTK,active,K016.09
+soil.face.UTK.K016.08.2017.Jan.24.day18,0,soil.face,194.1,UTK,active,K016.08
+soil.face.CMU.16.12.2016.10.day.day3,0,soil.face,11.1,CMU,early,16-12
+soil.face.CMU.16.15.2016.12.day20,0,soil.face,19.35,CMU,early,Mr. 16-15
+soil.face.UTK.K016.07.2017.Jan.13.day7,0,soil.face,49.3,UTK,early,K016.07
+soil.hip.UTK.K016.07.2017.Jan.23.day17,0,soil.hip,186.2,UTK,active,K016.07
+soil.hip.UTK.K016.07.2017.Jan.17.day11,0,soil.hip,109.7,UTK,active,K016.07
+soil.face.CMU.17.01.2017.01.day20,0,soil.face,33.4,CMU,early,Mrs. 17-01
+soil.face.UTK.K016.09.2017.Jan.17.day11,0,soil.face,109.7,UTK,active,K016.09
+soil.face.UTK.K016.07.2017.Jan.15.day9,0,soil.face,80.4,UTK,active,K016.07
+soil.face.CMU.16.14.2016.12.day.day5,0,soil.face,0,CMU,early,16-14
+soil.face.UTK.K016.08.2017.Jan.10.day4,0,soil.face,3.9,UTK,early,K016.08
+soil.face.CMU.16.14.2016.12.day.day14,0,soil.face,6.95,CMU,early,16-14
+soil.hip.CMU.16.14.2016.11.day.day1,0,soil.hip,0,CMU,placement,16-14
+soil.hip.CMU.17.01.2017.01.day2,0,soil.hip,0,CMU,early,Mrs. 17-01
+soil.hip.UTK.K016.09.2017.Jan.25.day19,0,soil.hip,202.2,UTK,advanced,K016.09
+soil.hip.CMU.17.01.2017.01.day18,0,soil.hip,28.65,CMU,early,Mrs. 17-01
+soil.hip.UTK.K016.08.2017.Jan.10.day4,0,soil.hip,3.9,UTK,early,K016.08
+soil.face.UTK.K016.09.2017.Jan.25.day19,0,soil.face,202.2,UTK,advanced,K016.09
+soil.face.UTK.K016.08.2017.Jan.26.day20,0,soil.face,212.9,UTK,advanced,K016.08
+soil.hip.UTK.K016.07.2017.Jan.08.day2,0,soil.hip,0,UTK,early,K016.07
+soil.hip.CMU.16.12.2016.11.day.day17,0,soil.hip,27.5,CMU,early,16-12
+soil.face.UTK.K016.08.2017.Jan.06.day1,0,soil.face,0,UTK,placement,K016.08
+soil.face.UTK.K016.09.2017.Jan.26.day20,0,soil.face,212.9,UTK,advanced,K016.09
+soil.face.UTK.K016.08.2017.Jan.18.day12,0,soil.face,124.1,UTK,active,K016.08
+soil.hip.UTK.K016.08.2017.Jan.14.day8,0,soil.hip,64.5,UTK,active,K016.08
+soil.face.UTK.K016.08.2017.Jan.22.day16,0,soil.face,174.6,UTK,active,K016.08
+soil.face.CMU.16.15.2016.12.day5,0,soil.face,12.45,CMU,early,Mr. 16-15
+soil.hip.CMU.16.15.2016.12.day1,0,soil.hip,0,CMU,placement,Mr. 16-15
+soil.hip.CMU.16.12.2016.10.day.day6,0,soil.hip,20.8,CMU,early,16-12
+soil.hip.CMU.17.01.2017.01.day6,0,soil.hip,0,CMU,early,Mrs. 17-01
+soil.hip.UTK.K016.07.2017.Jan.24.day18,0,soil.hip,194.1,UTK,active,K016.07
+soil.hip.CMU.16.12.2016.11.day.day19,0,soil.hip,27.5,CMU,early,16-12
+soil.face.UTK.K016.08.2017.Jan.19.day13,0,soil.face,133.9,UTK,active,K016.08
+soil.face.UTK.K016.08.2017.Jan.17.day11,0,soil.face,109.7,UTK,active,K016.08
+soil.hip.UTK.K016.09.2017.Jan.14.day8,0,soil.hip,64.5,UTK,active,K016.09
+soil.face.CMU.17.01.2017.01.day22,0,soil.face,33.65,CMU,early,Mrs. 17-01
+soil.hip.CMU.16.14.2016.12.day.day19,0,soil.hip,19.4,CMU,early,16-14
+soil.face.CMU.16.14.2016.12.day.day16,0,soil.face,8.05,CMU,early,16-14
+soil.hip.UTK.K016.08.2017.Jan.12.day6,0,soil.hip,32.8,UTK,early,K016.08
+soil.hip.UTK.K016.09.2017.Jan.06.day1,0,soil.hip,0,UTK,placement,K016.09
+soil.face.CMU.16.12.2016.10.day.day6,0,soil.face,20.8,CMU,early,16-12
+soil.hip.CMU.16.12.2016.11.day.day18,0,soil.hip,27.5,CMU,early,16-12
+soil.face.UTK.K016.07.2017.Jan.25.day19,0,soil.face,202.2,UTK,advanced,K016.07
+soil.hip.UTK.K016.09.2017.Jan.18.day12,0,soil.hip,124.1,UTK,active,K016.09
+soil.hip.CMU.16.15.2016.12.day10,0,soil.hip,12.45,CMU,early,Mr.16-15
+soil.hip.CMU.16.15.2016.12.day14,0,soil.hip,18.8,CMU,early,Mr. 16-15
+soil.hip.CMU.17.01.2017.01.day17,0,soil.hip,27.8,CMU,early,Mrs. 17-01
+soil.hip.UTK.K016.09.2017.Jan.11.day5,0,soil.hip,15.8,UTK,early,K016.09
+soil.face.UTK.K016.08.2017.Jan.23.day17,0,soil.face,186.2,UTK,active,K016.08
+soil.face.CMU.16.12.2016.11.day.day21,0,soil.face,31.1,CMU,early,16-12
+soil.face.CMU.16.12.2016.11.day.day17,0,soil.face,27.5,CMU,early,16-12
+soil.hip.UTK.K016.08.2017.Jan.26.day20,0,soil.hip,212.9,UTK,advanced,K016.08
+soil.face.CMU.16.15.2016.12.day9,0,soil.face,12.45,CMU,early,Mr. 16-15
+soil.face.UTK.K016.07.2017.Jan.11.day5,0,soil.face,15.8,UTK,early,K016.07
+soil.hip.UTK.K016.07.2017.Jan.19.day13,0,soil.hip,133.9,UTK,active,K016.07
+soil.hip.CMU.16.15.2016.12.day17,0,soil.hip,18.8,CMU,early,Mr. 16-15
+soil.hip.CMU.17.01.2017.01.day1,0,soil.hip,0,CMU,placement,Mrs. 17-01
+soil.face.UTK.K016.09.2017.Jan.10.day4,0,soil.face,3.9,UTK,early,K016.09
+soil.face.CMU.16.15.2016.12.day16,0,soil.face,18.8,CMU,early,Mr. 16-15
+soil.hip.CMU.17.01.2017.01.day16,0,soil.hip,26.7,CMU,early,Mrs. 17-01
+soil.hip.UTK.K016.08.2017.Jan.16.day10,0,soil.hip,94.1,UTK,active,K016.08
+soil.hip.UTK.K016.08.2017.Jan.08.day2,0,soil.hip,0,UTK,early,K016.08
+soil.face.UTK.K016.07.2017.Jan.10.day4,0,soil.face,3.9,UTK,early,K016.07
+soil.face.CMU.16.12.2016.11.day.day16,0,soil.face,27.5,CMU,early,16-12
+soil.face.CMU.17.01.2017.01.day8,0,soil.face,6.15,CMU,early,Mrs. 17-01
+soil.face.UTK.K016.07.2017.Jan.26.day20,0,soil.face,212.9,UTK,advanced,K016.07
+soil.hip.UTK.K016.07.2017.Jan.10.day4,0,soil.hip,3.9,UTK,early,K016.07
+soil.hip.UTK.K016.07.2017.Jan.13.day7,0,soil.hip,49.3,UTK,early,K016.07
+soil.hip.UTK.K016.08.2017.Jan.25.day19,0,soil.hip,202.2,UTK,advanced,K016.08
+soil.face.UTK.K016.09.2017.Jan.06.day1,0,soil.face,0,UTK,placement,K016.09
+soil.hip.CMU.16.15.2016.12.day20,0,soil.hip,19.35,CMU,early,Mr. 16-15
+soil.hip.CMU.16.14.2016.12.day.day7,0,soil.hip,1.4,CMU,early,16-14
+soil.face.CMU.16.15.2016.12.day18,0,soil.face,19.35,CMU,early,Mr. 16-15
+soil.hip.CMU.16.15.2016.12.day8,0,soil.hip,12.45,CMU,early,Mr. 16-15
+soil.hip.UTK.K016.08.2017.Jan.18.day12,0,soil.hip,124.1,UTK,active,K016.08
+soil.hip.CMU.16.15.2017.01.day21,0,soil.hip,19.35,CMU,early,Mr. 16-15
+soil.hip.CMU.16.14.2016.12.day.day14,0,soil.hip,6.95,CMU,early,16-14
+soil.hip.CMU.17.01.2017.01.day21,0,soil.hip,33.65,CMU,early,Mrs. 17-01
+soil.face.UTK.K016.08.2017.Jan.27.day21,0,soil.face,215.9,UTK,advanced,K016.08
+soil.face.UTK.K016.09.2017.Jan.12.day6,0,soil.face,32.8,UTK,early,K016.09
+soil.face.UTK.K016.07.2017.Jan.17.day11,0,soil.face,109.7,UTK,active,K016.07
+soil.face.CMU.17.01.2017.01.day19,0,soil.face,28.95,CMU,early,Mrs. 17-01
+soil.hip.CMU.16.15.2016.12.day11,0,soil.hip,12.45,CMU,early,Mr. 16-15
+soil.face.CMU.16.14.2016.12.day.day21,0,soil.face,19.4,CMU,early,16-14
+soil.hip.UTK.K016.09.2017.Jan.27.day21,0,soil.hip,215.9,UTK,advanced,K016.09
+soil.hip.UTK.K016.07.2017.Jan.16.day10,0,soil.hip,94.1,UTK,active,K016.07
+soil.face.CMU.16.14.2016.12.day.day6,0,soil.face,0,CMU,early,16-14
+soil.hip.UTK.K016.08.2017.Jan.27.day21,0,soil.hip,215.9,UTK,advanced,K016.08
+soil.hip.CMU.17.01.2017.01.day13,0,soil.hip,22.8,CMU,early,Mrs. 17-01
+soil.hip.UTK.K016.09.2017.Jan.26.day20,0,soil.hip,212.9,UTK,advanced,K016.09
+soil.face.CMU.17.01.2017.01.day9,0,soil.face,8.65,CMU,early,Mrs. 17-01
+soil.face.UTK.K016.09.2017.Jan.09.day3,0,soil.face,0,UTK,early,K016.09
+soil.face.UTK.K016.07.2017.Jan.18.day12,0,soil.face,124.1,UTK,active,K016.07
+soil.face.CMU.16.15.2016.12.day8,0,soil.face,12.45,CMU,early,Mr. 16-15
+soil.hip.UTK.K016.08.2017.Jan.09.day3,0,soil.hip,0,UTK,early,K016.08
+soil.hip.UTK.K016.08.2017.Jan.22.day16,0,soil.hip,174.6,UTK,active,K016.08
+soil.face.UTK.K016.09.2017.Jan.15.day9,0,soil.face,80.4,UTK,active,K016.09
+soil.face.CMU.17.01.2017.01.day12,0,soil.face,20.3,CMU,early,Mrs. 17-01
+soil.hip.UTK.K016.07.2017.Jan.20.day14,0,soil.hip,148.3,UTK,active,K016.07
+soil.face.CMU.17.01.2017.01.day16,0,soil.face,26.7,CMU,early,Mrs. 17-01
+soil.hip.UTK.K016.07.2017.Jan.15.day9,0,soil.hip,80.4,UTK,active,K016.07
+soil.face.UTK.K016.08.2017.Jan.25.day19,0,soil.face,202.2,UTK,advanced,K016.08
+soil.face.UTK.K016.08.2017.Jan.09.day3,0,soil.face,0,UTK,early,K016.08
+soil.hip.CMU.16.15.2016.12.day9,0,soil.hip,12.45,CMU,early,Mr. 16-15
+soil.face.CMU.17.01.2017.01.day17,0,soil.face,27.8,CMU,early,Mrs. 17-01
+soil.hip.CMU.16.14.2016.12.day.day3,0,soil.hip,0,CMU,early,16-14
+soil.face.UTK.K016.07.2017.Jan.19.day13,0,soil.face,133.9,UTK,active,K016.07
+soil.face.UTK.K016.07.2017.Jan.22.day16,0,soil.face,174.6,UTK,active,K016.07
+soil.face.CMU.16.14.2016.12.day.day19,0,soil.face,19.4,CMU,early,16-14
+soil.hip.CMU.17.01.2017.01.day15,0,soil.hip,26.7,CMU,early,Mrs. 17-01
+soil.hip.CMU.16.14.2016.11.day.day2,0,soil.hip,0,CMU,early,16-14
+soil.hip.CMU.16.14.2016.12.day.day10,0,soil.hip,1.4,CMU,early,16-14
+soil.hip.CMU.16.14.2016.12.day.day5,0,soil.hip,0,CMU,early,16-14
+soil.hip.UTK.K016.09.2017.Jan.15.day9,0,soil.hip,80.4,UTK,active,K016.09
+soil.hip.CMU.16.15.2016.12.day7,0,soil.hip,12.45,CMU,early,Mr. 16-15
+soil.hip.CMU.16.15.2016.12.day18,0,soil.hip,19.35,CMU,early,Mr. 16-15
+soil.face.UTK.K016.09.2017.Jan.22.day16,0,soil.face,174.6,UTK,active,K016.09
+soil.face.UTK.K016.09.2017.Jan.08.day2,0,soil.face,0,UTK,early,K016.09
+soil.face.UTK.K016.08.2017.Jan.11.day5,0,soil.face,15.8,UTK,early,K016.08
+soil.hip.CMU.17.01.2017.01.day19,0,soil.hip,28.95,CMU,early,Mrs. 17-01
+soil.face.CMU.17.01.2017.01.day13,0,soil.face,22.8,CMU,early,Mrs. 17-01
+soil.face.UTK.K016.07.2017.Jan.24.day18,0,soil.face,194.1,UTK,active,K016.07
+soil.face.CMU.17.01.2017.01.day5,0,soil.face,0,CMU,early,Mrs. 17-01
+soil.face.UTK.K016.09.2017.Jan.13.day7,0,soil.face,49.3,UTK,early,K016.09
+soil.hip.UTK.K016.09.2017.Jan.21.day15,0,soil.hip,161,UTK,active,K016.09
+soil.face.UTK.K016.07.2017.Jan.20.day14,0,soil.face,148.3,UTK,active,K016.07
+soil.hip.UTK.K016.08.2017.Jan.06.day1,0,soil.hip,0,UTK,placement,K016.08
+soil.face.CMU.16.12.2016.11.day.day19,0,soil.face,27.5,CMU,early,16-12
+soil.face.CMU.16.14.2016.12.day.day7,0,soil.face,1.4,CMU,early,16-14
+soil.face.UTK.K016.08.2017.Jan.16.day10,0,soil.face,94.1,UTK,active,K016.08
+soil.face.UTK.K016.08.2017.Jan.13.day7,0,soil.face,49.3,UTK,early,K016.08
+soil.hip.UTK.K016.07.2017.Jan.12.day6,0,soil.hip,32.8,UTK,early,K016.07
+soil.face.CMU.16.15.2016.12.day11,0,soil.face,12.45,CMU,early,Mr. 16-15
+soil.face.CMU.16.15.2016.12.day2,0,soil.face,0,CMU,early,Mr. 16-15
+soil.hip.UTK.K016.09.2017.Jan.16.day10,0,soil.hip,94.1,UTK,active,K016.09
+soil.hip.UTK.K016.07.2017.Jan.11.day5,0,soil.hip,15.8,UTK,early,K016.07
+soil.face.CMU.16.14.2016.12.day.day10,0,soil.face,1.4,CMU,early,16-14
+soil.hip.CMU.16.15.2016.12.day4,0,soil.hip,5.8,CMU,early,Mr. 16-15
+soil.face.CMU.16.14.2016.12.day.day15,0,soil.face,6.95,CMU,early,16-14
+soil.hip.UTK.K016.09.2017.Jan.22.day16,0,soil.hip,174.6,UTK,active,K016.09
+soil.hip.UTK.K016.07.2017.Jan.27.day21,0,soil.hip,215.9,UTK,advanced,K016.07
+soil.face.CMU.16.15.2016.12.day12,0,soil.face,12.7,CMU,early,Mr. 16-15
+soil.hip.UTK.K016.09.2017.Jan.10.day4,0,soil.hip,3.9,UTK,early,K016.09
+soil.hip.CMU.16.15.2016.12.day5,0,soil.hip,12.45,CMU,early,Mr. 16-15
+soil.face.CMU.16.12.2016.11.day.day13,0,soil.face,26.1,CMU,early,16-12
+soil.hip.CMU.16.12.2016.10.day.day1,0,soil.hip,0,CMU,placement,16-12
+soil.face.CMU.16.15.2016.12.day6,0,soil.face,12.45,CMU,early,Mr. 16-15
+soil.hip.CMU.16.12.2016.10.day.day2,0,soil.hip,5.55,CMU,early,16-12
+soil.hip.UTK.K016.08.2017.Jan.23.day17,0,soil.hip,186.2,UTK,active,K016.08
+soil.hip.CMU.16.12.2016.11.day.day14,0,soil.hip,26.1,CMU,early,16-12
+soil.face.CMU.17.01.2017.01.day3,0,soil.face,0,CMU,early,Mrs. 17-01
+soil.hip.UTK.K016.08.2017.Jan.24.day18,0,soil.hip,194.1,UTK,active,K016.08
+soil.face.CMU.17.01.2017.01.day15,0,soil.face,26.7,CMU,early,Mrs. 17-01
+soil.hip.CMU.16.12.2016.10.day.day5,0,soil.hip,16.9,CMU,early,16-12
+soil.hip.CMU.16.14.2016.12.day.day13,0,soil.hip,5,CMU,early,16-14
+soil.face.CMU.16.14.2016.12.day.day8,0,soil.face,1.4,CMU,early,16-14
+soil.hip.CMU.16.15.2016.12.day15,0,soil.hip,18.8,CMU,early,Mr. 16-15
+soil.face.CMU.16.12.2016.11.day.day12,0,soil.face,26.1,CMU,early,16-12
+soil.hip.CMU.17.01.2017.01.day11,0,soil.hip,16.4,CMU,early,Mrs. 17-01
+soil.face.CMU.16.12.2016.10.day.day8,0,soil.face,26.1,CMU,early,16-12
+soil.hip.CMU.16.12.2016.11.day.day15,0,soil.hip,27.5,CMU,early,16-12
+soil.hip.CMU.16.12.2016.11.day.day13,0,soil.hip,26.1,CMU,early,16-12
+soil.hip.CMU.16.12.2016.11.day.day11,0,soil.hip,26.1,CMU,early,16-12
+soil.hip.CMU.16.15.2016.12.day6,0,soil.hip,12.45,CMU,early,Mr. 16-15
+soil.face.CMU.16.12.2016.11.day.day20,0,soil.face,27.5,CMU,early,16-12
+soil.hip.CMU.16.12.2016.10.day.day10,0,soil.hip,26.1,CMU,early,16-12
+soil.face.CMU.17.01.2017.01.day11,0,soil.face,16.4,CMU,early,Mrs. 17-01
+soil.face.CMU.16.12.2016.11.day.day11,0,soil.face,26.1,CMU,early,16-12
+soil.face.CMU.16.14.2016.12.day.day9,0,soil.face,1.4,CMU,early,16-14
+soil.face.CMU.16.12.2016.10.day.day7,0,soil.face,25.8,CMU,early,16-12
+soil.face.CMU.16.12.2016.10.day.day10,0,soil.face,26.1,CMU,early,16-12
+soil.hip.CMU.16.12.2016.11.day.day12,0,soil.hip,26.1,CMU,early,16-12
+soil.hip.CMU.17.01.2017.01.day10,0,soil.hip,12.25,CMU,early,Mrs. 17-01
+soil.hip.UTK.K016.09.2017.Jan.23.day17,0,soil.hip,186.2,UTK,active,K016.09
+soil.hip.CMU.16.12.2016.10.day.day7,0,soil.hip,25.8,CMU,early,16-12
+soil.face.CMU.16.12.2016.10.day.day2,0,soil.face,5.55,CMU,early,16-12
+soil.hip.CMU.17.01.2017.01.day3,0,soil.hip,0,CMU,early,Mrs. 17-01
+soil.hip.CMU.16.12.2016.10.day.day8,0,soil.hip,26.1,CMU,early,16-12
+soil.face.UTK.K016.09.2017.Jan.19.day13,0,soil.face,133.9,UTK,active,K016.09
+soil.face.CMU.16.14.2016.12.day.day13,0,soil.face,5,CMU,early,16-14
+soil.face.CMU.17.01.2017.01.day14,0,soil.face,24.75,CMU,early,Mrs. 17-01
+soil.hip.CMU.16.12.2016.10.day.day4,0,soil.hip,14.4,CMU,early,16-12
+soil.hip.CMU.16.14.2016.12.day.day11,0,soil.hip,1.4,CMU,early,16-14
+soil.face.CMU.16.14.2016.12.day.day11,0,soil.face,1.4,CMU,early,16-14
+soil.face.CMU.16.12.2016.11.day.day15,0,soil.face,27.5,CMU,early,16-12
+soil.face.CMU.16.15.2016.12.day15,0,soil.face,18.8,CMU,early,Mr. 16-15
+soil.hip.CMU.16.12.2016.11.day.day16,0,soil.hip,27.5,CMU,early,16-12
+soil.hip.CMU.16.14.2016.12.day.day9,0,soil.hip,1.4,CMU,early,16-14
+soil.face.CMU.16.12.2016.10.day.day1,0,soil.face,0,CMU,placement,16-12
+soil.face.CMU.17.01.2017.01.day4,0,soil.face,0,CMU,early,Mrs. 17-01
+soil.face.CMU.16.14.2016.12.day.day3,0,soil.face,0,CMU,early,16-14
+soil.face.CMU.16.12.2016.10.day.day9,0,soil.face,26.1,CMU,early,16-12
+soil.face.CMU.16.15.2016.12.day1,0,soil.face,0,CMU,placement,Mr. 16-15
+soil.hip.UTK.K016.09.2017.Jan.19.day13,0,soil.hip,133.9,UTK,active,K016.09
+soil.face.CMU.16.15.2016.12.day14,0,soil.face,18.8,CMU,early,Mr. 16-15
+soil.hip.CMU.16.12.2016.10.day.day9,0,soil.hip,26.1,CMU,early,16-12
+soil.face.CMU.16.12.2016.10.day.day5,0,soil.face,16.9,CMU,early,16-12
+soil.face.CMU.16.14.2016.11.day.day1,0,soil.face,0,CMU,placement,16-14
+soil.hip.CMU.16.15.2016.12.day12,0,soil.hip,12.7,CMU,early,Mr. 16-15
+soil.face.CMU.16.14.2016.12.day.day4,0,soil.face,0,CMU,early,16-14
+soil.hip.CMU.17.01.2017.01.day12,0,soil.hip,20.3,CMU,early,Mrs. 17-01
+soil.hip.CMU.16.14.2016.12.day.day8,0,soil.hip,1.4,CMU,early,16-14
+soil.hip.CMU.16.14.2016.12.day.day4,0,soil.hip,0,CMU,early,16-14
+soil.face.CMU.17.01.2017.01.day10,0,soil.face,12.25,CMU,early,Mrs. 17-01
+soil.face.CMU.16.15.2016.12.day19,0,soil.face,19.35,CMU,early,Mr. 16-15
+soil.face.CMU.17.04.2017.03.day10,0,soil.face,127.45,CMU,active,Mr 17-04
+soil.face.CMU.17.04.2017.03.day18,0,soil.face,235.2,CMU,advanced,Mr 17-04
+soil.face.CMU.17.04.2017.03.day12,0,soil.face,162.45,CMU,active,Mr 17-04
+soil.face.SHSU.2016.076.2016.12.06.day15,0,soil.face,190.5,SHSU,active,2016.076
+soil.hip.SHSU.2016.076.2016.12.11.day20,0,soil.hip,236.4,SHSU,advanced,2016.076
+soil.hip.CMU.17.04.2017.03.day5,0,soil.hip,46.95,CMU,early,Mr 17-04
+soil.face.SHSU.2016.073.2016.11.20.day17,0,soil.face,289.9,SHSU,advanced,2016.073
+soil.face.SHSU.2016.073.2016.11.13.day10,0,soil.face,170.4,SHSU,active,2016.073
+soil.face.SHSU.2016.076.2016.12.12.day21,0,soil.face,254.5,SHSU,advanced,2016.076
+soil.face.CMU.17.04.2017.03.day17,0,soil.face,224.05,CMU,advanced,Mr 17-04
+soil.face.CMU.17.04.2017.03.day21,0,soil.face,267.15,CMU,advanced,Mr 17-04
+soil.hip.SHSU.2016.076.2016.11.25.day4,0.003030126,soil.hip,47.5,SHSU,early,2016.076
+soil.hip.SHSU.2016.073.2016.11.07.day4,0,soil.hip,62.55,SHSU,active,2016.073
+soil.hip.SHSU.2016.072.2016.11.21.day18,0,soil.hip,305.2,SHSU,advanced,2016.072
+soil.hip.SHSU.2016.073.2016.11.13.day10,0,soil.hip,170.4,SHSU,active,2016.073
+soil.hip.SHSU.2016.073.2016.11.15.day12,0,soil.hip,209.6,SHSU,advanced,2016.073
+soil.hip.SHSU.2016.076.2016.12.01.day10,0.00130365,soil.hip,137.75,SHSU,active,2016.076
+soil.hip.SHSU.2016.076.2016.11.23.day2,0.028197495,soil.hip,15.55,SHSU,early,2016.076
+soil.face.SHSU.2016.072.2016.11.11.day8,0,soil.face,135.35,SHSU,active,2016.072
+soil.face.SHSU.2016.072.2016.11.05.day2,0,soil.face,19.45,SHSU,early,2016.072
+soil.hip.SHSU.2016.072.2016.11.06.day3,0,soil.hip,40.6,SHSU,early,2016.072
+soil.hip.CMU.17.04.2017.03.day16,0,soil.hip,213.25,CMU,advanced,Mr 17-04
+soil.hip.SHSU.2016.076.2016.11.22.day1,0,soil.hip,0,SHSU,placement,2016.076
+soil.hip.SHSU.2016.076.2016.11.30.day9,0.000230947,soil.hip,127.45,SHSU,active,2016.076
+soil.face.SHSU.2016.073.2016.11.10.day7,0,soil.face,117.55,SHSU,active,2016.073
+soil.face.SHSU.2016.076.2016.11.26.day5,0,soil.face,63.6,SHSU,active,2016.076
+soil.face.CMU.17.04.2017.03.day15,0,soil.face,202.45,CMU,advanced,Mr 17-04
+soil.face.SHSU.2016.072.2016.11.20.day17,0,soil.face,289.9,SHSU,advanced,2016.072
+soil.hip.SHSU.2016.072.2016.11.15.day12,0.002455327,soil.hip,209.6,SHSU,advanced,2016.072
+soil.hip.SHSU.2016.073.2016.11.19.day16,0.003049626,soil.hip,281,SHSU,advanced,2016.073
+soil.face.SHSU.2016.072.2016.11.17.day14,0,soil.face,252.9,SHSU,advanced,2016.072
+soil.hip.SHSU.206.072.2016.11.16.day13,0.000840831,soil.hip,230.7,SHSU,advanced,2016.072
+soil.face.SHSU.2016.076.2016.11.23.day2,0.000136045,soil.face,15.55,SHSU,early,2016.076
+soil.hip.CMU.17.04.2017.03.day20,0.000378186,soil.hip,254.4,CMU,advanced,Mr 17-04
+soil.face.SHSU.2016.076.2016.12.02.day11,0,soil.face,149.4,SHSU,active,2016.076
+soil.hip.SHSU.2016.072.2016.11.05.day2,0,soil.hip,19.45,SHSU,early,2016.072
+soil.face.SHSU.2016.072.2016.11.23.day20,0.000645856,soil.face,342.45,SHSU,advanced,2016.072
+soil.hip.CMU.17.04.2017.03.day14,0.000151389,soil.hip,191.65,CMU,active,Mr 17-04
+soil.face.SHSU.2016.072.2016.11.13.day10,0,soil.face,170.4,SHSU,active,2016.072
+soil.face.SHSU.2016.076.2016.11.28.day7,0,soil.face,99.45,SHSU,active,2016.076
+soil.hip.SHSU.2016.072.2016.11.11.day8,0,soil.hip,135.35,SHSU,active,2016.072
+soil.face.CMU.17.04.2017.03.day6,0,soil.face,61.65,CMU,active,Mr 17-04
+soil.hip.SHSU.2016.076.2016.11.24.day3,0.008601465,soil.hip,30.55,SHSU,early,2016.076
+soil.hip.CMU.17.04.2017.03.day18,0.008293378,soil.hip,235.2,CMU,advanced,Mr 17-04
+soil.hip.SHSU.2016.072.2016.11.19.day16,0.000411128,soil.hip,281,SHSU,advanced,2016.072
+soil.hip.SHSU.2016.072.2016.11.08.day5,0,soil.hip,82,SHSU,active,2016.072
+soil.hip.SHSU.2016.072.2016.11.07.day4,0,soil.hip,62.55,SHSU,active,2016.072
+soil.face.CMU.17.04.2017.03.day3,0,soil.face,24.15,CMU,early,Mr 17-04
+soil.hip.CMU.17.04.2017.03.day9,0,soil.hip,109.7,CMU,active,Mr 17-04
+soil.face.SHSU.2016.076.2016.12.11.day20,0.000410846,soil.face,236.4,SHSU,advanced,2016.076
+soil.face.SHSU.2016.072.2016.11.14.day11,0.00029588,soil.face,189.05,SHSU,active,2016.072
+soil.face.SHSU.2016.073.2016.11.12.day9,0,soil.face,154,SHSU,active,2016.073
+soil.hip.SHSU.2016.072.2016.11.14.day11,0,soil.hip,189.05,SHSU,active,2016.072
+soil.hip.SHSU.2016.072.2016.11.24.day21,0.00041657,soil.hip,357.45,SHSU,advanced,2016.072
+soil.hip.SHSU.2016.073.2016.11.23.day20,0.008307664,soil.hip,342.45,SHSU,advanced,2016.073
+soil.face.SHSU.2016.073.2016.11.19.day16,0.006183206,soil.face,281,SHSU,advanced,2016.073
+soil.face.SHSU.2016.076.2016.12.04.day13,0.000176429,soil.face,169.15,SHSU,active,2016.076
+soil.hip.SHSU.2016.072.2016.11.09.day6,0,soil.hip,100.6,SHSU,active,2016.072
+soil.hip.SHSU.2016.073.2016.11.18.day15,0.006764374,soil.hip,271.25,SHSU,advanced,2016.073
+soil.face.CMU.17.04.2017.03.day9,0,soil.face,109.7,CMU,active,Mr 17-04
+soil.hip.SHSU.2016.076.2016.12.05.day14,0.000163988,soil.hip,178.6,SHSU,active,2016.076
+soil.hip.CMU.17.04.2017.03.day2,0,soil.hip,12.5,CMU,early,Mr 17-04
+soil.hip.SHSU.2016.073.2016.11.21.day18,0.00076599,soil.hip,305.2,SHSU,advanced,2016.073
+soil.hip.SHSU.2016.072.2016.11.12.day9,0,soil.hip,154,SHSU,active,2016.072
+soil.face.SHSU.2016.073.2016.11.04.day1,0,soil.face,0,SHSU,placement,2016.073
+soil.hip.CMU.17.04.2017.03.day15,0,soil.hip,202.45,CMU,advanced,Mr 17-04
+soil.face.SHSU.2016.076.2016.11.25.day4,0.000193461,soil.face,47.5,SHSU,early,2016.076
+soil.hip.SHSU.2016.073.2016.11.10.day7,0,soil.hip,117.55,SHSU,active,2016.073
+soil.face.SHSU.2016.073.2016.11.22.day19,0.01415307,soil.face,326.9,SHSU,advanced,2016.073
+soil.face.CMU.17.04.2017.03.day8,0,soil.face,92.2,CMU,active,Mr 17-04
+soil.hip.SHSU.2016.073.2016.11.14.day11,0,soil.hip,189.05,SHSU,active,2016.073
+soil.hip.CMU.17.04.2017.03.day6,0,soil.hip,61.65,CMU,active,Mr 17-04
+soil.face.SHSU.2016.073.2016.11.05.day2,0,soil.face,19.45,SHSU,early,2016.073
+soil.face.SHSU.2016.073.2016.11.11.day8,0.019047619,soil.face,135.35,SHSU,active,2016.073
+soil.face.SHSU.2016.073.2016.11.16.day13,0,soil.face,230.7,SHSU,advanced,2016.073
+soil.hip.SHSU.2016.072.2016.11.10.day7,0,soil.hip,117.55,SHSU,active,2016.072
+soil.face.SHSU.2016.073.2016.11.17.day14,0,soil.face,252.9,SHSU,advanced,2016.073
+soil.hip.CMU.17.04.2017.03.day10,0,soil.hip,127.45,CMU,active,Mr 17-04
+soil.hip.SHSU.2016.073.2016.11.24.day21,0.024601111,soil.hip,357.45,SHSU,advanced,2016.073
+soil.face.SHSU.2016.076.2016.11.22.day1,0,soil.face,0,SHSU,placement,2016.076
+soil.face.SHSU.2016.072.2016.11.18.day15,0.000181148,soil.face,271.25,SHSU,advanced,2016.072
+soil.hip.SHSU.2016.076.2016.12.03.day12,0.002112417,soil.hip,159.15,SHSU,active,2016.076
+soil.hip.SHSU.2016.073.2016.11.16.day13,0,soil.hip,230.7,SHSU,advanced,2016.073
+soil.hip.SHSU.2016.073.2016.11.12.day9,0,soil.hip,154,SHSU,active,2016.073
+soil.face.CMU.17.04.2017.03.day1,0,soil.face,0,CMU,placement,Mr 17-04
+soil.hip.CMU.17.04.2017.03.day13,0,soil.hip,180.25,CMU,active,Mr 17-04
+soil.hip.SHSU.2016.076.2016.11.28.day7,0.003017698,soil.hip,99.45,SHSU,active,2016.076
+soil.hip.SHSU.2016.076.2016.12.02.day11,0.000737681,soil.hip,149.4,SHSU,active,2016.076
+soil.face.SHSU.2016.076.2016.11.24.day3,0.000179083,soil.face,30.55,SHSU,early,2016.076
+soil.face.CMU.17.04.2017.03.day7,0,soil.face,76.65,CMU,active,Mr 17-04
+soil.hip.SHSU.2016.073.2016.11.08.day5,0,soil.hip,82,SHSU,active,2016.073
+soil.hip.SHSU.2016.073.2016.11.04.day1,0,soil.hip,0,SHSU,placement,2016.073
+soil.face.SHSU.2016.072.2016.11.22.day19,0.012892072,soil.face,326.9,SHSU,advanced,2016.072
+soil.face.SHSU.2016.073.2016.11.06.day3,0,soil.face,40.6,SHSU,early,2016.073
+soil.face.SHSU.2016.072.2016.11.08.day5,0,soil.face,82,SHSU,active,2016.072
+soil.face.SHSU.2016.073.2016.11.24.day21,0.024078696,soil.face,357.45,SHSU,advanced,2016.073
+soil.face.SHSU.2016.073.2016.11.09.day6,0,soil.face,100.6,SHSU,active,2016.073
+soil.hip.CMU.17.04.2017.03.day11,0,soil.hip,144.95,CMU,active,Mr 17-04
+soil.face.SHSU.2016.073.2016.11.15.day12,0,soil.face,209.6,SHSU,advanced,2016.073
+soil.hip.CMU.17.04.2017.03.day19,0,soil.hip,243.55,CMU,advanced,Mr 17-04
+soil.face.CMU.17.04.2017.03.day11,0,soil.face,144.95,CMU,active,Mr 17-04
+soil.face.SHSU.2016.072.2016.11.24.day21,0.000309917,soil.face,357.45,SHSU,advanced,2016.072
+soil.face.CMU.17.04.2017.03.day13,0,soil.face,180.25,CMU,active,Mr 17-04
+soil.hip.SHSU.2016.072.2016.11.17.day14,0.00037683,soil.hip,252.9,SHSU,advanced,2016.072
+soil.hip.SHSU.2016.076.2016.12.06.day15,0,soil.hip,190.5,SHSU,active,2016.076
+soil.hip.CMU.17.04.2017.03.day4,0,soil.hip,34.15,CMU,early,Mr 17-04
+soil.hip.SHSU.2016.073.2016.11.11.day8,0,soil.hip,135.35,SHSU,active,2016.073
+soil.face.SHSU.2016.072.2016.11.07.day4,0.000450897,soil.face,62.55,SHSU,active,2016.072
+soil.hip.SHSU.2016.072.2016.11.13.day10,0,soil.hip,170.4,SHSU,active,2016.072
+soil.face.SHSU.2016.073.2016.11.18.day15,0,soil.face,271.25,SHSU,advanced,2016.073
+soil.hip.SHSU.2016.073.2016.11.05.day2,0,soil.hip,19.45,SHSU,early,2016.073
+soil.hip.SHSU.2016.076.2016.12.08.day17,0,soil.hip,210.25,SHSU,advanced,2016.076
+soil.face.SHSU.2016.076.2016.12.01.day10,0,soil.face,137.75,SHSU,active,2016.076
+soil.hip.SHSU.2016.072.2016.11.18.day15,0.000563963,soil.hip,271.25,SHSU,advanced,2016.072
+soil.face.SHSU.2016.073.2016.11.21.day18,0,soil.face,305.2,SHSU,advanced,2016.073
+soil.hip.CMU.17.04.2017.03.day21,0.000615195,soil.hip,267.15,CMU,advanced,Mr 17-04
+soil.hip.SHSU.2016.073.2016.11.17.day14,0,soil.hip,252.9,SHSU,advanced,2016.073
+soil.hip.CMU.17.04.2017.03.day1,0,soil.hip,0,CMU,placement,Mr 17-04
+soil.face.SHSU.2016.072.2016.11.06.day3,0,soil.face,40.6,SHSU,early,2016.072
+soil.hip.SHSU.2016.076.2016.11.26.day5,0.003376539,soil.hip,63.6,SHSU,active,2016.076
+soil.face.SHSU.2016.076.2016.12.09.day18,9.6782E-05,soil.face,213.9,SHSU,advanced,2016.076
+soil.hip.SHSU.2016.073.2016.11.22.day19,0.008188153,soil.hip,326.9,SHSU,advanced,2016.073
+soil.face.SHSU.2016.072.2016.11.10.day7,0,soil.face,117.55,SHSU,active,2016.072
+soil.hip.SHSU.2016.072.2016.11.20.day17,0,soil.hip,289.9,SHSU,advanced,2016.072
+soil.face.SHSU.2016.073.2016.11.23.day20,0.040927782,soil.face,342.45,SHSU,advanced,2016.073
+soil.face.SHSU.2016.076.2016.11.27.day6,0,soil.face,80.3,SHSU,active,2016.076
+soil.hip.SHSU.2016.076.2016.11.29.day8,0.008358842,soil.hip,116.1,SHSU,active,2016.076
+soil.hip.SHSU.2016.076.2016.12.09.day18,0.000162646,soil.hip,213.9,SHSU,advanced,2016.076
+soil.hip.CMU.17.04.2017.03.day12,0,soil.hip,162.45,CMU,active,Mr 17-04
+soil.hip.CMU.17.04.2017.03.day7,0,soil.hip,76.65,CMU,active,Mr 17-04
+soil.face.SHSU.2016.073.2016.11.14.day11,0,soil.face,189.05,SHSU,active,2016.073
+soil.hip.SHSU.2016.073.2016.11.06.day3,0,soil.hip,40.6,SHSU,early,2016.073
+soil.hip.SHSU.2016.072.2016.11.04.day1,0,soil.hip,0,SHSU,placement,2016.072
+soil.face.SHSU.2016.072.2016.11.15.day12,0,soil.face,209.6,SHSU,advanced,2016.072
+soil.face.SHSU.2016.076.2016.11.29.day8,0,soil.face,116.1,SHSU,active,2016.076
+soil.face.SHSU.2016.076.2016.12.03.day12,0.001175214,soil.face,159.15,SHSU,active,2016.076
+soil.face.SHSU.2016.072.2016.11.09.day6,0,soil.face,100.6,SHSU,active,2016.072
+soil.face.CMU.17.04.2017.03.day4,0,soil.face,34.15,CMU,early,Mr 17-04
+soil.hip.SHSU.2016.072.2016.11.23.day20,0.02146986,soil.hip,342.45,SHSU,advanced,2016.072
+soil.hip.SHSU.2016.073.2016.11.09.day6,0,soil.hip,100.6,SHSU,active,2016.073
+soil.face.SHSU.2016.072.2016.11.19.day16,0.001480975,soil.face,281,SHSU,advanced,2016.072
+soil.hip.SHSU.2016.076.2016.11.27.day6,0.007601122,soil.hip,80.3,SHSU,active,2016.076
+soil.face.SHSU.2016.076.2016.12.07.day16,0,soil.face,203,SHSU,advanced,2016.076
+soil.face.SHSU.2016.076.2016.12.10.day19,0.000164474,soil.face,219.45,SHSU,advanced,2016.076
+soil.face.SHSU.2016.072.2016.11.21.day18,0.002892263,soil.face,305.2,SHSU,advanced,2016.072
+soil.face.CMU.17.04.2017.03.day2,0,soil.face,12.5,CMU,early,Mr 17-04
+soil.hip.CMU.17.04.2017.03.day8,0,soil.hip,92.2,CMU,active,Mr 17-04
+soil.face.SHSU.2016.076.2016.12.05.day14,0.000709912,soil.face,178.6,SHSU,active,2016.076
+soil.face.SHSU.2016.076.2016.12.08.day17,0.000364113,soil.face,210.25,SHSU,advanced,2016.076
+soil.face.SHSU.206.072.2016.11.16.day13,0.000358706,soil.face,230.7,SHSU,advanced,2016.072
+soil.hip.SHSU.2016.076.2016.12.10.day19,0.000303536,soil.hip,219.45,SHSU,advanced,2016.076
+soil.hip.SHSU.2016.073.2016.11.20.day17,0,soil.hip,289.9,SHSU,advanced,2016.073
+soil.hip.CMU.17.04.2017.03.day17,0,soil.hip,224.05,CMU,advanced,Mr 17-04
+soil.face.CMU.17.04.2017.03.day16,0,soil.face,213.25,CMU,advanced,Mr 17-04
+soil.face.CMU.17.04.2017.03.day5,0,soil.face,46.95,CMU,early,Mr 17-04
+soil.face.SHSU.2016.072.2016.11.12.day9,0,soil.face,154,SHSU,active,2016.072
+soil.hip.SHSU.2016.076.2016.12.04.day13,0.005359591,soil.hip,169.15,SHSU,active,2016.076
+soil.face.CMU.17.04.2017.03.day20,0,soil.face,254.4,CMU,advanced,Mr 17-04
+soil.face.CMU.17.04.2017.03.day19,0,soil.face,243.55,CMU,advanced,Mr 17-04
+soil.face.SHSU.2016.072.2016.11.04.day1,0,soil.face,0,SHSU,placement,2016.072
+soil.face.SHSU.2016.076.2016.11.30.day9,0,soil.face,127.45,SHSU,active,2016.076
+soil.face.CMU.17.04.2017.03.day14,0,soil.face,191.65,CMU,active,Mr 17-04
+soil.hip.CMU.17.04.2017.03.day3,0.000109523,soil.hip,24.15,CMU,early,Mr 17-04
+soil.face.SHSU.2016.073.2016.11.07.day4,0,soil.face,62.55,SHSU,active,2016.073
+soil.face.SHSU.2016.073.2016.11.08.day5,0,soil.face,82,SHSU,active,2016.073
+soil.hip.SHSU.2016.076.2016.12.07.day16,0,soil.hip,203,SHSU,advanced,2016.076
+soil.hip.SHSU.2016.076.2016.12.12.day21,0,soil.hip,254.5,SHSU,advanced,2016.076
+soil.hip.SHSU.2016.072.2016.11.22.day19,0.006920415,soil.hip,326.9,SHSU,advanced,2016.072
+soil.hip.UTK.K016.12.2017.06.03.day10,0.000209336,soil.hip,193.3,UTK,active,UTK.K016.12
+soil.hip.UTK.K016.11.2017.06.02.day9,0.00084674,soil.hip,170.3,UTK,active,UTK.K016.11
+soil.hip.UTK.K016.11.2017.05.27.day3,0,soil.hip,41.5,UTK,early,UTK.K016.11
+soil.face.UTK.K016.11.2017.06.09.day16,0.001761893,soil.face,319.6,UTK,advanced,UTK.K016.11
+soil.face.UTK.K016.12.2017.05.27.day3,0,soil.face,41.5,UTK,early,UTK.K016.12
+soil.hip.UTK.K016.12.2017.06.05.day12,0.004618152,soil.hip,236.6,UTK,advanced,UTK.K016.12
+soil.hip.UTK.K016.10.2017.06.02.day9,0,soil.hip,170.3,UTK,active,UTK.K016.10
+soil.face.UTK.K016.12.2017.06.11.day18,0.003118582,soil.face,366.3,UTK,advanced,UTK.K016.12
+soil.hip.UTK.K016.12.2017.06.07.day14,0.000322546,soil.hip,278.9,UTK,advanced,UTK.K016.12
+soil.hip.UTK.K016.10.2017.06.08.day15,0.000256197,soil.hip,298.6,UTK,advanced,UTK.K016.10
+soil.face.UTK.K016.10.2017.06.08.day15,0.000288334,soil.face,298.6,UTK,advanced,UTK.K016.10
+soil.hip.UTK.K016.11.2017.06.07.day14,0.000860631,soil.hip,278.9,UTK,advanced,UTK.K016.11
+soil.hip.UTK.K016.12.2017.06.14.day21,0.000350426,soil.hip,441.3,UTK,advanced,UTK.K016.12
+soil.hip.UTK.K016.12.2017.05.25.day1,0,soil.hip,0,UTK,placement,UTK.K016.12
+soil.hip.UTK.K016.10.2017.05.30.day6,0,soil.hip,105.8,UTK,active,UTK.K016.10
+soil.face.UTK.K016.11.2017.06.02.day9,0.001197175,soil.face,170.3,UTK,active,UTK.K016.11
+soil.hip.UTK.K016.10.2017.06.13.day20,0.003788342,soil.hip,417.9,UTK,advanced,UTK.K016.10
+soil.hip.UTK.K016.10.2017.05.27.day3,0,soil.hip,41.5,UTK,early,UTK.K016.10
+soil.hip.UTK.K016.11.2017.06.08.day15,0.003322995,soil.hip,298.6,UTK,advanced,UTK.K016.11
+soil.face.UTK.K016.10.2017.05.26.day2,0,soil.face,18.3,UTK,early,UTK.K016.10
+soil.face.UTK.K016.12.2017.06.12.day19,0.001842435,soil.face,392.2,UTK,advanced,UTK.K016.12
+soil.face.UTK.K016.10.2017.05.31.day7,9.94678E-05,soil.face,126.4,UTK,active,UTK.K016.10
+soil.face.UTK.K016.10.2017.06.13.day20,0.000921582,soil.face,417.9,UTK,advanced,UTK.K016.10
+soil.face.UTK.K016.10.2017.06.07.day14,0.000802068,soil.face,278.9,UTK,advanced,UTK.K016.10
+soil.face.UTK.K016.11.2017.05.25.day1,0,soil.face,0,UTK,placement,UTK.K016.11
+soil.face.UTK.K016.10.2017.06.11.day18,0.002224173,soil.face,366.3,UTK,advanced,UTK.K016.10
+soil.face.UTK.K016.10.2017.05.29.day5,0,soil.face,84.2,UTK,active,UTK.K016.10
+soil.hip.UTK.K016.11.2017.06.13.day20,0,soil.hip,417.9,UTK,advanced,UTK.K016.11
+soil.hip.UTK.K016.10.2017.06.04.day11,0.001052139,soil.hip,215.2,UTK,advanced,UTK.K016.10
+soil.face.UTK.K016.11.2017.05.30.day6,0,soil.face,105.8,UTK,active,UTK.K016.11
+soil.face.UTK.K016.12.2017.06.06.day13,0,soil.face,258.6,UTK,advanced,UTK.K016.12
+soil.hip.UTK.K016.10.2017.06.01.day8,0,soil.hip,148.5,UTK,active,UTK.K016.10
+soil.hip.UTK.K016.11.2017.06.10.day17,0.012462585,soil.hip,341.7,UTK,advanced,UTK.K016.11
+soil.face.UTK.K016.12.2017.06.14.day21,0,soil.face,441.3,UTK,advanced,UTK.K016.12
+soil.hip.UTK.K016.12.2017.06.10.day17,0.003729125,soil.hip,341.7,UTK,advanced,UTK.K016.12
+soil.hip.UTK.K016.10.2017.05.31.day7,0,soil.hip,126.4,UTK,active,UTK.K016.10
+soil.face.UTK.K016.10.2017.06.03.day10,0,soil.face,193.3,UTK,active,UTK.K016.10
+soil.hip.UTK.K016.12.2017.06.08.day15,0.000189382,soil.hip,298.6,UTK,advanced,UTK.K016.12
+soil.face.UTK.K016.12.2017.06.10.day17,0.003161674,soil.face,341.7,UTK,advanced,UTK.K016.12
+soil.hip.UTK.K016.11.2017.06.04.day11,0,soil.hip,215.2,UTK,advanced,UTK.K016.11
+soil.face.UTK.K016.10.2017.05.27.day3,0,soil.face,41.5,UTK,early,UTK.K016.10
+soil.face.UTK.K016.12.2017.06.07.day14,0.001008636,soil.face,278.9,UTK,advanced,UTK.K016.12
+soil.hip.UTK.K016.11.2017.06.09.day16,0.017852637,soil.hip,319.6,UTK,advanced,UTK.K016.11
+soil.hip.UTK.K016.12.2017.05.28.day4,0,soil.hip,62.3,UTK,active,UTK.K016.12
+soil.hip.UTK.K016.10.2017.06.05.day12,0.000124649,soil.hip,236.6,UTK,advanced,UTK.K016.10
+soil.face.UTK.K016.10.2017.06.09.day16,0.000474126,soil.face,319.6,UTK,advanced,UTK.K016.10
+soil.face.UTK.K016.11.2017.06.13.day20,0.001400981,soil.face,417.9,UTK,advanced,UTK.K016.11
+soil.hip.UTK.K016.11.2017.05.29.day5,0,soil.hip,84.2,UTK,active,UTK.K016.11
+soil.face.UTK.K016.12.2017.06.08.day15,0.000374672,soil.face,298.6,UTK,advanced,UTK.K016.12
+soil.hip.UTK.K016.12.2017.06.12.day19,0.003015941,soil.hip,392.2,UTK,advanced,UTK.K016.12
+soil.hip.UTK.K016.10.2017.06.03.day10,0,soil.hip,193.3,UTK,active,UTK.K016.10
+soil.face.UTK.K016.10.2017.05.30.day6,0,soil.face,105.8,UTK,active,UTK.K016.10
+soil.face.UTK.K016.10.2017.05.28.day4,0,soil.face,62.3,UTK,active,UTK.K016.10
+soil.hip.UTK.K016.10.2017.05.28.day4,0,soil.hip,62.3,UTK,active,UTK.K016.10
+soil.hip.UTK.K016.11.2017.05.28.day4,0,soil.hip,62.3,UTK,active,UTK.K016.11
+soil.hip.UTK.K016.12.2017.06.13.day20,0.012720201,soil.hip,417.9,UTK,advanced,UTK.K016.12
+soil.face.UTK.K016.11.2017.06.14.day21,0,soil.face,441.3,UTK,advanced,UTK.K016.11
+soil.face.UTK.K016.10.2017.06.12.day19,0.004559271,soil.face,392.2,UTK,advanced,UTK.K016.10
+soil.face.UTK.K016.12.2017.05.30.day6,0,soil.face,105.8,UTK,active,UTK.K016.12
+soil.face.UTK.K016.12.2017.06.13.day20,0.000675054,soil.face,417.9,UTK,advanced,UTK.K016.12
+soil.face.UTK.K016.11.2017.06.03.day10,0.000832586,soil.face,193.3,UTK,active,UTK.K016.11
+soil.hip.UTK.K016.10.2017.06.09.day16,0,soil.hip,319.6,UTK,advanced,UTK.K016.10
+soil.hip.UTK.K016.11.2017.06.12.day19,0.009347042,soil.hip,392.2,UTK,advanced,UTK.K016.11
+soil.hip.UTK.K016.11.2017.05.26.day2,0,soil.hip,18.3,UTK,early,UTK.K016.11
+soil.face.UTK.K016.11.2017.06.07.day14,0.000542483,soil.face,278.9,UTK,advanced,UTK.K016.11
+soil.face.UTK.K016.10.2017.06.06.day13,0.000541888,soil.face,258.6,UTK,advanced,UTK.K016.10
+soil.hip.UTK.K016.10.2017.05.26.day2,0,soil.hip,18.3,UTK,early,UTK.K016.10
+soil.hip.UTK.K016.10.2017.05.29.day5,0,soil.hip,84.2,UTK,active,UTK.K016.10
+soil.face.UTK.K016.10.2017.05.25.day1,0,soil.face,0,UTK,placement,UTK.K016.10
+soil.face.UTK.K016.12.2017.06.01.day8,0,soil.face,148.5,UTK,active,UTK.K016.12
+soil.hip.UTK.K016.10.2017.05.25.day1,0,soil.hip,0,UTK,placement,UTK.K016.10
+soil.hip.UTK.K016.10.2017.06.12.day19,0.002860447,soil.hip,392.2,UTK,advanced,UTK.K016.10
+soil.face.UTK.K016.10.2017.06.02.day9,0.000482672,soil.face,170.3,UTK,active,UTK.K016.10
+soil.hip.UTK.K016.12.2017.06.11.day18,0.005315019,soil.hip,366.3,UTK,advanced,UTK.K016.12
+soil.face.UTK.K016.12.2017.05.29.day5,0,soil.face,84.2,UTK,active,UTK.K016.12
+soil.face.UTK.K016.12.2017.06.09.day16,0.000361346,soil.face,319.6,UTK,advanced,UTK.K016.12
+soil.face.UTK.K016.11.2017.06.08.day15,0.001123932,soil.face,298.6,UTK,advanced,UTK.K016.11
+soil.face.UTK.K016.11.2017.06.01.day8,0.000109331,soil.face,148.5,UTK,active,UTK.K016.11
+soil.hip.UTK.K016.12.2017.05.27.day3,0,soil.hip,41.5,UTK,early,UTK.K016.12
+soil.hip.UTK.K016.11.2017.06.01.day8,0.000728128,soil.hip,148.5,UTK,active,UTK.K016.11
+soil.face.UTK.K016.10.2017.06.05.day12,0.000335758,soil.face,236.6,UTK,advanced,UTK.K016.10
+soil.face.UTK.K016.12.2017.05.26.day2,0,soil.face,18.3,UTK,early,UTK.K016.12
+soil.hip.UTK.K016.11.2017.05.30.day6,0,soil.hip,105.8,UTK,active,UTK.K016.11
+soil.hip.UTK.K016.12.2017.05.31.day7,0,soil.hip,126.4,UTK,active,UTK.K016.12
+soil.hip.UTK.K016.12.2017.05.26.day2,0,soil.hip,18.3,UTK,early,UTK.K016.12
+soil.face.UTK.K016.11.2017.05.31.day7,0.000109553,soil.face,126.4,UTK,active,UTK.K016.11
+soil.face.UTK.K016.11.2017.06.04.day11,0.001846966,soil.face,215.2,UTK,advanced,UTK.K016.11
+soil.hip.UTK.K016.10.2017.06.07.day14,0.000246442,soil.hip,278.9,UTK,advanced,UTK.K016.10
+soil.face.UTK.K016.12.2017.05.28.day4,0.000120475,soil.face,62.3,UTK,active,UTK.K016.12
+soil.hip.UTK.K016.10.2017.06.06.day13,8.47494E-05,soil.hip,258.6,UTK,advanced,UTK.K016.10
+soil.hip.UTK.K016.11.2017.05.31.day7,0,soil.hip,126.4,UTK,active,UTK.K016.11
+soil.face.UTK.K016.10.2017.06.04.day11,0,soil.face,215.2,UTK,advanced,UTK.K016.10
+soil.face.UTK.K016.11.2017.05.29.day5,0,soil.face,84.2,UTK,active,UTK.K016.11
+soil.face.UTK.K016.10.2017.06.10.day17,0.000852173,soil.face,341.7,UTK,advanced,UTK.K016.10
+soil.hip.UTK.K016.11.2017.06.03.day10,0.000833494,soil.hip,193.3,UTK,active,UTK.K016.11
+soil.hip.UTK.K016.10.2017.06.14.day21,0.00182504,soil.hip,441.3,UTK,advanced,UTK.K016.10
+soil.hip.UTK.K016.10.2017.06.10.day17,0.002246971,soil.hip,341.7,UTK,advanced,UTK.K016.10
+soil.face.UTK.K016.12.2017.06.03.day10,0.000292295,soil.face,193.3,UTK,active,UTK.K016.12
+soil.hip.UTK.K016.12.2017.06.06.day13,0.000390812,soil.hip,258.6,UTK,advanced,UTK.K016.12
+soil.face.UTK.K016.12.2017.06.05.day12,0.000205086,soil.face,236.6,UTK,advanced,UTK.K016.12
+soil.face.UTK.K016.10.2017.06.14.day21,0.000651975,soil.face,441.3,UTK,advanced,UTK.K016.10
+soil.face.UTK.K016.11.2017.06.06.day13,0.000703045,soil.face,258.6,UTK,advanced,UTK.K016.11
+soil.hip.UTK.K016.12.2017.05.30.day6,0,soil.hip,105.8,UTK,active,UTK.K016.12
+soil.face.UTK.K016.10.2017.06.01.day8,0,soil.face,148.5,UTK,active,UTK.K016.10
+soil.hip.UTK.K016.11.2017.06.05.day12,0.001200881,soil.hip,236.6,UTK,advanced,UTK.K016.11
+soil.hip.UTK.K016.12.2017.06.09.day16,0.001738597,soil.hip,319.6,UTK,advanced,UTK.K016.12
+soil.hip.UTK.K016.11.2017.05.25.day1,0,soil.hip,0,UTK,placement,UTK.K016.11
+soil.face.UTK.K016.11.2017.05.27.day3,0,soil.face,41.5,UTK,early,UTK.K016.11
+soil.hip.UTK.K016.10.2017.06.11.day18,0.004869178,soil.hip,366.3,UTK,advanced,UTK.K016.10
+soil.face.UTK.K016.12.2017.05.31.day7,0,soil.face,126.4,UTK,active,UTK.K016.12
+soil.hip.UTK.K016.11.2017.06.06.day13,0.000780875,soil.hip,258.6,UTK,advanced,UTK.K016.11
+soil.hip.UTK.K016.12.2017.05.29.day5,0,soil.hip,84.2,UTK,active,UTK.K016.12
+soil.face.UTK.K016.11.2017.05.28.day4,0,soil.face,62.3,UTK,active,UTK.K016.11
+soil.face.UTK.K016.12.2017.05.25.day1,0,soil.face,0,UTK,placement,UTK.K016.12
+soil.face.UTK.K016.11.2017.06.05.day12,0.001572062,soil.face,236.6,UTK,advanced,UTK.K016.11
+soil.face.CMU.17.12.2017.10.23.day14,0,soil.face,153.7,CMU,active,17-12
+soil.face.SHSU.2017.046.2018.01.02.day15,0,soil.face,109.2,SHSU,active,2017.046
+soil.face.SHSU.2017.046.2017.12.19.day1,0,soil.face,0,SHSU,placement,2017.046
+soil.hip.SHSU.2017.043.2017.12.05.day6,0,soil.hip,88.6,SHSU,active,2017.043
+soil.hip.SHSU.2017.045.2017.12.14.day3,0,soil.hip,18.9,SHSU,early,2017.045
+soil.face.SHSU.2017.045.2017.12.27.day16,0,soil.face,166.05,SHSU,active,2017.045
+soil.face.SHSU.2017.045.2017.12.12.day1,0,soil.face,0,SHSU,placement,2017.045
+soil.face.SHSU.2017.046.2017.12.31.day13,0,soil.face,109.15,SHSU,active,2017.046
+soil.hip.CMU.17.12.2017.10.18.day9,0,soil.hip,93.95,CMU,active,17-12
+soil.face.SHSU.2017.045.2017.12.28.day17,0,soil.face,170.75,SHSU,active,2017.045
+soil.hip.SHSU.2017.046.2018.01.07.day20,0,soil.hip,144.6,SHSU,active,2017.046
+soil.face.CMU.17.12.2017.10.12.day3,0,soil.face,28.65,CMU,early,17-12
+soil.hip.SHSU.2017.046.2017.12.20.day2,0,soil.hip,17.2,SHSU,early,2017.046
+soil.hip.SHSU.2017.046.2018.01.04.day17,0,soil.hip,113.45,SHSU,active,2017.046
+soil.hip.SHSU.2017.045.2017.12.28.day17,0,soil.hip,170.75,SHSU,active,2017.045
+soil.face.SHSU.2017.043.2017.12.14.day15,0.002352067,soil.face,162.3,SHSU,active,2017.043
+soil.hip.SHSU.2017.046.2017.12.26.day8,0,soil.hip,79.15,SHSU,active,2017.046
+soil.hip.SHSU.2017.046.2018.01.05.day18,0,soil.hip,122.1,SHSU,active,2017.046
+soil.face.SHSU.2017.046.2017.12.30.day12,0,soil.face,105,SHSU,active,2017.046
+soil.face.SHSU.2017.043.2017.12.04.day5,0,soil.face,72.5,SHSU,active,2017.043
+soil.hip.SHSU.2017.045.2017.12.13.day2,0,soil.hip,7.2,SHSU,early,2017.045
+soil.face.CMU.17.12.2017.10.18.day9,0,soil.face,93.95,CMU,active,17-12
+soil.hip.CMU.17.12.2017.10.28.day19,0,soil.hip,211.5,CMU,advanced,17-12
+soil.hip.SHSU.2017.043.2017.12.01.day2,0,soil.hip,14.75,SHSU,early,2017.043
+soil.face.SHSU.2017.045.2017.12.14.day3,0,soil.face,18.9,SHSU,early,2017.045
+soil.face.SHSU.2017.043.2017.12.20.day21,0.001858372,soil.face,243.05,SHSU,advanced,2017.043
+soil.hip.CMU.17.12.2017.10.25.day16,0,soil.hip,179,CMU,active,17-12
+soil.hip.CMU.17.12.2017.10.30.day21,0,soil.hip,232.9,CMU,advanced,17-12
+soil.face.SHSU.2017.045.2017.12.22.day11,0,soil.face,132.15,SHSU,active,2017.045
+soil.face.SHSU.2017.045.2017.12.16.day5,0,soil.face,36.9,SHSU,early,2017.045
+soil.hip.SHSU.2017.046.2017.01.01.day14,0,soil.hip,109.2,SHSU,active,2017.046
+soil.hip.SHSU.2017.045.2017.12.30.day19,0,soil.hip,187.45,SHSU,active,2017.045
+soil.face.CMU.17.12.2017.10.14.day5,0,soil.face,50.05,CMU,active,17-12
+soil.face.SHSU.2017.045.2017.12.20.day9,0,soil.face,99.65,SHSU,active,2017.045
+soil.hip.CMU.17.12.2017.10.21.day12,0,soil.hip,132.55,CMU,active,17-12
+soil.hip.CMU.17.12.2017.10.19.day10,0,soil.hip,107.85,CMU,active,17-12
+soil.face.SHSU.2017.046.2018.01.08.day21,0,soil.face,156,SHSU,active,2017.046
+soil.face.CMU.17.12.2017.10.17.day8,0,soil.face,80.35,CMU,active,17-12
+soil.hip.SHSU.2017.043.2017.12.17.day18,0.000439754,soil.hip,190.85,SHSU,active,2017.043
+soil.hip.SHSU.2017.045.2017.12.23.day12,0,soil.hip,139.9,SHSU,active,2017.045
+soil.hip.SHSU.2017.043.2017.12.02.day3,0,soil.hip,31.95,SHSU,early,2017.043
+soil.face.SHSU.2017.045.2017.12.18.day7,0,soil.face,61.6,SHSU,active,2017.045
+soil.hip.CMU.17.12.2017.10.14.day5,0,soil.hip,50.05,CMU,active,17-12
+soil.face.SHSU.2017.045.2017.12.23.day12,0,soil.face,139.9,SHSU,active,2017.045
+soil.hip.SHSU.2017.046.2017.12.29.day11,0,soil.hip,95.8,SHSU,active,2017.046
+soil.face.SHSU.2017.046.2017.12.25.day7,0,soil.face,71.95,SHSU,active,2017.046
+soil.hip.CMU.17.12.2017.10.26.day17,0,soil.hip,190.95,CMU,active,17-12
+soil.hip.SHSU.2017.046.2017.12.28.day10,0,soil.hip,88.3,SHSU,active,2017.046
+soil.hip.SHSU.2017.046.2018.01.02.day15,0,soil.hip,109.2,SHSU,active,2017.046
+soil.face.CMU.17.12.2017.10.11.day2,0,soil.face,12.8,CMU,early,17-12
+soil.face.SHSU.2017.045.2017.12.25.day14,0,soil.face,154.4,SHSU,active,2017.045
+soil.face.SHSU.2017.046.2017.12.24.day6,0,soil.face,66.6,SHSU,active,2017.046
+soil.face.SHSU.2017.045.2017.12.15.day4,0,soil.face,29.15,SHSU,early,2017.045
+soil.hip.SHSU.2017.043.2017.12.06.day7,0,soil.hip,96.1,SHSU,active,2017.043
+soil.face.CMU.17.12.2017.10.30.day21,0,soil.face,232.9,CMU,advanced,17-12
+soil.face.SHSU.2017.045.2017.12.30.day19,0,soil.face,187.45,SHSU,active,2017.045
+soil.hip.SHSU.2017.043.2017.12.20.day21,0,soil.hip,243.05,SHSU,advanced,2017.043
+soil.hip.SHSU.2017.046.2017.12.22.day4,0,soil.hip,49.7,SHSU,early,2017.046
+soil.hip.SHSU.2017.045.2017.12.29.day18,0,soil.hip,178.25,SHSU,active,2017.045
+soil.face.SHSU.2017.045.2017.12.31.day20,0,soil.face,191.6,SHSU,active,2017.045
+soil.hip.CMU.17.12.2017.10.27.day18,0,soil.hip,200.4,CMU,advanced,17-12
+soil.face.SHSU.2017.043.2017.11.30.day1,0,soil.face,0,SHSU,placement,2017.043
+soil.hip.SHSU.2017.043.2017.12.08.day9,0,soil.hip,103.65,SHSU,active,2017.043
+soil.hip.CMU.17.12.2017.10.10.day1,0,soil.hip,0,CMU,placement,17-12
+soil.face.SHSU.2017.045.2017.12.26.day15,0.000205719,soil.face,161.6,SHSU,active,2017.045
+soil.hip.SHSU.2017.043.2017.11.30.day1,0,soil.hip,0,SHSU,placement,2017.043
+soil.face.SHSU.2017.043.2017.12.17.day18,0,soil.face,190.85,SHSU,active,2017.043
+soil.hip.SHSU.2017.045.2017.12.16.day5,0,soil.hip,36.9,SHSU,early,2017.045
+soil.hip.CMU.17.12.2017.10.22.day13,0,soil.hip,141.75,CMU,active,17-12
+soil.face.SHSU.2017.043.2017.12.16.day17,0.000683761,soil.face,180.3,SHSU,active,2017.043
+soil.hip.CMU.17.12.2017.10.15.day6,0,soil.hip,58.65,CMU,active,17-12
+soil.hip.SHSU.2017.043.2017.12.13.day14,0,soil.hip,150.6,SHSU,active,2017.043
+soil.hip.CMU.17.12.2017.10.13.day4,0,soil.hip,41.7,CMU,early,17-12
+soil.hip.SHSU.2017.046.2017.12.25.day7,0,soil.hip,71.95,SHSU,active,2017.046
+soil.hip.SHSU.2017.045.2017.12.12.day1,0,soil.hip,0,SHSU,placement,2017.045
+soil.face.CMU.17.12.2017.10.24.day15,0,soil.face,166.75,CMU,active,17-12
+soil.hip.SHSU.2017.043.2017.12.18.day19,0,soil.hip,205,SHSU,advanced,2017.043
+soil.face.CMU.17.12.2017.10.19.day10,0,soil.face,107.85,CMU,active,17-12
+soil.face.SHSU.2017.045.2017.01.01.day21,0,soil.face,191.65,SHSU,active,2017.045
+soil.face.SHSU.2017.043.2017.12.10.day11,0,soil.face,120.1,SHSU,active,2017.043
+soil.hip.SHSU.2017.045.2017.12.19.day8,0,soil.hip,82.45,SHSU,active,2017.045
+soil.face.SHSU.2017.046.2017.12.22.day4,0,soil.face,49.7,SHSU,early,2017.046
+soil.face.SHSU.2017.043.2017.12.13.day14,0.001746153,soil.face,150.6,SHSU,active,2017.043
+soil.face.CMU.17.12.2017.10.25.day16,0,soil.face,179,CMU,active,17-12
+soil.face.SHSU.2017.043.2017.12.12.day13,0.003942727,soil.face,143.4,SHSU,active,2017.043
+soil.face.SHSU.2017.045.2017.12.17.day6,0,soil.face,47.45,SHSU,early,2017.045
+soil.face.CMU.17.12.2017.10.28.day19,0,soil.face,211.5,CMU,advanced,17-12
+soil.face.SHSU.2017.046.2018.01.06.day19,0,soil.face,130.75,SHSU,active,2017.046
+soil.face.SHSU.2017.046.2018.01.05.day18,0,soil.face,122.1,SHSU,active,2017.046
+soil.face.SHSU.2017.046.2017.01.01.day14,0,soil.face,109.2,SHSU,active,2017.046
+soil.face.SHSU.2017.043.2017.12.11.day12,0.000203108,soil.face,134.25,SHSU,active,2017.043
+soil.hip.SHSU.2017.046.2017.12.31.day13,0,soil.hip,109.15,SHSU,active,2017.046
+soil.face.CMU.17.12.2017.10.26.day17,0,soil.face,190.95,CMU,active,17-12
+soil.hip.SHSU.2017.045.2017.01.01.day21,0,soil.hip,191.65,SHSU,active,2017.045
+soil.face.CMU.17.12.2017.10.29.day20,0,soil.face,222.9,CMU,advanced,17-12
+soil.face.SHSU.2017.046.2017.12.26.day8,0,soil.face,79.15,SHSU,active,2017.046
+soil.face.SHSU.2017.043.2017.12.18.day19,0.0002414,soil.face,205,SHSU,advanced,2017.043
+soil.hip.CMU.17.12.2017.10.11.day2,0,soil.hip,12.8,CMU,early,17-12
+soil.hip.SHSU.2017.045.2017.12.26.day15,0,soil.hip,161.6,SHSU,active,2017.045
+soil.hip.SHSU.2017.043.2017.12.16.day17,0,soil.hip,180.3,SHSU,active,2017.043
+soil.face.SHSU.2017.043.2017.12.06.day7,0,soil.face,96.1,SHSU,active,2017.043
+soil.face.SHSU.2017.046.2017.12.29.day11,0,soil.face,95.8,SHSU,active,2017.046
+soil.hip.SHSU.2017.043.2017.12.15.day16,0.000568053,soil.hip,172.55,SHSU,active,2017.043
+soil.hip.SHSU.2017.045.2017.12.27.day16,0,soil.hip,166.05,SHSU,active,2017.045
+soil.hip.SHSU.2017.046.2017.12.19.day1,0,soil.hip,0,SHSU,placement,2017.046
+soil.hip.SHSU.2017.045.2017.12.21.day10,0,soil.hip,117.15,SHSU,active,2017.045
+soil.face.SHSU.2017.046.2017.12.27.day9,0,soil.face,83.6,SHSU,active,2017.046
+soil.face.CMU.17.12.2017.10.27.day18,0,soil.face,200.4,CMU,advanced,17-12
+soil.hip.SHSU.2017.043.2017.12.10.day11,0,soil.hip,120.1,SHSU,active,2017.043
+soil.hip.SHSU.2017.046.2017.12.23.day5,0,soil.hip,57.45,SHSU,active,2017.046
+soil.face.SHSU.2017.046.2017.12.21.day3,0,soil.face,34.7,SHSU,early,2017.046
+soil.face.SHSU.2017.045.2017.12.19.day8,0,soil.face,82.45,SHSU,active,2017.045
+soil.hip.SHSU.2017.043.2017.12.07.day8,0,soil.hip,100.55,SHSU,active,2017.043
+soil.hip.SHSU.2017.045.2017.12.17.day6,0,soil.hip,47.45,SHSU,early,2017.045
+soil.hip.SHSU.2017.043.2017.12.14.day15,0,soil.hip,162.3,SHSU,active,2017.043
+soil.face.CMU.17.12.2017.10.10.day1,0,soil.face,0,CMU,placement,17-12
+soil.hip.SHSU.2017.046.2018.01.08.day21,0,soil.hip,156,SHSU,active,2017.046
+soil.hip.SHSU.2017.043.2017.12.03.day4,0,soil.hip,49.45,SHSU,early,2017.043
+soil.hip.SHSU.2017.046.2017.12.27.day9,0,soil.hip,83.6,SHSU,active,2017.046
+soil.face.SHSU.2017.043.2017.12.15.day16,0,soil.face,172.55,SHSU,active,2017.043
+soil.face.CMU.17.12.2017.10.20.day11,0,soil.face,125.05,CMU,active,17-12
+soil.face.CMU.17.12.2017.10.16.day7,0,soil.face,68.95,CMU,active,17-12
+soil.hip.SHSU.2017.045.2017.12.22.day11,0,soil.hip,132.15,SHSU,active,2017.045
+soil.face.SHSU.2017.045.2017.12.21.day10,0,soil.face,117.15,SHSU,active,2017.045
+soil.hip.SHSU.2017.043.2017.12.19.day20,0,soil.hip,225.85,SHSU,advanced,2017.043
+soil.hip.SHSU.2017.046.2017.12.30.day12,0,soil.hip,105,SHSU,active,2017.046
+soil.hip.SHSU.2017.045.2017.12.15.day4,0,soil.hip,29.15,SHSU,early,2017.045
+soil.face.SHSU.2017.046.2018.01.03.day16,0,soil.face,110.05,SHSU,active,2017.046
+soil.hip.CMU.17.12.2017.10.23.day14,0,soil.hip,153.7,CMU,active,17-12
+soil.hip.CMU.17.12.2017.10.20.day11,0,soil.hip,125.05,CMU,active,17-12
+soil.face.SHSU.2017.045.2017.12.13.day2,0,soil.face,7.2,SHSU,early,2017.045
+soil.face.SHSU.2017.046.2018.01.07.day20,0,soil.face,144.6,SHSU,active,2017.046
+soil.hip.SHSU.2017.045.2017.12.18.day7,0,soil.hip,61.6,SHSU,active,2017.045
+soil.face.SHSU.2017.043.2017.12.08.day9,0,soil.face,103.65,SHSU,active,2017.043
+soil.face.SHSU.2017.046.2017.12.23.day5,0,soil.face,57.45,SHSU,active,2017.046
+soil.hip.SHSU.2017.043.2017.12.12.day13,0,soil.hip,143.4,SHSU,active,2017.043
+soil.hip.SHSU.2017.045.2017.12.20.day9,0,soil.hip,99.65,SHSU,active,2017.045
+soil.face.SHSU.2017.045.2017.12.24.day13,0,soil.face,149.05,SHSU,active,2017.045
+soil.face.SHSU.2017.043.2017.12.07.day8,0,soil.face,100.55,SHSU,active,2017.043
+soil.face.SHSU.2017.046.2018.01.04.day17,0,soil.face,113.45,SHSU,active,2017.046
+soil.face.SHSU.2017.043.2017.12.01.day2,0,soil.face,14.75,SHSU,early,2017.043
+soil.face.CMU.17.12.2017.10.13.day4,0.000259269,soil.face,41.7,CMU,early,17-12
+soil.hip.SHSU.2017.046.2017.12.21.day3,0,soil.hip,34.7,SHSU,early,2017.046
+soil.face.SHSU.2017.046.2017.12.28.day10,0,soil.face,88.3,SHSU,active,2017.046
+soil.face.CMU.17.12.2017.10.15.day6,0,soil.face,58.65,CMU,active,17-12
+soil.face.SHSU.2017.043.2017.12.19.day20,0.001458435,soil.face,225.85,SHSU,advanced,2017.043
+soil.hip.CMU.17.12.2017.10.24.day15,0,soil.hip,166.75,CMU,active,17-12
+soil.hip.SHSU.2017.046.2018.01.03.day16,0,soil.hip,110.05,SHSU,active,2017.046
+soil.face.SHSU.2017.043.2017.12.09.day10,0,soil.face,111.45,SHSU,active,2017.043
+soil.face.SHSU.2017.043.2017.12.03.day4,0,soil.face,49.45,SHSU,early,2017.043
+soil.hip.CMU.17.12.2017.10.29.day20,0,soil.hip,222.9,CMU,advanced,17-12
+soil.hip.SHSU.2017.045.2017.12.31.day20,0,soil.hip,191.6,SHSU,active,2017.045
+soil.hip.SHSU.2017.043.2017.12.09.day10,0,soil.hip,111.45,SHSU,active,2017.043
+soil.hip.CMU.17.12.2017.10.16.day7,0,soil.hip,68.95,CMU,active,17-12
+soil.hip.SHSU.2017.046.2018.01.06.day19,0,soil.hip,130.75,SHSU,active,2017.046
+soil.hip.CMU.17.12.2017.10.12.day3,0,soil.hip,28.65,CMU,early,17-12
+soil.face.SHSU.2017.045.2017.12.29.day18,0,soil.face,178.25,SHSU,active,2017.045
+soil.face.CMU.17.12.2017.10.22.day13,0,soil.face,141.75,CMU,active,17-12
+soil.hip.SHSU.2017.046.2017.12.24.day6,0,soil.hip,66.6,SHSU,active,2017.046
+soil.hip.SHSU.2017.045.2017.12.24.day13,0,soil.hip,149.05,SHSU,active,2017.045
+soil.face.SHSU.2017.046.2017.12.20.day2,0,soil.face,17.2,SHSU,early,2017.046
+soil.face.SHSU.2017.043.2017.12.05.day6,0,soil.face,88.6,SHSU,active,2017.043
+soil.hip.SHSU.2017.045.2017.12.25.day14,0,soil.hip,154.4,SHSU,active,2017.045
+soil.hip.CMU.17.12.2017.10.17.day8,0,soil.hip,80.35,CMU,active,17-12
+soil.hip.SHSU.2017.043.2017.12.04.day5,0,soil.hip,72.5,SHSU,active,2017.043
+soil.face.SHSU.2017.043.2017.12.02.day3,0,soil.face,31.95,SHSU,early,2017.043
+soil.face.CMU.17.12.2017.10.21.day12,0,soil.face,132.55,CMU,active,17-12
+soil.hip.SHSU.2017.043.2017.12.11.day12,0,soil.hip,134.25,SHSU,active,2017.043
+soil.face.CMU.17.10.2017.08.22.day14,0.000468486,soil.face,322.8,CMU,advanced,17-10
+soil.face.CMU.17.10.2017.08.18.day10,0,soil.face,219.2,CMU,advanced,17-10
+soil.face.CMU.17.10.2017.08.26.day18,0.000849387,soil.face,424.7,CMU,advanced,17-10
+soil.face.CMU.17.10.2017.08.10.day2,0,soil.face,25.55,CMU,early,17-10
+soil.hip.UTK.K016.12.2017.06.01.day8,6.43252E-05,soil.hip,148.5,UTK,active,UTK.K016.12
+soil.hip.CMU.17.10.2017.08.16.day8,0,soil.hip,169.5,CMU,active,17-10
+soil.hip.CMU.17.10.2017.08.19.day11,0.000513849,soil.hip,244.45,CMU,advanced,17-10
+soil.hip.CMU.17.10.2017.08.25.day17,0.000786287,soil.hip,398.55,CMU,advanced,17-10
+soil.face.CMU.17.10.2017.08.25.day17,0.00013701,soil.face,398.55,CMU,advanced,17-10
+soil.face.CMU.17.10.2017.08.15.day7,0,soil.face,146.45,CMU,active,17-10
+soil.face.CMU.17.10.2017.08.28.day20,0.005473286,soil.face,477.8,CMU,advanced,17-10
+soil.hip.CMU.17.10.2017.08.09.day1,0,soil.hip,0,CMU,placement,17-10
+soil.hip.CMU.17.10.2017.08.11.day3,0,soil.hip,49.75,CMU,early,17-10
+soil.face.UTK.K016.11.2017.06.11.day18,0.00076209,soil.face,366.3,UTK,advanced,UTK.K016.11
+soil.face.UTK.K016.11.2017.06.10.day17,0.000847752,soil.face,341.7,UTK,advanced,UTK.K016.11
+soil.hip.CMU.17.10.2017.08.27.day19,0.00010856,soil.hip,451.65,CMU,advanced,17-10
+soil.face.CMU.17.10.2017.08.13.day5,0,soil.face,97,CMU,active,17-10
+soil.hip.CMU.17.10.2017.08.18.day10,0.000503511,soil.hip,219.2,CMU,advanced,17-10
+soil.face.CMU.17.10.2017.08.09.day1,0,soil.face,0,CMU,placement,17-10
+soil.hip.UTK.K016.11.2017.06.11.day18,0.005459409,soil.hip,366.3,UTK,advanced,UTK.K016.11
+soil.face.CMU.17.10.2017.08.20.day12,6.82594E-05,soil.face,270.85,CMU,advanced,17-10
+soil.hip.CMU.17.10.2017.08.13.day5,0,soil.hip,97,CMU,active,17-10
+soil.hip.UTK.K016.11.2017.06.14.day21,0.000398993,soil.hip,441.3,UTK,advanced,UTK.K016.11
+soil.face.CMU.17.10.2017.08.21.day13,0.005764262,soil.face,297.25,CMU,advanced,17-10
+soil.face.CMU.17.10.2017.08.23.day15,0.000188715,soil.face,348.05,CMU,advanced,17-10
+soil.face.CMU.17.10.2017.08.12.day4,8.07776E-05,soil.face,72,CMU,active,17-10
+soil.face.UTK.K016.12.2017.06.04.day11,0.000135534,soil.face,215.2,UTK,advanced,UTK.K016.12
+soil.hip.CMU.17.10.2017.08.10.day2,0,soil.hip,25.55,CMU,early,17-10
+soil.hip.UTK.K016.12.2017.06.04.day11,0.000182665,soil.hip,215.2,UTK,advanced,UTK.K016.12
+soil.hip.CMU.17.10.2017.08.20.day12,0.000270161,soil.hip,270.85,CMU,advanced,17-10
+soil.face.CMU.17.10.2017.08.16.day8,0,soil.face,169.5,CMU,active,17-10
+soil.face.CMU.17.10.2017.08.14.day6,0,soil.face,122.55,CMU,active,17-10
+soil.face.CMU.17.10.2017.08.17.day9,0,soil.face,193.95,CMU,active,17-10
+soil.face.CMU.17.10.2017.08.27.day19,0.000238686,soil.face,451.65,CMU,advanced,17-10
+soil.face.UTK.K016.12.2017.06.02.day9,7.64662E-05,soil.face,170.3,UTK,active,UTK.K016.12
+soil.hip.CMU.17.10.2017.08.21.day13,0.000426785,soil.hip,297.25,CMU,advanced,17-10
+soil.hip.CMU.17.10.2017.08.12.day4,0,soil.hip,72,CMU,active,17-10
+soil.hip.CMU.17.10.2017.08.28.day20,0.000904159,soil.hip,477.8,CMU,advanced,17-10
+soil.face.CMU.17.10.2017.08.19.day11,0.005024048,soil.face,244.45,CMU,advanced,17-10
+soil.hip.CMU.17.10.2017.08.14.day6,0.000149858,soil.hip,122.55,CMU,active,17-10
+soil.hip.CMU.17.10.2017.08.17.day9,0.000105714,soil.hip,193.95,CMU,active,17-10
+soil.hip.CMU.17.10.2017.08.22.day14,0.001303848,soil.hip,322.8,CMU,advanced,17-10
+soil.hip.CMU.17.10.2017.08.15.day7,0,soil.hip,146.45,CMU,active,17-10
+soil.face.UTK.K016.11.2017.06.12.day19,0.000941176,soil.face,392.2,UTK,advanced,UTK.K016.11
+soil.face.CMU.17.10.2017.08.29.day21,8.73413E-05,soil.face,504.75,CMU,advanced,17-10
+soil.face.CMU.17.10.2017.08.11.day3,0,soil.face,49.75,CMU,early,17-10
+soil.hip.CMU.17.10.2017.08.23.day15,6.49056E-05,soil.hip,348.05,CMU,advanced,17-10
+soil.hip.CMU.17.10.2017.08.29.day21,0.001442818,soil.hip,504.75,CMU,advanced,17-10
+soil.hip.CMU.17.10.2017.08.24.day16,0.000220392,soil.hip,373.85,CMU,advanced,17-10
+soil.face.CMU.17.10.2017.08.24.day16,0.000632081,soil.face,373.85,CMU,advanced,17-10
+soil.hip.CMU.17.10.2017.08.26.day18,0.000752219,soil.hip,424.7,CMU,advanced,17-10
