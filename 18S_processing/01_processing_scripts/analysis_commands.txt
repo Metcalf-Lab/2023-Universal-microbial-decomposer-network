@@ -1,0 +1,576 @@
+#########################################################################################
+## New Taxonomy with better ASVS
+## December 2022
+#########################################################################################
+## USING RESCRIPT
+## pwd PMI_3_analyses/multi-omics_data/amplicon/18S/2022_18S
+
+conda activate qiime2-2020.8
+
+## Curate silva
+qiime rescript get-silva-data \
+ --p-version '138' \
+ --p-target 'SSURef_NR99' \
+ --p-include-species-labels \
+ --o-silva-sequences rescript_artifacts/silva-138-ssu-nr99-seqs.qza \
+ --o-silva-taxonomy rescript_artifacts/silva-138-ssu-nr99-tax.qza
+
+qiime rescript cull-seqs \
+ --i-sequences rescript_artifacts/silva-138-ssu-nr99-seqs.qza \
+ --o-clean-sequences rescript_artifacts/silva-138-ssu-nr99-seqs-cleaned.qza
+ 
+qiime rescript filter-seqs-length-by-taxon \
+ --i-sequences rescript_artifacts/silva-138-ssu-nr99-seqs-cleaned.qza \
+ --i-taxonomy rescript_artifacts/silva-138-ssu-nr99-tax.qza \
+ --p-labels Archaea Bacteria Eukaryota \
+ --p-min-lens 900 1200 1400 \
+ --o-filtered-seqs rescript_artifacts/silva-138-ssu-nr99-seqs-filt.qza \
+ --o-discarded-seqs rescript_artifacts/silva-138-ssu-nr99-seqs-discard.qza 
+
+qiime rescript dereplicate \
+  --i-sequences rescript_artifacts/silva-138-ssu-nr99-seqs-filt.qza  \
+  --i-taxa rescript_artifacts/silva-138-ssu-nr99-tax.qza \
+  --p-rank-handles 'silva' \
+  --p-mode 'uniq' \
+  --o-dereplicated-sequences rescript_artifacts/silva-138-ssu-nr99-seqs-derep-uniq.qza \
+  --o-dereplicated-taxa rescript_artifacts/silva-138-ssu-nr99-tax-derep-uniq.qza
+
+## full
+qiime feature-classifier fit-classifier-naive-bayes \
+  --i-reference-reads rescript_artifacts/silva-138-ssu-nr99-seqs-derep-uniq.qza \
+  --i-reference-taxonomy rescript_artifacts/silva-138-ssu-nr99-tax-derep-uniq.qza \
+  --o-classifier rescript_artifacts/silva-138-ssu-nr99-classifier.qza
+
+## 18S
+qiime feature-classifier extract-reads \
+  --i-sequences rescript_artifacts/silva-138-ssu-nr99-seqs-derep-uniq.qza \
+  --p-f-primer GTACACACCGCCCGTC \
+  --p-r-primer TGATCCTTCTGCAGGTTCACCTAC \
+  --p-n-jobs 2 \
+  --p-read-orientation 'forward' \
+  --o-reads rescript_artifacts/silva-138-ssu-nr99-seqs-515f-806r.qza
+
+qiime rescript dereplicate \
+  --i-sequences rescript_artifacts/silva-138-ssu-nr99-seqs-515f-806r.qza \
+  --i-taxa rescript_artifacts/silva-138-ssu-nr99-tax-derep-uniq.qza \
+  --p-rank-handles 'silva' \
+  --p-mode 'uniq' \
+  --o-dereplicated-sequences rescript_artifacts/silva-138-ssu-nr99-seqs-515f-806r-uniq.qza \
+  --o-dereplicated-taxa rescript_artifacts/silva-138-ssu-nr99-tax-515f-806r-derep-uniq.qza
+
+qiime feature-classifier fit-classifier-naive-bayes \
+  --i-reference-reads rescript_artifacts/silva-138-ssu-nr99-seqs-515f-806r-uniq.qza \
+  --i-reference-taxonomy rescript_artifacts/silva-138-ssu-nr99-tax-515f-806r-derep-uniq.qza \
+  --o-classifier rescript_artifacts/silva-138-ssu-nr99-515f-806r-classifier.qza
+  
+## Classify Sequences
+qiime feature-classifier classify-sklearn \
+  --i-classifier rescript_artifacts/silva-138-ssu-nr99-515f-806r-classifier.qza \
+  --i-reads /scratch/summit/zburcham@colostate.edu/18S_raw_data/dada2/18S_noprimer_complete_rep-seqs.qza \
+  --o-classification 07_taxonomy/18S-taxonomy-full-rescript.qza \
+  --p-n-jobs 10
+
+qiime metadata tabulate \
+  --m-input-file 07_taxonomy/18S-taxonomy-full-rescript.qza \
+  --o-visualization 07_taxonomy/18S-taxonomy-full-rescript.qzv
+
+
+
+##### Training taxonomy  Using RESCRIPt plugin at 12-rank taxonomy #####
+# https://forum.qiime2.org/t/creating-a-12-rank-silva-taxonomy-with-rescript/17361
+
+## Curate silva
+qiime rescript get-silva-data \
+ --p-version '138' \
+ --p-rank-propagation \
+ --p-include-species-labels \
+ --p-ranks domain kingdom phylum subphylum class subclass order suborder family subfamily genus \
+ --o-silva-sequences silva-138-ssu-FULL-seqs.qza \
+ --o-silva-taxonomy silva-138-ssu-FULL-tax.qza
+
+qiime rescript cull-seqs \
+ --i-sequences silva-138-ssu-FULL-seqs.qza \
+ --o-clean-sequences silva-138-ssu-FULL-seqs-cleaned.qza
+ 
+qiime rescript filter-seqs-length-by-taxon \
+ --i-sequences silva-138-ssu-FULL-seqs-cleaned.qza \
+ --i-taxonomy silva-138-ssu-FULL-tax.qza \
+ --p-labels Archaea Bacteria Eukaryota \
+ --p-min-lens 900 1200 1400 \
+ --o-filtered-seqs silva-138-ssu-FULL-seqs-filt.qza \
+ --o-discarded-seqs silva-138-ssu-FULL-seqs-discard.qza 
+
+qiime rescript dereplicate \
+  --i-sequences silva-138-ssu-FULL-seqs-filt.qza  \
+  --i-taxa silva-138-ssu-FULL-tax.qza \
+  --p-rank-handles 'silva' \
+  --p-mode 'uniq' \
+  --o-dereplicated-sequences silva-138-ssu-FULL-seqs-derep-uniq.qza \
+  --o-dereplicated-taxa silva-138-ssu-FULL-tax-derep-uniq.qza
+
+## full
+qiime feature-classifier fit-classifier-naive-bayes \
+  --i-reference-reads  silva-138-ssu-FULL-seqs-derep-uniq.qza \
+  --i-reference-taxonomy silva-138-ssu-FULL-tax-derep-uniq.qza \
+  --o-classifier silva-138-ssu-FULL-classifier.qza
+
+## 18S
+qiime feature-classifier extract-reads \
+  --i-sequences silva-138-ssu-FULL-seqs-derep-uniq.qza \
+  --p-f-primer GTACACACCGCCCGTC \
+  --p-r-primer TGATCCTTCTGCAGGTTCACCTAC \
+  --p-n-jobs 2 \
+  --p-read-orientation 'forward' \
+  --o-reads silva-138-ssu-FULL-seqs-515f-806r.qza
+
+qiime rescript dereplicate \
+  --i-sequences silva-138-ssu-FULL-seqs-515f-806r.qza \
+  --i-taxa silva-138-ssu-FULL-tax-derep-uniq.qza \
+  --p-rank-handles 'silva' \
+  --p-mode 'uniq' \
+  --o-dereplicated-sequences silva-138-ssu-FULL-seqs-515f-806r-uniq.qza \
+  --o-dereplicated-taxa silva-138-ssu-FULL-tax-515f-806r-derep-uniq.qza
+
+qiime feature-classifier fit-classifier-naive-bayes \
+  --i-reference-reads silva-138-ssu-FULL-seqs-515f-806r-uniq.qza \
+  --i-reference-taxonomy silva-138-ssu-FULL-tax-515f-806r-derep-uniq.qza \
+  --o-classifier silva-138-ssu-FULL-515f-806r-classifier.qza
+  
+## Classify Sequences
+qiime feature-classifier classify-sklearn \
+  --i-classifier silva-138-ssu-FULL-515f-806r-classifier.qza \
+  --i-reads 04_artifacts-and-visualizations/18S_FULL_filtered_rep-seqs.qza \
+  --o-classification 07_taxonomy/18S-taxonomy-FULL-rescript-filtered.qza \
+  --p-n-jobs 10
+
+qiime metadata tabulate \
+  --m-input-file 07_taxonomy/18S-taxonomy-FULL-rescript-filtered.qza \
+  --o-visualization 07_taxonomy/18S-taxonomy-FULL-rescript-filtered.qzv
+
+
+
+qiime feature-classifier classify-sklearn \
+  --i-classifier silva-138-ssu-FULL-515f-806r-classifier.qza \
+  --i-reads 04_artifacts-and-visualizations/18S_complete_rep-seqs.qza \
+  --o-classification 07_taxonomy/18S-taxonomy-FULL-rescript.qza \
+  --p-n-jobs 10
+
+qiime metadata tabulate \
+  --m-input-file 07_taxonomy/18S-taxonomy-FULL-rescript.qza \
+  --o-visualization 07_taxonomy/18S-taxonomy-FULL-rescript.qzv
+
+
+
+
+##### Filter #####
+## Archaea,Streptophyta,Bacteria,Archaeplastida,Arthropoda,Chordata,Mollusca,Mammalia,Unassigned
+qiime taxa filter-table \
+  --i-table 04_artifacts-and-visualizations/18S_noprimer_complete_table.qza \
+  --i-taxonomy 07_taxonomy/18S-taxonomy-FULL-rescript.qza \
+  --p-exclude Bacteria,Archaeplastida,Arthropoda,Chordata,Mollusca,Mammalia,Unassigned \
+  --o-filtered-table 04_artifacts-and-visualizations/18S_complete_taxafiltered_table-old.qza
+ 
+qiime taxa filter-table \
+  --i-table 04_artifacts-and-visualizations/18S_noprimer_complete_table.qza \
+  --i-taxonomy 07_taxonomy/18S-taxonomy-FULL-rescript.qza \
+  --p-exclude Archaea,Streptophyta,Bacteria,Archaeplastida,Arthropoda,Chordata,Mollusca,Mammalia,Annelida,Unassigned \
+  --o-filtered-table 04_artifacts-and-visualizations/18S_complete_taxafiltered_table.qza
+ 
+qiime taxa filter-seqs \
+	--i-sequences 04_artifacts-and-visualizations/18S_noprimer_complete_rep-seqs.qza \
+	--i-taxonomy 07_taxonomy/18S-taxonomy-full-rescript.qza \
+	--p-exclude Archaea,Bacteria,Archaeplastida,Arthropoda,Chordata,Mollusca,Mammalia,Unassigned \
+	--o-filtered-sequences 04_artifacts-and-visualizations/18S_FULL_filtered_rep-seqs-old.qza
+
+qiime taxa filter-seqs \
+	--i-sequences 04_artifacts-and-visualizations/18S_noprimer_complete_rep-seqs.qza \
+	--i-taxonomy 07_taxonomy/18S-taxonomy-full-rescript.qza \
+	--p-exclude Archaea,Streptophyta,Bacteria,Archaeplastida,Arthropoda,Chordata,Mollusca,Mammalia,Annelida,Unassigned \
+	--o-filtered-sequences 04_artifacts-and-visualizations/18S_FULL_filtered_rep-seqs.qza
+
+qiime feature-table filter-samples \
+  --i-table 04_artifacts-and-visualizations/18S_complete_taxafiltered_table.qza \
+  --m-metadata-file ../03_metadata/combined-metadata-simple-nov2020.txt \
+  --p-where "[control]=='n'" \
+  --o-filtered-table 04_artifacts-and-visualizations/18S_FULL_taxafiltered_nocontrol_table.qza
+  
+qiime feature-table filter-features \
+  --i-table 04_artifacts-and-visualizations/18S_FULL_taxafiltered_nocontrol_table.qza \
+  --p-min-samples 30 \
+  --o-filtered-table 04_artifacts-and-visualizations/18S_FULL_filtered_table.qza
+
+qiime feature-table summarize \
+  --i-table 04_artifacts-and-visualizations/18S_FULL_filtered_table.qza \
+  --o-visualization 04_artifacts-and-visualizations/18S_FULL_filtered_table.qzv \
+  --m-sample-metadata-file ../03_metadata/combined-metadata-simple-nov2020.txt
+
+# SEPP fragment insertion to create phylogenetic tree from Silva 128
+qiime fragment-insertion sepp \
+--i-representative-sequences 04_artifacts-and-visualizations/18S_FULL_filtered_rep-seqs.qza \
+--i-reference-database 05_phylogeny/sepp-refs-silva-128.qza \
+--p-threads 24 \
+--o-tree 05_phylogeny/tree.qza \
+--o-placements 05_phylogeny/placements.qza 
+
+
+# alpha rarefaction curves for determining rarifying depth
+qiime diversity alpha-rarefaction \
+--i-table 04_artifacts-and-visualizations/18S_FULL_filtered_table.qza \
+--i-phylogeny 05_phylogeny/tree.qza \
+--p-max-depth 50000 \
+--o-visualization 08_results/rarefaction/rarefaction-curves-50000.qzv
+
+
+#########################################################################################
+## Core Metrics
+#########################################################################################
+
+## Core Metrics
+qiime diversity core-metrics-phylogenetic \
+  --i-table 04_artifacts-and-visualizations/18S_FULL_filtered_table.qza \
+  --i-phylogeny 05_phylogeny/tree.qza \
+  --m-metadata-file ../03_metadata/combined-metadata-simple-nov2020.txt \
+  --p-sampling-depth 7000 \
+  --output-dir 06_core-metrics/18S-filtered-7000
+
+## Alpha metrics
+qiime diversity alpha-group-significance \
+  --i-alpha-diversity 06_core-metrics/18S-filtered-7000/faith_pd_vector.qza \
+  --m-metadata-file ../03_metadata/combined-metadata-simple-nov2020.txt \
+  --o-visualization 06_core-metrics/18S-filtered-7000/faiths_group_significance.qzv
+
+qiime diversity alpha-group-significance \
+  --i-alpha-diversity 06_core-metrics/18S-filtered-7000/observed_features_vector.qza \
+  --m-metadata-file ../03_metadata/combined-metadata-simple-nov2020.txt \
+  --o-visualization 06_core-metrics/18S-filtered-7000/richness_group_significance.qzv
+  
+## Generalized Unifrac
+qiime diversity beta-phylogenetic \
+  --i-phylogeny 05_phylogeny/tree.qza \
+  --i-table 06_core-metrics/18S-filtered-7000/rarefied_table.qza \
+  --p-metric generalized_unifrac \
+  --p-alpha 0.5 \
+  --o-distance-matrix 06_core-metrics/18S-filtered-7000/generalized-unifrac05-distance-matrix.qza 
+
+qiime diversity pcoa \
+	--i-distance-matrix 06_core-metrics/18S-filtered-7000/generalized-unifrac05-distance-matrix.qza \
+	--o-pcoa 06_core-metrics/18S-filtered-7000/generalized-unifrac05-pcoa-result.qza
+	
+qiime emperor plot \
+	--i-pcoa 06_core-metrics/18S-filtered-7000/generalized-unifrac05-pcoa-result.qza \
+	--m-metadata-file ../03_metadata/combined-metadata-simple-nov2020.txt \
+	--o-visualization 06_core-metrics/18S-filtered-7000/generalized-unifrac05-pcoa-emperor.qzv
+
+## Emperor
+qiime emperor plot \
+  --i-pcoa 06_core-metrics/18S-filtered-7000/generalized-unifrac05-pcoa-result.qza \
+  --m-metadata-file ../03_metadata/combined-metadata-simple-nov2020.txt \
+  --p-custom-axes add_0c \
+  --o-visualization 06_core-metrics/18S-filtered-7000/generalized-unifrac05-add0c-pcoa-emperor.qzv
+
+
+## Filter to skin and soil
+# skin
+qiime diversity filter-distance-matrix \
+  --i-distance-matrix 06_core-metrics/18S-filtered-7000/generalized-unifrac05-distance-matrix.qza  \
+  --m-metadata-file ../03_metadata/combined-metadata-simple-nov2020.txt \
+  --p-where "[sample_type]='skin'" \
+  --o-filtered-distance-matrix 06_core-metrics/18S-filtered-7000/generalized-unifrac05-SKIN-distance-matrix.qza
+
+qiime diversity pcoa \
+	--i-distance-matrix 06_core-metrics/18S-filtered-7000/generalized-unifrac05-SKIN-distance-matrix.qza \
+	--o-pcoa 06_core-metrics/18S-filtered-7000/generalized-unifrac05-SKIN-pcoa-result.qza
+	
+qiime emperor plot \
+	--i-pcoa 06_core-metrics/18S-filtered-7000/generalized-unifrac05-SKIN-pcoa-result.qza \
+	--m-metadata-file ../03_metadata/combined-metadata-simple-nov2020.txt \
+	--o-visualization 06_core-metrics/18S-filtered-7000/generalized-unifrac05-SKIN-pcoa-emperor.qzv
+	
+qiime emperor plot \
+  --i-pcoa 06_core-metrics/18S-filtered-7000/generalized-unifrac05-SKIN-pcoa-result.qza \
+  --m-metadata-file ../03_metadata/combined-metadata-simple-nov2020.txt \
+  --p-custom-axes add_0c \
+  --o-visualization 06_core-metrics/18S-filtered-7000/generalized-unifrac05-SKIN-add0c-pcoa-emperor.qzv
+  
+ # soil
+qiime diversity filter-distance-matrix \
+  --i-distance-matrix 06_core-metrics/18S-filtered-7000/generalized-unifrac05-distance-matrix.qza  \
+  --m-metadata-file ../03_metadata/combined-metadata-simple-nov2020.txt \
+  --p-where "[sample_type]='soil'" \
+  --o-filtered-distance-matrix 06_core-metrics/18S-filtered-7000/generalized-unifrac05-SOIL-distance-matrix.qza
+
+qiime diversity pcoa \
+	--i-distance-matrix 06_core-metrics/18S-filtered-7000/generalized-unifrac05-SOIL-distance-matrix.qza \
+	--o-pcoa 06_core-metrics/18S-filtered-7000/generalized-unifrac05-SOIL-pcoa-result.qza
+	
+qiime emperor plot \
+	--i-pcoa 06_core-metrics/18S-filtered-7000/generalized-unifrac05-SOIL-pcoa-result.qza \
+	--m-metadata-file ../03_metadata/combined-metadata-simple-nov2020.txt \
+	--o-visualization 06_core-metrics/18S-filtered-7000/generalized-unifrac05-SOIL-pcoa-emperor.qzv
+	
+qiime emperor plot \
+  --i-pcoa 06_core-metrics/18S-filtered-7000/generalized-unifrac05-SOIL-pcoa-result.qza \
+  --m-metadata-file ../03_metadata/combined-metadata-simple-nov2020.txt \
+  --p-custom-axes add_0c \
+  --o-visualization 06_core-metrics/18S-filtered-7000/generalized-unifrac05-SOIL-add0c-pcoa-emperor.qzv
+  
+
+#########################################################################################
+## Prepare files for ML
+#########################################################################################
+## Collapse to species level
+qiime taxa collapse \
+  --i-table 06_core-metrics/18S-filtered-7000/rarefied_table.qza \
+  --i-taxonomy 07_taxonomy/18S-taxonomy-FULL-rescript.qza \
+  --p-level 12 \
+  --o-collapsed-table 04_artifacts-and-visualizations/18S_rarefied_species_table.qza
+
+qiime tools export \
+  --input-path 04_artifacts-and-visualizations/18S_rarefied_species_table.qza \
+  --output-path 04_artifacts-and-visualizations/18S_rarefied_species_exported-feature-table
+
+mv 04_artifacts-and-visualizations/18S_rarefied_species_exported-feature-table/feature-table.biom ../../../final_modeling/18s/tax_levels_7000/species-normalized-table.biom
+
+rm -r 04_artifacts-and-visualizations/18S_rarefied_species_exported-feature-table
+
+
+## Collapse to genus level
+qiime taxa collapse \
+  --i-table 06_core-metrics/18S-filtered-7000/rarefied_table.qza \
+  --i-taxonomy 07_taxonomy/18S-taxonomy-FULL-rescript.qza \
+  --p-level 11 \
+  --o-collapsed-table 04_artifacts-and-visualizations/18S_rarefied_genus_table.qza
+
+qiime tools export \
+  --input-path 04_artifacts-and-visualizations/18S_rarefied_genus_table.qza \
+  --output-path 04_artifacts-and-visualizations/18S_rarefied_genus_exported-feature-table
+
+mv 04_artifacts-and-visualizations/18S_rarefied_genus_exported-feature-table/feature-table.biom ../../../final_modeling/18s/tax_levels_7000/genus-normalized-table.biom
+
+rm -r 04_artifacts-and-visualizations/18S_rarefied_genus_exported-feature-table
+
+
+## Collapse to family level
+qiime taxa collapse \
+  --i-table 06_core-metrics/18S-filtered-7000/rarefied_table.qza \
+  --i-taxonomy 07_taxonomy/18S-taxonomy-FULL-rescript.qza \
+  --p-level 9 \
+  --o-collapsed-table 04_artifacts-and-visualizations/18S_rarefied_family_table.qza
+
+qiime tools export \
+  --input-path 04_artifacts-and-visualizations/18S_rarefied_family_table.qza \
+  --output-path 04_artifacts-and-visualizations/18S_rarefied_family_exported-feature-table
+
+mv 04_artifacts-and-visualizations/18S_rarefied_family_exported-feature-table/feature-table.biom ../../../final_modeling/18s/tax_levels_7000/family-normalized-table.biom
+
+rm -r 04_artifacts-and-visualizations/18S_rarefied_family_exported-feature-table
+
+
+## Collapse to order level
+qiime taxa collapse \
+  --i-table 06_core-metrics/18S-filtered-7000/rarefied_table.qza \
+  --i-taxonomy 07_taxonomy/18S-taxonomy-FULL-rescript.qza \
+  --p-level 7 \
+  --o-collapsed-table 04_artifacts-and-visualizations/18S_rarefied_order_table.qza
+
+qiime tools export \
+  --input-path 04_artifacts-and-visualizations/18S_rarefied_order_table.qza \
+  --output-path 04_artifacts-and-visualizations/18S_rarefied_order_exported-feature-table
+
+mv 04_artifacts-and-visualizations/18S_rarefied_order_exported-feature-table/feature-table.biom ../../../final_modeling/18s/tax_levels_7000/order-normalized-table.biom
+
+rm -r 04_artifacts-and-visualizations/18S_rarefied_order_exported-feature-table
+
+
+## Collapse to class level
+qiime taxa collapse \
+  --i-table 06_core-metrics/18S-filtered-7000/rarefied_table.qza \
+  --i-taxonomy 07_taxonomy/18S-taxonomy-FULL-rescript.qza \
+  --p-level 5 \
+  --o-collapsed-table 04_artifacts-and-visualizations/18S_rarefied_class_table.qza
+
+qiime tools export \
+  --input-path 04_artifacts-and-visualizations/18S_rarefied_class_table.qza \
+  --output-path 04_artifacts-and-visualizations/18S_rarefied_class_exported-feature-table
+
+mv 04_artifacts-and-visualizations/18S_rarefied_class_exported-feature-table/feature-table.biom ../../../final_modeling/18s/tax_levels_7000/class-normalized-table.biom
+
+rm -r 04_artifacts-and-visualizations/18S_rarefied_class_exported-feature-table
+
+
+## Collapse to phylum level
+qiime taxa collapse \
+  --i-table 06_core-metrics/18S-filtered-7000/rarefied_table.qza \
+  --i-taxonomy 07_taxonomy/18S-taxonomy-FULL-rescript.qza \
+  --p-level 3 \
+  --o-collapsed-table 04_artifacts-and-visualizations/18S_rarefied_phylum_table.qza
+
+qiime tools export \
+  --input-path 04_artifacts-and-visualizations/18S_rarefied_phylum_table.qza \
+  --output-path 04_artifacts-and-visualizations/18S_rarefied_phylum_exported-feature-table
+
+mv 04_artifacts-and-visualizations/18S_rarefied_phylum_exported-feature-table/feature-table.biom ../../../final_modeling/18s/tax_levels_7000/phylum-normalized-table.biom
+
+rm -r 04_artifacts-and-visualizations/18S_rarefied_phylum_exported-feature-table
+
+
+
+#########################################################################################
+##### Non-rarefied Taxonomy tables for R #####
+#########################################################################################
+## Species
+qiime taxa collapse \
+  --i-table 04_artifacts-and-visualizations/18S_FULL_filtered_table.qza \
+  --i-taxonomy 07_taxonomy/18S-taxonomy-FULL-rescript.qza  \
+  --p-level 12 \
+  --o-collapsed-table 04_artifacts-and-visualizations/18S_FULL_filtered_species_table.qza
+
+#relative frequency
+qiime feature-table relative-frequency \
+--i-table 04_artifacts-and-visualizations/18S_FULL_filtered_species_table.qza \
+--o-relative-frequency-table 04_artifacts-and-visualizations/18S_FULL_filtered_species_relfreq_table.qza
+
+qiime tools export \
+--input-path 04_artifacts-and-visualizations/18S_FULL_filtered_species_relfreq_table.qza \
+--output-path 08_results/rel-freq-tables/species_relfreq_table
+
+biom convert -i 08_results/rel-freq-tables/species_relfreq_table/feature-table.biom -o 08_results/rel-freq-tables/species_relfreq_table.tsv --to-tsv
+
+rm -r 08_results/rel-freq-tables/species_relfreq_table
+
+#then, open table, delete random line at top, transpose, save again
+#rename #OTU ID to sample
+
+## Genus
+qiime taxa collapse \
+  --i-table 04_artifacts-and-visualizations/18S_FULL_filtered_table.qza \
+  --i-taxonomy 07_taxonomy/18S-taxonomy-FULL-rescript.qza  \
+  --p-level 11 \
+  --o-collapsed-table 04_artifacts-and-visualizations/18S_FULL_filtered_genus_table.qza
+
+#relative frequency
+qiime feature-table relative-frequency \
+--i-table 04_artifacts-and-visualizations/18S_FULL_filtered_genus_table.qza \
+--o-relative-frequency-table 04_artifacts-and-visualizations/18S_FULL_filtered_genus_relfreq_table.qza
+
+qiime tools export \
+--input-path 04_artifacts-and-visualizations/18S_FULL_filtered_genus_relfreq_table.qza \
+--output-path 08_results/rel-freq-tables/genus_relfreq_table
+
+biom convert -i 08_results/rel-freq-tables/genus_relfreq_table/feature-table.biom -o 08_results/rel-freq-tables/genus_relfreq_table.tsv --to-tsv
+
+rm -r 08_results/rel-freq-tables/genus_relfreq_table
+
+#then, open table, delete random line at top, transpose, save again
+#rename #OTU ID to sample
+
+## family
+qiime taxa collapse \
+  --i-table 04_artifacts-and-visualizations/18S_FULL_filtered_table.qza \
+  --i-taxonomy 07_taxonomy/18S-taxonomy-FULL-rescript.qza  \
+  --p-level 9 \
+  --o-collapsed-table 04_artifacts-and-visualizations/18S_FULL_filtered_family_table.qza
+
+#relative frequency
+qiime feature-table relative-frequency \
+--i-table 04_artifacts-and-visualizations/18S_FULL_filtered_family_table.qza \
+--o-relative-frequency-table 04_artifacts-and-visualizations/18S_FULL_filtered_family_relfreq_table.qza
+
+qiime tools export \
+--input-path 04_artifacts-and-visualizations/18S_FULL_filtered_family_relfreq_table.qza \
+--output-path 08_results/rel-freq-tables/family_relfreq_table
+
+biom convert -i 08_results/rel-freq-tables/family_relfreq_table/feature-table.biom -o 08_results/rel-freq-tables/family_relfreq_table.tsv --to-tsv
+
+rm -r 08_results/rel-freq-tables/family_relfreq_table
+
+#then, open table, delete random line at top, transpose, save again
+#rename #OTU ID to sample
+
+## order
+qiime taxa collapse \
+  --i-table 04_artifacts-and-visualizations/18S_FULL_filtered_table.qza \
+  --i-taxonomy 07_taxonomy/18S-taxonomy-FULL-rescript.qza  \
+  --p-level 7 \
+  --o-collapsed-table 04_artifacts-and-visualizations/18S_FULL_filtered_order_table.qza
+
+#relative frequency
+qiime feature-table relative-frequency \
+--i-table 04_artifacts-and-visualizations/18S_FULL_filtered_order_table.qza \
+--o-relative-frequency-table 04_artifacts-and-visualizations/18S_FULL_filtered_order_relfreq_table.qza
+
+qiime tools export \
+--input-path 04_artifacts-and-visualizations/18S_FULL_filtered_order_relfreq_table.qza \
+--output-path 08_results/rel-freq-tables/order_relfreq_table
+
+biom convert -i 08_results/rel-freq-tables/order_relfreq_table/feature-table.biom -o 08_results/rel-freq-tables/order_relfreq_table.tsv --to-tsv
+
+rm -r 08_results/rel-freq-tables/order_relfreq_table
+
+#then, open table, delete random line at top, transpose, save again
+#rename #OTU ID to sample
+
+
+## class
+qiime taxa collapse \
+  --i-table 04_artifacts-and-visualizations/18S_FULL_filtered_table.qza \
+  --i-taxonomy 07_taxonomy/18S-taxonomy-FULL-rescript.qza  \
+  --p-level 5 \
+  --o-collapsed-table 04_artifacts-and-visualizations/18S_FULL_filtered_class_table.qza
+
+#relative frequency
+qiime feature-table relative-frequency \
+--i-table 04_artifacts-and-visualizations/18S_FULL_filtered_class_table.qza \
+--o-relative-frequency-table 04_artifacts-and-visualizations/18S_FULL_filtered_class_relfreq_table.qza
+
+qiime tools export \
+--input-path 04_artifacts-and-visualizations/18S_FULL_filtered_class_relfreq_table.qza \
+--output-path 08_results/rel-freq-tables/class_relfreq_table
+
+biom convert -i 08_results/rel-freq-tables/class_relfreq_table/feature-table.biom -o 08_results/rel-freq-tables/class_relfreq_table.tsv --to-tsv
+
+rm -r 08_results/rel-freq-tables/class_relfreq_table
+
+#then, open table, delete random line at top, transpose, save again
+#rename #OTU ID to sample
+
+
+## phylum
+qiime taxa collapse \
+  --i-table 04_artifacts-and-visualizations/18S_FULL_filtered_table.qza \
+  --i-taxonomy 07_taxonomy/18S-taxonomy-FULL-rescript.qza  \
+  --p-level 3 \
+  --o-collapsed-table 04_artifacts-and-visualizations/18S_FULL_filtered_phylum_table.qza
+
+#relative frequency
+qiime feature-table relative-frequency \
+--i-table 04_artifacts-and-visualizations/18S_FULL_filtered_phylum_table.qza \
+--o-relative-frequency-table 04_artifacts-and-visualizations/18S_FULL_filtered_phylum_relfreq_table.qza
+
+qiime tools export \
+--input-path 04_artifacts-and-visualizations/18S_FULL_filtered_phylum_relfreq_table.qza \
+--output-path 08_results/rel-freq-tables/phylum_relfreq_table
+
+biom convert -i 08_results/rel-freq-tables/phylum_relfreq_table/feature-table.biom -o 08_results/rel-freq-tables/phylum_relfreq_table.tsv --to-tsv
+
+rm -r 08_results/rel-freq-tables/phylum_relfreq_table
+
+#then, open table, delete random line at top, transpose, save again
+#rename #OTU ID to sample
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
