@@ -1,0 +1,12 @@
+FILES = ['job.Shotgun-soil-MAG-tax-levels.out']
+
+for infile in FILES:
+	outf = open(infile+".txt", "w") 
+	with open(infile) as file:
+		for line in file:
+			if line.find('Prediction') > -1:
+				line=line.strip()
+				fields=line.split(': ')
+				print(fields[1])
+				outf.write(str(fields[1])+"\n")			
+	outf.close()
