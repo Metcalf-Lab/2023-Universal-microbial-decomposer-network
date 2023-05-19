@@ -1,0 +1,99 @@
+#########################################################################################
+## Prepare files for ML
+#########################################################################################
+## Collapse to species level
+qiime taxa collapse \
+  --i-table rarefied_table.qza \
+  --i-taxonomy ../../07_taxonomy/pmi3-16S-silva-taxonomy.qza \
+  --p-level 7 \
+  --o-collapsed-table rarefied_species_table.qza
+
+qiime tools export \
+  --input-path rarefied_species_table.qza \
+  --output-path rarefied_species_exported-feature-table
+
+mv rarefied_species_exported-feature-table/feature-table.biom ./species-normalized-table.biom
+
+rm -r rarefied_species_exported-feature-table
+
+
+## Collapse to genus level
+qiime taxa collapse \
+  --i-table rarefied_table.qza \
+  --i-taxonomy ../../07_taxonomy/pmi3-16S-silva-taxonomy.qza \
+  --p-level 6 \
+  --o-collapsed-table rarefied_genus_table.qza
+
+qiime tools export \
+  --input-path rarefied_genus_table.qza \
+  --output-path rarefied_genus_exported-feature-table
+
+mv rarefied_genus_exported-feature-table/feature-table.biom ./genus-normalized-table.biom
+
+rm -r rarefied_genus_exported-feature-table
+
+
+## Collapse to family level
+qiime taxa collapse \
+  --i-table rarefied_table.qza \
+  --i-taxonomy ../../07_taxonomy/pmi3-16S-silva-taxonomy.qza \
+  --p-level 5 \
+  --o-collapsed-table rarefied_family_table.qza
+
+qiime tools export \
+  --input-path rarefied_family_table.qza \
+  --output-path rarefied_family_exported-feature-table
+
+mv rarefied_family_exported-feature-table/feature-table.biom ./family-normalized-table.biom
+
+rm -r rarefied_family_exported-feature-table
+
+
+## Collapse to order level
+qiime taxa collapse \
+  --i-table rarefied_table.qza \
+  --i-taxonomy ../../07_taxonomy/pmi3-16S-silva-taxonomy.qza \
+  --p-level 4 \
+  --o-collapsed-table rarefied_order_table.qza
+
+qiime tools export \
+  --input-path rarefied_order_table.qza \
+  --output-path rarefied_order_exported-feature-table
+
+mv rarefied_order_exported-feature-table/feature-table.biom ./order-normalized-table.biom
+
+rm -r rarefied_order_exported-feature-table
+
+
+## Collapse to class level
+qiime taxa collapse \
+  --i-table rarefied_table.qza \
+  --i-taxonomy ../../07_taxonomy/pmi3-16S-silva-taxonomy.qza \
+  --p-level 3 \
+  --o-collapsed-table rarefied_class_table.qza
+
+qiime tools export \
+  --input-path rarefied_class_table.qza \
+  --output-path rarefied_class_exported-feature-table
+
+mv rarefied_class_exported-feature-table/feature-table.biom ./class-normalized-table.biom
+
+rm -r rarefied_class_exported-feature-table
+
+
+## Collapse to phylum level
+qiime taxa collapse \
+  --i-table rarefied_table.qza \
+  --i-taxonomy ../../07_taxonomy/pmi3-16S-silva-taxonomy.qza \
+  --p-level 2 \
+  --o-collapsed-table rarefied_phylum_table.qza
+
+qiime tools export \
+  --input-path rarefied_phylum_table.qza \
+  --output-path rarefied_phylum_exported-feature-table
+
+mv rarefied_phylum_exported-feature-table/feature-table.biom ./phylum-normalized-table.biom
+
+rm -r rarefied_phylum_exported-feature-table
+
+
