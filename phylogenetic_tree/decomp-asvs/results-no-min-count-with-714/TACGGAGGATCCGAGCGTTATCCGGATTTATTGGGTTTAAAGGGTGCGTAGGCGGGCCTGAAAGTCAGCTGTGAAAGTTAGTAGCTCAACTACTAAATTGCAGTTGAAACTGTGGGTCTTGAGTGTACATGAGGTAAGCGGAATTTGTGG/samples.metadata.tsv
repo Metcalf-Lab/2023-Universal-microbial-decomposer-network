@@ -1,0 +1,29 @@
+#SampleID	env_package	empo_1	empo_2	empo_3
+13301.2014.028.Fly.12.T	host-associated		Host-associated	Host-associated (non-saline)
+13301.2014.042.Fly.17.L	host-associated		Host-associated	Host-associated (non-saline)
+13301.2014.066.Fly.37.L	host-associated		Host-associated	Host-associated (non-saline)
+11712.BLANK12.11E	misc environment	Control	Negative	Sterile water blank
+11442.G79344	misc environment	free-living	non-saline	surface (non-saline)
+10218.3.9.13CtrlB	soil			
+11712.SUBJECT20.STOOL.431	human-gut	Host-associated	Animal-associated	Animal distal gut
+11442.G79483	misc environment	free-living	non-saline	surface (non-saline)
+11712.SUBJECT16.STOOL.200	human-gut	Host-associated	Animal-associated	Animal distal gut
+13301.2014.042.Fly.16.T	host-associated		Host-associated	Host-associated (non-saline)
+13301.2014.042.Fly.6.T	host-associated		Host-associated	Host-associated (non-saline)
+11712.BLANK14.2G	misc environment	Control	Negative	Sterile water blank
+11712.SUBJECT23.STOOL.498	human-gut	Host-associated	Animal-associated	Animal distal gut
+13301.2014.042.Fly.8.L	host-associated		Host-associated	Host-associated (non-saline)
+10218.3.7.13.A	soil			
+10863.PBS1.8H	microbial mat/biofilm			
+13301.2015.015.Fly.6.O	host-associated		Host-associated	Host-associated (non-saline)
+11442.G83177	misc environment	not applicable	not applicable	not applicable
+11624.K40.63.67	human-associated	Host-associated	Animal	Animal secretion
+11624.K40.123.55	human-associated	Host-associated	Animal	Animal secretion
+13301.2014.066.Fly.27.L	host-associated		Host-associated	Host-associated (non-saline)
+11713.14.F.14B	human-gut	Host-associated	Animal-associated	Animal distal gut
+12227.control.feed5	misc environment	Free-living	Non-saline	Surface (non-saline)
+13301.2014.042.Fly.27.L	host-associated		Host-associated	Host-associated (non-saline)
+13301.2014.066.Fly.22.L	host-associated		Host-associated	Host-associated (non-saline)
+10218.5.11.13.S.RA.G	soil			
+13301.2014.042.Fly.1.T	host-associated		Host-associated	Host-associated (non-saline)
+13301.2014.042.Fly.1.L	host-associated		Host-associated	Host-associated (non-saline)

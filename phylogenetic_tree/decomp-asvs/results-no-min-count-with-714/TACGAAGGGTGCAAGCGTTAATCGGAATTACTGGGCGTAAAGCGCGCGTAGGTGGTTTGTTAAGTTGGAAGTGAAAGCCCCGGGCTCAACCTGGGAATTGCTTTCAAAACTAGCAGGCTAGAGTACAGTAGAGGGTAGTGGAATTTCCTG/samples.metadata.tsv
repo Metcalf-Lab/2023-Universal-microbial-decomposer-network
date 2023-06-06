@@ -1,0 +1,680 @@
+#SampleID	env_package	empo_1	empo_2	empo_3
+13301.2015.017.Fly.5.L	host-associated		Host-associated	Host-associated (non-saline)
+13301.2014.042.Fly.27.L	host-associated		Host-associated	Host-associated (non-saline)
+11405.subject726.timepoint24	human-gut	Host-associated	Host-associated (non-saline)	Animal (non-saline)
+11692.11441.29o15	host-associated	Host-associated	Animal	Animal secretion
+10370.21E1	human-skin			
+11519.19A030709.S15.3E	soil	Free-living	Non-saline	Soil (non-saline)
+11712.BLANK12.11H	misc environment	Control	Negative	Sterile water blank
+10321.2014.009.Fly.34.T				
+10218.T1.R3.6	soil			
+14446.3089	water	Free-living	Non-saline	Water (non-saline)
+10370.7D9	human-skin			
+13301.2015.015.Fly.6.O	host-associated		Host-associated	Host-associated (non-saline)
+10218.3.6.13CtrlC	soil			
+10218.MS00048	soil			
+10934.ntc.blank.3.5m	misc environment	Control	Negative	Sterile water blank
+13301.2014.066.Fly.29.T	host-associated		Host-associated	Host-associated (non-saline)
+11442.G78950	misc environment	free-living	non-saline	surface (non-saline)
+11548.A21.112.teeth	host-associated	Host-associated	Animal-associated	Animal corpus
+10218.G.CTRL.soil.T0.5	soil			
+13301.2014.004.Fly.39.O	host-associated		Host-associated	Host-associated (non-saline)
+13301.2014.066.Fly.24.T	host-associated		Host-associated	Host-associated (non-saline)
+10321.2014.009.Fly.18.T				
+11712.SUBJECT8.STOOL.1151	human-gut	Host-associated	Animal-associated	Animal distal gut
+11052.4.14.19.RK.LH	human-skin	Host-associated	Host-associated (non-saline)	Animal (non-saline)
+13301.2015.017.Fly.13.T	host-associated		Host-associated	Host-associated (non-saline)
+11712.SUBJECT20.STOOL.427	human-gut	Host-associated	Animal-associated	Animal distal gut
+10218.G.CTRL.soil.T0.4	soil			
+10353.QM	host-associated	Host-associated	Animal	Animal distal gut
+11953.L181.tp4.bis	host-associated	Host-associated	Animal-associated	Animal distal gut
+11442.G73701	misc environment	free-living	non-saline	surface (non-saline)
+550.L2S143.s.2.sequence	human-skin	Host-associated	Host-associated (non-saline)	Animal (non-saline)
+13301.2015.015.Fly.9.L	host-associated		Host-associated	Host-associated (non-saline)
+13301.2015.015.Fly.3.T	host-associated		Host-associated	Host-associated (non-saline)
+13092.000117212.covid	built environment	Free-living	Non-saline	Surface (non-saline)
+13301.2014.006.Fly.19.L	host-associated		Host-associated	Host-associated (non-saline)
+10218.DM97	built environment			
+13301.2015.017.Fly.3.T	host-associated		Host-associated	Host-associated (non-saline)
+11815.JCK.10150.TongueEtOH.2	host-associated	Host-associated	Animal-associated	Animal secretion
+13301.2014.066.Fly.30.L	host-associated		Host-associated	Host-associated (non-saline)
+11624.K40.63.67	human-associated	Host-associated	Animal	Animal secretion
+11740.39.3.MonTues.Vacuum.cr	built environment			
+10370.23C5	human-skin			
+13301.2014.042.Fly.18.T	host-associated		Host-associated	Host-associated (non-saline)
+13301.2014.066.Fly.12.T	host-associated		Host-associated	Host-associated (non-saline)
+10403.7.11.14.L38.S5	human-skin	Host-associated	Animal	Animal surface
+13301.2015.015.Fly.3.L	host-associated		Host-associated	Host-associated (non-saline)
+11442.G79575	misc environment	free-living	non-saline	surface (non-saline)
+11442.G75805	misc environment	not applicable	not applicable	not applicable
+10218.F.CTRL.soil.T0.3	soil			
+10442.WSB357	water			
+10442.WSB594	water			
+11405.subject833.timepoint2	human-gut	Host-associated	Host-associated (non-saline)	Animal (non-saline)
+11442.G79755	misc environment	not applicable	not applicable	not applicable
+11405.BLANK08.D10	misc environment	Control	Negative	Sterile water blank
+10218.RK46	built environment			
+11405.subject892.timepoint0	human-gut	Host-associated	Host-associated (non-saline)	Animal (non-saline)
+11405.subject858.timepoint6	human-gut	Host-associated	Host-associated (non-saline)	Animal (non-saline)
+11624.J40.120.26	human-associated	Host-associated	Animal	Animal secretion
+13301.2014.042.Fly.10.L	host-associated		Host-associated	Host-associated (non-saline)
+11712.SUBJECT22.STOOL.476	human-gut	Host-associated	Animal-associated	Animal distal gut
+13301.2014.042.Fly.6.L	host-associated		Host-associated	Host-associated (non-saline)
+13301.2014.066.Fly.20.O	host-associated		Host-associated	Host-associated (non-saline)
+13301.2014.042.Fly.8.L	host-associated		Host-associated	Host-associated (non-saline)
+10172.2282	built environment			
+11519.19A030709.S15.3D	soil	Free-living	Non-saline	Soil (non-saline)
+11293.C.0450	human-oral	Host-associated	Animal	Animal secretion
+11865.table.ins.seat.2.t2	built environment	Free-living	Non-saline	Surface (non-saline)
+13301.2014.042.Fly.13.O	host-associated		Host-associated	Host-associated (non-saline)
+10442.WSB324	water			
+11548.A21.111.teeth	host-associated	Host-associated	Animal-associated	Animal corpus
+11405.subject833.timepoint0	human-gut	Host-associated	Host-associated (non-saline)	Animal (non-saline)
+1747.slasher.32.101112	host-associated	Host-associated	Animal	Animal surface
+10317.000015217	human-skin	host-associated	animal	animal surface
+11624.K40.115.67	human-associated	Host-associated	Animal	Animal secretion
+10218.Gulf.Oil.1.6.A	sediment			
+13301.2015.017.Fly.2.T	host-associated		Host-associated	Host-associated (non-saline)
+10218.5.11.13.S.CtrlA	soil			
+11624.J40.126.51	human-associated	Host-associated	Animal	Animal secretion
+13301.2014.066.Fly.10.T	host-associated		Host-associated	Host-associated (non-saline)
+13301.2014.066.Fly.1.T	host-associated		Host-associated	Host-associated (non-saline)
+10218.JB.lh	built environment			
+10321.2014.006.Fly.23.T				
+13092.000117129.covid	built environment	Free-living	Non-saline	Surface (non-saline)
+11712.SUBJECT16.STOOL.201	human-gut	Host-associated	Animal-associated	Animal distal gut
+10403.7.11.14.L43.S5	human-skin	Host-associated	Animal	Animal surface
+11442.G75789	misc environment	free-living	non-saline	surface (non-saline)
+10370.23B9	human-skin			
+13301.2014.042.Fly.40.T	host-associated		Host-associated	Host-associated (non-saline)
+13301.2015.017.Fly.6.L	host-associated		Host-associated	Host-associated (non-saline)
+11442.G72448	misc environment	free-living	non-saline	surface (non-saline)
+13301.2014.042.Fly.16.T	host-associated		Host-associated	Host-associated (non-saline)
+11712.SUBJECT23.ORAL.486	human-oral	Host-associated	Animal-associated	Animal secretion
+13301.2015.017.Fly.8.T	host-associated		Host-associated	Host-associated (non-saline)
+10370.18G2	human-skin			
+11442.G79345	misc environment	free-living	non-saline	surface (non-saline)
+11712.SUBJECT20.STOOL.430	human-gut	Host-associated	Animal-associated	Animal distal gut
+1684.59.HA.LeftPalm	human-skin			
+13301.2014.052.Fly.38.L	host-associated		Host-associated	Host-associated (non-saline)
+11712.SUBJECT20.STOOL.424	human-gut	Host-associated	Animal-associated	Animal distal gut
+11442.G73666	misc environment	free-living	non-saline	surface (non-saline)
+10370.19C10	human-skin			
+11442.G78937	misc environment	free-living	non-saline	surface (non-saline)
+11358.1337	misc environment	Free-living	Non-saline	Surface (non-saline)
+13301.2015.017.Fly.7.L	host-associated		Host-associated	Host-associated (non-saline)
+11405.subject858.timepoint0	human-gut	Host-associated	Host-associated (non-saline)	Animal (non-saline)
+13301.2014.042.Fly.17.T	host-associated		Host-associated	Host-associated (non-saline)
+11757.G440883363	human-gut	Host-associated	Animal-associated	Animal distal gut
+11052.4.11.19.RK.RH	human-skin	Host-associated	Host-associated (non-saline)	Animal (non-saline)
+13301.2014.006.Fly.25.L	host-associated		Host-associated	Host-associated (non-saline)
+13301.2014.066.Fly.5.T	host-associated		Host-associated	Host-associated (non-saline)
+13301.2014.066.Fly.7.T	host-associated		Host-associated	Host-associated (non-saline)
+13301.2014.042.Fly.35.L	host-associated		Host-associated	Host-associated (non-saline)
+1747.slasher.33.101112	host-associated	Host-associated	Animal	Animal surface
+13301.2014.042.Fly.20.L	host-associated		Host-associated	Host-associated (non-saline)
+11712.SUBJECT9.STOOL.1208	human-gut	Host-associated	Animal-associated	Animal distal gut
+10218.Gulf.Oil.2.1.A	sediment			
+13301.2014.004.Fly.19.L	host-associated		Host-associated	Host-associated (non-saline)
+13301.2014.066.Fly.35.O	host-associated		Host-associated	Host-associated (non-saline)
+13301.2014.066.Fly.39.T	host-associated		Host-associated	Host-associated (non-saline)
+11713.4.S.4C	human-skin	Host-associated	Animal-associated	Animal surface
+10317.000015282	human-oral	host-associated	animal	animal secretion
+11442.G72441	misc environment	free-living	non-saline	surface (non-saline)
+13301.2014.042.Fly.13.L	host-associated		Host-associated	Host-associated (non-saline)
+13301.2015.017.Fly.10.T	host-associated		Host-associated	Host-associated (non-saline)
+13301.2014.066.Fly.22.L	host-associated		Host-associated	Host-associated (non-saline)
+13301.2014.066.Fly.14.T	host-associated		Host-associated	Host-associated (non-saline)
+11442.G79617	misc environment	free-living	non-saline	surface (non-saline)
+10308.P1.W1C.F	fresh water	Free-living	Non-saline	Water (non-saline)
+11405.subject892.timepoint6	human-gut	Host-associated	Host-associated (non-saline)	Animal (non-saline)
+13301.2014.042.Fly.34.O	host-associated		Host-associated	Host-associated (non-saline)
+11442.G75575	misc environment	free-living	non-saline	surface (non-saline)
+11548.A22.113.teeth	host-associated	Host-associated	Animal-associated	Animal corpus
+11442.G75647	misc environment	free-living	non-saline	surface (non-saline)
+11442.G74060	misc environment	free-living	non-saline	surface (non-saline)
+13301.2014.042.Fly.7.T	host-associated		Host-associated	Host-associated (non-saline)
+10403.N13.S4	human-skin	Host-associated	Animal	Animal surface
+10218.5081	human-skin			
+13301.2014.066.Fly.24.L	host-associated		Host-associated	Host-associated (non-saline)
+13301.2015.015.Fly.1.L	host-associated		Host-associated	Host-associated (non-saline)
+13301.2014.009.Fly.6.L	host-associated		Host-associated	Host-associated (non-saline)
+13301.2014.009.Fly.11.L	host-associated		Host-associated	Host-associated (non-saline)
+13301.2014.042.Fly.21.L	host-associated		Host-associated	Host-associated (non-saline)
+10218.5.11.13.S.RA.G	soil			
+10370.14B5	human-skin			
+11442.G79482	misc environment	free-living	non-saline	surface (non-saline)
+11405.subject854.timepoint36	human-gut	Host-associated	Host-associated (non-saline)	Animal (non-saline)
+13301.2014.042.Fly.39.L	host-associated		Host-associated	Host-associated (non-saline)
+13301.2014.009.Fly.19.T	host-associated		Host-associated	Host-associated (non-saline)
+10218.5571	human-gut			
+10218.T1.R5.6	soil			
+13301.2014.066.Fly.18.T	host-associated		Host-associated	Host-associated (non-saline)
+10317.000015285	human-skin	host-associated	animal	animal surface
+10370.23B11	human-skin			
+13114.minich.76.s001	host-associated	Host-associated	Animal	Animal distal gut
+11442.G78938	misc environment	free-living	non-saline	surface (non-saline)
+10403.7.16.14.L10.S6	human-skin	Host-associated	Animal	Animal surface
+10812.BLANK1.1H	host-associated	Host-associated	Animal	not provided
+13301.2014.004.Fly.6.T	host-associated		Host-associated	Host-associated (non-saline)
+13301.2015.017.Fly.15.T	host-associated		Host-associated	Host-associated (non-saline)
+13301.2014.042.Fly.1.L	host-associated		Host-associated	Host-associated (non-saline)
+11713.12.S.12A	human-skin	Host-associated	Animal-associated	Animal surface
+13301.2014.009.Fly.34.T	host-associated		Host-associated	Host-associated (non-saline)
+11405.subject854.timepoint2	human-gut	Host-associated	Host-associated (non-saline)	Animal (non-saline)
+10485.A0974	host-associated			
+13301.2014.042.Fly.18.L	host-associated		Host-associated	Host-associated (non-saline)
+11548.A16.89.teeth	host-associated	Host-associated	Animal-associated	Animal corpus
+11712.SUBJECT18.STOOL.320	human-gut	Host-associated	Animal-associated	Animal distal gut
+11712.BLANK12.11C	misc environment	Control	Negative	Sterile water blank
+11712.SUBJECT16.STOOL.199	human-gut	Host-associated	Animal-associated	Animal distal gut
+10925.P55G28F.0715A	host-associated	Host-associated	Animal-associated	Animal distal gut
+550.L4S40.s.4.sequence	human-skin	Host-associated	Host-associated (non-saline)	Animal (non-saline)
+10218.BIOS.SW.Corals4T12	water			
+13301.2015.015.Fly.11.T	host-associated		Host-associated	Host-associated (non-saline)
+13301.2014.066.Fly.9.L	host-associated		Host-associated	Host-associated (non-saline)
+11712.SUBJECT18.STOOL.323	human-gut	Host-associated	Animal-associated	Animal distal gut
+10321.2014.009.Fly.19.T				
+11442.G75788	misc environment	free-living	non-saline	surface (non-saline)
+13301.2014.042.Fly.24.T	host-associated		Host-associated	Host-associated (non-saline)
+10442.WSB612	water			
+10218.T7.R1.6	soil			
+10442.WSB374	water			
+11712.SUBJECT24.STOOL.522	human-gut	Host-associated	Animal-associated	Animal distal gut
+10370.FA6	human-skin			
+11712.BLANK14.9H	misc environment	Control	Negative	Sterile water blank
+11442.G79748	misc environment	not applicable	not applicable	not applicable
+13301.2014.042.Fly.33.T	host-associated		Host-associated	Host-associated (non-saline)
+11712.BLANK15.3H	misc environment	Control	Negative	Sterile water blank
+13301.2014.042.Fly.36.L	host-associated		Host-associated	Host-associated (non-saline)
+10370.FA5	human-skin			
+1747.slasher.34.101112	host-associated	Host-associated	Animal	Animal surface
+10917.A0l3	host-associated	Host-associated	Animal	animal corpus
+11624.K40.5.41	human-associated	Host-associated	Animal	Animal secretion
+13301.2014.066.Fly.19.T	host-associated		Host-associated	Host-associated (non-saline)
+11405.subject833.timepoint48	human-gut	Host-associated	Host-associated (non-saline)	Animal (non-saline)
+10423.6SUTMIR8ES28M	built environment			
+11442.G79343	misc environment	free-living	non-saline	surface (non-saline)
+13301.2014.053.Fly.16.T	host-associated		Host-associated	Host-associated (non-saline)
+13301.2014.052.Fly.38.T	host-associated		Host-associated	Host-associated (non-saline)
+11442.G75815	misc environment	not applicable	not applicable	not applicable
+11713.21.S.21G	human-skin	Host-associated	Animal-associated	Animal surface
+10442.WSB449	water			
+13301.2015.015.Fly.6.L	host-associated		Host-associated	Host-associated (non-saline)
+11442.G79752	misc environment	not applicable	not applicable	not applicable
+11442.G73523	misc environment	free-living	non-saline	surface (non-saline)
+13301.2014.009.Fly.4.O	host-associated		Host-associated	Host-associated (non-saline)
+13301.2014.042.Fly.4.T	host-associated		Host-associated	Host-associated (non-saline)
+13301.2014.066.Fly.1.L	host-associated		Host-associated	Host-associated (non-saline)
+10485.A834	host-associated			
+10370.FA4	human-skin			
+11052.4.13.19.RK.RH	human-skin	Host-associated	Host-associated (non-saline)	Animal (non-saline)
+13301.2014.066.Fly.3.T	host-associated		Host-associated	Host-associated (non-saline)
+13301.2014.028.Fly.32.T	host-associated		Host-associated	Host-associated (non-saline)
+13114.metcalf.40.s013	soil	Free-living	Non-saline	Soil (non-saline)
+11712.SUBJECT18.ORAL.278	human-oral	Host-associated	Animal-associated	Animal secretion
+11712.SUBJECT23.ORAL.487	human-oral	Host-associated	Animal-associated	Animal secretion
+11442.G79536	misc environment	not applicable	not applicable	not applicable
+13301.2014.066.Fly.16.T	host-associated		Host-associated	Host-associated (non-saline)
+11442.G79537	misc environment	not applicable	not applicable	not applicable
+13301.2014.042.Fly.20.T	host-associated		Host-associated	Host-associated (non-saline)
+11293.C.0659	human-oral	Host-associated	Animal	Animal secretion
+13301.2014.006.Fly.23.O	host-associated		Host-associated	Host-associated (non-saline)
+11442.G79578	misc environment	free-living	non-saline	surface (non-saline)
+13301.2014.042.Fly.11.T	host-associated		Host-associated	Host-associated (non-saline)
+11713.11.F.11A	human-gut	Host-associated	Animal-associated	Animal distal gut
+11442.G79360	misc environment	not applicable	not applicable	not applicable
+10218.RK9	built environment			
+13301.2014.042.Fly.27.T	host-associated		Host-associated	Host-associated (non-saline)
+10172.4095	built environment			
+10218.T7.R6.6	soil			
+11405.subject859.timepoint0	human-gut	Host-associated	Host-associated (non-saline)	Animal (non-saline)
+10442.WSB142B	water			
+13301.2014.042.Fly.29.T	host-associated		Host-associated	Host-associated (non-saline)
+10317.000015283	human-skin	host-associated	animal	animal surface
+13301.2014.009.Fly.34.L	host-associated		Host-associated	Host-associated (non-saline)
+10172.1952	built environment			
+11712.SUBJECT18.SKIN.307	human-skin	Host-associated	Animal-associated	Animal surface
+10442.WSB609	water			
+11442.G79751	misc environment	not applicable	not applicable	not applicable
+13092.000117790.covid	built environment	Free-living	Non-saline	Surface (non-saline)
+10442.WSB156A	water			
+11548.A18.98.teeth	host-associated	Host-associated	Animal-associated	Animal corpus
+10442.WSB249	water			
+11405.subject858.timepoint2	human-gut	Host-associated	Host-associated (non-saline)	Animal (non-saline)
+13301.2014.066.Fly.21.L	host-associated		Host-associated	Host-associated (non-saline)
+11442.G79570	misc environment	free-living	non-saline	surface (non-saline)
+11442.G79577	misc environment	free-living	non-saline	surface (non-saline)
+10218.BIOS.SW.Corals5T2	water			
+10863.PBS2.8H	microbial mat/biofilm			
+10442.WSB159C	water			
+11442.G79344	misc environment	free-living	non-saline	surface (non-saline)
+10317.000050941	human-skin	host-associated	animal	animal surface
+13301.2014.066.Fly.5.L	host-associated		Host-associated	Host-associated (non-saline)
+13301.2014.066.Fly.34.T	host-associated		Host-associated	Host-associated (non-saline)
+11712.SUBJECT43.STOOL.1067	human-gut	Host-associated	Animal-associated	Animal distal gut
+10442.WSB158C	water			
+10442.WSB773	water			
+2192.H06b.Foot.3203.lane6.NoIndex.L006	human-skin	Host-associated	Host-associated (non-saline)	Animal (non-saline)
+13301.2014.052.Fly.40.L	host-associated		Host-associated	Host-associated (non-saline)
+13301.2014.066.Fly.15.T	host-associated		Host-associated	Host-associated (non-saline)
+11442.G75786	misc environment	free-living	non-saline	surface (non-saline)
+11519.30A150609.01.3F	soil	Free-living	Non-saline	Soil (non-saline)
+11405.subject844.timepoint0	human-gut	Host-associated	Host-associated (non-saline)	Animal (non-saline)
+13092.000117153.covid	built environment	Free-living	Non-saline	Surface (non-saline)
+13301.2014.042.Fly.6.T	host-associated		Host-associated	Host-associated (non-saline)
+11442.G79574	misc environment	free-living	non-saline	surface (non-saline)
+13301.2014.042.Fly.37.T	host-associated		Host-associated	Host-associated (non-saline)
+13301.2014.004.Fly.24.T	host-associated		Host-associated	Host-associated (non-saline)
+13301.2014.042.Fly.22.T	host-associated		Host-associated	Host-associated (non-saline)
+13301.2014.042.Fly.29.L	host-associated		Host-associated	Host-associated (non-saline)
+13301.2014.009.Fly.21.L	host-associated		Host-associated	Host-associated (non-saline)
+11865.bathroom.sink.surface.t1	built environment	Free-living	Non-saline	Surface (non-saline)
+2192.H02a.Kitchen.Light.Switch.699.lane2.NoIndex.L002	built environment	Free-living	Free-living (non-saline)	Solid (non-saline)
+13301.2014.004.Fly.6.L	host-associated		Host-associated	Host-associated (non-saline)
+13301.2014.009.Fly.27.L	host-associated		Host-associated	Host-associated (non-saline)
+11712.SUBJECT20.STOOL.421	human-gut	Host-associated	Animal-associated	Animal distal gut
+13301.2015.017.Fly.9.L	host-associated		Host-associated	Host-associated (non-saline)
+11712.SUBJECT20.STOOL.431	human-gut	Host-associated	Animal-associated	Animal distal gut
+13301.2014.042.Fly.33.L	host-associated		Host-associated	Host-associated (non-saline)
+13301.2015.015.Fly.11.L	host-associated		Host-associated	Host-associated (non-saline)
+2192.H02a.Bathroom.Door.Knob.702.lane2.NoIndex.L002	built environment	Free-living	Free-living (non-saline)	Solid (non-saline)
+11712.SUBJECT18.STOOL.321	human-gut	Host-associated	Animal-associated	Animal distal gut
+10370.AG11	human-skin			
+11624.BLANK18.6E	misc environment	Control	Negative	Sterile water blank
+13301.2014.052.Fly.35.L	host-associated		Host-associated	Host-associated (non-saline)
+13301.2014.042.Fly.21.T	host-associated		Host-associated	Host-associated (non-saline)
+10370.23C3	human-skin			
+11712.SUBJECT23.STOOL.501	human-gut	Host-associated	Animal-associated	Animal distal gut
+11405.subject930.timepoint36	human-gut	Host-associated	Host-associated (non-saline)	Animal (non-saline)
+13301.2014.042.Fly.35.T	host-associated		Host-associated	Host-associated (non-saline)
+11442.G83216	misc environment	host-associated	plant	plant-corpus
+13301.2014.066.Fly.17.T	host-associated		Host-associated	Host-associated (non-saline)
+11442.G79538	misc environment	not applicable	not applicable	not applicable
+13301.2014.009.Fly.11.T	host-associated		Host-associated	Host-associated (non-saline)
+10370.FB2	human-skin			
+12227.137.FT.5.skin	host-associated	Host-associated	Animal	Animal surface
+11405.subject859.timepoint2	human-gut	Host-associated	Host-associated (non-saline)	Animal (non-saline)
+13301.2015.015.Fly.15.T	host-associated		Host-associated	Host-associated (non-saline)
+11442.G75808	misc environment	not applicable	not applicable	not applicable
+11442.G75176	misc environment	free-living	non-saline	surface (non-saline)
+10317.000049892	human-skin	host-associated	animal	animal surface
+13301.2014.042.Fly.9.T	host-associated		Host-associated	Host-associated (non-saline)
+13301.2014.042.Fly.12.O	host-associated		Host-associated	Host-associated (non-saline)
+13301.2014.009.Fly.7.L	host-associated		Host-associated	Host-associated (non-saline)
+11400.dragon.U26.sputum	human-associated			
+13301.2014.042.Fly.30.T	host-associated		Host-associated	Host-associated (non-saline)
+13301.2014.052.Fly.34.L	host-associated		Host-associated	Host-associated (non-saline)
+13301.2014.042.Fly.11.L	host-associated		Host-associated	Host-associated (non-saline)
+11624.K40.97.11	human-associated	Host-associated	Animal	Animal secretion
+11712.SUBJECT20.STOOL.423	human-gut	Host-associated	Animal-associated	Animal distal gut
+10321.2014.009.Fly.4.T				
+12227.control.feed5	misc environment	Free-living	Non-saline	Surface (non-saline)
+11624.K40.123.4	human-associated	Host-associated	Animal	Animal secretion
+11713.3.F.3D	human-gut	Host-associated	Animal-associated	Animal distal gut
+10218.T7.R2.6	soil			
+10370.21D11	human-skin			
+11712.SUBJECT17.ORAL.215	human-oral	Host-associated	Animal-associated	Animal secretion
+10218.DM111	built environment			
+10317.000049893	human-skin	host-associated	animal	animal surface
+13301.2014.042.Fly.25.T	host-associated		Host-associated	Host-associated (non-saline)
+10370.21D12	human-skin			
+13301.2014.009.Fly.4.T	host-associated		Host-associated	Host-associated (non-saline)
+11865.dishwasher.cabinet.top.hinge.t2	built environment	Free-living	Non-saline	Surface (non-saline)
+13301.2015.017.Fly.2.L	host-associated		Host-associated	Host-associated (non-saline)
+11272.Cl.V3.7B5.C	human-skin	Host-associated	Host-associated (non-saline)	Animal (non-saline)
+10442.WSB242	water			
+1747.slasher.29.101112	host-associated	Host-associated	Animal	Animal surface
+11692.11441.36o30	host-associated	Host-associated	Animal	Animal secretion
+10370.FA3	human-skin			
+12227.SAL.RAS.A.27.digesta	host-associated	Host-associated	Animal	Animal proximal gut
+11712.SUBJECT16.SKIN.170	human-skin	Host-associated	Animal-associated	Animal surface
+11713.17.F.17B	human-gut	Host-associated	Animal-associated	Animal distal gut
+11442.G79253	misc environment	free-living	non-saline	surface (non-saline)
+10442.WSB641	water			
+10442.WSB173C	water			
+11442.G78880	misc environment	free-living	non-saline	surface (non-saline)
+10370.18G1	human-skin			
+11712.SUBJECT25.STOOL.547	human-gut	Host-associated	Animal-associated	Animal distal gut
+11442.G75813	misc environment	not applicable	not applicable	not applicable
+10863.C1	microbial mat/biofilm			
+11865.cupboard.2.top.left.handle.t2	built environment	Free-living	Non-saline	Surface (non-saline)
+13301.2014.066.Fly.13.T	host-associated		Host-associated	Host-associated (non-saline)
+10442.WSB170A	water			
+10218.BIOS.SW.Cont7T6	water			
+13301.2014.028.Fly.12.T	host-associated		Host-associated	Host-associated (non-saline)
+13301.2014.066.Fly.8.T	host-associated		Host-associated	Host-associated (non-saline)
+11712.SUBJECT19.STOOL.374	human-gut	Host-associated	Animal-associated	Animal distal gut
+1747.slasher.36.101112	host-associated	Host-associated	Animal	Animal surface
+13301.2014.042.Fly.31.T	host-associated		Host-associated	Host-associated (non-saline)
+11293.C.0761	human-oral	Host-associated	Animal	Animal secretion
+10172.4585	built environment			
+11624.K40.88.82	human-associated	Host-associated	Animal	Animal secretion
+11442.G83176	misc environment	not applicable	not applicable	not applicable
+13301.2014.066.Fly.21.T	host-associated		Host-associated	Host-associated (non-saline)
+12227.control.feed4	misc environment	Free-living	Non-saline	Surface (non-saline)
+11712.SUBJECT17.STOOL.261	human-gut	Host-associated	Animal-associated	Animal distal gut
+13301.2014.066.Fly.25.L	host-associated		Host-associated	Host-associated (non-saline)
+10894.HR4631	human-skin	Host-associated	Animal	Animal surface
+13301.2014.042.Fly.1.O	host-associated		Host-associated	Host-associated (non-saline)
+11740.7.3.ThursFri.Vacuum.cr	built environment			
+13301.2014.042.Fly.37.L	host-associated		Host-associated	Host-associated (non-saline)
+11442.G74113	misc environment	free-living	non-saline	soil (non-saline)
+11712.SUBJECT43.STOOL.1070	human-gut	Host-associated	Animal-associated	Animal distal gut
+13301.2015.017.Fly.9.T	host-associated		Host-associated	Host-associated (non-saline)
+11166.NATL.24629.chinchilla	host-associated	Host-associated	Host-associated (non-saline)	Animal (non-saline)
+13301.2014.066.Fly.30.T	host-associated		Host-associated	Host-associated (non-saline)
+11624.K40.100.80	human-associated	Host-associated	Animal	Animal secretion
+13301.2014.066.Fly.7.L	host-associated		Host-associated	Host-associated (non-saline)
+13301.2014.042.Fly.28.L	host-associated		Host-associated	Host-associated (non-saline)
+10485.A1091	host-associated			
+11405.subject854.timepoint24	human-gut	Host-associated	Host-associated (non-saline)	Animal (non-saline)
+11740.29.7.ThursFri.Swab.pa	built environment			
+11442.G75806	misc environment	host-associated	plant	plant-corpus
+11052.6.21.19.RK.FH	human-skin	Host-associated	Host-associated (non-saline)	Animal (non-saline)
+13301.2014.042.Fly.25.L	host-associated		Host-associated	Host-associated (non-saline)
+13301.2014.052.Fly.20.T	host-associated		Host-associated	Host-associated (non-saline)
+10317.000015184	human-skin	host-associated	animal	animal surface
+10863.PBS1.8H	microbial mat/biofilm			
+13301.2015.015.Fly.8.O	host-associated		Host-associated	Host-associated (non-saline)
+13301.2014.042.Fly.1.T	host-associated		Host-associated	Host-associated (non-saline)
+11405.subject720.timepoint36	human-gut	Host-associated	Host-associated (non-saline)	Animal (non-saline)
+11712.SUBJECT21.STOOL.464	human-gut	Host-associated	Animal-associated	Animal distal gut
+12227.SAL.75Pft.5.digesta	host-associated	Host-associated	Animal	Animal proximal gut
+11442.G79576	misc environment	free-living	non-saline	surface (non-saline)
+11405.subject844.timepoint24	human-gut	Host-associated	Host-associated (non-saline)	Animal (non-saline)
+10485.A084	host-associated			
+13301.2014.053.Fly.4.T	host-associated		Host-associated	Host-associated (non-saline)
+10218.MS00586	soil			
+10442.WSB367	water			
+13301.2014.009.Fly.17.L	host-associated		Host-associated	Host-associated (non-saline)
+11624.K40.78.44	human-associated	Host-associated	Animal	Animal secretion
+11405.subject859.timepoint6	human-gut	Host-associated	Host-associated (non-saline)	Animal (non-saline)
+13301.2014.066.Fly.25.T	host-associated		Host-associated	Host-associated (non-saline)
+11442.G75581	misc environment	free-living	non-saline	surface (non-saline)
+11713.BLANK4.4B	misc environment	Control	Negative	Sterile water blank
+13301.2014.009.Fly.21.T	host-associated		Host-associated	Host-associated (non-saline)
+10370.18F12	human-skin			
+13301.2014.053.Fly.32.O	host-associated		Host-associated	Host-associated (non-saline)
+11712.SUBJECT23.STOOL.498	human-gut	Host-associated	Animal-associated	Animal distal gut
+10321.2014.009.Fly.14.T				
+13301.2014.066.Fly.22.T	host-associated		Host-associated	Host-associated (non-saline)
+13301.2014.006.Fly.9.O	host-associated		Host-associated	Host-associated (non-saline)
+10470.N30.6.2.S.2	water			
+11442.G87592	misc environment	host-associated	animal	animal-corpus
+11712.SUBJECT19.ORAL.342	human-oral	Host-associated	Animal-associated	Animal secretion
+11712.SUBJECT42.ORAL.980	human-oral	Host-associated	Animal-associated	Animal secretion
+1747.slasher.35.101112	host-associated	Host-associated	Animal	Animal surface
+13301.2014.009.Fly.14.L	host-associated		Host-associated	Host-associated (non-saline)
+13092.000117224.covid	built environment	Free-living	Non-saline	Surface (non-saline)
+11865.cabinet.1.bottom.right.drawer.t2	built environment	Free-living	Non-saline	Surface (non-saline)
+11442.G75157	misc environment	free-living	non-saline	surface (non-saline)
+10442.WSB370	water			
+13301.2014.042.Fly.32.L	host-associated		Host-associated	Host-associated (non-saline)
+11442.G86727	misc environment	free-living	non-saline	surface (non-saline)
+10370.18G10	human-skin			
+10442.WSB173B	water			
+10442.WSB552	water			
+10485.B1163	host-associated			
+13301.2014.066.Fly.19.L	host-associated		Host-associated	Host-associated (non-saline)
+10442.WSB761	water			
+10218.DM145	built environment			
+10218.DM150	built environment			
+13301.2015.015.Fly.10.L	host-associated		Host-associated	Host-associated (non-saline)
+11624.K40.73.36	human-associated	Host-associated	Animal	Animal secretion
+11713.14.F.14B	human-gut	Host-associated	Animal-associated	Animal distal gut
+11405.subject844.timepoint12	human-gut	Host-associated	Host-associated (non-saline)	Animal (non-saline)
+11740.3.5.MonTues.Vacuum.cr	built environment			
+13301.2015.017.Fly.8.L	host-associated		Host-associated	Host-associated (non-saline)
+10321.2014.009.Fly.11.T				
+11272.Cl.V9.3A5.C	human-skin	Host-associated	Host-associated (non-saline)	Animal (non-saline)
+13301.2014.009.Fly.27.T	host-associated		Host-associated	Host-associated (non-saline)
+13301.2014.042.Fly.10.T	host-associated		Host-associated	Host-associated (non-saline)
+11405.subject854.timepoint0	human-gut	Host-associated	Host-associated (non-saline)	Animal (non-saline)
+11692.11441.35o15	host-associated	Host-associated	Animal	Animal secretion
+10442.WSB137B	water			
+11712.SUBJECT20.SKIN.408	human-skin	Host-associated	Animal-associated	Animal surface
+11624.K40.123.55	human-associated	Host-associated	Animal	Animal secretion
+13301.2015.017.Fly.13.L	host-associated		Host-associated	Host-associated (non-saline)
+13092.000117137.covid	built environment	Free-living	Non-saline	Surface (non-saline)
+11442.G73985	misc environment	free-living	non-saline	surface (non-saline)
+10218.G.CTRL.soil.T0.1	soil			
+10442.WSB638	water			
+13301.2014.042.Fly.23.L	host-associated		Host-associated	Host-associated (non-saline)
+11712.SUBJECT19.STOOL.371	human-gut	Host-associated	Animal-associated	Animal distal gut
+11712.SUBJECT22.STOOL.477	human-gut	Host-associated	Animal-associated	Animal distal gut
+13301.2014.066.Fly.18.L	host-associated		Host-associated	Host-associated (non-saline)
+13301.2014.009.Fly.37.L	host-associated		Host-associated	Host-associated (non-saline)
+13301.2014.009.Fly.2.O	host-associated		Host-associated	Host-associated (non-saline)
+13301.2015.017.Fly.10.L	host-associated		Host-associated	Host-associated (non-saline)
+11712.SUBJECT42.STOOL.1014	human-gut	Host-associated	Animal-associated	Animal distal gut
+11442.G79483	misc environment	free-living	non-saline	surface (non-saline)
+10218.5570	human-skin			
+10317.000012073	human-gut	host-associated	animal	animal distal gut
+13301.2014.066.Fly.14.L	host-associated		Host-associated	Host-associated (non-saline)
+11624.K40.107.61	human-associated	Host-associated	Animal	Animal secretion
+11624.K40.76.54	human-associated	Host-associated	Animal	Animal secretion
+12227.SAL.RAS.B.50.digesta	host-associated	Host-associated	Animal	Animal proximal gut
+13301.2014.042.Fly.8.T	host-associated		Host-associated	Host-associated (non-saline)
+11442.G79542	misc environment	not applicable	not applicable	not applicable
+10321.2014.006.Fly.37.T				
+11712.SUBJECT25.ORAL.536	human-oral	Host-associated	Animal-associated	Animal secretion
+10442.WSB170C	water			
+10321.2014.009.Fly.27.T				
+13301.2014.066.Fly.6.T	host-associated		Host-associated	Host-associated (non-saline)
+13301.2014.066.Fly.39.L	host-associated		Host-associated	Host-associated (non-saline)
+11442.G72761	misc environment	free-living	non-saline	surface (non-saline)
+13301.2014.053.Fly.2.T	host-associated		Host-associated	Host-associated (non-saline)
+13064.D13SS1	human-skin	Host-associated	Animal-associated	Animal surface
+13301.2014.004.Fly.24.L	host-associated		Host-associated	Host-associated (non-saline)
+13301.2015.015.Fly.13.L	host-associated		Host-associated	Host-associated (non-saline)
+13301.2014.028.Fly.36.O	host-associated		Host-associated	Host-associated (non-saline)
+13301.2015.017.Fly.5.T	host-associated		Host-associated	Host-associated (non-saline)
+13301.2014.006.Fly.16.T	host-associated		Host-associated	Host-associated (non-saline)
+11740.38.3.MonTues.Swab.pa	built environment			
+11624.K40.105.61	human-associated	Host-associated	Animal	Animal secretion
+10370.EC6	human-skin			
+13301.2014.066.Fly.23.T	host-associated		Host-associated	Host-associated (non-saline)
+13301.2014.009.Fly.6.T	host-associated		Host-associated	Host-associated (non-saline)
+13301.2014.042.Fly.38.L	host-associated		Host-associated	Host-associated (non-saline)
+13301.2014.042.Fly.16.L	host-associated		Host-associated	Host-associated (non-saline)
+13301.2015.015.Fly.12.T	host-associated		Host-associated	Host-associated (non-saline)
+11740.29.1.MonTues.Vacuum.cr	built environment			
+11624.K40.111.32	human-associated	Host-associated	Animal	Animal secretion
+13301.2015.017.Fly.3.L	host-associated		Host-associated	Host-associated (non-saline)
+10403.7.10.14.L5.S4	human-skin	Host-associated	Animal	Animal surface
+11712.SUBJECT42.ORAL.986	human-oral	Host-associated	Animal-associated	Animal secretion
+10218.MS00024	soil			
+13092.000117114.covid	built environment	Free-living	Non-saline	Surface (non-saline)
+10218.G.CTRL.soil.T0.2	soil			
+13301.2014.042.Fly.2.L	host-associated		Host-associated	Host-associated (non-saline)
+11712.SUBJECT18.STOOL.324	human-gut	Host-associated	Animal-associated	Animal distal gut
+11712.SUBJECT22.STOOL.478	human-gut	Host-associated	Animal-associated	Animal distal gut
+11442.G79649	misc environment	host-associated	not applicable	not applicable
+10403.7.11.14.L27.S5	human-skin	Host-associated	Animal	Animal surface
+13301.2014.066.Fly.33.T	host-associated		Host-associated	Host-associated (non-saline)
+11442.G73989	misc environment	free-living	non-saline	surface (non-saline)
+11442.G75700	misc environment	free-living	non-saline	surface (non-saline)
+13301.2014.066.Fly.17.L	host-associated		Host-associated	Host-associated (non-saline)
+11624.J40.185.58	human-associated	Host-associated	Animal	Animal secretion
+10218.5.9.13.S.H.A	soil			
+11713.9.F.9E	human-gut	Host-associated	Animal-associated	Animal distal gut
+11405.subject858.timepoint36	human-gut	Host-associated	Host-associated (non-saline)	Animal (non-saline)
+13301.2015.015.Fly.13.T	host-associated		Host-associated	Host-associated (non-saline)
+13301.2014.066.Fly.27.L	host-associated		Host-associated	Host-associated (non-saline)
+10370.AH3	human-skin			
+11624.K40.111.97	human-associated	Host-associated	Animal	Animal secretion
+11272.Cl.V2.6G1.LB	human-skin	Host-associated	Host-associated (non-saline)	Animal (non-saline)
+13301.2014.066.Fly.28.T	host-associated		Host-associated	Host-associated (non-saline)
+10423.4VECR84SVC5VH	built environment			
+11713.5.F.5C	human-gut	Host-associated	Animal-associated	Animal distal gut
+11950.loc1.Plywood.dry.TP0.DUP	built environment	Free-living	Non-saline	Surface (non-saline)
+10798.AC.B.6A.2016	microbial mat/biofilm	Host-associated	Animal	Animal corpus
+10370.FA12	human-skin			
+10423.64Y9R5R6766GI	built environment			
+13301.2014.066.Fly.23.L	host-associated		Host-associated	Host-associated (non-saline)
+11713.1.F.1F	human-gut	Host-associated	Animal-associated	Animal distal gut
+10321.2014.009.Fly.6.T				
+10370.23C7	human-skin			
+13301.2014.066.Fly.9.T	host-associated		Host-associated	Host-associated (non-saline)
+11210.NFB0003050001	human-gut	Host-associated	Animal	Animal distal gut
+11405.subject930.timepoint2	human-gut	Host-associated	Host-associated (non-saline)	Animal (non-saline)
+10317.000015452	human-skin	host-associated	animal	animal surface
+11405.subject723.timepoint0	human-gut	Host-associated	Host-associated (non-saline)	Animal (non-saline)
+13301.2015.017.Fly.6.T	host-associated		Host-associated	Host-associated (non-saline)
+13301.2014.042.Fly.19.L	host-associated		Host-associated	Host-associated (non-saline)
+11740.13.5.MonTues.Vacuum.cr	built environment			
+13301.2014.042.Fly.40.L	host-associated		Host-associated	Host-associated (non-saline)
+11712.BLANK14.2G	misc environment	Control	Negative	Sterile water blank
+10218.3.9.13CtrlB	soil			
+11442.G79541	misc environment	not applicable	not applicable	not applicable
+11712.SUBJECT26.ORAL.557	human-oral	Host-associated	Animal-associated	Animal secretion
+10442.WSB636	water			
+1056.Ory.afe.Cinci.1	host-associated	Host-associated	Animal	Animal distal gut
+11405.subject723.timepoint12	human-gut	Host-associated	Host-associated (non-saline)	Animal (non-saline)
+13301.2014.042.Fly.30.L	host-associated		Host-associated	Host-associated (non-saline)
+13301.2014.042.Fly.23.T	host-associated		Host-associated	Host-associated (non-saline)
+13301.2014.042.Fly.36.T	host-associated		Host-associated	Host-associated (non-saline)
+13301.2014.066.Fly.4.L	host-associated		Host-associated	Host-associated (non-saline)
+11442.G79342	misc environment	free-living	non-saline	surface (non-saline)
+11692.10911.21P36	host-associated	Host-associated	Animal	Animal secretion
+10442.WSB162B	water			
+13301.2014.066.Fly.31.T	host-associated		Host-associated	Host-associated (non-saline)
+13301.2014.066.Fly.2.T	host-associated		Host-associated	Host-associated (non-saline)
+11442.G79616	misc environment	free-living	non-saline	surface (non-saline)
+10218.BIOS.SW.Csm1T8	water			
+13092.000117707.covid	built environment	Free-living	Non-saline	Surface (non-saline)
+11442.G79572	misc environment	free-living	non-saline	surface (non-saline)
+10370.DE11	human-skin			
+10317.000015064	human-skin	host-associated	animal	animal surface
+11442.G79573	misc environment	free-living	non-saline	surface (non-saline)
+11405.subject930.timepoint0	human-gut	Host-associated	Host-associated (non-saline)	Animal (non-saline)
+11712.BLANK13.1E	misc environment	Control	Negative	Sterile water blank
+13917.foot.25.plateA.wellH10	human-skin	Host-associated	Animal	Animal surface
+13301.2014.053.Fly.34.T	host-associated		Host-associated	Host-associated (non-saline)
+10442.WSB170B	water			
+10218.4206	human-skin			
+10370.DF5	human-skin			
+11712.SUBJECT20.SKIN.415	human-skin	Host-associated	Animal-associated	Animal surface
+11712.SUBJECT17.STOOL.263	human-gut	Host-associated	Animal-associated	Animal distal gut
+1802.H33Cb				
+11405.subject726.timepoint48	human-gut	Host-associated	Host-associated (non-saline)	Animal (non-saline)
+13301.2014.042.Fly.15.L	host-associated		Host-associated	Host-associated (non-saline)
+13301.2015.015.Fly.4.L	host-associated		Host-associated	Host-associated (non-saline)
+12227.430.seapen.FT.5.skin	host-associated	Host-associated	Animal	Animal surface
+10218.T1.R4.6	soil			
+13301.2014.042.Fly.38.O	host-associated		Host-associated	Host-associated (non-saline)
+13301.2015.015.Fly.15.L	host-associated		Host-associated	Host-associated (non-saline)
+13301.2014.066.Fly.36.T	host-associated		Host-associated	Host-associated (non-saline)
+10442.WSB406	water			
+10172.4580	human-skin			
+13301.2014.042.Fly.15.T	host-associated		Host-associated	Host-associated (non-saline)
+13301.2014.066.Fly.4.T	host-associated		Host-associated	Host-associated (non-saline)
+13301.2014.066.Fly.3.L	host-associated		Host-associated	Host-associated (non-saline)
+13301.2014.042.Fly.14.T	host-associated		Host-associated	Host-associated (non-saline)
+11400.NCF1.3.8.17	human-associated			
+10218.MS00032	soil			
+13301.2014.042.Fly.5.T	host-associated		Host-associated	Host-associated (non-saline)
+13301.2014.004.Fly.25.T	host-associated		Host-associated	Host-associated (non-saline)
+13301.2014.006.Fly.29.L	host-associated		Host-associated	Host-associated (non-saline)
+11712.BLANK12.11B	misc environment	Control	Negative	Sterile water blank
+13301.2014.066.Fly.35.T	host-associated		Host-associated	Host-associated (non-saline)
+13301.2014.066.Fly.29.L	host-associated		Host-associated	Host-associated (non-saline)
+11442.G75787	misc environment	free-living	non-saline	surface (non-saline)
+13301.2014.042.Fly.38.T	host-associated		Host-associated	Host-associated (non-saline)
+13301.2014.066.Fly.27.T	host-associated		Host-associated	Host-associated (non-saline)
+10218.3.8.13.B	soil			
+10403.7.11.14.NL38.S5	human-skin	Host-associated	Animal	Animal surface
+10403.7.11.14.NL27.S5	human-skin	Host-associated	Animal	Animal surface
+10442.WSB224	water			
+11624.K40.75.75	human-associated	Host-associated	Animal	Animal secretion
+11712.SUBJECT26.ORAL.559	human-oral	Host-associated	Animal-associated	Animal secretion
+10218.1028	microbial mat/biofilm			
+10317.000015451	human-skin	host-associated	animal	animal surface
+11712.SUBJECT42.STOOL.1015	human-gut	Host-associated	Animal-associated	Animal distal gut
+11740.9.5.MonTues.Vacuum.cr	built environment			
+11548.A16.90.teeth	host-associated	Host-associated	Animal-associated	Animal corpus
+10218.5.13.13.S.LA.F	soil			
+1747.smaug.19404.fecal	host-associated	Host-associated	Animal	Animal distal gut
+13301.2014.066.Fly.9.O	host-associated		Host-associated	Host-associated (non-saline)
+10317.000015062	human-skin	host-associated	animal	animal surface
+10172.252	built environment			
+2192.H06b.Hand.3253.lane6.NoIndex.L006	human-skin	Host-associated	Host-associated (non-saline)	Animal (non-saline)
+13301.2014.066.Fly.20.T	host-associated		Host-associated	Host-associated (non-saline)
+11405.subject858.timepoint24	human-gut	Host-associated	Host-associated (non-saline)	Animal (non-saline)
+13301.2014.066.Fly.40.L	host-associated		Host-associated	Host-associated (non-saline)
+11712.SUBJECT20.STOOL.426	human-gut	Host-associated	Animal-associated	Animal distal gut
+13301.2014.042.Fly.32.T	host-associated		Host-associated	Host-associated (non-saline)
+11442.G87519	misc environment	free-living	non-saline	surface (non-saline)
+10442.WSB157C	water			
+13301.2014.028.Fly.14.O	host-associated		Host-associated	Host-associated (non-saline)
+11713.5.S.5B	human-skin	Host-associated	Animal-associated	Animal surface
+10218.5361	human-skin			
+10317.000015061	human-skin	host-associated	animal	animal surface
+13301.2014.028.Fly.12.L	host-associated		Host-associated	Host-associated (non-saline)
+10911.21P36	host-associated	Host-associated	Animal	Animal secretion
+13301.2014.004.Fly.29.L	host-associated		Host-associated	Host-associated (non-saline)
+10442.WSB335	water			
+10370.18G9	human-skin			
+2192.H03a.Hand.1303.lane6.NoIndex.L006	human-skin	Host-associated	Host-associated (non-saline)	Animal (non-saline)
+11624.K40.87.64	human-associated	Host-associated	Animal	Animal secretion
+13301.2014.009.Fly.37.T	host-associated		Host-associated	Host-associated (non-saline)
+11624.K40.119.57	human-associated	Host-associated	Animal	Animal secretion
+11712.SUBJECT18.ORAL.277	human-oral	Host-associated	Animal-associated	Animal secretion
+13301.2014.052.Fly.2.T	host-associated		Host-associated	Host-associated (non-saline)
+11624.K40.102.55	human-associated	Host-associated	Animal	Animal secretion
+13301.2014.066.Fly.28.L	host-associated		Host-associated	Host-associated (non-saline)
+13301.2014.066.Fly.8.O	host-associated		Host-associated	Host-associated (non-saline)
+11712.SUBJECT30.ORAL.654	human-oral	Host-associated	Animal-associated	Animal secretion
+13301.2015.015.Fly.9.T	host-associated		Host-associated	Host-associated (non-saline)
+10218.3.7.13.A	soil			
+13957.Apt.C.kitchen.drawer.handle.2	built environment	Free-living	Non-saline	Surface (non-saline)
+10485.B1243	host-associated			
+13301.2014.066.Fly.26.T	host-associated		Host-associated	Host-associated (non-saline)
+13301.2014.009.Fly.33.L	host-associated		Host-associated	Host-associated (non-saline)
+11692.11441.6o0	host-associated	Host-associated	Animal	Animal secretion
+11712.SUBJECT43.ORAL.1024	human-oral	Host-associated	Animal-associated	Animal secretion
+13301.2014.066.Fly.34.L	host-associated		Host-associated	Host-associated (non-saline)
+11405.BLANK08.E09	misc environment	Control	Negative	Sterile water blank
+10894.HR4929	human-skin	Host-associated	Animal-associated	Animal surface
+11624.K40.128.100	human-associated	Host-associated	Animal	Animal secretion
+13301.2015.017.Fly.14.T	host-associated		Host-associated	Host-associated (non-saline)
+10321.2014.009.Fly.37.T				
+10218.Gulf.Oil.2.2.A	sediment			
+10370.AG6	human-skin			
+11712.SUBJECT27.STOOL.581	human-gut	Host-associated	Animal-associated	Animal distal gut
+10321.2014.009.Fly.21.T				
+13301.2014.053.Fly.27.T	host-associated		Host-associated	Host-associated (non-saline)
+550.L4S58.s.4.sequence	human-skin	Host-associated	Host-associated (non-saline)	Animal (non-saline)
+13301.2014.009.Fly.18.T	host-associated		Host-associated	Host-associated (non-saline)
+11272.Cl.V2.6F12.UB	human-skin	Host-associated	Host-associated (non-saline)	Animal (non-saline)
+11405.subject726.timepoint36	human-gut	Host-associated	Host-associated (non-saline)	Animal (non-saline)
+11740.5.5.MonTues.Vacuum.cr	built environment			
+13301.2014.042.Fly.39.T	host-associated		Host-associated	Host-associated (non-saline)
+12201.water.fresh.A.1.nucleomag.L	water	Free-living	Non-saline	Water (non-saline)
+10317.000049891	human-skin	host-associated	animal	animal surface
+13301.2015.017.Fly.4.T	host-associated		Host-associated	Host-associated (non-saline)
+11400.NCF1.3.17.17	human-associated			
+10218.DM3	built environment			
+10442.WSB757	water			
+10353.PM	host-associated	Host-associated	Animal	Animal distal gut
+11712.SUBJECT19.STOOL.376	human-gut	Host-associated	Animal-associated	Animal distal gut
+11712.SUBJECT43.STOOL.1065	human-gut	Host-associated	Animal-associated	Animal distal gut
+11624.K40.67.6	human-associated	Host-associated	Animal	Animal secretion
+13301.2014.042.Fly.13.T	host-associated		Host-associated	Host-associated (non-saline)
+10442.WSB158A	water			
+10218.MS00253	soil			
+12201.skin.armpit.B.3.nucleomag.L	human-skin	Host-associated	Animal-associated	Animal secretion
+13301.2014.042.Fly.31.L	host-associated		Host-associated	Host-associated (non-saline)
+10801.BLANK8.1A	misc environment	Control	Negative	Sterile water blank
+10218.RK49	built environment			
+10317.000015350	human-skin	host-associated	animal	animal surface
+10442.WSB766	water			
+10370.EB9	human-skin			
+11712.SUBJECT18.STOOL.322	human-gut	Host-associated	Animal-associated	Animal distal gut
+10370.DF2	human-skin			
+10218.DM187	built environment			
+13301.2014.042.Fly.17.L	host-associated		Host-associated	Host-associated (non-saline)
+11713.9.F.9D	human-gut	Host-associated	Animal-associated	Animal distal gut
+13301.2015.017.Fly.11.T	host-associated		Host-associated	Host-associated (non-saline)
+11713.5.F.5E	human-gut	Host-associated	Animal-associated	Animal distal gut
