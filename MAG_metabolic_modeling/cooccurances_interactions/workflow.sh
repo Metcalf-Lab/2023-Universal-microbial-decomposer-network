@@ -266,3 +266,25 @@ smetana Models/*.xml -c ARF_cooccurances/advanced/size_20_part_1.tsv -g -v --fla
 
 # ARF advanced detailed
 smetana /Users/Zach/Dropbox/PMI_3_analyses/multi-omics_data/shotgun/wrighton_results/Models/*.xml -c ARF_cooccurances/advanced/size_20_part_1.tsv -d -v --flavor ucsd --molweight --exclude cooccurances/inorganic.txt -o ARF_cooccurances20_advanced
+
+### NULL MODEL ANALYSIS
+# Each facility and stage within had 20 MAGs randomly subsampled from them to test if a random subsample produces signfiicant difference similar to use co-occuring MAGs
+python random_selection.py null/CMU-early-relfreq-table.tsv null/CMU-early-rand.tsv
+python random_selection.py null/CMU-acive-relfreq-table.tsv null/CMU-active-rand.tsv
+python random_selection.py null/CMU-advanced-relfreq-table.tsv null/CMU-advanced-rand.tsv
+
+python random_selection.py null/UTK-early-relfreq-table.tsv null/UTK-early-rand.tsv
+python random_selection.py null/UTK-acive-relfreq-table.tsv null/UTK-active-rand.tsv
+python random_selection.py null/UTK-advanced-relfreq-table.tsv null/UTK-advanced-rand.tsv
+
+python random_selection.py null/SHSU-early-relfreq-table.tsv null/SHSU-early-rand.tsv
+python random_selection.py null/SHSU-acive-relfreq-table.tsv null/SHSU-active-rand.tsv
+python random_selection.py null/SHSU-advanced-relfreq-table.tsv null/SHSU-advanced-rand.tsv
+
+# run smetana on random null communitites
+cd null/
+for i in *-rand.tsv;                                                                                                                                
+do
+        filename=$(echo $i | cut -d. -f1)
+        smetana Models/*.xml -c $i -g -v --flavor ucsd --molweight --exclude cooccurances/inorganic.txt -o $filename
+done
