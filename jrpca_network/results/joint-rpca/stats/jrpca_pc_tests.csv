@@ -1,0 +1,17 @@
+﻿Test,Axis,Factor,n_groups,test-statistic,test-statistic-value,p-value
+Kruskal Wallis Test,1,season,4,H,218.4869197,4.26E-47
+Mann-Whitney U Test,1,climate,2,U,6429,0.000302408
+Kruskal Wallis Test,1,facility,3,H,14.1469549,0.000847282
+Kruskal Wallis Test,1,add_0c_group,4,H,8.577835915,0.035463682
+Kruskal Wallis Test,2,add_0c_group,4,H,111.8458882,4.40E-24
+Kruskal Wallis Test,2,season,4,H,83.79797545,4.70E-18
+Kruskal Wallis Test,2,facility,3,H,63.87998401,1.34E-14
+Mann-Whitney U Test,2,climate,2,U,11962,0.000218615
+Kruskal Wallis Test,3,facility,3,H,280.1642841,1.46E-61
+Mann-Whitney U Test,3,climate,2,U,748,1.00E-28
+Kruskal Wallis Test,3,add_0c_group,4,H,13.29269133,0.004044559
+Kruskal Wallis Test,3,season,4,H,6.056138559,0.108910678
+Kruskal Wallis Test,4,facility,3,H,267.3776636,8.70E-59
+Mann-Whitney U Test,4,climate,2,U,18259,2.89E-33
+Kruskal Wallis Test,4,season,4,H,12.17955458,0.006792722
+Kruskal Wallis Test,4,add_0c_group,4,H,9.090389967,0.028112932
