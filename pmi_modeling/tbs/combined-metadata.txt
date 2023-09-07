@@ -1,0 +1,746 @@
+sample-id	SampleID	add_0c	megyesi_score	facility	host_subject_id	days_since_placement	sample_site
+soil.hip.SHSU.2016.064.2016.08.25.day1	soil.hip.SHSU.2016.064.2016.08.25.day1	0	5	SHSU	2016.064	0	soil.hip
+soil.hip.SHSU.2016.064.2016.08.26.day2	soil.hip.SHSU.2016.064.2016.08.26.day2	27.5	5	SHSU	2016.064	1	soil.hip
+soil.hip.SHSU.2016.064.2016.08.27.day3	soil.hip.SHSU.2016.064.2016.08.27.day3	55.27777778	5	SHSU	2016.064	2	soil.hip
+soil.hip.SHSU.2016.064.2016.08.28.day4	soil.hip.SHSU.2016.064.2016.08.28.day4	82.22222222	9	SHSU	2016.064	3	soil.hip
+soil.hip.SHSU.2016.064.2016.08.29.day5	soil.hip.SHSU.2016.064.2016.08.29.day5	109.4444444	18	SHSU	2016.064	4	soil.hip
+soil.hip.SHSU.2016.064.2016.08.30.day6	soil.hip.SHSU.2016.064.2016.08.30.day6	137.5	16	SHSU	2016.064	5	soil.hip
+soil.hip.SHSU.2016.064.2016.08.31.day7	soil.hip.SHSU.2016.064.2016.08.31.day7	166.3888889	16	SHSU	2016.064	6	soil.hip
+soil.hip.SHSU.2016.064.2016.09.01.day8	soil.hip.SHSU.2016.064.2016.09.01.day8	195.5555556	16	SHSU	2016.064	7	soil.hip
+soil.hip.SHSU.2016.064.2016.09.02.day9	soil.hip.SHSU.2016.064.2016.09.02.day9	223.0555556	18	SHSU	2016.064	8	soil.hip
+soil.hip.SHSU.2016.064.2016.09.03.day10	soil.hip.SHSU.2016.064.2016.09.03.day10	250.2777778	18	SHSU	2016.064	9	soil.hip
+soil.hip.SHSU.2016.064.2016.09.04.day11	soil.hip.SHSU.2016.064.2016.09.04.day11	278.0555556	24	SHSU	2016.064	10	soil.hip
+soil.hip.SHSU.2016.064.2016.09.05.day12	soil.hip.SHSU.2016.064.2016.09.05.day12	306.9444444	24	SHSU	2016.064	11	soil.hip
+soil.hip.SHSU.2016.064.2016.09.06.day13	soil.hip.SHSU.2016.064.2016.09.06.day13	335.5555556	22	SHSU	2016.064	12	soil.hip
+soil.hip.SHSU.2016.064.2016.09.08.day15	soil.hip.SHSU.2016.064.2016.09.08.day15	393.6111111	23	SHSU	2016.064	14	soil.hip
+soil.hip.SHSU.2016.064.2016.09.09.day16	soil.hip.SHSU.2016.064.2016.09.09.day16	422.2222222	23	SHSU	2016.064	15	soil.hip
+soil.hip.SHSU.2016.064.2016.09.10.day17	soil.hip.SHSU.2016.064.2016.09.10.day17	449.4444444	25	SHSU	2016.064	16	soil.hip
+soil.hip.SHSU.2016.064.2016.09.11.day18	soil.hip.SHSU.2016.064.2016.09.11.day18	476.1111111	25	SHSU	2016.064	17	soil.hip
+soil.hip.SHSU.2016.064.2016.09.12.day19	soil.hip.SHSU.2016.064.2016.09.12.day19	503.3333333	25	SHSU	2016.064	18	soil.hip
+soil.hip.SHSU.2016.064.2016.09.13.day20	soil.hip.SHSU.2016.064.2016.09.13.day20	530.8333333	25	SHSU	2016.064	19	soil.hip
+soil.hip.SHSU.2016.064.2016.09.14.day21	soil.hip.SHSU.2016.064.2016.09.14.day21	558.6111111	25	SHSU	2016.064	20	soil.hip
+soil.hip.SHSU.2016.065.2016.08.25.day1	soil.hip.SHSU.2016.065.2016.08.25.day1	0	3	SHSU	2016.065	0	soil.hip
+soil.hip.SHSU.2016.065.2016.08.26.day2	soil.hip.SHSU.2016.065.2016.08.26.day2	27.5	4	SHSU	2016.065	1	soil.hip
+soil.hip.SHSU.2016.065.2016.08.27.day3	soil.hip.SHSU.2016.065.2016.08.27.day3	55.27777778	7	SHSU	2016.065	2	soil.hip
+soil.hip.SHSU.2016.065.2016.08.28.day4	soil.hip.SHSU.2016.065.2016.08.28.day4	82.22222222	11	SHSU	2016.065	3	soil.hip
+soil.hip.SHSU.2016.065.2016.08.29.day5	soil.hip.SHSU.2016.065.2016.08.29.day5	109.4444444	12	SHSU	2016.065	4	soil.hip
+soil.hip.SHSU.2016.065.2016.08.30.day6	soil.hip.SHSU.2016.065.2016.08.30.day6	137.5	15	SHSU	2016.065	5	soil.hip
+soil.hip.SHSU.2016.065.2016.08.31.day7	soil.hip.SHSU.2016.065.2016.08.31.day7	166.3888889	17	SHSU	2016.065	6	soil.hip
+soil.hip.SHSU.2016.065.2016.09.01.day8	soil.hip.SHSU.2016.065.2016.09.01.day8	195.5555556	18	SHSU	2016.065	7	soil.hip
+soil.hip.SHSU.2016.065.2016.09.02.day9	soil.hip.SHSU.2016.065.2016.09.02.day9	223.0555556	20	SHSU	2016.065	8	soil.hip
+soil.hip.SHSU2016.065.2016.09.03.day10	soil.hip.SHSU2016.065.2016.09.03.day10	250.2777778	20	SHSU	2016.065	9	soil.hip
+soil.hip.SHSU.2016.065.2016.09.04.day11	soil.hip.SHSU.2016.065.2016.09.04.day11	278.0555556	22	SHSU	2016.065	10	soil.hip
+soil.hip.SHSU.2016.065.2016.09.05.day12	soil.hip.SHSU.2016.065.2016.09.05.day12	306.9444444	22	SHSU	2016.065	11	soil.hip
+soil.hip.SHSU.2016.065.2016.09.06.day13	soil.hip.SHSU.2016.065.2016.09.06.day13	335.5555556	21	SHSU	2016.065	12	soil.hip
+soil.hip.SHSU.2016.065.2016.09.07.day14	soil.hip.SHSU.2016.065.2016.09.07.day14	364.1666667	21	SHSU	2016.065	13	soil.hip
+soil.hip.SHSU.2016.065.2016.09.08.day15	soil.hip.SHSU.2016.065.2016.09.08.day15	393.6111111	21	SHSU	2016.065	14	soil.hip
+soil.hip.SHSU.2016.065.2016.09.09.day16	soil.hip.SHSU.2016.065.2016.09.09.day16	422.2222222	23	SHSU	2016.065	15	soil.hip
+soil.hip.SHSU.2016.065.2016.09.10.day17	soil.hip.SHSU.2016.065.2016.09.10.day17	449.4444444	22	SHSU	2016.065	16	soil.hip
+soil.hip.SHSU.2016.065.2016.09.11.day18	soil.hip.SHSU.2016.065.2016.09.11.day18	476.1111111	22	SHSU	2016.065	17	soil.hip
+soil.hip.SHSU.2016.065.2016.09.12.day19	soil.hip.SHSU.2016.065.2016.09.12.day19	503.3333333	22	SHSU	2016.065	18	soil.hip
+soil.hip.SHSU.2016.065.2016.09.13.day20	soil.hip.SHSU.2016.065.2016.09.13.day20	530.8333333	23	SHSU	2016.065	19	soil.hip
+soil.hip.SHSU.2016.065.2016.09.14.day21	soil.hip.SHSU.2016.065.2016.09.14.day21	558.6111111	23	SHSU	2016.065	20	soil.hip
+soil.hip.SHSU.2016.067.2016.09.16.day1	soil.hip.SHSU.2016.067.2016.09.16.day1	0	3	SHSU	2016.067	0	soil.hip
+soil.hip.SHSU.2016.067.2016.09.17.day2	soil.hip.SHSU.2016.067.2016.09.17.day2	29.2	3	SHSU	2016.067	1	soil.hip
+soil.hip.SHSU.2016.067.2016.09.18.day3	soil.hip.SHSU.2016.067.2016.09.18.day3	58.9	3	SHSU	2016.067	2	soil.hip
+soil.hip.SHSU.2016.067.2016.09.19.day4	soil.hip.SHSU.2016.067.2016.09.19.day4	89.75	9	SHSU	2016.067	3	soil.hip
+soil.hip.SHSU.2016.067.2016.09.20.day5	soil.hip.SHSU.2016.067.2016.09.20.day5	118.95	12	SHSU	2016.067	4	soil.hip
+soil.hip.SHSU.2016.067.2016.09.21.day6	soil.hip.SHSU.2016.067.2016.09.21.day6	146.15	14	SHSU	2016.067	5	soil.hip
+soil.hip.SHSU.2016.067.2016.09.22.day7	soil.hip.SHSU.2016.067.2016.09.22.day7	173.4	18	SHSU	2016.067	6	soil.hip
+soil.hip.SHSU.2016.067.2016.09.24.day9	soil.hip.SHSU.2016.067.2016.09.24.day9	229.8	18	SHSU	2016.067	8	soil.hip
+soil.hip.SHSU.2016.067.2016.09.25.day10	soil.hip.SHSU.2016.067.2016.09.25.day10	256.45	19	SHSU	2016.067	9	soil.hip
+soil.hip.SHSU.2016.067.2016.09.26.day11	soil.hip.SHSU.2016.067.2016.09.26.day11	280.6	22	SHSU	2016.067	10	soil.hip
+soil.hip.SHSU.2016.067.2016.09.28.day13	soil.hip.SHSU.2016.067.2016.09.28.day13	327	22	SHSU	2016.067	12	soil.hip
+soil.hip.SHSU.2016.067.2016.09.29.day14	soil.hip.SHSU.2016.067.2016.09.29.day14	348.1	23	SHSU	2016.067	13	soil.hip
+soil.hip.SHSU.2016.067.2016.09.30.day15	soil.hip.SHSU.2016.067.2016.09.30.day15	367.55	23	SHSU	2016.067	14	soil.hip
+soil.hip.SHSU.2016.067.2016.10.01.day16	soil.hip.SHSU.2016.067.2016.10.01.day16	388.4	24	SHSU	2016.067	15	soil.hip
+soil.hip.SHSU.2016.067.2016.10.02.day17	soil.hip.SHSU.2016.067.2016.10.02.day17	410.3	24	SHSU	2016.067	16	soil.hip
+soil.hip.SHSU2016.067.2016.10.03.day18	soil.hip.SHSU2016.067.2016.10.03.day18	432.5	25	SHSU	2016.067	17	soil.hip
+soil.hip.SHSU.2016.067.2016.10.04.day19	soil.hip.SHSU.2016.067.2016.10.04.day19	457.5	25	SHSU	2016.067	18	soil.hip
+soil.hip.SHSU.2016.067.2016.10.05.day20	soil.hip.SHSU.2016.067.2016.10.05.day20	486.1	25	SHSU	2016.067	19	soil.hip
+soil.hip.SHSU.2016.067.2016.10.06.day21	soil.hip.SHSU.2016.067.2016.10.06.day21	513.85	25	SHSU	2016.067	20	soil.hip
+soil.hip.SHSU.2016.072.2016.11.04.day1	soil.hip.SHSU.2016.072.2016.11.04.day1	0	3	SHSU	2016.072	0	soil.hip
+soil.hip.SHSU.2016.072.2016.11.05.day2	soil.hip.SHSU.2016.072.2016.11.05.day2	19.45	3	SHSU	2016.072	1	soil.hip
+soil.hip.SHSU.2016.072.2016.11.06.day3	soil.hip.SHSU.2016.072.2016.11.06.day3	40.6	3	SHSU	2016.072	2	soil.hip
+soil.hip.SHSU.2016.072.2016.11.07.day4	soil.hip.SHSU.2016.072.2016.11.07.day4	62.55	3	SHSU	2016.072	3	soil.hip
+soil.hip.SHSU.2016.072.2016.11.08.day5	soil.hip.SHSU.2016.072.2016.11.08.day5	82	3	SHSU	2016.072	4	soil.hip
+soil.hip.SHSU.2016.072.2016.11.09.day6	soil.hip.SHSU.2016.072.2016.11.09.day6	100.6	5	SHSU	2016.072	5	soil.hip
+soil.hip.SHSU.2016.072.2016.11.10.day7	soil.hip.SHSU.2016.072.2016.11.10.day7	117.55	9	SHSU	2016.072	6	soil.hip
+soil.hip.SHSU.2016.072.2016.11.11.day8	soil.hip.SHSU.2016.072.2016.11.11.day8	135.35	9	SHSU	2016.072	7	soil.hip
+soil.hip.SHSU.2016.072.2016.11.12.day9	soil.hip.SHSU.2016.072.2016.11.12.day9	154	12	SHSU	2016.072	8	soil.hip
+soil.hip.SHSU.2016.072.2016.11.13.day10	soil.hip.SHSU.2016.072.2016.11.13.day10	170.4	12	SHSU	2016.072	9	soil.hip
+soil.hip.SHSU.2016.072.2016.11.14.day11	soil.hip.SHSU.2016.072.2016.11.14.day11	189.05	12	SHSU	2016.072	10	soil.hip
+soil.hip.SHSU.2016.072.2016.11.15.day12	soil.hip.SHSU.2016.072.2016.11.15.day12	209.6	12	SHSU	2016.072	11	soil.hip
+soil.hip.SHSU.206.072.2016.11.16.day13	soil.hip.SHSU.206.072.2016.11.16.day13	230.7	13	SHSU	2016.072	12	soil.hip
+soil.hip.SHSU.2016.072.2016.11.17.day14	soil.hip.SHSU.2016.072.2016.11.17.day14	252.9	14	SHSU	2016.072	13	soil.hip
+soil.hip.SHSU.2016.072.2016.11.18.day15	soil.hip.SHSU.2016.072.2016.11.18.day15	271.25	15	SHSU	2016.072	14	soil.hip
+soil.hip.SHSU.2016.072.2016.11.19.day16	soil.hip.SHSU.2016.072.2016.11.19.day16	281	15	SHSU	2016.072	15	soil.hip
+soil.hip.SHSU.2016.072.2016.11.20.day17	soil.hip.SHSU.2016.072.2016.11.20.day17	289.9	15	SHSU	2016.072	16	soil.hip
+soil.hip.SHSU.2016.072.2016.11.21.day18	soil.hip.SHSU.2016.072.2016.11.21.day18	305.2	15	SHSU	2016.072	17	soil.hip
+soil.hip.SHSU.2016.072.2016.11.22.day19	soil.hip.SHSU.2016.072.2016.11.22.day19	326.9	15	SHSU	2016.072	18	soil.hip
+soil.hip.SHSU.2016.072.2016.11.23.day20	soil.hip.SHSU.2016.072.2016.11.23.day20	342.45	15	SHSU	2016.072	19	soil.hip
+soil.hip.SHSU.2016.072.2016.11.24.day21	soil.hip.SHSU.2016.072.2016.11.24.day21	357.45	15	SHSU	2016.072	20	soil.hip
+soil.hip.SHSU.2016.073.2016.11.04.day1	soil.hip.SHSU.2016.073.2016.11.04.day1	0	3	SHSU	2016.073	0	soil.hip
+soil.hip.SHSU.2016.073.2016.11.05.day2	soil.hip.SHSU.2016.073.2016.11.05.day2	19.45	3	SHSU	2016.073	1	soil.hip
+soil.hip.SHSU.2016.073.2016.11.06.day3	soil.hip.SHSU.2016.073.2016.11.06.day3	40.6	3	SHSU	2016.073	2	soil.hip
+soil.hip.SHSU.2016.073.2016.11.07.day4	soil.hip.SHSU.2016.073.2016.11.07.day4	62.55	3	SHSU	2016.073	3	soil.hip
+soil.hip.SHSU.2016.073.2016.11.08.day5	soil.hip.SHSU.2016.073.2016.11.08.day5	82	3	SHSU	2016.073	4	soil.hip
+soil.hip.SHSU.2016.073.2016.11.09.day6	soil.hip.SHSU.2016.073.2016.11.09.day6	100.6	4	SHSU	2016.073	5	soil.hip
+soil.hip.SHSU.2016.073.2016.11.10.day7	soil.hip.SHSU.2016.073.2016.11.10.day7	117.55	5	SHSU	2016.073	6	soil.hip
+soil.hip.SHSU.2016.073.2016.11.11.day8	soil.hip.SHSU.2016.073.2016.11.11.day8	135.35	5	SHSU	2016.073	7	soil.hip
+soil.hip.SHSU.2016.073.2016.11.12.day9	soil.hip.SHSU.2016.073.2016.11.12.day9	154	6	SHSU	2016.073	8	soil.hip
+soil.hip.SHSU.2016.073.2016.11.13.day10	soil.hip.SHSU.2016.073.2016.11.13.day10	170.4	8	SHSU	2016.073	9	soil.hip
+soil.hip.SHSU.2016.073.2016.11.14.day11	soil.hip.SHSU.2016.073.2016.11.14.day11	189.05	8	SHSU	2016.073	10	soil.hip
+soil.hip.SHSU.2016.073.2016.11.15.day12	soil.hip.SHSU.2016.073.2016.11.15.day12	209.6	11	SHSU	2016.073	11	soil.hip
+soil.hip.SHSU.2016.073.2016.11.16.day13	soil.hip.SHSU.2016.073.2016.11.16.day13	230.7	15	SHSU	2016.073	12	soil.hip
+soil.hip.SHSU.2016.073.2016.11.17.day14	soil.hip.SHSU.2016.073.2016.11.17.day14	252.9	15	SHSU	2016.073	13	soil.hip
+soil.hip.SHSU.2016.073.2016.11.18.day15	soil.hip.SHSU.2016.073.2016.11.18.day15	271.25	15	SHSU	2016.073	14	soil.hip
+soil.hip.SHSU.2016.073.2016.11.19.day16	soil.hip.SHSU.2016.073.2016.11.19.day16	281	15	SHSU	2016.073	15	soil.hip
+soil.hip.SHSU.2016.073.2016.11.20.day17	soil.hip.SHSU.2016.073.2016.11.20.day17	289.9	18	SHSU	2016.073	16	soil.hip
+soil.hip.SHSU.2016.073.2016.11.21.day18	soil.hip.SHSU.2016.073.2016.11.21.day18	305.2	20	SHSU	2016.073	17	soil.hip
+soil.hip.SHSU.2016.073.2016.11.22.day19	soil.hip.SHSU.2016.073.2016.11.22.day19	326.9	20	SHSU	2016.073	18	soil.hip
+soil.hip.SHSU.2016.073.2016.11.23.day20	soil.hip.SHSU.2016.073.2016.11.23.day20	342.45	20	SHSU	2016.073	19	soil.hip
+soil.hip.SHSU.2016.073.2016.11.24.day21	soil.hip.SHSU.2016.073.2016.11.24.day21	357.45	20	SHSU	2016.073	20	soil.hip
+soil.hip.SHSU.2016.076.2016.11.22.day1	soil.hip.SHSU.2016.076.2016.11.22.day1	0	3	SHSU	2016.076	0	soil.hip
+soil.hip.SHSU.2016.076.2016.11.23.day2	soil.hip.SHSU.2016.076.2016.11.23.day2	15.55	6	SHSU	2016.076	1	soil.hip
+soil.hip.SHSU.2016.076.2016.11.24.day3	soil.hip.SHSU.2016.076.2016.11.24.day3	30.55	6	SHSU	2016.076	2	soil.hip
+soil.hip.SHSU.2016.076.2016.11.25.day4	soil.hip.SHSU.2016.076.2016.11.25.day4	47.5	6	SHSU	2016.076	3	soil.hip
+soil.hip.SHSU.2016.076.2016.11.26.day5	soil.hip.SHSU.2016.076.2016.11.26.day5	63.6	6	SHSU	2016.076	4	soil.hip
+soil.hip.SHSU.2016.076.2016.11.27.day6	soil.hip.SHSU.2016.076.2016.11.27.day6	80.3	7	SHSU	2016.076	5	soil.hip
+soil.hip.SHSU.2016.076.2016.11.28.day7	soil.hip.SHSU.2016.076.2016.11.28.day7	99.45	7	SHSU	2016.076	6	soil.hip
+soil.hip.SHSU.2016.076.2016.11.29.day8	soil.hip.SHSU.2016.076.2016.11.29.day8	116.1	7	SHSU	2016.076	7	soil.hip
+soil.hip.SHSU.2016.076.2016.11.30.day9	soil.hip.SHSU.2016.076.2016.11.30.day9	127.45	8	SHSU	2016.076	8	soil.hip
+soil.hip.SHSU.2016.076.2016.12.01.day10	soil.hip.SHSU.2016.076.2016.12.01.day10	137.75	8	SHSU	2016.076	9	soil.hip
+soil.hip.SHSU.2016.076.2016.12.02.day11	soil.hip.SHSU.2016.076.2016.12.02.day11	149.4	8	SHSU	2016.076	10	soil.hip
+soil.hip.SHSU.2016.076.2016.12.03.day12	soil.hip.SHSU.2016.076.2016.12.03.day12	159.15	8	SHSU	2016.076	11	soil.hip
+soil.hip.SHSU.2016.076.2016.12.04.day13	soil.hip.SHSU.2016.076.2016.12.04.day13	169.15	9	SHSU	2016.076	12	soil.hip
+soil.hip.SHSU.2016.076.2016.12.05.day14	soil.hip.SHSU.2016.076.2016.12.05.day14	178.6	9	SHSU	2016.076	13	soil.hip
+soil.hip.SHSU.2016.076.2016.12.06.day15	soil.hip.SHSU.2016.076.2016.12.06.day15	190.5	9	SHSU	2016.076	14	soil.hip
+soil.hip.SHSU.2016.076.2016.12.07.day16	soil.hip.SHSU.2016.076.2016.12.07.day16	203	9	SHSU	2016.076	15	soil.hip
+soil.hip.SHSU.2016.076.2016.12.08.day17	soil.hip.SHSU.2016.076.2016.12.08.day17	210.25	10	SHSU	2016.076	16	soil.hip
+soil.hip.SHSU.2016.076.2016.12.09.day18	soil.hip.SHSU.2016.076.2016.12.09.day18	213.9	13	SHSU	2016.076	17	soil.hip
+soil.hip.SHSU.2016.076.2016.12.10.day19	soil.hip.SHSU.2016.076.2016.12.10.day19	219.45	13	SHSU	2016.076	18	soil.hip
+soil.hip.SHSU.2016.076.2016.12.11.day20	soil.hip.SHSU.2016.076.2016.12.11.day20	236.4	13	SHSU	2016.076	19	soil.hip
+soil.hip.SHSU.2016.076.2016.12.12.day21	soil.hip.SHSU.2016.076.2016.12.12.day21	254.5	14	SHSU	2016.076	20	soil.hip
+soil.hip.SHSU.2017.043.2017.11.30.day1	soil.hip.SHSU.2017.043.2017.11.30.day1	0	3	SHSU	2017.043	0	soil.hip
+soil.hip.SHSU.2017.043.2017.12.01.day2	soil.hip.SHSU.2017.043.2017.12.01.day2	14.75	3	SHSU	2017.043	1	soil.hip
+soil.hip.SHSU.2017.043.2017.12.02.day3	soil.hip.SHSU.2017.043.2017.12.02.day3	31.95	3	SHSU	2017.043	2	soil.hip
+soil.hip.SHSU.2017.043.2017.12.03.day4	soil.hip.SHSU.2017.043.2017.12.03.day4	49.45	3	SHSU	2017.043	3	soil.hip
+soil.hip.SHSU.2017.043.2017.12.04.day5	soil.hip.SHSU.2017.043.2017.12.04.day5	72.5	3	SHSU	2017.043	4	soil.hip
+soil.hip.SHSU.2017.043.2017.12.05.day6	soil.hip.SHSU.2017.043.2017.12.05.day6	88.6	4	SHSU	2017.043	5	soil.hip
+soil.hip.SHSU.2017.043.2017.12.06.day7	soil.hip.SHSU.2017.043.2017.12.06.day7	96.1	5	SHSU	2017.043	6	soil.hip
+soil.hip.SHSU.2017.043.2017.12.07.day8	soil.hip.SHSU.2017.043.2017.12.07.day8	100.55	7	SHSU	2017.043	7	soil.hip
+soil.hip.SHSU.2017.043.2017.12.08.day9	soil.hip.SHSU.2017.043.2017.12.08.day9	103.65	7	SHSU	2017.043	8	soil.hip
+soil.hip.SHSU.2017.043.2017.12.09.day10	soil.hip.SHSU.2017.043.2017.12.09.day10	111.45	11	SHSU	2017.043	9	soil.hip
+soil.hip.SHSU.2017.043.2017.12.10.day11	soil.hip.SHSU.2017.043.2017.12.10.day11	120.1	11	SHSU	2017.043	10	soil.hip
+soil.hip.SHSU.2017.043.2017.12.11.day12	soil.hip.SHSU.2017.043.2017.12.11.day12	134.25	11	SHSU	2017.043	11	soil.hip
+soil.hip.SHSU.2017.043.2017.12.12.day13	soil.hip.SHSU.2017.043.2017.12.12.day13	143.4	12	SHSU	2017.043	12	soil.hip
+soil.hip.SHSU.2017.043.2017.12.13.day14	soil.hip.SHSU.2017.043.2017.12.13.day14	150.6	12	SHSU	2017.043	13	soil.hip
+soil.hip.SHSU.2017.043.2017.12.14.day15	soil.hip.SHSU.2017.043.2017.12.14.day15	162.3	12	SHSU	2017.043	14	soil.hip
+soil.hip.SHSU.2017.043.2017.12.15.day16	soil.hip.SHSU.2017.043.2017.12.15.day16	172.55	12	SHSU	2017.043	15	soil.hip
+soil.hip.SHSU.2017.043.2017.12.16.day17	soil.hip.SHSU.2017.043.2017.12.16.day17	180.3	12	SHSU	2017.043	16	soil.hip
+soil.hip.SHSU.2017.043.2017.12.17.day18	soil.hip.SHSU.2017.043.2017.12.17.day18	190.85	13	SHSU	2017.043	17	soil.hip
+soil.hip.SHSU.2017.043.2017.12.18.day19	soil.hip.SHSU.2017.043.2017.12.18.day19	205	13	SHSU	2017.043	18	soil.hip
+soil.hip.SHSU.2017.043.2017.12.19.day20	soil.hip.SHSU.2017.043.2017.12.19.day20	225.85	13	SHSU	2017.043	19	soil.hip
+soil.hip.SHSU.2017.043.2017.12.20.day21	soil.hip.SHSU.2017.043.2017.12.20.day21	243.05	13	SHSU	2017.043	20	soil.hip
+soil.hip.SHSU.2017.045.2017.12.12.day1	soil.hip.SHSU.2017.045.2017.12.12.day1	0	3	SHSU	2017.045	0	soil.hip
+soil.hip.SHSU.2017.045.2017.12.13.day2	soil.hip.SHSU.2017.045.2017.12.13.day2	7.2	3	SHSU	2017.045	1	soil.hip
+soil.hip.SHSU.2017.045.2017.12.14.day3	soil.hip.SHSU.2017.045.2017.12.14.day3	18.9	3	SHSU	2017.045	2	soil.hip
+soil.hip.SHSU.2017.045.2017.12.15.day4	soil.hip.SHSU.2017.045.2017.12.15.day4	29.15	4	SHSU	2017.045	3	soil.hip
+soil.hip.SHSU.2017.045.2017.12.16.day5	soil.hip.SHSU.2017.045.2017.12.16.day5	36.9	4	SHSU	2017.045	4	soil.hip
+soil.hip.SHSU.2017.045.2017.12.17.day6	soil.hip.SHSU.2017.045.2017.12.17.day6	47.45	4	SHSU	2017.045	5	soil.hip
+soil.hip.SHSU.2017.045.2017.12.18.day7	soil.hip.SHSU.2017.045.2017.12.18.day7	61.6	6	SHSU	2017.045	6	soil.hip
+soil.hip.SHSU.2017.045.2017.12.19.day8	soil.hip.SHSU.2017.045.2017.12.19.day8	82.45	7	SHSU	2017.045	7	soil.hip
+soil.hip.SHSU.2017.045.2017.12.20.day9	soil.hip.SHSU.2017.045.2017.12.20.day9	99.65	8	SHSU	2017.045	8	soil.hip
+soil.hip.SHSU.2017.045.2017.12.21.day10	soil.hip.SHSU.2017.045.2017.12.21.day10	117.15	8	SHSU	2017.045	9	soil.hip
+soil.hip.SHSU.2017.045.2017.12.22.day11	soil.hip.SHSU.2017.045.2017.12.22.day11	132.15	11	SHSU	2017.045	10	soil.hip
+soil.hip.SHSU.2017.045.2017.12.23.day12	soil.hip.SHSU.2017.045.2017.12.23.day12	139.9	11	SHSU	2017.045	11	soil.hip
+soil.hip.SHSU.2017.045.2017.12.24.day13	soil.hip.SHSU.2017.045.2017.12.24.day13	149.05	12	SHSU	2017.045	12	soil.hip
+soil.hip.SHSU.2017.045.2017.12.25.day14	soil.hip.SHSU.2017.045.2017.12.25.day14	154.4	12	SHSU	2017.045	13	soil.hip
+soil.hip.SHSU.2017.045.2017.12.26.day15	soil.hip.SHSU.2017.045.2017.12.26.day15	161.6	12	SHSU	2017.045	14	soil.hip
+soil.hip.SHSU.2017.045.2017.12.27.day16	soil.hip.SHSU.2017.045.2017.12.27.day16	166.05	12	SHSU	2017.045	15	soil.hip
+soil.hip.SHSU.2017.045.2017.12.28.day17	soil.hip.SHSU.2017.045.2017.12.28.day17	170.75	12	SHSU	2017.045	16	soil.hip
+soil.hip.SHSU.2017.045.2017.12.29.day18	soil.hip.SHSU.2017.045.2017.12.29.day18	178.25	12	SHSU	2017.045	17	soil.hip
+soil.hip.SHSU.2017.045.2017.12.30.day19	soil.hip.SHSU.2017.045.2017.12.30.day19	187.45	12	SHSU	2017.045	18	soil.hip
+soil.hip.SHSU.2017.045.2017.12.31.day20	soil.hip.SHSU.2017.045.2017.12.31.day20	191.6	12	SHSU	2017.045	19	soil.hip
+soil.hip.SHSU.2017.045.2017.01.01.day21	soil.hip.SHSU.2017.045.2017.01.01.day21	191.65	12	SHSU	2017.045	20	soil.hip
+soil.hip.SHSU.2017.046.2017.12.19.day1	soil.hip.SHSU.2017.046.2017.12.19.day1	0	3	SHSU	2017.046	0	soil.hip
+soil.hip.SHSU.2017.046.2017.12.20.day2	soil.hip.SHSU.2017.046.2017.12.20.day2	17.2	6	SHSU	2017.046	1	soil.hip
+soil.hip.SHSU.2017.046.2017.12.21.day3	soil.hip.SHSU.2017.046.2017.12.21.day3	34.7	6	SHSU	2017.046	2	soil.hip
+soil.hip.SHSU.2017.046.2017.12.22.day4	soil.hip.SHSU.2017.046.2017.12.22.day4	49.7	6	SHSU	2017.046	3	soil.hip
+soil.hip.SHSU.2017.046.2017.12.23.day5	soil.hip.SHSU.2017.046.2017.12.23.day5	57.45	6	SHSU	2017.046	4	soil.hip
+soil.hip.SHSU.2017.046.2017.12.24.day6	soil.hip.SHSU.2017.046.2017.12.24.day6	66.6	7	SHSU	2017.046	5	soil.hip
+soil.hip.SHSU.2017.046.2017.12.25.day7	soil.hip.SHSU.2017.046.2017.12.25.day7	71.95	9	SHSU	2017.046	6	soil.hip
+soil.hip.SHSU.2017.046.2017.12.26.day8	soil.hip.SHSU.2017.046.2017.12.26.day8	79.15	10	SHSU	2017.046	7	soil.hip
+soil.hip.SHSU.2017.046.2017.12.27.day9	soil.hip.SHSU.2017.046.2017.12.27.day9	83.6	10	SHSU	2017.046	8	soil.hip
+soil.hip.SHSU.2017.046.2017.12.28.day10	soil.hip.SHSU.2017.046.2017.12.28.day10	88.3	10	SHSU	2017.046	9	soil.hip
+soil.hip.SHSU.2017.046.2017.12.29.day11	soil.hip.SHSU.2017.046.2017.12.29.day11	95.8	11	SHSU	2017.046	10	soil.hip
+soil.hip.SHSU.2017.046.2017.12.30.day12	soil.hip.SHSU.2017.046.2017.12.30.day12	105	11	SHSU	2017.046	11	soil.hip
+soil.hip.SHSU.2017.046.2017.12.31.day13	soil.hip.SHSU.2017.046.2017.12.31.day13	109.15	11	SHSU	2017.046	12	soil.hip
+soil.hip.SHSU.2017.046.2017.01.01.day14	soil.hip.SHSU.2017.046.2017.01.01.day14	109.2	12	SHSU	2017.046	13	soil.hip
+soil.hip.SHSU.2017.046.2018.01.02.day15	soil.hip.SHSU.2017.046.2018.01.02.day15	109.2	12	SHSU	2017.046	14	soil.hip
+soil.hip.SHSU.2017.046.2018.01.03.day16	soil.hip.SHSU.2017.046.2018.01.03.day16	110.05	12	SHSU	2017.046	15	soil.hip
+soil.hip.SHSU.2017.046.2018.01.04.day17	soil.hip.SHSU.2017.046.2018.01.04.day17	113.45	12	SHSU	2017.046	16	soil.hip
+soil.hip.SHSU.2017.046.2018.01.05.day18	soil.hip.SHSU.2017.046.2018.01.05.day18	122.1	12	SHSU	2017.046	17	soil.hip
+soil.hip.SHSU.2017.046.2018.01.06.day19	soil.hip.SHSU.2017.046.2018.01.06.day19	130.75	15	SHSU	2017.046	18	soil.hip
+soil.hip.SHSU.2017.046.2018.01.07.day20	soil.hip.SHSU.2017.046.2018.01.07.day20	144.6	15	SHSU	2017.046	19	soil.hip
+soil.hip.SHSU.2017.046.2018.01.08.day21	soil.hip.SHSU.2017.046.2018.01.08.day21	156	15	SHSU	2017.046	20	soil.hip
+soil.hip.CMU.16.12.2016.10.day.day1	soil.hip.CMU.16.12.2016.10.day.day1	0	7	CMU	16-12	0	soil.hip
+soil.hip.CMU.16.12.2016.10.day.day2	soil.hip.CMU.16.12.2016.10.day.day2	5.55	6.5	CMU	16-12	1	soil.hip
+soil.hip.CMU.16.12.2016.10.day.day3	soil.hip.CMU.16.12.2016.10.day.day3	11.1	6.5	CMU	16-12	2	soil.hip
+soil.hip.CMU.16.12.2016.10.day.day4	soil.hip.CMU.16.12.2016.10.day.day4	14.4	6	CMU	16-12	3	soil.hip
+soil.hip.CMU.16.12.2016.10.day.day5	soil.hip.CMU.16.12.2016.10.day.day5	16.9	10	CMU	16-12	4	soil.hip
+soil.hip.CMU.16.12.2016.10.day.day6	soil.hip.CMU.16.12.2016.10.day.day6	20.8	12	CMU	16-12	5	soil.hip
+soil.hip.CMU.16.12.2016.10.day.day7	soil.hip.CMU.16.12.2016.10.day.day7	25.8	12	CMU	16-12	6	soil.hip
+soil.hip.CMU.16.12.2016.10.day.day8	soil.hip.CMU.16.12.2016.10.day.day8	26.1	8.5	CMU	16-12	7	soil.hip
+soil.hip.CMU.16.12.2016.10.day.day9	soil.hip.CMU.16.12.2016.10.day.day9	26.1	12.5	CMU	16-12	8	soil.hip
+soil.hip.CMU.16.12.2016.10.day.day10	soil.hip.CMU.16.12.2016.10.day.day10	26.1	12	CMU	16-12	9	soil.hip
+soil.hip.CMU.16.12.2016.11.day.day11	soil.hip.CMU.16.12.2016.11.day.day11	26.1	8.5	CMU	16-12	10	soil.hip
+soil.hip.CMU.16.12.2016.11.day.day12	soil.hip.CMU.16.12.2016.11.day.day12	26.1	11.5	CMU	16-12	11	soil.hip
+soil.hip.CMU.16.12.2016.11.day.day13	soil.hip.CMU.16.12.2016.11.day.day13	26.1	13	CMU	16-12	12	soil.hip
+soil.hip.CMU.16.12.2016.11.day.day14	soil.hip.CMU.16.12.2016.11.day.day14	26.1	13	CMU	16-12	13	soil.hip
+soil.hip.CMU.16.12.2016.11.day.day15	soil.hip.CMU.16.12.2016.11.day.day15	27.5	12	CMU	16-12	14	soil.hip
+soil.hip.CMU.16.12.2016.11.day.day16	soil.hip.CMU.16.12.2016.11.day.day16	27.5	15	CMU	16-12	15	soil.hip
+soil.hip.CMU.16.12.2016.11.day.day17	soil.hip.CMU.16.12.2016.11.day.day17	27.5	12	CMU	16-12	16	soil.hip
+soil.hip.CMU.16.12.2016.11.day.day18	soil.hip.CMU.16.12.2016.11.day.day18	27.5	13	CMU	16-12	17	soil.hip
+soil.hip.CMU.16.12.2016.11.day.day19	soil.hip.CMU.16.12.2016.11.day.day19	27.5	12.5	CMU	16-12	18	soil.hip
+soil.hip.CMU.16.12.2016.11.day.day20	soil.hip.CMU.16.12.2016.11.day.day20	27.5	16	CMU	16-12	19	soil.hip
+soil.hip.CMU.16.12.2016.11.day.day21	soil.hip.CMU.16.12.2016.11.day.day21	31.1	13	CMU	16-12	20	soil.hip
+soil.hip.CMU.16.14.2016.11.day.day1	soil.hip.CMU.16.14.2016.11.day.day1	0	3.5	CMU	16-14	0	soil.hip
+soil.hip.CMU.16.14.2016.11.day.day2	soil.hip.CMU.16.14.2016.11.day.day2	0	4	CMU	16-14	1	soil.hip
+soil.hip.CMU.16.14.2016.12.day.day3	soil.hip.CMU.16.14.2016.12.day.day3	0	6	CMU	16-14	2	soil.hip
+soil.hip.CMU.16.14.2016.12.day.day4	soil.hip.CMU.16.14.2016.12.day.day4	0	6	CMU	16-14	3	soil.hip
+soil.hip.CMU.16.14.2016.12.day.day5	soil.hip.CMU.16.14.2016.12.day.day5	0	8	CMU	16-14	4	soil.hip
+soil.hip.CMU.16.14.2016.12.day.day6	soil.hip.CMU.16.14.2016.12.day.day6	0	9	CMU	16-14	5	soil.hip
+soil.hip.CMU.16.14.2016.12.day.day7	soil.hip.CMU.16.14.2016.12.day.day7	1.4	8	CMU	16-14	6	soil.hip
+soil.hip.CMU.16.14.2016.12.day.day8	soil.hip.CMU.16.14.2016.12.day.day8	1.4	10	CMU	16-14	7	soil.hip
+soil.hip.CMU.16.14.2016.12.day.day9	soil.hip.CMU.16.14.2016.12.day.day9	1.4	8.5	CMU	16-14	8	soil.hip
+soil.hip.CMU.16.14.2016.12.day.day10	soil.hip.CMU.16.14.2016.12.day.day10	1.4	9	CMU	16-14	9	soil.hip
+soil.hip.CMU.16.14.2016.12.day.day11	soil.hip.CMU.16.14.2016.12.day.day11	1.4	7.5	CMU	16-14	10	soil.hip
+soil.hip.CMU.16.14.2016.12.day.day12	soil.hip.CMU.16.14.2016.12.day.day12	1.4	9	CMU	16-14	11	soil.hip
+soil.hip.CMU.16.14.2016.12.day.day13	soil.hip.CMU.16.14.2016.12.day.day13	5	9	CMU	16-14	12	soil.hip
+soil.hip.CMU.16.14.2016.12.day.day14	soil.hip.CMU.16.14.2016.12.day.day14	6.95	8.5	CMU	16-14	13	soil.hip
+soil.hip.CMU.16.14.2016.12.day.day15	soil.hip.CMU.16.14.2016.12.day.day15	6.95	9	CMU	16-14	14	soil.hip
+soil.hip.CMU.16.14.2016.12.day.day16	soil.hip.CMU.16.14.2016.12.day.day16	8.05	10	CMU	16-14	15	soil.hip
+soil.hip.CMU.16.14.2016.12.day.day17	soil.hip.CMU.16.14.2016.12.day.day17	12.75	10.5	CMU	16-14	16	soil.hip
+soil.hip.CMU.16.14.2016.12.day.day18	soil.hip.CMU.16.14.2016.12.day.day18	19.4	13	CMU	16-14	17	soil.hip
+soil.hip.CMU.16.14.2016.12.day.day19	soil.hip.CMU.16.14.2016.12.day.day19	19.4	9	CMU	16-14	18	soil.hip
+soil.hip.CMU.16.14.2016.12.day.day20	soil.hip.CMU.16.14.2016.12.day.day20	19.4	9	CMU	16-14	19	soil.hip
+soil.hip.CMU.16.14.2016.12.day.day21	soil.hip.CMU.16.14.2016.12.day.day21	19.4	10	CMU	16-14	20	soil.hip
+soil.hip.CMU.17.10.2017.08.09.day1	soil.hip.CMU.17.10.2017.08.09.day1	0	3	CMU	17-10	0	soil.hip
+soil.hip.CMU.17.10.2017.08.10.day2	soil.hip.CMU.17.10.2017.08.10.day2	25.55	4	CMU	17-10	1	soil.hip
+soil.hip.CMU.17.10.2017.08.11.day3	soil.hip.CMU.17.10.2017.08.11.day3	49.75	5	CMU	17-10	2	soil.hip
+soil.hip.CMU.17.10.2017.08.12.day4	soil.hip.CMU.17.10.2017.08.12.day4	72	6	CMU	17-10	3	soil.hip
+soil.hip.CMU.17.10.2017.08.13.day5	soil.hip.CMU.17.10.2017.08.13.day5	97	11	CMU	17-10	4	soil.hip
+soil.hip.CMU.17.10.2017.08.14.day6	soil.hip.CMU.17.10.2017.08.14.day6	122.55	13	CMU	17-10	5	soil.hip
+soil.hip.CMU.17.10.2017.08.15.day7	soil.hip.CMU.17.10.2017.08.15.day7	146.45	14	CMU	17-10	6	soil.hip
+soil.hip.CMU.17.10.2017.08.16.day8	soil.hip.CMU.17.10.2017.08.16.day8	169.5	15	CMU	17-10	7	soil.hip
+soil.hip.CMU.17.10.2017.08.17.day9	soil.hip.CMU.17.10.2017.08.17.day9	193.95	16	CMU	17-10	8	soil.hip
+soil.hip.CMU.17.10.2017.08.18.day10	soil.hip.CMU.17.10.2017.08.18.day10	219.2	17	CMU	17-10	9	soil.hip
+soil.hip.CMU.17.10.2017.08.19.day11	soil.hip.CMU.17.10.2017.08.19.day11	244.45	19	CMU	17-10	10	soil.hip
+soil.hip.CMU.17.10.2017.08.20.day12	soil.hip.CMU.17.10.2017.08.20.day12	270.85	20	CMU	17-10	11	soil.hip
+soil.hip.CMU.17.10.2017.08.21.day13	soil.hip.CMU.17.10.2017.08.21.day13	297.25	21	CMU	17-10	12	soil.hip
+soil.hip.CMU.17.10.2017.08.22.day14	soil.hip.CMU.17.10.2017.08.22.day14	322.8	21	CMU	17-10	13	soil.hip
+soil.hip.CMU.17.10.2017.08.23.day15	soil.hip.CMU.17.10.2017.08.23.day15	348.05	21	CMU	17-10	14	soil.hip
+soil.hip.CMU.17.10.2017.08.24.day16	soil.hip.CMU.17.10.2017.08.24.day16	373.85	21	CMU	17-10	15	soil.hip
+soil.hip.CMU.17.10.2017.08.25.day17	soil.hip.CMU.17.10.2017.08.25.day17	398.55	21	CMU	17-10	16	soil.hip
+soil.hip.CMU.17.10.2017.08.26.day18	soil.hip.CMU.17.10.2017.08.26.day18	424.7	21	CMU	17-10	17	soil.hip
+soil.hip.CMU.17.10.2017.08.27.day19	soil.hip.CMU.17.10.2017.08.27.day19	451.65	21	CMU	17-10	18	soil.hip
+soil.hip.CMU.17.10.2017.08.28.day20	soil.hip.CMU.17.10.2017.08.28.day20	477.8	21	CMU	17-10	19	soil.hip
+soil.hip.CMU.17.10.2017.08.29.day21	soil.hip.CMU.17.10.2017.08.29.day21	504.75	21	CMU	17-10	20	soil.hip
+soil.hip.CMU.17.12.2017.10.10.day1	soil.hip.CMU.17.12.2017.10.10.day1	0	5	CMU	17-12	0	soil.hip
+soil.hip.CMU.17.12.2017.10.11.day2	soil.hip.CMU.17.12.2017.10.11.day2	12.8	5	CMU	17-12	1	soil.hip
+soil.hip.CMU.17.12.2017.10.12.day3	soil.hip.CMU.17.12.2017.10.12.day3	28.65	4	CMU	17-12	2	soil.hip
+soil.hip.CMU.17.12.2017.10.13.day4	soil.hip.CMU.17.12.2017.10.13.day4	41.7	8	CMU	17-12	3	soil.hip
+soil.hip.CMU.17.12.2017.10.14.day5	soil.hip.CMU.17.12.2017.10.14.day5	50.05	9	CMU	17-12	4	soil.hip
+soil.hip.CMU.17.12.2017.10.15.day6	soil.hip.CMU.17.12.2017.10.15.day6	58.65	9	CMU	17-12	5	soil.hip
+soil.hip.CMU.17.12.2017.10.16.day7	soil.hip.CMU.17.12.2017.10.16.day7	68.95	9	CMU	17-12	6	soil.hip
+soil.hip.CMU.17.12.2017.10.17.day8	soil.hip.CMU.17.12.2017.10.17.day8	80.35	9	CMU	17-12	7	soil.hip
+soil.hip.CMU.17.12.2017.10.18.day9	soil.hip.CMU.17.12.2017.10.18.day9	93.95	9	CMU	17-12	8	soil.hip
+soil.hip.CMU.17.12.2017.10.19.day10	soil.hip.CMU.17.12.2017.10.19.day10	107.85	10	CMU	17-12	9	soil.hip
+soil.hip.CMU.17.12.2017.10.20.day11	soil.hip.CMU.17.12.2017.10.20.day11	125.05	10	CMU	17-12	10	soil.hip
+soil.hip.CMU.17.12.2017.10.21.day12	soil.hip.CMU.17.12.2017.10.21.day12	132.55	13	CMU	17-12	11	soil.hip
+soil.hip.CMU.17.12.2017.10.22.day13	soil.hip.CMU.17.12.2017.10.22.day13	141.75	13	CMU	17-12	12	soil.hip
+soil.hip.CMU.17.12.2017.10.23.day14	soil.hip.CMU.17.12.2017.10.23.day14	153.7	13	CMU	17-12	13	soil.hip
+soil.hip.CMU.17.12.2017.10.24.day15	soil.hip.CMU.17.12.2017.10.24.day15	166.75	13	CMU	17-12	14	soil.hip
+soil.hip.CMU.17.12.2017.10.25.day16	soil.hip.CMU.17.12.2017.10.25.day16	179	13	CMU	17-12	15	soil.hip
+soil.hip.CMU.17.12.2017.10.26.day17	soil.hip.CMU.17.12.2017.10.26.day17	190.95	13	CMU	17-12	16	soil.hip
+soil.hip.CMU.17.12.2017.10.27.day18	soil.hip.CMU.17.12.2017.10.27.day18	200.4	13	CMU	17-12	17	soil.hip
+soil.hip.CMU.17.12.2017.10.28.day19	soil.hip.CMU.17.12.2017.10.28.day19	211.5	13	CMU	17-12	18	soil.hip
+soil.hip.CMU.17.12.2017.10.29.day20	soil.hip.CMU.17.12.2017.10.29.day20	222.9	14	CMU	17-12	19	soil.hip
+soil.hip.CMU.17.12.2017.10.30.day21	soil.hip.CMU.17.12.2017.10.30.day21	232.9	13	CMU	17-12	20	soil.hip
+soil.hip.CMU.16.04.2016.mo.day1	soil.hip.CMU.16.04.2016.mo.day1	0	5	CMU	CMU_Mr._16_04	0	soil.hip
+soil.hip.CMU.16.04.2016.mo.day2	soil.hip.CMU.16.04.2016.mo.day2	7.777777778	5	CMU	CMU_Mr._16_04	1	soil.hip
+soil.hip.CMU.16.04.2016.mo.day3	soil.hip.CMU.16.04.2016.mo.day3	16.66666667	10	CMU	CMU_Mr._16_04	2	soil.hip
+soil.hip.CMU.16.04.2016.mo.day4	soil.hip.CMU.16.04.2016.mo.day4	29.72222223	10	CMU	CMU_Mr._16_04	3	soil.hip
+soil.hip.CMU.16.04.2016.mo.day5	soil.hip.CMU.16.04.2016.mo.day5	40.00000001	9	CMU	CMU_Mr._16_04	4	soil.hip
+soil.hip.CMU.16.04.2016.mo.day6	soil.hip.CMU.16.04.2016.mo.day6	44.72222223	9	CMU	CMU_Mr._16_04	5	soil.hip
+soil.hip.CMU.16.04.2016.mo.day7	soil.hip.CMU.16.04.2016.mo.day7	50.83333334	10	CMU	CMU_Mr._16_04	6	soil.hip
+soil.hip.CMU.16.04.2016.mo.day8	soil.hip.CMU.16.04.2016.mo.day8	57.77777778	11	CMU	CMU_Mr._16_04	7	soil.hip
+soil.hip.CMU.16.04.2016.mo.day9	soil.hip.CMU.16.04.2016.mo.day9	62.22222223	9	CMU	CMU_Mr._16_04	8	soil.hip
+soil.hip.CMU.16.04.2016.mo.day10	soil.hip.CMU.16.04.2016.mo.day10	68.05555556	14	CMU	CMU_Mr._16_04	9	soil.hip
+soil.hip.CMU.16.04.2016.mo.day11	soil.hip.CMU.16.04.2016.mo.day11	80.27777778	15	CMU	CMU_Mr._16_04	10	soil.hip
+soil.hip.CMU.16.04.2016.mo.day12	soil.hip.CMU.16.04.2016.mo.day12	87.77777778	11	CMU	CMU_Mr._16_04	11	soil.hip
+soil.hip.CMU.16.04.2016.mo.day13	soil.hip.CMU.16.04.2016.mo.day13	91.66666667	11	CMU	CMU_Mr._16_04	12	soil.hip
+soil.hip.CMU.16.04.2016.mo.day14	soil.hip.CMU.16.04.2016.mo.day14	96.11111111	11	CMU	CMU_Mr._16_04	13	soil.hip
+soil.hip.CMU.16.04.2016.mo.day15	soil.hip.CMU.16.04.2016.mo.day15	102.7777778	16	CMU	CMU_Mr._16_04	14	soil.hip
+soil.hip.CMU.16.04.2016.mo.day16	soil.hip.CMU.16.04.2016.mo.day16	111.3888889	14	CMU	CMU_Mr._16_04	15	soil.hip
+soil.hip.CMU.16.04.2016.mo.day17	soil.hip.CMU.16.04.2016.mo.day17	122.7777778	15	CMU	CMU_Mr._16_04	16	soil.hip
+soil.hip.CMU.16.04.2016.mo.day18	soil.hip.CMU.16.04.2016.mo.day18	136.9444445	13	CMU	CMU_Mr._16_04	17	soil.hip
+soil.hip.CMU.16.04.2016.mo.day19	soil.hip.CMU.16.04.2016.mo.day19	149.7222222	19	CMU	CMU_Mr._16_04	18	soil.hip
+soil.hip.CMU.16.04.2016.mo.day20	soil.hip.CMU.16.04.2016.mo.day20	160	19	CMU	CMU_Mr._16_04	19	soil.hip
+soil.hip.CMU.16.04.2016.mo.day21	soil.hip.CMU.16.04.2016.mo.day21	173.6111111	20	CMU	CMU_Mr._16_04	20	soil.hip
+soil.hip.CMU.16.03.2016.3.day1	soil.hip.CMU.16.03.2016.3.day1	0	3	CMU	CMU_Mrs._16_03	0	soil.hip
+soil.hip.CMU.16.03.2016.3.day2	soil.hip.CMU.16.03.2016.3.day2	13.05555556	6	CMU	CMU_Mrs._16_03	1	soil.hip
+soil.hip.CMU.16.03.2016.3.day3	soil.hip.CMU.16.03.2016.3.day3	25.83333334	6	CMU	CMU_Mrs._16_03	2	soil.hip
+soil.hip.CMU.16.03.2016.3.day4	soil.hip.CMU.16.03.2016.3.day4	35.83333334	9	CMU	CMU_Mrs._16_03	3	soil.hip
+soil.hip.CMU.16.03.2016.3.day5	soil.hip.CMU.16.03.2016.3.day5	47.22222223	9	CMU	CMU_Mrs._16_03	4	soil.hip
+soil.hip.CMU.16.03.2016.3.day6	soil.hip.CMU.16.03.2016.3.day6	52.50000001	9	CMU	CMU_Mrs._16_03	5	soil.hip
+soil.hip.CMU.16.03.2016.3.day7	soil.hip.CMU.16.03.2016.3.day7	57.22222223	9	CMU	CMU_Mrs._16_03	6	soil.hip
+soil.hip.CMU.16.03.2016.3.day8	soil.hip.CMU.16.03.2016.3.day8	66.11111112	9	CMU	CMU_Mrs._16_03	7	soil.hip
+soil.hip.CMU.16.03.2016.3.day9	soil.hip.CMU.16.03.2016.3.day9	73.05555556	11	CMU	CMU_Mrs._16_03	8	soil.hip
+soil.hip.CMU.16.03.2016.3.day10	soil.hip.CMU.16.03.2016.3.day10	80.83333334	11	CMU	CMU_Mrs._16_03	9	soil.hip
+soil.hip.CMU.16.03.2016.3.day11	soil.hip.CMU.16.03.2016.3.day11	89.72222223	12	CMU	CMU_Mrs._16_03	10	soil.hip
+soil.hip.CMU.16.03.2016.3.day12	soil.hip.CMU.16.03.2016.3.day12	102.7777778	11	CMU	CMU_Mrs._16_03	11	soil.hip
+soil.hip.CMU.16.03.2016.3.day13	soil.hip.CMU.16.03.2016.3.day13	113.0555556	12	CMU	CMU_Mrs._16_03	12	soil.hip
+soil.hip.CMU.16.03.2016.3.day14	soil.hip.CMU.16.03.2016.3.day14	117.7777778	12	CMU	CMU_Mrs._16_03	13	soil.hip
+soil.hip.CMU.16.03.2016.3.day15	soil.hip.CMU.16.03.2016.3.day15	123.8888889	13	CMU	CMU_Mrs._16_03	14	soil.hip
+soil.hip.CMU.16.03.2016.3.day16	soil.hip.CMU.16.03.2016.3.day16	130.8333333	13	CMU	CMU_Mrs._16_03	15	soil.hip
+soil.hip.CMU.16.03.2016.3.day17	soil.hip.CMU.16.03.2016.3.day17	135.2777778	13	CMU	CMU_Mrs._16_03	16	soil.hip
+soil.hip.CMU.16.03.2016.3.day18	soil.hip.CMU.16.03.2016.3.day18	141.1111111	12	CMU	CMU_Mrs._16_03	17	soil.hip
+soil.hip.CMU.16.03.2016.3.day19	soil.hip.CMU.16.03.2016.3.day19	153.3333333	16	CMU	CMU_Mrs._16_03	18	soil.hip
+soil.hip.CMU.16.03.2016.3.day20	soil.hip.CMU.16.03.2016.3.day20	160.8333333	14	CMU	CMU_Mrs._16_03	19	soil.hip
+soil.hip.CMU.16.03.2016.3.day21	soil.hip.CMU.16.03.2016.3.day21	164.7222222	13	CMU	CMU_Mrs._16_03	20	soil.hip
+soil.hip.CMU.16.05.2016.mo.day1	soil.hip.CMU.16.05.2016.mo.day1	0	7	CMU	CMU_Mrs._16_05	0	soil.hip
+soil.hip.CMU.16.05.2016.mo.day2	soil.hip.CMU.16.05.2016.mo.day2	7.5	7	CMU	CMU_Mrs._16_05	1	soil.hip
+soil.hip.CMU.16.05.2016.mo.day3	soil.hip.CMU.16.05.2016.mo.day3	11.38888889	7	CMU	CMU_Mrs._16_05	2	soil.hip
+soil.hip.CMU.16.05.2016.mo.day4	soil.hip.CMU.16.05.2016.mo.day4	15.83333333	8	CMU	CMU_Mrs._16_05	3	soil.hip
+soil.hip.CMU.16.05.2016.mo.day5	soil.hip.CMU.16.05.2016.mo.day5	22.5	7	CMU	CMU_Mrs._16_05	4	soil.hip
+soil.hip.CMU.16.05.2016.mo.day6	soil.hip.CMU.16.05.2016.mo.day6	31.11111111	8	CMU	CMU_Mrs._16_05	5	soil.hip
+soil.hip.CMU.16.05.2016.mo.day7	soil.hip.CMU.16.05.2016.mo.day7	42.5	9	CMU	CMU_Mrs._16_05	6	soil.hip
+soil.hip.CMU.16.05.2016.mo.day8	soil.hip.CMU.16.05.2016.mo.day8	56.66666667	8	CMU	CMU_Mrs._16_05	7	soil.hip
+soil.hip.CMU.16.05.2016.mo.day9	soil.hip.CMU.16.05.2016.mo.day9	69.44444445	9	CMU	CMU_Mrs._16_05	8	soil.hip
+soil.hip.CMU.16.05.2016.mo.day10	soil.hip.CMU.16.05.2016.mo.day10	79.72222223	9	CMU	CMU_Mrs._16_05	9	soil.hip
+soil.hip.CMU.16.05.2016.mo.day11	soil.hip.CMU.16.05.2016.mo.day11	93.33333334	11	CMU	CMU_Mrs._16_05	10	soil.hip
+soil.hip.CMU.16.05.2016.mo.day12	soil.hip.CMU.16.05.2016.mo.day12	110.2777778	13	CMU	CMU_Mrs._16_05	11	soil.hip
+soil.hip.CMU.16.05.2016.mo.day13	soil.hip.CMU.16.05.2016.mo.day13	123.3333333	12	CMU	CMU_Mrs._16_05	12	soil.hip
+soil.hip.CMU.16.05.2016.mo.day14	soil.hip.CMU.16.05.2016.mo.day14	136.6666667	13	CMU	CMU_Mrs._16_05	13	soil.hip
+soil.hip.CMU.16.05.2016.mo.day15	soil.hip.CMU.16.05.2016.mo.day15	150	13	CMU	CMU_Mrs._16_05	14	soil.hip
+soil.hip.CMU.16.05.2016.mo.day16	soil.hip.CMU.16.05.2016.mo.day16	164.7222222	14	CMU	CMU_Mrs._16_05	15	soil.hip
+soil.hip.CMU.16.05.2016.mo.day17	soil.hip.CMU.16.05.2016.mo.day17	179.7222222	15	CMU	CMU_Mrs._16_05	16	soil.hip
+soil.hip.CMU.16.05.2016.mo.day18	soil.hip.CMU.16.05.2016.mo.day18	194.7222222	17	CMU	CMU_Mrs._16_05	17	soil.hip
+soil.hip.CMU.16.05.2016.mo.day19	soil.hip.CMU.16.05.2016.mo.day19	200.8333333	17	CMU	CMU_Mrs._16_05	18	soil.hip
+soil.hip.CMU.16.05.2016.mo.day20	soil.hip.CMU.16.05.2016.mo.day20	207.5	19	CMU	CMU_Mrs._16_05	19	soil.hip
+soil.hip.CMU.16.05.2016.mo.day21	soil.hip.CMU.16.05.2016.mo.day21	214.1666667	18	CMU	CMU_Mrs._16_05	20	soil.hip
+soil.hip.UTK.K016.07.2017.Jan.06.day1	soil.hip.UTK.K016.07.2017.Jan.06.day1	0	3	UTK	K016.07	0	soil.hip
+soil.hip.UTK.K016.07.2017.Jan.08.day2	soil.hip.UTK.K016.07.2017.Jan.08.day2	0	3	UTK	K016.07	1	soil.hip
+soil.hip.UTK.K016.07.2017.Jan.09.day3	soil.hip.UTK.K016.07.2017.Jan.09.day3	0	3	UTK	K016.07	2	soil.hip
+soil.hip.UTK.K016.07.2017.Jan.10.day4	soil.hip.UTK.K016.07.2017.Jan.10.day4	3.9	3	UTK	K016.07	3	soil.hip
+soil.hip.UTK.K016.07.2017.Jan.11.day5	soil.hip.UTK.K016.07.2017.Jan.11.day5	15.8	3	UTK	K016.07	4	soil.hip
+soil.hip.UTK.K016.07.2017.Jan.12.day6	soil.hip.UTK.K016.07.2017.Jan.12.day6	32.8	3	UTK	K016.07	5	soil.hip
+soil.hip.UTK.K016.07.2017.Jan.13.day7	soil.hip.UTK.K016.07.2017.Jan.13.day7	49.3	3	UTK	K016.07	6	soil.hip
+soil.hip.UTK.K016.07.2017.Jan.14.day8	soil.hip.UTK.K016.07.2017.Jan.14.day8	64.5	3	UTK	K016.07	7	soil.hip
+soil.hip.UTK.K016.07.2017.Jan.15.day9	soil.hip.UTK.K016.07.2017.Jan.15.day9	80.4	3	UTK	K016.07	8	soil.hip
+soil.hip.UTK.K016.07.2017.Jan.16.day10	soil.hip.UTK.K016.07.2017.Jan.16.day10	94.1	3	UTK	K016.07	9	soil.hip
+soil.hip.UTK.K016.07.2017.Jan.17.day11	soil.hip.UTK.K016.07.2017.Jan.17.day11	109.7	3	UTK	K016.07	10	soil.hip
+soil.hip.UTK.K016.07.2017.Jan.18.day12	soil.hip.UTK.K016.07.2017.Jan.18.day12	124.1	3	UTK	K016.07	11	soil.hip
+soil.hip.UTK.K016.07.2017.Jan.19.day13	soil.hip.UTK.K016.07.2017.Jan.19.day13	133.9	4	UTK	K016.07	12	soil.hip
+soil.hip.UTK.K016.07.2017.Jan.20.day14	soil.hip.UTK.K016.07.2017.Jan.20.day14	148.3	4	UTK	K016.07	13	soil.hip
+soil.hip.UTK.K016.07.2017.Jan.21.day15	soil.hip.UTK.K016.07.2017.Jan.21.day15	161	5	UTK	K016.07	14	soil.hip
+soil.hip.UTK.K016.07.2017.Jan.22.day16	soil.hip.UTK.K016.07.2017.Jan.22.day16	174.6	5	UTK	K016.07	15	soil.hip
+soil.hip.UTK.K016.07.2017.Jan.23.day17	soil.hip.UTK.K016.07.2017.Jan.23.day17	186.2	7	UTK	K016.07	16	soil.hip
+soil.hip.UTK.K016.07.2017.Jan.24.day18	soil.hip.UTK.K016.07.2017.Jan.24.day18	194.1	8	UTK	K016.07	17	soil.hip
+soil.hip.UTK.K016.07.2017.Jan.25.day19	soil.hip.UTK.K016.07.2017.Jan.25.day19	202.2	8	UTK	K016.07	18	soil.hip
+soil.hip.UTK.K016.07.2017.Jan.26.day20	soil.hip.UTK.K016.07.2017.Jan.26.day20	212.9	8	UTK	K016.07	19	soil.hip
+soil.hip.UTK.K016.07.2017.Jan.27.day21	soil.hip.UTK.K016.07.2017.Jan.27.day21	215.9	9	UTK	K016.07	20	soil.hip
+soil.hip.UTK.K016.08.2017.Jan.06.day1	soil.hip.UTK.K016.08.2017.Jan.06.day1	0	3	UTK	K016.08	0	soil.hip
+soil.hip.UTK.K016.08.2017.Jan.08.day2	soil.hip.UTK.K016.08.2017.Jan.08.day2	0	3	UTK	K016.08	1	soil.hip
+soil.hip.UTK.K016.08.2017.Jan.09.day3	soil.hip.UTK.K016.08.2017.Jan.09.day3	0	3	UTK	K016.08	2	soil.hip
+soil.hip.UTK.K016.08.2017.Jan.10.day4	soil.hip.UTK.K016.08.2017.Jan.10.day4	3.9	3	UTK	K016.08	3	soil.hip
+soil.hip.UTK.K016.08.2017.Jan.11.day5	soil.hip.UTK.K016.08.2017.Jan.11.day5	15.8	3	UTK	K016.08	4	soil.hip
+soil.hip.UTK.K016.08.2017.Jan.12.day6	soil.hip.UTK.K016.08.2017.Jan.12.day6	32.8	3	UTK	K016.08	5	soil.hip
+soil.hip.UTK.K016.08.2017.Jan.13.day7	soil.hip.UTK.K016.08.2017.Jan.13.day7	49.3	3	UTK	K016.08	6	soil.hip
+soil.hip.UTK.K016.08.2017.Jan.14.day8	soil.hip.UTK.K016.08.2017.Jan.14.day8	64.5	3	UTK	K016.08	7	soil.hip
+soil.hip.UTK.K016.08.2017.Jan.15.day9	soil.hip.UTK.K016.08.2017.Jan.15.day9	80.4	3	UTK	K016.08	8	soil.hip
+soil.hip.UTK.K016.08.2017.Jan.16.day10	soil.hip.UTK.K016.08.2017.Jan.16.day10	94.1	3	UTK	K016.08	9	soil.hip
+soil.hip.UTK.K016.08.2017.Jan.17.day11	soil.hip.UTK.K016.08.2017.Jan.17.day11	109.7	3	UTK	K016.08	10	soil.hip
+soil.hip.UTK.K016.08.2017.Jan.18.day12	soil.hip.UTK.K016.08.2017.Jan.18.day12	124.1	3	UTK	K016.08	11	soil.hip
+soil.hip.UTK.K016.08.2017.Jan.19.day13	soil.hip.UTK.K016.08.2017.Jan.19.day13	133.9	4	UTK	K016.08	12	soil.hip
+soil.hip.UTK.K016.08.2017.Jan.20.day14	soil.hip.UTK.K016.08.2017.Jan.20.day14	148.3	4	UTK	K016.08	13	soil.hip
+soil.hip.UTK.K016.08.2017.Jan.21.day15	soil.hip.UTK.K016.08.2017.Jan.21.day15	161	6	UTK	K016.08	14	soil.hip
+soil.hip.UTK.K016.08.2017.Jan.22.day16	soil.hip.UTK.K016.08.2017.Jan.22.day16	174.6	8	UTK	K016.08	15	soil.hip
+soil.hip.UTK.K016.08.2017.Jan.23.day17	soil.hip.UTK.K016.08.2017.Jan.23.day17	186.2	9	UTK	K016.08	16	soil.hip
+soil.hip.UTK.K016.08.2017.Jan.24.day18	soil.hip.UTK.K016.08.2017.Jan.24.day18	194.1	9	UTK	K016.08	17	soil.hip
+soil.hip.UTK.K016.08.2017.Jan.25.day19	soil.hip.UTK.K016.08.2017.Jan.25.day19	202.2	9	UTK	K016.08	18	soil.hip
+soil.hip.UTK.K016.08.2017.Jan.26.day20	soil.hip.UTK.K016.08.2017.Jan.26.day20	212.9	9	UTK	K016.08	19	soil.hip
+soil.hip.UTK.K016.08.2017.Jan.27.day21	soil.hip.UTK.K016.08.2017.Jan.27.day21	215.9	9	UTK	K016.08	20	soil.hip
+soil.hip.UTK.K016.09.2017.Jan.06.day1	soil.hip.UTK.K016.09.2017.Jan.06.day1	0	3	UTK	K016.09	0	soil.hip
+soil.hip.UTK.K016.09.2017.Jan.08.day2	soil.hip.UTK.K016.09.2017.Jan.08.day2	0	3	UTK	K016.09	1	soil.hip
+soil.hip.UTK.K016.09.2017.Jan.09.day3	soil.hip.UTK.K016.09.2017.Jan.09.day3	0	3	UTK	K016.09	2	soil.hip
+soil.hip.UTK.K016.09.2017.Jan.10.day4	soil.hip.UTK.K016.09.2017.Jan.10.day4	3.9	3	UTK	K016.09	3	soil.hip
+soil.hip.UTK.K016.09.2017.Jan.11.day5	soil.hip.UTK.K016.09.2017.Jan.11.day5	15.8	3	UTK	K016.09	4	soil.hip
+soil.hip.UTK.K016.09.2017.Jan.12.day6	soil.hip.UTK.K016.09.2017.Jan.12.day6	32.8	3	UTK	K016.09	5	soil.hip
+soil.hip.UTK.K016.09.2017.Jan.13.day7	soil.hip.UTK.K016.09.2017.Jan.13.day7	49.3	3	UTK	K016.09	6	soil.hip
+soil.hip.UTK.K016.09.2017.Jan.14.day8	soil.hip.UTK.K016.09.2017.Jan.14.day8	64.5	3	UTK	K016.09	7	soil.hip
+soil.hip.UTK.K016.09.2017.Jan.15.day9	soil.hip.UTK.K016.09.2017.Jan.15.day9	80.4	3	UTK	K016.09	8	soil.hip
+soil.hip.UTK.K016.09.2017.Jan.16.day10	soil.hip.UTK.K016.09.2017.Jan.16.day10	94.1	3	UTK	K016.09	9	soil.hip
+soil.hip.UTK.K016.09.2017.Jan.17.day11	soil.hip.UTK.K016.09.2017.Jan.17.day11	109.7	3	UTK	K016.09	10	soil.hip
+soil.hip.UTK.K016.09.2017.Jan.18.day12	soil.hip.UTK.K016.09.2017.Jan.18.day12	124.1	3	UTK	K016.09	11	soil.hip
+soil.hip.UTK.K016.09.2017.Jan.19.day13	soil.hip.UTK.K016.09.2017.Jan.19.day13	133.9	3	UTK	K016.09	12	soil.hip
+soil.hip.UTK.K016.09.2017.Jan.20.day14	soil.hip.UTK.K016.09.2017.Jan.20.day14	148.3	3	UTK	K016.09	13	soil.hip
+soil.hip.UTK.K016.09.2017.Jan.21.day15	soil.hip.UTK.K016.09.2017.Jan.21.day15	161	5	UTK	K016.09	14	soil.hip
+soil.hip.UTK.K016.09.2017.Jan.22.day16	soil.hip.UTK.K016.09.2017.Jan.22.day16	174.6	5	UTK	K016.09	15	soil.hip
+soil.hip.UTK.K016.09.2017.Jan.23.day17	soil.hip.UTK.K016.09.2017.Jan.23.day17	186.2	6	UTK	K016.09	16	soil.hip
+soil.hip.UTK.K016.09.2017.Jan.24.day18	soil.hip.UTK.K016.09.2017.Jan.24.day18	194.1	7	UTK	K016.09	17	soil.hip
+soil.hip.UTK.K016.09.2017.Jan.25.day19	soil.hip.UTK.K016.09.2017.Jan.25.day19	202.2	7	UTK	K016.09	18	soil.hip
+soil.hip.UTK.K016.09.2017.Jan.26.day20	soil.hip.UTK.K016.09.2017.Jan.26.day20	212.9	7	UTK	K016.09	19	soil.hip
+soil.hip.UTK.K016.09.2017.Jan.27.day21	soil.hip.UTK.K016.09.2017.Jan.27.day21	215.9	8	UTK	K016.09	20	soil.hip
+soil.hip.CMU.17.04.2017.03.day1	soil.hip.CMU.17.04.2017.03.day1	0	5	CMU	Mr 17-04	0	soil.hip
+soil.hip.CMU.17.04.2017.03.day2	soil.hip.CMU.17.04.2017.03.day2	12.5	5	CMU	Mr 17-04	1	soil.hip
+soil.hip.CMU.17.04.2017.03.day3	soil.hip.CMU.17.04.2017.03.day3	24.15	7	CMU	Mr 17-04	2	soil.hip
+soil.hip.CMU.17.04.2017.03.day4	soil.hip.CMU.17.04.2017.03.day4	34.15	7	CMU	Mr 17-04	3	soil.hip
+soil.hip.CMU.17.04.2017.03.day5	soil.hip.CMU.17.04.2017.03.day5	46.95	7	CMU	Mr 17-04	4	soil.hip
+soil.hip.CMU.17.04.2017.03.day6	soil.hip.CMU.17.04.2017.03.day6	61.65	8	CMU	Mr 17-04	5	soil.hip
+soil.hip.CMU.17.04.2017.03.day7	soil.hip.CMU.17.04.2017.03.day7	76.65	10	CMU	Mr 17-04	6	soil.hip
+soil.hip.CMU.17.04.2017.03.day8	soil.hip.CMU.17.04.2017.03.day8	92.2	11	CMU	Mr 17-04	7	soil.hip
+soil.hip.CMU.17.04.2017.03.day9	soil.hip.CMU.17.04.2017.03.day9	109.7	12	CMU	Mr 17-04	8	soil.hip
+soil.hip.CMU.17.04.2017.03.day10	soil.hip.CMU.17.04.2017.03.day10	127.45	14	CMU	Mr 17-04	9	soil.hip
+soil.hip.CMU.17.04.2017.03.day11	soil.hip.CMU.17.04.2017.03.day11	144.95	15	CMU	Mr 17-04	10	soil.hip
+soil.hip.CMU.17.04.2017.03.day12	soil.hip.CMU.17.04.2017.03.day12	162.45	13	CMU	Mr 17-04	11	soil.hip
+soil.hip.CMU.17.04.2017.03.day13	soil.hip.CMU.17.04.2017.03.day13	180.25	16	CMU	Mr 17-04	12	soil.hip
+soil.hip.CMU.17.04.2017.03.day14	soil.hip.CMU.17.04.2017.03.day14	191.65	15	CMU	Mr 17-04	13	soil.hip
+soil.hip.CMU.17.04.2017.03.day15	soil.hip.CMU.17.04.2017.03.day15	202.45	16	CMU	Mr 17-04	14	soil.hip
+soil.hip.CMU.17.04.2017.03.day16	soil.hip.CMU.17.04.2017.03.day16	213.25	16	CMU	Mr 17-04	15	soil.hip
+soil.hip.CMU.17.04.2017.03.day17	soil.hip.CMU.17.04.2017.03.day17	224.05	18	CMU	Mr 17-04	16	soil.hip
+soil.hip.CMU.17.04.2017.03.day18	soil.hip.CMU.17.04.2017.03.day18	235.2	13	CMU	Mr 17-04	17	soil.hip
+soil.hip.CMU.17.04.2017.03.day19	soil.hip.CMU.17.04.2017.03.day19	243.55	20	CMU	Mr 17-04	18	soil.hip
+soil.hip.CMU.17.04.2017.03.day20	soil.hip.CMU.17.04.2017.03.day20	254.4	17	CMU	Mr 17-04	19	soil.hip
+soil.hip.CMU.17.04.2017.03.day21	soil.hip.CMU.17.04.2017.03.day21	267.15	20	CMU	Mr 17-04	20	soil.hip
+soil.hip.CMU.16.15.2016.12.day1	soil.hip.CMU.16.15.2016.12.day1	0	4.5	CMU	Mr. 16-15	0	soil.hip
+soil.hip.CMU.16.15.2016.12.day2	soil.hip.CMU.16.15.2016.12.day2	0	4	CMU	Mr. 16-15	1	soil.hip
+soil.hip.CMU.16.15.2016.12.day3	soil.hip.CMU.16.15.2016.12.day3	1.1	6	CMU	Mr. 16-15	2	soil.hip
+soil.hip.CMU.16.15.2016.12.day4	soil.hip.CMU.16.15.2016.12.day4	5.8	7	CMU	Mr. 16-15	3	soil.hip
+soil.hip.CMU.16.15.2016.12.day5	soil.hip.CMU.16.15.2016.12.day5	12.45	7	CMU	Mr. 16-15	4	soil.hip
+soil.hip.CMU.16.15.2016.12.day6	soil.hip.CMU.16.15.2016.12.day6	12.45	6	CMU	Mr. 16-15	5	soil.hip
+soil.hip.CMU.16.15.2016.12.day7	soil.hip.CMU.16.15.2016.12.day7	12.45	10	CMU	Mr. 16-15	6	soil.hip
+soil.hip.CMU.16.15.2016.12.day8	soil.hip.CMU.16.15.2016.12.day8	12.45	10.5	CMU	Mr. 16-15	7	soil.hip
+soil.hip.CMU.16.15.2016.12.day9	soil.hip.CMU.16.15.2016.12.day9	12.45	9	CMU	Mr. 16-15	8	soil.hip
+soil.hip.CMU.16.15.2016.12.day10	soil.hip.CMU.16.15.2016.12.day10	12.45	9.5	CMU	Mr. 16-15	9	soil.hip
+soil.hip.CMU.16.15.2016.12.day11	soil.hip.CMU.16.15.2016.12.day11	12.45	10	CMU	Mr. 16-15	10	soil.hip
+soil.hip.CMU.16.15.2016.12.day12	soil.hip.CMU.16.15.2016.12.day12	12.7	10	CMU	Mr. 16-15	11	soil.hip
+soil.hip.CMU.16.15.2016.12.day13	soil.hip.CMU.16.15.2016.12.day13	17.15	10	CMU	Mr. 16-15	12	soil.hip
+soil.hip.CMU.16.15.2016.12.day14	soil.hip.CMU.16.15.2016.12.day14	18.8	10	CMU	Mr. 16-15	13	soil.hip
+soil.hip.CMU.16.15.2016.12.day15	soil.hip.CMU.16.15.2016.12.day15	18.8	10	CMU	Mr. 16-15	14	soil.hip
+soil.hip.CMU.16.15.2016.12.day16	soil.hip.CMU.16.15.2016.12.day16	18.8	11	CMU	Mr. 16-15	15	soil.hip
+soil.hip.CMU.16.15.2016.12.day17	soil.hip.CMU.16.15.2016.12.day17	18.8	12	CMU	Mr. 16-15	16	soil.hip
+soil.hip.CMU.16.15.2016.12.day18	soil.hip.CMU.16.15.2016.12.day18	19.35	12	CMU	Mr. 16-15	17	soil.hip
+soil.hip.CMU.16.15.2016.12.day19	soil.hip.CMU.16.15.2016.12.day19	19.35	10	CMU	Mr. 16-15	18	soil.hip
+soil.hip.CMU.16.15.2016.12.day20	soil.hip.CMU.16.15.2016.12.day20	19.35	11	CMU	Mr. 16-15	19	soil.hip
+soil.hip.CMU.16.15.2017.01.day21	soil.hip.CMU.16.15.2017.01.day21	19.35	9	CMU	Mr. 16-15	20	soil.hip
+soil.hip.CMU.16.09.2016.07.26.day1	soil.hip.CMU.16.09.2016.07.26.day1	0	3	CMU	Mrs. 16-09	0	soil.hip
+soil.hip.CMU.16.09.2016.07.27.day2	soil.hip.CMU.16.09.2016.07.27.day2	28.3	7	CMU	Mrs. 16-09	1	soil.hip
+soil.hip.CMU.16.09.2016.07.28.day3	soil.hip.CMU.16.09.2016.07.28.day3	57.45	9.5	CMU	Mrs. 16-09	2	soil.hip
+soil.hip.CMU.16.09.2016.07.29.day4	soil.hip.CMU.16.09.2016.07.29.day4	86.6	12	CMU	Mrs. 16-09	3	soil.hip
+soil.hip.CMU.16.09.2016.07.30.day5	soil.hip.CMU.16.09.2016.07.30.day5	114.7	13	CMU	Mrs. 16-09	4	soil.hip
+soil.hip.CMU.16.09.2016.07.31.day6	soil.hip.CMU.16.09.2016.07.31.day6	142.45	13	CMU	Mrs. 16-09	5	soil.hip
+soil.hip.CMU.16.09.2016.08.01.day7	soil.hip.CMU.16.09.2016.08.01.day7	169.4	12.5	CMU	Mrs. 16-09	6	soil.hip
+soil.hip.CMU.16.09.2016.08.02.day8	soil.hip.CMU.16.09.2016.08.02.day8	196.65	16	CMU	Mrs. 16-09	7	soil.hip
+soil.hip.CMU.16.09.2016.08.03.day9	soil.hip.CMU.16.09.2016.08.03.day9	225	17	CMU	Mrs. 16-09	8	soil.hip
+soil.hip.CMU.16.09.2016.08.04.day10	soil.hip.CMU.16.09.2016.08.04.day10	248.35	19.5	CMU	Mrs. 16-09	9	soil.hip
+soil.hip.CMU.16.09.2016.08.05.day11	soil.hip.CMU.16.09.2016.08.05.day11	269.7	19.5	CMU	Mrs. 16-09	10	soil.hip
+soil.hip.CMU.16.09.2016.08.06.day12	soil.hip.CMU.16.09.2016.08.06.day12	293.3	19.5	CMU	Mrs. 16-09	11	soil.hip
+soil.hip.CMU.16.09.2016.08.07.day13	soil.hip.CMU.16.09.2016.08.07.day13	317.75	19	CMU	Mrs. 16-09	12	soil.hip
+soil.hip.CMU.16.09.2016.08.08.day14	soil.hip.CMU.16.09.2016.08.08.day14	343.3	20	CMU	Mrs. 16-09	13	soil.hip
+soil.hip.CMU.16.09.2016.08.09.day15	soil.hip.CMU.16.09.2016.08.09.day15	371.35	21	CMU	Mrs. 16-09	14	soil.hip
+soil.hip.CMU.16.09.2016.08.10.day16	soil.hip.CMU.16.09.2016.08.10.day16	397.75	21	CMU	Mrs. 16-09	15	soil.hip
+soil.hip.CMU.16.09.2016.08.11.day17	soil.hip.CMU.16.09.2016.08.11.day17	422.75	21	CMU	Mrs. 16-09	16	soil.hip
+soil.hip.CMU.16.09.2016.08.12.day18	soil.hip.CMU.16.09.2016.08.12.day18	446.35	22.5	CMU	Mrs. 16-09	17	soil.hip
+soil.hip.CMU.16.09.2016.08.13.day19	soil.hip.CMU.16.09.2016.08.13.day19	471.65	22.5	CMU	Mrs. 16-09	18	soil.hip
+soil.hip.CMU.16.09.2016.08.14.day20	soil.hip.CMU.16.09.2016.08.14.day20	496.4	22.5	CMU	Mrs. 16-09	19	soil.hip
+soil.hip.CMU.16.09.2016.08.15.day21	soil.hip.CMU.16.09.2016.08.15.day21	521.95	21.5	CMU	Mrs. 16-09	20	soil.hip
+soil.hip.CMU.16.10.2016.08.06.day1	soil.hip.CMU.16.10.2016.08.06.day1	0	5	CMU	Mrs. 16-10	0	soil.hip
+soil.hip.CMU.16.10.2016.08.07.day2	soil.hip.CMU.16.10.2016.08.07.day2	24.45	5	CMU	Mrs. 16-10	1	soil.hip
+soil.hip.CMU.16.10.2016.08.08.day3	soil.hip.CMU.16.10.2016.08.08.day3	50	8	CMU	Mrs. 16-10	2	soil.hip
+soil.hip.CMU.16.10.2016.08.09.day4	soil.hip.CMU.16.10.2016.08.09.day4	78.05	8.5	CMU	Mrs. 16-10	3	soil.hip
+soil.hip.CMU.16.10.2016.08.10.day5	soil.hip.CMU.16.10.2016.08.10.day5	104.45	10.5	CMU	Mrs. 16-10	4	soil.hip
+soil.hip.CMU.16.10.2016.08.11.day6	soil.hip.CMU.16.10.2016.08.11.day6	129.45	12.5	CMU	Mrs. 16-10	5	soil.hip
+soil.hip.CMU.16.10.2016.08.15.day10	soil.hip.CMU.16.10.2016.08.15.day10	228.65	16	CMU	Mrs. 16-10	9	soil.hip
+soil.hip.CMU.16.10.2016.08.16.day11	soil.hip.CMU.16.10.2016.08.16.day11	255.05	15.5	CMU	Mrs. 16-10	10	soil.hip
+soil.hip.CMU.16.10.2016.08.17.day12	soil.hip.CMU.16.10.2016.08.17.day12	280.3	16	CMU	Mrs. 16-10	11	soil.hip
+soil.hip.CMU.16.10.2016.08.18.day13	soil.hip.CMU.16.10.2016.08.18.day13	303.9	16.5	CMU	Mrs. 16-10	12	soil.hip
+soil.hip.CMU.16.10.2016.08.19.day14	soil.hip.CMU.16.10.2016.08.19.day14	327.5	19	CMU	Mrs. 16-10	13	soil.hip
+soil.hip.CMU.16.10.2016.08.20.day15	soil.hip.CMU.16.10.2016.08.20.day15	351.95	21	CMU	Mrs. 16-10	14	soil.hip
+soil.hip.CMU.16.10.2016.08.21.day16	soil.hip.CMU.16.10.2016.08.21.day16	376.1	21	CMU	Mrs. 16-10	15	soil.hip
+soil.hip.CMU.16.10.2016.08.22.day17	soil.hip.CMU.16.10.2016.08.22.day17	400	21	CMU	Mrs. 16-10	16	soil.hip
+soil.hip.CMU.16.10.2016.08.23.day18	soil.hip.CMU.16.10.2016.08.23.day18	421.7	21	CMU	Mrs. 16-10	17	soil.hip
+soil.hip.CMU.16.10.2016.08.24.day19	soil.hip.CMU.16.10.2016.08.24.day19	443.9	21	CMU	Mrs. 16-10	18	soil.hip
+soil.hip.CMU.16.10.2016.08.25.day20	soil.hip.CMU.16.10.2016.08.25.day20	464.75	21	CMU	Mrs. 16-10	19	soil.hip
+soil.hip.CMU.16.10.2016.08.26.day21	soil.hip.CMU.16.10.2016.08.26.day21	483.95	21	CMU	Mrs. 16-10	20	soil.hip
+soil.hip.CMU.17.01.2017.01.day1	soil.hip.CMU.17.01.2017.01.day1	0	3.5	CMU	Mrs. 17-01	0	soil.hip
+soil.hip.CMU.17.01.2017.01.day8	soil.hip.CMU.17.01.2017.01.day8	6.15	7	CMU	Mrs. 17-01	7	soil.hip
+soil.hip.CMU.17.01.2017.01.day9	soil.hip.CMU.17.01.2017.01.day9	8.65	7	CMU	Mrs. 17-01	8	soil.hip
+soil.hip.CMU.17.01.2017.01.day10	soil.hip.CMU.17.01.2017.01.day10	12.25	7.5	CMU	Mrs. 17-01	9	soil.hip
+soil.hip.CMU.17.01.2017.01.day11	soil.hip.CMU.17.01.2017.01.day11	16.4	8	CMU	Mrs. 17-01	10	soil.hip
+soil.hip.CMU.17.01.2017.01.day12	soil.hip.CMU.17.01.2017.01.day12	20.3	9	CMU	Mrs. 17-01	11	soil.hip
+soil.hip.CMU.17.01.2017.01.day13	soil.hip.CMU.17.01.2017.01.day13	22.8	6	CMU	Mrs. 17-01	12	soil.hip
+soil.hip.CMU.17.01.2017.01.day14	soil.hip.CMU.17.01.2017.01.day14	24.75	10	CMU	Mrs. 17-01	13	soil.hip
+soil.hip.CMU.17.01.2017.01.day15	soil.hip.CMU.17.01.2017.01.day15	26.7	7.5	CMU	Mrs. 17-01	14	soil.hip
+soil.hip.CMU.17.01.2017.01.day16	soil.hip.CMU.17.01.2017.01.day16	26.7	8.5	CMU	Mrs. 17-01	15	soil.hip
+soil.hip.CMU.17.01.2017.01.day17	soil.hip.CMU.17.01.2017.01.day17	27.8	7.5	CMU	Mrs. 17-01	16	soil.hip
+soil.hip.CMU.17.01.2017.01.day18	soil.hip.CMU.17.01.2017.01.day18	28.65	10	CMU	Mrs. 17-01	17	soil.hip
+soil.hip.CMU.17.01.2017.01.day19	soil.hip.CMU.17.01.2017.01.day19	28.95	10	CMU	Mrs. 17-01	18	soil.hip
+soil.hip.CMU.17.01.2017.01.day20	soil.hip.CMU.17.01.2017.01.day20	33.4	8.5	CMU	Mrs. 17-01	19	soil.hip
+soil.hip.CMU.17.01.2017.01.day21	soil.hip.CMU.17.01.2017.01.day21	33.65	10	CMU	Mrs. 17-01	20	soil.hip
+soil.hip.CMU.17.01.2017.01.day22	soil.hip.CMU.17.01.2017.01.day22	33.65	10	CMU	Mrs. 17-01	21	soil.hip
+soil.hip.SHSU.2016.007.2016.04.15.day1	soil.hip.SHSU.2016.007.2016.04.15.day1	0	5	SHSU	shsu.2016.007	0	soil.hip
+soil.hip.SHSU.2016.007.2016.04.16.day2	soil.hip.SHSU.2016.007.2016.04.16.day2	23.33333333	5	SHSU	shsu.2016.007	1	soil.hip
+soil.hip.SHSU.2016.007.2016.04.17.day3	soil.hip.SHSU.2016.007.2016.04.17.day3	45.83333333	7	SHSU	shsu.2016.007	2	soil.hip
+soil.hip.SHSU.2016.007.2016.04.18.day4	soil.hip.SHSU.2016.007.2016.04.18.day4	67.5	9	SHSU	shsu.2016.007	3	soil.hip
+soil.hip.SHSU.2016.007.2016.04.19.day5	soil.hip.SHSU.2016.007.2016.04.19.day5	90.55555556	13	SHSU	shsu.2016.007	4	soil.hip
+soil.hip.SHSU.2016.007.2016.04.20.day6	soil.hip.SHSU.2016.007.2016.04.20.day6	111.6666667	14	SHSU	shsu.2016.007	5	soil.hip
+soil.hip.SHSU.2016.007.2016.04.21.day7	soil.hip.SHSU.2016.007.2016.04.21.day7	132.7777778	18	SHSU	shsu.2016.007	6	soil.hip
+soil.hip.SHSU.2016.007.2016.04.22.day8	soil.hip.SHSU.2016.007.2016.04.22.day8	153.8888889	21	SHSU	shsu.2016.007	7	soil.hip
+soil.hip.SHSU.2016.007.2016.04.23.day9	soil.hip.SHSU.2016.007.2016.04.23.day9	174.4444445	21	SHSU	shsu.2016.007	8	soil.hip
+soil.hip.SHSU.2016.007.2016.04.24.day10	soil.hip.SHSU.2016.007.2016.04.24.day10	194.7222222	21	SHSU	shsu.2016.007	9	soil.hip
+soil.hip.SHSU.2016.007.2016.04.25.day11	soil.hip.SHSU.2016.007.2016.04.25.day11	220.5555556	21	SHSU	shsu.2016.007	10	soil.hip
+soil.hip.SHSU.2016.007.2016.04.26.day12	soil.hip.SHSU.2016.007.2016.04.26.day12	247.2222222	21	SHSU	shsu.2016.007	11	soil.hip
+soil.hip.SHSU.2016.007.2016.04.27.day13	soil.hip.SHSU.2016.007.2016.04.27.day13	271.1111111	21	SHSU	shsu.2016.007	12	soil.hip
+soil.hip.SHSU.2016.007.2016.04.28.day14	soil.hip.SHSU.2016.007.2016.04.28.day14	296.3888889	21	SHSU	shsu.2016.007	13	soil.hip
+soil.hip.SHSU.2016.007.2016.04.29.day15	soil.hip.SHSU.2016.007.2016.04.29.day15	324.4444445	22	SHSU	shsu.2016.007	14	soil.hip
+soil.hip.SHSU.2016.007.2016.04.30.day16	soil.hip.SHSU.2016.007.2016.04.30.day16	350	22	SHSU	shsu.2016.007	15	soil.hip
+soil.hip.SHSU.2016.007.2016.05.01.day17	soil.hip.SHSU.2016.007.2016.05.01.day17	373.6111111	22	SHSU	shsu.2016.007	16	soil.hip
+soil.hip.SHSU.2016.007.2016.05.02.day18	soil.hip.SHSU.2016.007.2016.05.02.day18	391.6666667	22	SHSU	shsu.2016.007	17	soil.hip
+soil.hip.SHSU.2016.007.2016.05.03.day19	soil.hip.SHSU.2016.007.2016.05.03.day19	409.1666667	22	SHSU	shsu.2016.007	18	soil.hip
+soil.hip.SHSU.2016.007.2016.05.04.day20	soil.hip.SHSU.2016.007.2016.05.04.day20	428.6111111	22	SHSU	shsu.2016.007	19	soil.hip
+soil.hip.SHSU.2016.007.2016.05.05.day21	soil.hip.SHSU.2016.007.2016.05.05.day21	449.1666667	22	SHSU	shsu.2016.007	20	soil.hip
+soil.hip.SHSU.2016.011.2016.04.15.day1	soil.hip.SHSU.2016.011.2016.04.15.day1	0	9	SHSU	shsu.2016.011	0	soil.hip
+soil.hip.SHSU.2016.011.2016.04.16.day2	soil.hip.SHSU.2016.011.2016.04.16.day2	23.33333333	9	SHSU	shsu.2016.011	1	soil.hip
+soil.hip.SHSU.2016.011.2016.04.17.day3	soil.hip.SHSU.2016.011.2016.04.17.day3	45.83333333	12	SHSU	shsu.2016.011	2	soil.hip
+soil.hip.SHSU.2016.011.2016.04.18.day4	soil.hip.SHSU.2016.011.2016.04.18.day4	67.5	16	SHSU	shsu.2016.011	3	soil.hip
+soil.hip.SHSU.2016.011.2016.04.19.day5	soil.hip.SHSU.2016.011.2016.04.19.day5	90.55555556	20	SHSU	shsu.2016.011	4	soil.hip
+soil.hip.SHSU.2016.011.2016.04.20.day6	soil.hip.SHSU.2016.011.2016.04.20.day6	111.6666667	25	SHSU	shsu.2016.011	5	soil.hip
+soil.hip.SHSU.2016.011.2016.04.21.day7	soil.hip.SHSU.2016.011.2016.04.21.day7	132.7777778	27	SHSU	shsu.2016.011	6	soil.hip
+soil.hip.SHSU.2016.011.2016.04.22.day8	soil.hip.SHSU.2016.011.2016.04.22.day8	153.8888889	27	SHSU	shsu.2016.011	7	soil.hip
+soil.hip.SHSU.2016.011.2016.04.23.day9	soil.hip.SHSU.2016.011.2016.04.23.day9	174.4444445	28	SHSU	shsu.2016.011	8	soil.hip
+soil.hip.SHSU.2016.011.2016.04.24.day10	soil.hip.SHSU.2016.011.2016.04.24.day10	194.7222222	28	SHSU	shsu.2016.011	9	soil.hip
+soil.hip.SHSU.2016.011.2016.04.25.day11	soil.hip.SHSU.2016.011.2016.04.25.day11	220.5555556	28	SHSU	shsu.2016.011	10	soil.hip
+soil.hip.SHSU.2016.011.2016.04.26.day12	soil.hip.SHSU.2016.011.2016.04.26.day12	247.2222222	27	SHSU	shsu.2016.011	11	soil.hip
+soil.hip.SHSU.2016.011.2016.04.27.day13	soil.hip.SHSU.2016.011.2016.04.27.day13	271.1111111	27	SHSU	shsu.2016.011	12	soil.hip
+soil.hip.SHSU.2016.011.2016.04.28.day14	soil.hip.SHSU.2016.011.2016.04.28.day14	296.3888889	27	SHSU	shsu.2016.011	13	soil.hip
+soil.hip.SHSU.2016.011.2016.04.29.day15	soil.hip.SHSU.2016.011.2016.04.29.day15	324.4444445	27	SHSU	shsu.2016.011	14	soil.hip
+soil.hip.SHSU.2016.011.2016.04.30.day16	soil.hip.SHSU.2016.011.2016.04.30.day16	350	27	SHSU	shsu.2016.011	15	soil.hip
+soil.hip.SHSU.2016.011.2016.05.01.day17	soil.hip.SHSU.2016.011.2016.05.01.day17	373.6111111	31	SHSU	shsu.2016.011	16	soil.hip
+soil.hip.SHSU.2016.011.2016.05.02.day18	soil.hip.SHSU.2016.011.2016.05.02.day18	391.6666667	31	SHSU	shsu.2016.011	17	soil.hip
+soil.hip.SHSU.2016.011.2016.05.03.day19	soil.hip.SHSU.2016.011.2016.05.03.day19	409.1666667	32	SHSU	shsu.2016.011	18	soil.hip
+soil.hip.SHSU.2016.011.2016.05.04.day20	soil.hip.SHSU.2016.011.2016.05.04.day20	428.6111111	32	SHSU	shsu.2016.011	19	soil.hip
+soil.hip.SHSU.2016.011.2016.05.05.day21	soil.hip.SHSU.2016.011.2016.05.05.day21	449.1666667	34	SHSU	shsu.2016.011	20	soil.hip
+soil.hip.SHSU.2016.024.2016.04.15.day1	soil.hip.SHSU.2016.024.2016.04.15.day1	0	8	SHSU	shsu.2016.024	0	soil.hip
+soil.hip.SHSU.2016.024.2016.04.16.day2	soil.hip.SHSU.2016.024.2016.04.16.day2	23.33333333	9	SHSU	shsu.2016.024	1	soil.hip
+soil.hip.SHSU.2016.024.2016.04.17.day3	soil.hip.SHSU.2016.024.2016.04.17.day3	45.83333333	11	SHSU	shsu.2016.024	2	soil.hip
+soil.hip.SHSU.2016.024.2016.04.18.day4	soil.hip.SHSU.2016.024.2016.04.18.day4	67.5	17	SHSU	shsu.2016.024	3	soil.hip
+soil.hip.SHSU.2016.024.2016.04.19.day5	soil.hip.SHSU.2016.024.2016.04.19.day5	90.55555556	20	SHSU	shsu.2016.024	4	soil.hip
+soil.hip.SHSU.2016.024.2016.04.20.day6	soil.hip.SHSU.2016.024.2016.04.20.day6	111.6666667	21	SHSU	shsu.2016.024	5	soil.hip
+soil.hip.SHSU.2016.024.2016.04.21.day7	soil.hip.SHSU.2016.024.2016.04.21.day7	132.7777778	22	SHSU	shsu.2016.024	6	soil.hip
+soil.hip.SHSU.2016.024.2016.04.22.day8	soil.hip.SHSU.2016.024.2016.04.22.day8	153.8888889	24	SHSU	shsu.2016.024	7	soil.hip
+soil.hip.SHSU.2016.024.2016.04.23.day9	soil.hip.SHSU.2016.024.2016.04.23.day9	174.4444445	25	SHSU	shsu.2016.024	8	soil.hip
+soil.hip.SHSU.2016.024.2016.04.24.day10	soil.hip.SHSU.2016.024.2016.04.24.day10	194.7222222	26	SHSU	shsu.2016.024	9	soil.hip
+soil.hip.SHSU.2016.024.2016.04.25.day11	soil.hip.SHSU.2016.024.2016.04.25.day11	220.5555556	26	SHSU	shsu.2016.024	10	soil.hip
+soil.hip.SHSU.2016.024.2016.04.26.day12	soil.hip.SHSU.2016.024.2016.04.26.day12	247.2222222	26	SHSU	shsu.2016.024	11	soil.hip
+soil.hip.SHSU.2016.024.2016.04.27.day13	soil.hip.SHSU.2016.024.2016.04.27.day13	271.1111111	26	SHSU	shsu.2016.024	12	soil.hip
+soil.hip.SHSU.2016.024.2016.04.28.day14	soil.hip.SHSU.2016.024.2016.04.28.day14	296.3888889	26	SHSU	shsu.2016.024	13	soil.hip
+soil.hip.SHSU.2016.024.2016.04.29.day15	soil.hip.SHSU.2016.024.2016.04.29.day15	324.4444445	26	SHSU	shsu.2016.024	14	soil.hip
+soil.hip.SHSU.2016.024.2016.04.30.day16	soil.hip.SHSU.2016.024.2016.04.30.day16	350	27	SHSU	shsu.2016.024	15	soil.hip
+soil.hip.SHSU.2016.024.2016.05.01.day17	soil.hip.SHSU.2016.024.2016.05.01.day17	373.6111111	28	SHSU	shsu.2016.024	16	soil.hip
+soil.hip.SHSU.2016.024.2016.05.02.day18	soil.hip.SHSU.2016.024.2016.05.02.day18	391.6666667	28	SHSU	shsu.2016.024	17	soil.hip
+soil.hip.SHSU.2016.024.2016.05.03.day19	soil.hip.SHSU.2016.024.2016.05.03.day19	409.1666667	29	SHSU	shsu.2016.024	18	soil.hip
+soil.hip.SHSU.2016.024.2016.05.04.day20	soil.hip.SHSU.2016.024.2016.05.04.day20	428.6111111	29	SHSU	shsu.2016.024	19	soil.hip
+soil.hip.SHSU.2016.024.2016.05.05.day21	soil.hip.SHSU.2016.024.2016.05.05.day21	449.1666667	29	SHSU	shsu.2016.024	20	soil.hip
+soil.hip.UTK.K016.01.2016.04.05.day1	soil.hip.UTK.K016.01.2016.04.05.day1	0	3	UTK	UTK.K016.01	0	soil.hip
+soil.hip.UTK.K016.01.2016.04.06.day2	soil.hip.UTK.K016.01.2016.04.06.day2	10.55555556	3	UTK	UTK.K016.01	1	soil.hip
+soil.hip.UTK.K016.01.2016.04.07.day3	soil.hip.UTK.K016.01.2016.04.07.day3	23.05555556	3	UTK	UTK.K016.01	2	soil.hip
+soil.hip.UTK.K016.01.2016.04.08.day4	soil.hip.UTK.K016.01.2016.04.08.day4	33.05555556	3	UTK	UTK.K016.01	3	soil.hip
+soil.hip.UTK.K016.01.2016.04.09.day5	soil.hip.UTK.K016.01.2016.04.09.day5	40.55555556	3	UTK	UTK.K016.01	4	soil.hip
+soil.hip.UTK.K016.01.2016.04.10.day6	soil.hip.UTK.K016.01.2016.04.10.day6	48.33333334	3	UTK	UTK.K016.01	5	soil.hip
+soil.hip.UTK.K016.01.2016.04.11.day7	soil.hip.UTK.K016.01.2016.04.11.day7	62.50000001	3	UTK	UTK.K016.01	6	soil.hip
+soil.hip.UTK.K016.01.2016.04.12.day8	soil.hip.UTK.K016.01.2016.04.12.day8	76.3888889	3	UTK	UTK.K016.01	7	soil.hip
+soil.hip.UTK.K016.01.2016.04.13.day9	soil.hip.UTK.K016.01.2016.04.13.day9	90.27777779	3	UTK	UTK.K016.01	8	soil.hip
+soil.hip.UTK.K016.01.2016.04.14.day10	soil.hip.UTK.K016.01.2016.04.14.day10	108.8888889	3	UTK	UTK.K016.01	9	soil.hip
+soil.hip.UTK.K016.01.2016.04.15.day11	soil.hip.UTK.K016.01.2016.04.15.day11	126.6666667	8	UTK	UTK.K016.01	10	soil.hip
+soil.hip.UTK.K016.01.2016.04.16.day12	soil.hip.UTK.K016.01.2016.04.16.day12	141.6666667	9	UTK	UTK.K016.01	11	soil.hip
+soil.hip.UTK.K016.01.2016.04.17.day13	soil.hip.UTK.K016.01.2016.04.17.day13	157.7777778	12	UTK	UTK.K016.01	12	soil.hip
+soil.hip.UTK.K016.01.2016.04.18.day14	soil.hip.UTK.K016.01.2016.04.18.day14	176.9444445	14	UTK	UTK.K016.01	13	soil.hip
+soil.hip.UTK.K016.01.2016.04.19.day15	soil.hip.UTK.K016.01.2016.04.19.day15	197.5	16	UTK	UTK.K016.01	14	soil.hip
+soil.hip.UTK.K016.01.2016.04.20.day16	soil.hip.UTK.K016.01.2016.04.20.day16	220.8333333	20	UTK	UTK.K016.01	15	soil.hip
+soil.hip.UTK.K016.01.2016.04.21.day17	soil.hip.UTK.K016.01.2016.04.21.day17	242.2222222	23	UTK	UTK.K016.01	16	soil.hip
+soil.hip.UTK.K016.01.2016.04.22.day18	soil.hip.UTK.K016.01.2016.04.22.day18	260	21	UTK	UTK.K016.01	17	soil.hip
+soil.hip.UTK.K016.01.2016.04.23.day19	soil.hip.UTK.K016.01.2016.04.23.day19	276.1111111	23	UTK	UTK.K016.01	18	soil.hip
+soil.hip.UTK.K016.01.2016.04.24.day20	soil.hip.UTK.K016.01.2016.04.24.day20	293.6111111	23	UTK	UTK.K016.01	19	soil.hip
+soil.hip.UTK.K016.01.2016.04.25.day21	soil.hip.UTK.K016.01.2016.04.25.day21	313.8888889	23	UTK	UTK.K016.01	20	soil.hip
+soil.hip.UTK.K016.02.2016.04.13.day1	soil.hip.UTK.K016.02.2016.04.13.day1	0	3	UTK	UTK.K016.02	0	soil.hip
+soil.hip.UTK.K016.02.2016.04.14.day2	soil.hip.UTK.K016.02.2016.04.14.day2	18.61111111	3	UTK	UTK.K016.02	1	soil.hip
+soil.hip.UTK.K016.02.2016.04.15.day3	soil.hip.UTK.K016.02.2016.04.15.day3	36.38888889	3	UTK	UTK.K016.02	2	soil.hip
+soil.hip.UTK.K016.02.2016.04.16.day4	soil.hip.UTK.K016.02.2016.04.16.day4	51.38888889	3	UTK	UTK.K016.02	3	soil.hip
+soil.hip.UTK.K016.02.2016.04.17.day5	soil.hip.UTK.K016.02.2016.04.17.day5	67.5	3	UTK	UTK.K016.02	4	soil.hip
+soil.hip.UTK.K016.02.2016.04.18.day6	soil.hip.UTK.K016.02.2016.04.18.day6	86.66666667	5	UTK	UTK.K016.02	5	soil.hip
+soil.hip.UTK.K016.02.2016.04.19.day7	soil.hip.UTK.K016.02.2016.04.19.day7	107.2222222	5	UTK	UTK.K016.02	6	soil.hip
+soil.hip.UTK.K016.02.2016.04.20.day8	soil.hip.UTK.K016.02.2016.04.20.day8	130.5555556	13	UTK	UTK.K016.02	7	soil.hip
+soil.hip.UTK.K016.02.2016.04.21.day9	soil.hip.UTK.K016.02.2016.04.21.day9	151.9444445	20	UTK	UTK.K016.02	8	soil.hip
+soil.hip.UTK.K016.02.2016.04.22.day10	soil.hip.UTK.K016.02.2016.04.22.day10	169.7222222	20	UTK	UTK.K016.02	9	soil.hip
+soil.hip.UTK.K016.02.2016.04.23.day11	soil.hip.UTK.K016.02.2016.04.23.day11	185.8333333	24	UTK	UTK.K016.02	10	soil.hip
+soil.hip.UTK.K016.02.2016.04.24.day12	soil.hip.UTK.K016.02.2016.04.24.day12	203.3333333	21	UTK	UTK.K016.02	11	soil.hip
+soil.hip.UTK.K016.02.2016.04.25.day13	soil.hip.UTK.K016.02.2016.04.25.day13	223.6111111	25	UTK	UTK.K016.02	12	soil.hip
+soil.hip.UTK.K016.02.2016.04.26.day14	soil.hip.UTK.K016.02.2016.04.26.day14	245.5555556	25	UTK	UTK.K016.02	13	soil.hip
+soil.hip.UTK.K016.02.2016.04.27.day15	soil.hip.UTK.K016.02.2016.04.27.day15	269.4444445	25	UTK	UTK.K016.02	14	soil.hip
+soil.hip.UTK.K016.02.2016.04.28.day16	soil.hip.UTK.K016.02.2016.04.28.day16	292.2222222	25	UTK	UTK.K016.02	15	soil.hip
+soil.hip.UTK.K016.02.2016.04.29.day17	soil.hip.UTK.K016.02.2016.04.29.day17	313.3333333	25	UTK	UTK.K016.02	16	soil.hip
+soil.hip.UTK.K016.02.2016.04.30.day18	soil.hip.UTK.K016.02.2016.04.30.day18	332.7777778	25	UTK	UTK.K016.02	17	soil.hip
+soil.hip.UTK.K016.02.2016.05.01.day19	soil.hip.UTK.K016.02.2016.05.01.day19	354.7222222	25	UTK	UTK.K016.02	18	soil.hip
+soil.hip.UTK.K016.02.2016.05.02.day20	soil.hip.UTK.K016.02.2016.05.02.day20	375.8333333	25	UTK	UTK.K016.02	19	soil.hip
+soil.hip.UTK.K016.02.2016.05.03.day21	soil.hip.UTK.K016.02.2016.05.03.day21	394.4444444	25	UTK	UTK.K016.02	20	soil.hip
+soil.hip.UTK.K016.03.2016.05.06.day1	soil.hip.UTK.K016.03.2016.05.06.day1	0	3	UTK	UTK.K016.03	0	soil.hip
+soil.hip.UTK.K016.03.2016.05.07.day2	soil.hip.UTK.K016.03.2016.05.07.day2	18.61111111	3	UTK	UTK.K016.03	1	soil.hip
+soil.hip.UTK.K016.03.2016.05.08.day3	soil.hip.UTK.K016.03.2016.05.08.day3	41.38888889	3	UTK	UTK.K016.03	2	soil.hip
+soil.hip.UTK.K016.03.2016.05.09.day4	soil.hip.UTK.K016.03.2016.05.09.day4	63.33333333	3	UTK	UTK.K016.03	3	soil.hip
+soil.hip.UTK.K016.03.2016.05.10.day5	soil.hip.UTK.K016.03.2016.05.10.day5	86.11111111	3	UTK	UTK.K016.03	4	soil.hip
+soil.hip.UTK.K016.03.2016.05.11.day6	soil.hip.UTK.K016.03.2016.05.11.day6	109.7222222	3	UTK	UTK.K016.03	5	soil.hip
+soil.hip.UTK.K016.03.2016.05.12.day7	soil.hip.UTK.K016.03.2016.05.12.day7	133.3333333	8	UTK	UTK.K016.03	6	soil.hip
+soil.hip.UTK.K016.03.2016.05.13.day8	soil.hip.UTK.K016.03.2016.05.13.day8	152.5	11	UTK	UTK.K016.03	7	soil.hip
+soil.hip.UTK.K016.03.2016.05.14.day9	soil.hip.UTK.K016.03.2016.05.14.day9	168.6111111	15	UTK	UTK.K016.03	8	soil.hip
+soil.hip.UTK.K016.03.2016.05.15.day10	soil.hip.UTK.K016.03.2016.05.15.day10	180.5555556	16	UTK	UTK.K016.03	9	soil.hip
+soil.hip.UTK.K016.03.2016.05.16.day11	soil.hip.UTK.K016.03.2016.05.16.day11	193.8888889	20	UTK	UTK.K016.03	10	soil.hip
+soil.hip.UTK.K016.03.2016.05.17.day12	soil.hip.UTK.K016.03.2016.05.17.day12	213.0555556	23	UTK	UTK.K016.03	11	soil.hip
+soil.hip.UTK.K016.03.2016.05.18.day13	soil.hip.UTK.K016.03.2016.05.18.day13	231.3888889	23	UTK	UTK.K016.03	12	soil.hip
+soil.hip.UTK.K016.03.2016.05.19.day14	soil.hip.UTK.K016.03.2016.05.19.day14	250.8333333	24	UTK	UTK.K016.03	13	soil.hip
+soil.hip.UTK.K016.03.2016.05.20.day15	soil.hip.UTK.K016.03.2016.05.20.day15	268.8888889	24	UTK	UTK.K016.03	14	soil.hip
+soil.hip.UTK.K016.03.2016.05.21.day16	soil.hip.UTK.K016.03.2016.05.21.day16	289.1666667	24	UTK	UTK.K016.03	15	soil.hip
+soil.hip.UTK.K016.03.2016.05.22.day17	soil.hip.UTK.K016.03.2016.05.22.day17	308.0555556	24	UTK	UTK.K016.03	16	soil.hip
+soil.hip.UTK.K016.03.2016.05.23.day18	soil.hip.UTK.K016.03.2016.05.23.day18	326.1111111	24	UTK	UTK.K016.03	17	soil.hip
+soil.hip.UTK.K016.03.2016.05.24.day19	soil.hip.UTK.K016.03.2016.05.24.day19	345.2777778	24	UTK	UTK.K016.03	18	soil.hip
+soil.hip.UTK.K016.03.2016.05.25.day20	soil.hip.UTK.K016.03.2016.05.25.day20	366.9444445	24	UTK	UTK.K016.03	19	soil.hip
+soil.hip.UTK.K016.03.2016.05.26.day21	soil.hip.UTK.K016.03.2016.05.26.day21	390.2777778	24	UTK	UTK.K016.03	20	soil.hip
+soil.hip.UTK.K016.04.2016.09.26.day1	soil.hip.UTK.K016.04.2016.09.26.day1	0	4	UTK	UTK.K016.04	0	soil.hip
+soil.hip.UTK.K016.04.2016.09.27.day2	soil.hip.UTK.K016.04.2016.09.27.day2	21.3	4	UTK	UTK.K016.04	1	soil.hip
+soil.hip.UTK.K016.04.2016.09.28.day3	soil.hip.UTK.K016.04.2016.09.28.day3	41.7	4	UTK	UTK.K016.04	2	soil.hip
+soil.hip.UTK.K016.04.2016.09.29.day4	soil.hip.UTK.K016.04.2016.09.29.day4	60.4	7	UTK	UTK.K016.04	3	soil.hip
+soil.hip.UTK.K016.04.2016.09.30.day5	soil.hip.UTK.K016.04.2016.09.30.day5	76.2	7	UTK	UTK.K016.04	4	soil.hip
+soil.hip.UTK.K016.04.2016.10.01.day6	soil.hip.UTK.K016.04.2016.10.01.day6	92.6	10	UTK	UTK.K016.04	5	soil.hip
+soil.hip.UTK.K016.04.2016.10.02.day7	soil.hip.UTK.K016.04.2016.10.02.day7	111.5	14	UTK	UTK.K016.04	6	soil.hip
+soil.hip.UTK.K016.04.2016.10.03.day8	soil.hip.UTK.K016.04.2016.10.03.day8	130.7	12	UTK	UTK.K016.04	7	soil.hip
+soil.hip.UTK.K016.04.2016.10.04.day9	soil.hip.UTK.K016.04.2016.10.04.day9	152.3	15	UTK	UTK.K016.04	8	soil.hip
+soil.hip.UTK.K016.04.2016.10.05.day10	soil.hip.UTK.K016.04.2016.10.05.day10	173.7	16	UTK	UTK.K016.04	9	soil.hip
+soil.hip.UTK.K016.04.2016.10.06.day11	soil.hip.UTK.K016.04.2016.10.06.day11	194.1	16	UTK	UTK.K016.04	10	soil.hip
+soil.hip.UTK.K016.04.2016.10.07.day12	soil.hip.UTK.K016.04.2016.10.07.day12	214.5	15	UTK	UTK.K016.04	11	soil.hip
+soil.hip.UTK.K016.04.2016.10.08.day13	soil.hip.UTK.K016.04.2016.10.08.day13	236.2	17	UTK	UTK.K016.04	12	soil.hip
+soil.hip.UTK.K016.04.2016.10.09.day14	soil.hip.UTK.K016.04.2016.10.09.day14	253.1	16	UTK	UTK.K016.04	13	soil.hip
+soil.hip.UTK.K016.04.2016.10.10.day15	soil.hip.UTK.K016.04.2016.10.10.day15	269.7	17	UTK	UTK.K016.04	14	soil.hip
+soil.hip.UTK.K016.04.2016.10.11.day16	soil.hip.UTK.K016.04.2016.10.11.day16	286.1	18	UTK	UTK.K016.04	15	soil.hip
+soil.hip.UTK.K016.04.2016.10.12.day17	soil.hip.UTK.K016.04.2016.10.12.day17	302.8	17	UTK	UTK.K016.04	16	soil.hip
+soil.hip.UTK.K016.04.2016.10.13.day18	soil.hip.UTK.K016.04.2016.10.13.day18	320.1	21	UTK	UTK.K016.04	17	soil.hip
+soil.hip.UTK.K016.04.2016.10.14.day19	soil.hip.UTK.K016.04.2016.10.14.day19	340.2	20	UTK	UTK.K016.04	18	soil.hip
+soil.hip.UTK.K016.04.2016.10.15.day20	soil.hip.UTK.K016.04.2016.10.15.day20	361.3	20	UTK	UTK.K016.04	19	soil.hip
+soil.hip.UTK.K016.04.2016.10.16.day21	soil.hip.UTK.K016.04.2016.10.16.day21	383	20	UTK	UTK.K016.04	20	soil.hip
+soil.hip.UTK.K016.05.2016.09.26.day1	soil.hip.UTK.K016.05.2016.09.26.day1	0	3	UTK	UTK.K016.05	0	soil.hip
+soil.hip.UTK.K016.05.2016.09.27.day2	soil.hip.UTK.K016.05.2016.09.27.day2	21.3	3	UTK	UTK.K016.05	1	soil.hip
+soil.hip.UTK.K016.05.2016.09.28.day3	soil.hip.UTK.K016.05.2016.09.28.day3	41.7	3	UTK	UTK.K016.05	2	soil.hip
+soil.hip.UTK.K016.05.2016.09.29.day4	soil.hip.UTK.K016.05.2016.09.29.day4	60.4	3	UTK	UTK.K016.05	3	soil.hip
+soil.hip.UTK.K016.05.2016.09.30.day5	soil.hip.UTK.K016.05.2016.09.30.day5	76.2	5	UTK	UTK.K016.05	4	soil.hip
+soil.hip.UTK.K016.05.2016.10.01.day6	soil.hip.UTK.K016.05.2016.10.01.day6	92.6	13	UTK	UTK.K016.05	5	soil.hip
+soil.hip.UTK.K016.05.2016.10.02.day7	soil.hip.UTK.K016.05.2016.10.02.day7	111.5	18	UTK	UTK.K016.05	6	soil.hip
+soil.hip.UTK.K016.05.2016.10.03.day8	soil.hip.UTK.K016.05.2016.10.03.day8	130.7	11	UTK	UTK.K016.05	7	soil.hip
+soil.hip.UTK.K016.05.2016.10.04.day9	soil.hip.UTK.K016.05.2016.10.04.day9	152.3	19	UTK	UTK.K016.05	8	soil.hip
+soil.hip.UTK.K016.05.2016.10.05.day10	soil.hip.UTK.K016.05.2016.10.05.day10	173.7	19	UTK	UTK.K016.05	9	soil.hip
+soil.hip.UTK.K016.05.2016.10.06.day11	soil.hip.UTK.K016.05.2016.10.06.day11	194.1	19	UTK	UTK.K016.05	10	soil.hip
+soil.hip.UTK.K016.05.2016.10.07.day12	soil.hip.UTK.K016.05.2016.10.07.day12	214.5	19	UTK	UTK.K016.05	11	soil.hip
+soil.hip.UTK.K016.05.2016.10.08.day13	soil.hip.UTK.K016.05.2016.10.08.day13	236.2	20	UTK	UTK.K016.05	12	soil.hip
+soil.hip.UTK.K016.05.2016.10.09.day14	soil.hip.UTK.K016.05.2016.10.09.day14	253.1	21	UTK	UTK.K016.05	13	soil.hip
+soil.hip.UTK.K016.05.2016.10.10.day15	soil.hip.UTK.K016.05.2016.10.10.day15	269.7	20	UTK	UTK.K016.05	14	soil.hip
+soil.hip.UTK.K016.05.2016.10.11.day16	soil.hip.UTK.K016.05.2016.10.11.day16	286.1	21	UTK	UTK.K016.05	15	soil.hip
+soil.hip.UTK.K016.05.2016.10.12.day17	soil.hip.UTK.K016.05.2016.10.12.day17	302.8	20	UTK	UTK.K016.05	16	soil.hip
+soil.hip.UTK.K016.05.2016.10.13.day18	soil.hip.UTK.K016.05.2016.10.13.day18	320.1	20	UTK	UTK.K016.05	17	soil.hip
+soil.hip.UTK.K016.05.2016.10.14.day19	soil.hip.UTK.K016.05.2016.10.14.day19	340.2	23	UTK	UTK.K016.05	18	soil.hip
+soil.hip.UTK.K016.05.2016.10.15.day20	soil.hip.UTK.K016.05.2016.10.15.day20	361.3	23	UTK	UTK.K016.05	19	soil.hip
+soil.hip.UTK.K016.05.2016.10.16.day21	soil.hip.UTK.K016.05.2016.10.16.day21	383	23	UTK	UTK.K016.05	20	soil.hip
+soil.hip.UTK.K016.06.2016.10.05.day1	soil.hip.UTK.K016.06.2016.10.05.day1	0	3	UTK	UTK.K016.06	0	soil.hip
+soil.hip.UTK.K016.06.2016.10.06.day2	soil.hip.UTK.K016.06.2016.10.06.day2	20.4	3	UTK	UTK.K016.06	1	soil.hip
+soil.hip.UTK.K016.06.2016.10.07.day3	soil.hip.UTK.K016.06.2016.10.07.day3	40.8	3	UTK	UTK.K016.06	2	soil.hip
+soil.hip.UTK.K016.06.2016.10.08.day4	soil.hip.UTK.K016.06.2016.10.08.day4	62.5	8	UTK	UTK.K016.06	3	soil.hip
+soil.hip.UTK.K016.06.2016.10.09.day5	soil.hip.UTK.K016.06.2016.10.09.day5	79.4	5	UTK	UTK.K016.06	4	soil.hip
+soil.hip.UTK.K016.06.2016.10.10.day6	soil.hip.UTK.K016.06.2016.10.10.day6	96	10	UTK	UTK.K016.06	5	soil.hip
+soil.hip.UTK.K016.06.2016.10.11.day7	soil.hip.UTK.K016.06.2016.10.11.day7	112.4	13	UTK	UTK.K016.06	6	soil.hip
+soil.hip.UTK.K016.06.2016.10.12.day8	soil.hip.UTK.K016.06.2016.10.12.day8	129.1	14	UTK	UTK.K016.06	7	soil.hip
+soil.hip.UTK.K016.06.2016.10.13.day9	soil.hip.UTK.K016.06.2016.10.13.day9	146.4	17	UTK	UTK.K016.06	8	soil.hip
+soil.hip.UTK.K016.06.2016.10.14.day10	soil.hip.UTK.K016.06.2016.10.14.day10	166.5	14	UTK	UTK.K016.06	9	soil.hip
+soil.hip.UTK.K016.06.2016.10.15.day11	soil.hip.UTK.K016.06.2016.10.15.day11	187.6	16	UTK	UTK.K016.06	10	soil.hip
+soil.hip.UTK.K016.06.2016.10.16.day12	soil.hip.UTK.K016.06.2016.10.16.day12	209.3	20	UTK	UTK.K016.06	11	soil.hip
+soil.hip.UTK.K016.06.2016.10.17.day13	soil.hip.UTK.K016.06.2016.10.17.day13	229.7	20	UTK	UTK.K016.06	12	soil.hip
+soil.hip.UTK.K016.06.2016.10.18.day14	soil.hip.UTK.K016.06.2016.10.18.day14	252.1	20	UTK	UTK.K016.06	13	soil.hip
+soil.hip.UTK.K016.06.2016.10.19.day15	soil.hip.UTK.K016.06.2016.10.19.day15	276	20	UTK	UTK.K016.06	14	soil.hip
+soil.hip.UTK.K016.06.2016.10.20.day16	soil.hip.UTK.K016.06.2016.10.20.day16	299.7	21	UTK	UTK.K016.06	15	soil.hip
+soil.hip.UTK.K016.06.2016.10.21.day17	soil.hip.UTK.K016.06.2016.10.21.day17	316.6	20	UTK	UTK.K016.06	16	soil.hip
+soil.hip.UTK.K016.06.2016.10.22.day18	soil.hip.UTK.K016.06.2016.10.22.day18	328.2	20	UTK	UTK.K016.06	17	soil.hip
+soil.hip.UTK.K016.06.2016.10.23.day19	soil.hip.UTK.K016.06.2016.10.23.day19	340	22	UTK	UTK.K016.06	18	soil.hip
+soil.hip.UTK.K016.06.2016.10.24.day20	soil.hip.UTK.K016.06.2016.10.24.day20	357.1	22	UTK	UTK.K016.06	19	soil.hip
+soil.hip.UTK.K016.06.2016.10.25.day21	soil.hip.UTK.K016.06.2016.10.25.day21	373.2	21	UTK	UTK.K016.06	20	soil.hip
+soil.hip.UTK.K016.10.2017.05.25.day1	soil.hip.UTK.K016.10.2017.05.25.day1	0	3	UTK	UTK.K016.10	0	soil.hip
+soil.hip.UTK.K016.10.2017.05.26.day2	soil.hip.UTK.K016.10.2017.05.26.day2	18.3	3	UTK	UTK.K016.10	1	soil.hip
+soil.hip.UTK.K016.10.2017.05.27.day3	soil.hip.UTK.K016.10.2017.05.27.day3	41.5	3	UTK	UTK.K016.10	2	soil.hip
+soil.hip.UTK.K016.10.2017.05.28.day4	soil.hip.UTK.K016.10.2017.05.28.day4	62.3	3	UTK	UTK.K016.10	3	soil.hip
+soil.hip.UTK.K016.10.2017.05.29.day5	soil.hip.UTK.K016.10.2017.05.29.day5	84.2	8	UTK	UTK.K016.10	4	soil.hip
+soil.hip.UTK.K016.10.2017.05.30.day6	soil.hip.UTK.K016.10.2017.05.30.day6	105.8	8	UTK	UTK.K016.10	5	soil.hip
+soil.hip.UTK.K016.10.2017.05.31.day7	soil.hip.UTK.K016.10.2017.05.31.day7	126.4	10	UTK	UTK.K016.10	6	soil.hip
+soil.hip.UTK.K016.10.2017.06.01.day8	soil.hip.UTK.K016.10.2017.06.01.day8	148.5	12	UTK	UTK.K016.10	7	soil.hip
+soil.hip.UTK.K016.10.2017.06.02.day9	soil.hip.UTK.K016.10.2017.06.02.day9	170.3	14	UTK	UTK.K016.10	8	soil.hip
+soil.hip.UTK.K016.10.2017.06.03.day10	soil.hip.UTK.K016.10.2017.06.03.day10	193.3	17	UTK	UTK.K016.10	9	soil.hip
+soil.hip.UTK.K016.10.2017.06.04.day11	soil.hip.UTK.K016.10.2017.06.04.day11	215.2	18	UTK	UTK.K016.10	10	soil.hip
+soil.hip.UTK.K016.10.2017.06.05.day12	soil.hip.UTK.K016.10.2017.06.05.day12	236.6	17	UTK	UTK.K016.10	11	soil.hip
+soil.hip.UTK.K016.10.2017.06.06.day13	soil.hip.UTK.K016.10.2017.06.06.day13	258.6	18	UTK	UTK.K016.10	12	soil.hip
+soil.hip.UTK.K016.10.2017.06.07.day14	soil.hip.UTK.K016.10.2017.06.07.day14	278.9	18	UTK	UTK.K016.10	13	soil.hip
+soil.hip.UTK.K016.10.2017.06.08.day15	soil.hip.UTK.K016.10.2017.06.08.day15	298.6	20	UTK	UTK.K016.10	14	soil.hip
+soil.hip.UTK.K016.10.2017.06.09.day16	soil.hip.UTK.K016.10.2017.06.09.day16	319.6	19	UTK	UTK.K016.10	15	soil.hip
+soil.hip.UTK.K016.10.2017.06.10.day17	soil.hip.UTK.K016.10.2017.06.10.day17	341.7	20	UTK	UTK.K016.10	16	soil.hip
+soil.hip.UTK.K016.10.2017.06.11.day18	soil.hip.UTK.K016.10.2017.06.11.day18	366.3	21	UTK	UTK.K016.10	17	soil.hip
+soil.hip.UTK.K016.10.2017.06.12.day19	soil.hip.UTK.K016.10.2017.06.12.day19	392.2	21	UTK	UTK.K016.10	18	soil.hip
+soil.hip.UTK.K016.10.2017.06.13.day20	soil.hip.UTK.K016.10.2017.06.13.day20	417.9	21	UTK	UTK.K016.10	19	soil.hip
+soil.hip.UTK.K016.10.2017.06.14.day21	soil.hip.UTK.K016.10.2017.06.14.day21	441.3	22	UTK	UTK.K016.10	20	soil.hip
+soil.hip.UTK.K016.11.2017.05.25.day1	soil.hip.UTK.K016.11.2017.05.25.day1	0	3	UTK	UTK.K016.11	0	soil.hip
+soil.hip.UTK.K016.11.2017.05.26.day2	soil.hip.UTK.K016.11.2017.05.26.day2	18.3	3	UTK	UTK.K016.11	1	soil.hip
+soil.hip.UTK.K016.11.2017.05.27.day3	soil.hip.UTK.K016.11.2017.05.27.day3	41.5	3	UTK	UTK.K016.11	2	soil.hip
+soil.hip.UTK.K016.11.2017.05.28.day4	soil.hip.UTK.K016.11.2017.05.28.day4	62.3	3	UTK	UTK.K016.11	3	soil.hip
+soil.hip.UTK.K016.11.2017.05.29.day5	soil.hip.UTK.K016.11.2017.05.29.day5	84.2	8	UTK	UTK.K016.11	4	soil.hip
+soil.hip.UTK.K016.11.2017.05.30.day6	soil.hip.UTK.K016.11.2017.05.30.day6	105.8	9	UTK	UTK.K016.11	5	soil.hip
+soil.hip.UTK.K016.11.2017.05.31.day7	soil.hip.UTK.K016.11.2017.05.31.day7	126.4	12	UTK	UTK.K016.11	6	soil.hip
+soil.hip.UTK.K016.11.2017.06.01.day8	soil.hip.UTK.K016.11.2017.06.01.day8	148.5	13	UTK	UTK.K016.11	7	soil.hip
+soil.hip.UTK.K016.11.2017.06.02.day9	soil.hip.UTK.K016.11.2017.06.02.day9	170.3	14	UTK	UTK.K016.11	8	soil.hip
+soil.hip.UTK.K016.11.2017.06.03.day10	soil.hip.UTK.K016.11.2017.06.03.day10	193.3	16	UTK	UTK.K016.11	9	soil.hip
+soil.hip.UTK.K016.11.2017.06.04.day11	soil.hip.UTK.K016.11.2017.06.04.day11	215.2	18	UTK	UTK.K016.11	10	soil.hip
+soil.hip.UTK.K016.11.2017.06.05.day12	soil.hip.UTK.K016.11.2017.06.05.day12	236.6	17	UTK	UTK.K016.11	11	soil.hip
+soil.hip.UTK.K016.11.2017.06.06.day13	soil.hip.UTK.K016.11.2017.06.06.day13	258.6	18	UTK	UTK.K016.11	12	soil.hip
+soil.hip.UTK.K016.11.2017.06.07.day14	soil.hip.UTK.K016.11.2017.06.07.day14	278.9	19	UTK	UTK.K016.11	13	soil.hip
+soil.hip.UTK.K016.11.2017.06.08.day15	soil.hip.UTK.K016.11.2017.06.08.day15	298.6	19	UTK	UTK.K016.11	14	soil.hip
+soil.hip.UTK.K016.11.2017.06.09.day16	soil.hip.UTK.K016.11.2017.06.09.day16	319.6	19	UTK	UTK.K016.11	15	soil.hip
+soil.hip.UTK.K016.11.2017.06.10.day17	soil.hip.UTK.K016.11.2017.06.10.day17	341.7	20	UTK	UTK.K016.11	16	soil.hip
+soil.hip.UTK.K016.11.2017.06.11.day18	soil.hip.UTK.K016.11.2017.06.11.day18	366.3	20	UTK	UTK.K016.11	17	soil.hip
+soil.hip.UTK.K016.11.2017.06.12.day19	soil.hip.UTK.K016.11.2017.06.12.day19	392.2	20	UTK	UTK.K016.11	18	soil.hip
+soil.hip.UTK.K016.11.2017.06.13.day20	soil.hip.UTK.K016.11.2017.06.13.day20	417.9	20	UTK	UTK.K016.11	19	soil.hip
+soil.hip.UTK.K016.11.2017.06.14.day21	soil.hip.UTK.K016.11.2017.06.14.day21	441.3	20	UTK	UTK.K016.11	20	soil.hip
+soil.hip.UTK.K016.12.2017.05.25.day1	soil.hip.UTK.K016.12.2017.05.25.day1	0	3	UTK	UTK.K016.12	0	soil.hip
+soil.hip.UTK.K016.12.2017.05.26.day2	soil.hip.UTK.K016.12.2017.05.26.day2	18.3	3	UTK	UTK.K016.12	1	soil.hip
+soil.hip.UTK.K016.12.2017.05.27.day3	soil.hip.UTK.K016.12.2017.05.27.day3	41.5	3	UTK	UTK.K016.12	2	soil.hip
+soil.hip.UTK.K016.12.2017.05.28.day4	soil.hip.UTK.K016.12.2017.05.28.day4	62.3	3	UTK	UTK.K016.12	3	soil.hip
+soil.hip.UTK.K016.12.2017.05.29.day5	soil.hip.UTK.K016.12.2017.05.29.day5	84.2	8	UTK	UTK.K016.12	4	soil.hip
+soil.hip.UTK.K016.12.2017.05.30.day6	soil.hip.UTK.K016.12.2017.05.30.day6	105.8	8	UTK	UTK.K016.12	5	soil.hip
+soil.hip.UTK.K016.12.2017.05.31.day7	soil.hip.UTK.K016.12.2017.05.31.day7	126.4	12	UTK	UTK.K016.12	6	soil.hip
+soil.hip.UTK.K016.12.2017.06.01.day8	soil.hip.UTK.K016.12.2017.06.01.day8	148.5	13	UTK	UTK.K016.12	7	soil.hip
+soil.hip.UTK.K016.12.2017.06.02.day9	soil.hip.UTK.K016.12.2017.06.02.day9	170.3	15	UTK	UTK.K016.12	8	soil.hip
+soil.hip.UTK.K016.12.2017.06.03.day10	soil.hip.UTK.K016.12.2017.06.03.day10	193.3	15	UTK	UTK.K016.12	9	soil.hip
+soil.hip.UTK.K016.12.2017.06.04.day11	soil.hip.UTK.K016.12.2017.06.04.day11	215.2	17	UTK	UTK.K016.12	10	soil.hip
+soil.hip.UTK.K016.12.2017.06.05.day12	soil.hip.UTK.K016.12.2017.06.05.day12	236.6	16	UTK	UTK.K016.12	11	soil.hip
+soil.hip.UTK.K016.12.2017.06.06.day13	soil.hip.UTK.K016.12.2017.06.06.day13	258.6	17	UTK	UTK.K016.12	12	soil.hip
+soil.hip.UTK.K016.12.2017.06.07.day14	soil.hip.UTK.K016.12.2017.06.07.day14	278.9	18	UTK	UTK.K016.12	13	soil.hip
+soil.hip.UTK.K016.12.2017.06.08.day15	soil.hip.UTK.K016.12.2017.06.08.day15	298.6	18	UTK	UTK.K016.12	14	soil.hip
+soil.hip.UTK.K016.12.2017.06.09.day16	soil.hip.UTK.K016.12.2017.06.09.day16	319.6	18	UTK	UTK.K016.12	15	soil.hip
+soil.hip.UTK.K016.12.2017.06.10.day17	soil.hip.UTK.K016.12.2017.06.10.day17	341.7	19	UTK	UTK.K016.12	16	soil.hip
+soil.hip.UTK.K016.12.2017.06.11.day18	soil.hip.UTK.K016.12.2017.06.11.day18	366.3	18	UTK	UTK.K016.12	17	soil.hip
+soil.hip.UTK.K016.12.2017.06.12.day19	soil.hip.UTK.K016.12.2017.06.12.day19	392.2	19	UTK	UTK.K016.12	18	soil.hip
+soil.hip.UTK.K016.12.2017.06.13.day20	soil.hip.UTK.K016.12.2017.06.13.day20	417.9	18	UTK	UTK.K016.12	19	soil.hip
+soil.hip.UTK.K016.12.2017.06.14.day21	soil.hip.UTK.K016.12.2017.06.14.day21	441.3	19	UTK	UTK.K016.12	20	soil.hip

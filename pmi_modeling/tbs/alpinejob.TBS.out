@@ -1,0 +1,449 @@
+slurmstepd: error: Unable to create TMPDIR [/scratch/summit/zburcham@colostate.edu/tmp]: No such file or directory
+slurmstepd: error: Setting TMPDIR to /tmp
+/projects/zburcham@colostate.edu/miniconda3/envs/ml_pmi/lib/python3.6/site-packages/sklearn/utils/validation.py:72: FutureWarning: Pass n_repeats=1, random_state=None as keyword args. From version 1.0 (renaming of 0.25) passing these as positional arguments will result in an error
+  "will result in an error", FutureWarning)
+/projects/zburcham@colostate.edu/miniconda3/envs/ml_pmi/lib/python3.6/site-packages/sklearn/utils/validation.py:72: FutureWarning: Pass n_splits=3, n_repeats=1 as keyword args. From version 1.0 (renaming of 0.25) passing these as positional arguments will result in an error
+  "will result in an error", FutureWarning)
+X shape: (745,)
+y shape: (745,)
+Number of outer folds to perform:  36
+X train shape: (724,)
+y train shape: (724,)
+group train shape: (724,)
+rf
+rf_grid
+rf_gridfit
+Outer fold: 1
+Number of inner folds: 35
+Best params: {'bootstrap': True, 'max_depth': 4, 'max_features': 'auto'}
+Best CV score (MAE): 56.8659088943301
+Prediction score (MAE): 93.79094365090806
+**********************
+X train shape: (724,)
+y train shape: (724,)
+group train shape: (724,)
+rf
+rf_grid
+rf_gridfit
+Outer fold: 2
+Number of inner folds: 35
+Best params: {'bootstrap': True, 'max_depth': 4, 'max_features': 'auto'}
+Best CV score (MAE): 57.95083446696879
+Prediction score (MAE): 59.69043730325153
+**********************
+X train shape: (724,)
+y train shape: (724,)
+group train shape: (724,)
+rf
+rf_grid
+rf_gridfit
+Outer fold: 3
+Number of inner folds: 35
+Best params: {'bootstrap': False, 'max_depth': 4, 'max_features': 'auto'}
+Best CV score (MAE): 58.427963641877746
+Prediction score (MAE): 43.74060846571357
+**********************
+X train shape: (724,)
+y train shape: (724,)
+group train shape: (724,)
+rf
+rf_grid
+rf_gridfit
+Outer fold: 4
+Number of inner folds: 35
+Best params: {'bootstrap': True, 'max_depth': 4, 'max_features': 'auto'}
+Best CV score (MAE): 58.20570771118715
+Prediction score (MAE): 37.7038505258597
+**********************
+X train shape: (725,)
+y train shape: (725,)
+group train shape: (725,)
+rf
+rf_grid
+rf_gridfit
+Outer fold: 5
+Number of inner folds: 35
+Best params: {'bootstrap': True, 'max_depth': 4, 'max_features': 'auto'}
+Best CV score (MAE): 57.15168736316267
+Prediction score (MAE): 73.77675443458435
+**********************
+X train shape: (724,)
+y train shape: (724,)
+group train shape: (724,)
+rf
+rf_grid
+rf_gridfit
+Outer fold: 6
+Number of inner folds: 35
+Best params: {'bootstrap': False, 'max_depth': 4, 'max_features': 'auto'}
+Best CV score (MAE): 57.298960150997594
+Prediction score (MAE): 74.14563490904774
+**********************
+X train shape: (726,)
+y train shape: (726,)
+group train shape: (726,)
+rf
+rf_grid
+rf_gridfit
+Outer fold: 7
+Number of inner folds: 35
+Best params: {'bootstrap': True, 'max_depth': 4, 'max_features': 'auto'}
+Best CV score (MAE): 57.47750801196996
+Prediction score (MAE): 60.30906198634198
+**********************
+X train shape: (724,)
+y train shape: (724,)
+group train shape: (724,)
+rf
+rf_grid
+rf_gridfit
+Outer fold: 8
+Number of inner folds: 35
+Best params: {'bootstrap': True, 'max_depth': 4, 'max_features': 'auto'}
+Best CV score (MAE): 56.82266469142086
+Prediction score (MAE): 82.07622248812385
+**********************
+X train shape: (724,)
+y train shape: (724,)
+group train shape: (724,)
+rf
+rf_grid
+rf_gridfit
+Outer fold: 9
+Number of inner folds: 35
+Best params: {'bootstrap': False, 'max_depth': 4, 'max_features': 'auto'}
+Best CV score (MAE): 57.205166397317605
+Prediction score (MAE): 68.81322751238034
+**********************
+X train shape: (724,)
+y train shape: (724,)
+group train shape: (724,)
+rf
+rf_grid
+rf_gridfit
+Outer fold: 10
+Number of inner folds: 35
+Best params: {'bootstrap': False, 'max_depth': 4, 'max_features': 'auto'}
+Best CV score (MAE): 56.30733955469028
+Prediction score (MAE): 79.09894179904708
+**********************
+X train shape: (724,)
+y train shape: (724,)
+group train shape: (724,)
+rf
+rf_grid
+rf_gridfit
+Outer fold: 11
+Number of inner folds: 35
+Best params: {'bootstrap': False, 'max_depth': 4, 'max_features': 'auto'}
+Best CV score (MAE): 57.621278742933534
+Prediction score (MAE): 44.555555558571484
+**********************
+X train shape: (724,)
+y train shape: (724,)
+group train shape: (724,)
+rf
+rf_grid
+rf_gridfit
+Outer fold: 12
+Number of inner folds: 35
+Best params: {'bootstrap': False, 'max_depth': 4, 'max_features': 'auto'}
+Best CV score (MAE): 57.70489844541218
+Prediction score (MAE): 39.79431216380973
+**********************
+X train shape: (724,)
+y train shape: (724,)
+group train shape: (724,)
+rf
+rf_grid
+rf_gridfit
+Outer fold: 13
+Number of inner folds: 35
+Best params: {'bootstrap': False, 'max_depth': 4, 'max_features': 'auto'}
+Best CV score (MAE): 58.53970425863306
+Prediction score (MAE): 30.995105819047563
+**********************
+X train shape: (724,)
+y train shape: (724,)
+group train shape: (724,)
+rf
+rf_grid
+rf_gridfit
+Outer fold: 14
+Number of inner folds: 35
+Best params: {'bootstrap': True, 'max_depth': 4, 'max_features': 'auto'}
+Best CV score (MAE): 58.08137456113278
+Prediction score (MAE): 50.76621586845812
+**********************
+X train shape: (724,)
+y train shape: (724,)
+group train shape: (724,)
+rf
+rf_grid
+rf_gridfit
+Outer fold: 15
+Number of inner folds: 35
+Best params: {'bootstrap': False, 'max_depth': 4, 'max_features': 'auto'}
+Best CV score (MAE): 58.59874084021811
+Prediction score (MAE): 19.367195760713987
+**********************
+X train shape: (724,)
+y train shape: (724,)
+group train shape: (724,)
+rf
+rf_grid
+rf_gridfit
+Outer fold: 16
+Number of inner folds: 35
+Best params: {'bootstrap': False, 'max_depth': 4, 'max_features': 'auto'}
+Best CV score (MAE): 58.45402387765575
+Prediction score (MAE): 29.177910055714545
+**********************
+X train shape: (724,)
+y train shape: (724,)
+group train shape: (724,)
+rf
+rf_grid
+rf_gridfit
+Outer fold: 17
+Number of inner folds: 35
+Best params: {'bootstrap': False, 'max_depth': 4, 'max_features': 'auto'}
+Best CV score (MAE): 56.379587311395206
+Prediction score (MAE): 81.15238095238092
+**********************
+X train shape: (724,)
+y train shape: (724,)
+group train shape: (724,)
+rf
+rf_grid
+rf_gridfit
+Outer fold: 18
+Number of inner folds: 35
+Best params: {'bootstrap': False, 'max_depth': 4, 'max_features': 'auto'}
+Best CV score (MAE): 56.61791244468788
+Prediction score (MAE): 78.01031745809522
+**********************
+X train shape: (724,)
+y train shape: (724,)
+group train shape: (724,)
+rf
+rf_grid
+rf_gridfit
+Outer fold: 19
+Number of inner folds: 35
+Best params: {'bootstrap': False, 'max_depth': 4, 'max_features': 'auto'}
+Best CV score (MAE): 56.34353913293757
+Prediction score (MAE): 85.45687830666677
+**********************
+X train shape: (724,)
+y train shape: (724,)
+group train shape: (724,)
+rf
+rf_grid
+rf_gridfit
+Outer fold: 20
+Number of inner folds: 35
+Best params: {'bootstrap': True, 'max_depth': 4, 'max_features': 'auto'}
+Best CV score (MAE): 58.81195897297937
+Prediction score (MAE): 28.394354497257154
+**********************
+X train shape: (724,)
+y train shape: (724,)
+group train shape: (724,)
+rf
+rf_grid
+rf_gridfit
+Outer fold: 21
+Number of inner folds: 35
+Best params: {'bootstrap': True, 'max_depth': 4, 'max_features': 'auto'}
+Best CV score (MAE): 58.214449190674934
+Prediction score (MAE): 52.00304444632922
+**********************
+X train shape: (724,)
+y train shape: (724,)
+group train shape: (724,)
+rf
+rf_grid
+rf_gridfit
+Outer fold: 22
+Number of inner folds: 35
+Best params: {'bootstrap': True, 'max_depth': 4, 'max_features': 'auto'}
+Best CV score (MAE): 58.206462594683515
+Prediction score (MAE): 50.25760052600293
+**********************
+X train shape: (727,)
+y train shape: (727,)
+group train shape: (727,)
+rf
+rf_grid
+rf_gridfit
+Outer fold: 23
+Number of inner folds: 35
+Best params: {'bootstrap': False, 'max_depth': 4, 'max_features': 'auto'}
+Best CV score (MAE): 57.76235310289756
+Prediction score (MAE): 61.924228377777155
+**********************
+X train shape: (729,)
+y train shape: (729,)
+group train shape: (729,)
+rf
+rf_grid
+rf_gridfit
+Outer fold: 24
+Number of inner folds: 35
+Best params: {'bootstrap': False, 'max_depth': 4, 'max_features': 'auto'}
+Best CV score (MAE): 58.551556205248744
+Prediction score (MAE): 32.254340278124886
+**********************
+X train shape: (724,)
+y train shape: (724,)
+group train shape: (724,)
+rf
+rf_grid
+rf_gridfit
+Outer fold: 25
+Number of inner folds: 35
+Best params: {'bootstrap': True, 'max_depth': 4, 'max_features': 'auto'}
+Best CV score (MAE): 57.96553674230269
+Prediction score (MAE): 48.04167170624854
+**********************
+X train shape: (724,)
+y train shape: (724,)
+group train shape: (724,)
+rf
+rf_grid
+rf_gridfit
+Outer fold: 26
+Number of inner folds: 35
+Best params: {'bootstrap': True, 'max_depth': 4, 'max_features': 'auto'}
+Best CV score (MAE): 57.83780736225449
+Prediction score (MAE): 68.50957724389244
+**********************
+X train shape: (724,)
+y train shape: (724,)
+group train shape: (724,)
+rf
+rf_grid
+rf_gridfit
+Outer fold: 27
+Number of inner folds: 35
+Best params: {'bootstrap': True, 'max_depth': 4, 'max_features': 'auto'}
+Best CV score (MAE): 58.10936452654834
+Prediction score (MAE): 54.74223808850857
+**********************
+X train shape: (724,)
+y train shape: (724,)
+group train shape: (724,)
+rf
+rf_grid
+rf_gridfit
+Outer fold: 28
+Number of inner folds: 35
+Best params: {'bootstrap': False, 'max_depth': 4, 'max_features': 'auto'}
+Best CV score (MAE): 57.925998728831985
+Prediction score (MAE): 43.56957672047609
+**********************
+X train shape: (724,)
+y train shape: (724,)
+group train shape: (724,)
+rf
+rf_grid
+rf_gridfit
+Outer fold: 29
+Number of inner folds: 35
+Best params: {'bootstrap': True, 'max_depth': 4, 'max_features': 'auto'}
+Best CV score (MAE): 57.88724989624116
+Prediction score (MAE): 54.10670926025723
+**********************
+X train shape: (724,)
+y train shape: (724,)
+group train shape: (724,)
+rf
+rf_grid
+rf_gridfit
+Outer fold: 30
+Number of inner folds: 35
+Best params: {'bootstrap': True, 'max_depth': 4, 'max_features': 'auto'}
+Best CV score (MAE): 58.49059411836996
+Prediction score (MAE): 33.84142301709426
+**********************
+X train shape: (724,)
+y train shape: (724,)
+group train shape: (724,)
+rf
+rf_grid
+rf_gridfit
+Outer fold: 31
+Number of inner folds: 35
+Best params: {'bootstrap': False, 'max_depth': 4, 'max_features': 'auto'}
+Best CV score (MAE): 57.59296367280566
+Prediction score (MAE): 37.25965608380905
+**********************
+X train shape: (724,)
+y train shape: (724,)
+group train shape: (724,)
+rf
+rf_grid
+rf_gridfit
+Outer fold: 32
+Number of inner folds: 35
+Best params: {'bootstrap': False, 'max_depth': 4, 'max_features': 'auto'}
+Best CV score (MAE): 57.60683478099029
+Prediction score (MAE): 46.998148145713685
+**********************
+X train shape: (724,)
+y train shape: (724,)
+group train shape: (724,)
+rf
+rf_grid
+rf_gridfit
+Outer fold: 33
+Number of inner folds: 35
+Best params: {'bootstrap': True, 'max_depth': 4, 'max_features': 'auto'}
+Best CV score (MAE): 57.76580982033511
+Prediction score (MAE): 59.99051851557427
+**********************
+X train shape: (724,)
+y train shape: (724,)
+group train shape: (724,)
+rf
+rf_grid
+rf_gridfit
+Outer fold: 34
+Number of inner folds: 35
+Best params: {'bootstrap': True, 'max_depth': 4, 'max_features': 'auto'}
+Best CV score (MAE): 57.164061273857754
+Prediction score (MAE): 74.68388253518681
+**********************
+X train shape: (724,)
+y train shape: (724,)
+group train shape: (724,)
+rf
+rf_grid
+rf_gridfit
+Outer fold: 35
+Number of inner folds: 35
+Best params: {'bootstrap': True, 'max_depth': 4, 'max_features': 'auto'}
+Best CV score (MAE): 56.64009394901938
+Prediction score (MAE): 91.0592634899754
+**********************
+X train shape: (724,)
+y train shape: (724,)
+group train shape: (724,)
+rf
+rf_grid
+rf_gridfit
+Outer fold: 36
+Number of inner folds: 35
+Best params: {'bootstrap': True, 'max_depth': 4, 'max_features': 'auto'}
+Best CV score (MAE): 56.587301402832395
+Prediction score (MAE): 128.31474311763372
+**********************
+\TBS Nested CV score (generalization error): 58.28812586301605
+All parameters and scores
+defaultdict(<class 'list'>, {'bootstrap=True,max_depth=4,max_features=auto': [93.79094365090806, 59.69043730325153, 37.7038505258597, 73.77675443458435, 60.30906198634198, 82.07622248812385, 50.76621586845812, 28.394354497257154, 52.00304444632922, 50.25760052600293, 48.04167170624854, 68.50957724389244, 54.74223808850857, 54.10670926025723, 33.84142301709426, 59.99051851557427, 74.68388253518681, 91.0592634899754, 128.31474311763372], 'bootstrap=False,max_depth=4,max_features=auto': [43.74060846571357, 74.14563490904774, 68.81322751238034, 79.09894179904708, 44.555555558571484, 39.79431216380973, 30.995105819047563, 19.367195760713987, 29.177910055714545, 81.15238095238092, 78.01031745809522, 85.45687830666677, 61.924228377777155, 32.254340278124886, 43.56957672047609, 37.25965608380905, 46.998148145713685]})
+All parameters with avg scores
+{'bootstrap=True,max_depth=4,max_features=auto': 63.26623751060465, 'bootstrap=False,max_depth=4,max_features=auto': 52.72435402159352}
+Best params: bootstrap=False,max_depth=4,max_features=auto
+Best mean score: 52.72435402159352
+curl: symbol lookup error: /lib64/libssh.so.4: undefined symbol: EVP_KDF_ctrl, version OPENSSL_1_1_1b
