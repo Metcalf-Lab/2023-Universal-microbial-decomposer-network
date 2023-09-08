@@ -326,5 +326,41 @@ qiime emperor plot \
 	--m-metadata-file metadata/pmi3_metab_meta_q2.txt \
 	--o-visualization diversity/library_less_strict_filtered_nocon_skin_bc_emp.qzv
 
+############ ANCOM-BC ANALYSIS ##############
+# soil
+# decomp stage
+qiime composition ancombc \
+    --i-table feature_tables/library_less_strict_filtered_nocon_table_soil.qza \
+    --m-metadata-file metadata/pmi3_metab_meta_q2_ancombc.txt \
+    --p-formula add_0c_group \
+    --p-reference-levels 'add_0c_group::day0' \
+    --p-prv-cut 0 \
+    --o-differentials ancom/soil_decomp_stage_differentials.qza
+
+qiime composition tabulate \
+	--i-data ancom/soil_decomp_stage_differentials.qza \
+	--o-visualization ancom/soil_decomp_stage_differentials.qzv
+	
+qiime composition da-barplot \
+	--i-data ancom/soil_decomp_stage_differentials.qza \
+	--o-visualization ancom/soil_decomp_stage_barplot.qzv
+
+# skin
+# decomp stage
+qiime composition ancombc \
+    --i-table feature_tables/library_less_strict_filtered_nocon_table_skin.qza \
+    --m-metadata-file metadata/pmi3_metab_meta_q2_ancombc.txt \
+    --p-formula add_0c_group \
+    --p-reference-levels 'add_0c_group::day0' \
+    --p-prv-cut 0 \
+    --o-differentials ancom/skin_decomp_stage_differentials.qza
+
+qiime composition tabulate \
+	--i-data ancom/skin_decomp_stage_differentials.qza \
+	--o-visualization ancom/skin_decomp_stage_differentials.qzv
+	
+qiime composition da-barplot \
+	--i-data ancom/skin_decomp_stage_differentials.qza \
+	--o-visualization ancom/skin_decomp_stage_barplot.qzv
 
 
